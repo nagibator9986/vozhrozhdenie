@@ -60,8 +60,16 @@ WORKDIR /app
 # Copy application source last so source edits don't bust the heavy layers.
 COPY . .
 
-# Runtime directories (data is also mounted as a volume in compose).
-RUN mkdir -p data/chroma_db data/videos knowledge_base/articles
+# Split static media out of data/ so a Railway persistent volume mounted at
+# /app/state doesn't shadow it. Videos are read-only static content shipped
+# inside the image; only DB / ChromaDB / logs live in the volume.
+RUN mv data/videos /app/media-videos \
+    && mkdir -p /app/state/chroma_db knowledge_base/articles
+
+# Tell the app where to find videos (image) and state (writable volume).
+# These defaults can still be overridden by Railway env vars.
+ENV STATE_DIR=/app/state \
+    VIDEOS_DIR=/app/media-videos
 
 # Non-root user for defense-in-depth.
 RUN adduser --disabled-password --gecos "" botuser \

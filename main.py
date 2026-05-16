@@ -16,11 +16,17 @@ def _ensure_runtime_dirs() -> None:
     parts of the FS may be read-only, and a hard failure here would mask the
     real cause in logs. Any directory that cannot be created will fail
     loudly later when actually written to.
+
+    Reads STATE_DIR / VIDEOS_DIR from env so prod (Railway with a volume
+    mounted at /app/state) and local dev (defaults to ./data) work without
+    code changes.
     """
+    state = os.environ.get("STATE_DIR", "data")
+    videos = os.environ.get("VIDEOS_DIR", "data/videos")
     for path in (
-        "data",
-        "data/chroma_db",
-        "data/videos",
+        state,
+        f"{state}/chroma_db",
+        videos,
         "knowledge_base",
         "knowledge_base/articles",
     ):
@@ -75,12 +81,13 @@ logger.add(
     ),
     colorize=True,
 )
-# Try to attach a file sink under data/. On read-only or otherwise unwritable
-# filesystems (some PaaS free tiers) we silently skip the file sink rather than
-# crashing — stderr logs above are enough.
+# Try to attach a file sink under state_dir. On read-only or otherwise
+# unwritable filesystems (some PaaS free tiers) we silently skip the file
+# sink rather than crashing — stderr logs above are enough.
+_LOG_PATH = f"{os.environ.get('STATE_DIR', 'data')}/bot.log"
 try:
     logger.add(
-        "data/bot.log",
+        _LOG_PATH,
         level="DEBUG",
         rotation="10 MB",
         retention="7 days",
@@ -89,7 +96,7 @@ try:
     )
 except (OSError, PermissionError) as exc:
     logger.warning(
-        "File logging disabled (cannot write to data/bot.log: {})", exc
+        f"File logging disabled (cannot write to {_LOG_PATH}: {exc})"
     )
 
 
@@ -155,15 +162,21 @@ async def main() -> None:
     )
 
     # ── Video service ────────────────────────────────────────────────────
-    video_service = VideoService(videos_dir="data/videos")
-    logger.info("VideoService ready.")
+    # videos_dir points at IMAGE-baked static content (read-only at runtime);
+    # the Telegram file_id cache that VideoService writes lives next to it
+    # so on Railway we'd want a writable spot — but the cache is only used
+    # for Telegram (which mostly works fine if it can't write back).
+    video_service = VideoService(videos_dir=settings.videos_dir)
+    logger.info(f"VideoService ready (videos_dir={settings.videos_dir}).")
 
     # ── Transcription service (Whisper) ──────────────────────────────
     transcription_service = TranscriptionService(settings=settings)
     logger.info("TranscriptionService ready.")
 
     # ── Escalation service (operator handoff) ────────────────────────
-    escalation_log_path = os.path.abspath(os.path.join("data", "escalations.log"))
+    escalation_log_path = os.path.abspath(
+        os.path.join(settings.state_dir, "escalations.log")
+    )
     escalation_service = EscalationService(log_path=escalation_log_path)
     logger.info(f"EscalationService ready (log: {escalation_log_path}).")
 

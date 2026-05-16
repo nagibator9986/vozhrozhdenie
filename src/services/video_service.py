@@ -15,7 +15,12 @@ from aiogram.types import FSInputFile
 from loguru import logger
 
 
-_CACHE_FILE = "data/videos/file_id_cache.json"
+import os as _os
+# Telegram file_id cache. Writable at runtime, so lives under STATE_DIR
+# (not under videos_dir which is image-baked / read-only on prod).
+_CACHE_FILE = _os.path.join(
+    _os.environ.get("STATE_DIR", "data"), "video_file_id_cache.json"
+)
 
 # ── Video Registry ───────────────────────────────────────────────────────
 # Each video has: key, caption, and tags for smart matching

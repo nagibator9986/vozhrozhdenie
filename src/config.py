@@ -92,19 +92,51 @@ class Settings(BaseSettings):
     # ── Telegraph ─────────────────────────────────────────────────────────
     telegraph_access_token: str = Field(default="", alias="TELEGRAPH_ACCESS_TOKEN")
 
+    # ── State directory (runtime-mutable; mount Railway volume here) ─────
+    # Separates writable state (DB, ChromaDB, logs) from image-baked static
+    # assets (videos under data/videos/, knowledge_base/). When a Docker
+    # volume is mounted at /app/data on Railway, it would shadow the
+    # baked-in videos — so on prod set STATE_DIR=/app/state and mount the
+    # volume there instead. Local dev keeps the default "data" so nothing
+    # has to change in docker-compose.
+    state_dir: str = Field(default="data", alias="STATE_DIR")
+
     # ── Database ──────────────────────────────────────────────────────────
+    # If DATABASE_URL is not explicitly set, falls back to SQLite under
+    # state_dir so the file follows the volume mount.
     database_url: str = Field(
-        default="sqlite+aiosqlite:///./data/bot.db",
+        default="",
         alias="DATABASE_URL",
     )
 
     # ── ChromaDB ──────────────────────────────────────────────────────────
-    chroma_db_path: str = Field(default="./data/chroma_db", alias="CHROMA_DB_PATH")
+    chroma_db_path: str = Field(default="", alias="CHROMA_DB_PATH")
 
     # ── Knowledge base ────────────────────────────────────────────────────
     knowledge_base_path: str = Field(
         default="./knowledge_base", alias="KNOWLEDGE_BASE_PATH"
     )
+
+    # ── Videos directory (image-baked static content) ─────────────────────
+    videos_dir: str = Field(default="data/videos", alias="VIDEOS_DIR")
+
+    @field_validator("database_url", mode="after")
+    @classmethod
+    def _derive_database_url(cls, v: str, info) -> str:
+        if v:
+            return v
+        state = info.data.get("state_dir", "data")
+        # f-string gives 4 slashes for absolute state ("/app/state") and 3
+        # for relative ("data") — both correct for SQLAlchemy SQLite URLs.
+        return f"sqlite+aiosqlite:///{state}/bot.db"
+
+    @field_validator("chroma_db_path", mode="after")
+    @classmethod
+    def _derive_chroma_path(cls, v: str, info) -> str:
+        if v:
+            return v
+        state = info.data.get("state_dir", "data")
+        return f"{state}/chroma_db"
 
     # ── RAG chunking ──────────────────────────────────────────────────────
     rag_chunk_size: int = Field(default=600, alias="RAG_CHUNK_SIZE")

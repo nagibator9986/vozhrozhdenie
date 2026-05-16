@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 import time
 from pathlib import Path
@@ -13,8 +14,9 @@ from src.services.articles_service import Article
 
 # Maximum characters of article text to publish (Telegraph page size ~30 KB safe limit)
 _MAX_CHARS = 28_000
-# Cache file: maps article_id → telegraph URL
-_CACHE_FILE = Path("data/telegraph_cache.json")
+# Cache file: maps article_id → telegraph URL. Lives under STATE_DIR so the
+# Telegraph publish history follows the persistent volume on prod.
+_CACHE_FILE = Path(os.environ.get("STATE_DIR", "data")) / "telegraph_cache.json"
 
 
 def _text_to_nodes(text: str) -> list[dict]:

@@ -84,8 +84,10 @@ Railway автоматически найдёт `Dockerfile` и начнёт с�
 
 `Settings` → **Volumes** → **+ New Volume**:
 
-- Mount path: `/app/data`
+- Mount path: **`/app/state`**  ← **именно сюда, НЕ на `/app/data`!**
 - Size: `1 GB`
+
+> ⚠️ **Почему не `/app/data`:** Docker volume перекрывает содержимое образа. Видео-файлы (476 MB) baked-in в `/app/media-videos` внутри образа, БД/ChromaDB/логи пишутся в `/app/state` (это и есть volume). Если смонтировать на `/app/data` — видео не сломаются (они теперь в `/app/media-videos`), но это бесполезный путь.
 
 Без volume база и векторный индекс будут стираться при каждом редеплое.
 

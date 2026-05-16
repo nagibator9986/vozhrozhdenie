@@ -144,9 +144,12 @@ class WazzupWebhookServer:
         # Liveness/readiness endpoint — used by Docker HEALTHCHECK and uptime
         # monitors. Returns 200 OK with a tiny JSON payload, no auth needed.
         self._app.router.add_get("/health", self._handle_health)
-        # Serve video files for WhatsApp contentUri
+        # Serve video files for WhatsApp contentUri. Path follows the
+        # settings.videos_dir so on Railway we can keep videos baked into
+        # the image at /app/media/videos while the state volume mounts
+        # somewhere else (/app/state) without shadowing them.
         self._app.router.add_static(
-            "/media/videos/", path="data/videos/", show_index=False
+            "/media/videos/", path=settings.videos_dir, show_index=False
         )
         # Serve screening quiz HTML pages (from Flask templates directory,
         # no templating — static HTML so direct file serving is fine).

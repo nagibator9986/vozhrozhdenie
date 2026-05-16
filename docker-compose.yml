@@ -5,8 +5,14 @@ services:
     environment:
       - HF_HUB_DISABLE_SYMLINKS_WARNING=1
       - WAZZUP_WEBHOOK_PORT=${WAZZUP_WEBHOOK_PORT:-8080}
+      # For local dev override the image defaults so writable state lives
+      # under ./data (the host bind-mount) and videos under ./data/videos.
+      # On Railway you'd leave the image defaults (STATE_DIR=/app/state,
+      # VIDEOS_DIR=/app/media-videos).
+      - STATE_DIR=/app/data
+      - VIDEOS_DIR=/app/data/videos
     volumes:
-      - ./data:/app/data                       # SQLite DB + ChromaDB + videos
+      - ./data:/app/data                       # state (DB/chroma/logs) + videos
       - ./knowledge_base:/app/knowledge_base   # live-reload KB without rebuild
     ports:
       - "${WAZZUP_WEBHOOK_PORT:-8080}:8080"
