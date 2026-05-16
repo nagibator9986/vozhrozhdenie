@@ -1,0 +1,665 @@
+The Saliva/Serum Iodide 
+Ratio as an Index of  
+Sodium Iodide 
+Symporter Efficiency 
+
+by Guy E. Abraham, MD, David Brownstein, MD, 
+and JD Flechas, MD 
+
+Introduction 
+The  essential  element  iodine  is  present  in  every  organ 
+and tissue of the human body, not just the thyroid gland.1  
+Several cells beside the thyrocyte concentrate peripheral 
+iodide against a gradient.  So far, the list of these iodide 
+concentrating cells besides the thyrocyte has increased to 
+include:  white blood cells, salivary and lacrimal glands, 
+the ciliary body of the eye, the renal cortex, the pancreas, 
+the liver, gastric, small, and large intestinal mucosa, the 
+nasopharynx,  the  choroid  plexus,  skin,  the  adrenal  cor-
+tex,  mammary  glands,  placenta,  uterus and ovaries.2-6 and 
+vide infra  In the target cells studied, the mechanism used to 
+concentrate  peripheral 
+involved  an  energy-
+iodide 
+dependant  transport  of  one  atom  of  iodide  sandwiched 
+between  two  atoms  of  sodium  across  the  cell  mem-
+brane.7 
+
+Recently, a second mechanism for the cellular transport 
+of  iodine  has  been  reported  by  several  investigators  in 
+the  thyroid,  the  mammary  gland,  and  the  renal  cortex, 
+namely  a  chloride/iodide  transporter  identified  as  pen-
+drin.8-13  The iodine transporter, pendrin, was speculated 
+to  function  at  the  apical  membrane  of  the  cell.    Rodri-
+guez,  et  al14  identified  a  third  human  protein,  homolo-
+gous to NIS at the apical membrane of the human thyro-
+cyte.  This new protein does not catalyze the accumula-
+tion of iodide like NIS, but mediates its passive transfer.  
+It  was  designated  as  human  apical  iodide  transporter 
+(hAIT). 
+
+In  the  thyrocyte,  the  sodium/iodide  symporter  (NIS)  is 
+located  in  the  basolateral  membrane.    The  peripheral 
+iodide enters the thyrocyte via the symporter in the basal 
+membrane and crosses the thyrocyte as iodide to exit the 
+thyrocyte via the apical membrane transporter just prior 
+to oxidation and organification.  In the case of the sym-
+porter, iodide must bind to a site called the halide sym-
+porter  binding  site  before  cellular  uptake.    Other  sub-
+stances  compete  with  iodide  for  these  binding  sites.  
+These  competing  substances  are  called  goitrogens,  be-
+cause they sometimes cause goiter by creating a relative 
+
+iodide deficiency in the thyroid gland.  These substances 
+also interfere with iodide transport and utilization in sev-
+eral  organs  besides  the thyroid  gland,  and  a better  term 
+would be “iodide transport inhibitors” or “iodide utiliza-
+tion  inhibitors”  instead  of  goitrogens,  depending  on 
+whether the inhibition is at the cell membrane transport 
+system  or  at  intracellular  sites  of  iodide  oxidation  and 
+utilization.   
+
+Iodine  deficiency  caused  by  these  inhibitors  is  some-
+times  relative  because  peripheral  iodide  levels  may  be 
+adequate, but the target cells are starving for iodide be-
+cause these iodide transport inhibitors prevent the trans-
+fer of peripheral iodide across the cell membrane of the 
+target cell for iodide utilization.  Some iodide inhibitors, 
+like  fluoride  and  perchlorate,  bind  to  the  halide  site  of 
+the symporter without being symported inside the cells.  
+They cause oxidative damage to the halide binding site.  
+Fluoride  and  perchlorate  are  iodide  transport  inhibitors.  
+Bromide  and  thiocyanate  not  only  attach  to  the  halide 
+binding  site  but  are  also  transported  inside  the  target 
+cells,  causing  further  damage  by  preventing  oxidation 
+and  organification  of  iodide.    Bromide  and  thiocyanate 
+are  both  iodide  transport  and  iodide  utilization  inhibi-
+tors.2 
+
+A simple test to assess the efficiency of the iodide cellu-
+lar  transport  system  is  greatly  needed  in  order  to  quan-
+tify  the  degree  of  defect/damage/inhibition  of  that  sys-
+tem  in  patients  with  decreased  efficiency  of  the  iodide 
+transport system.  The saliva radioiodide/serum radioio-
+dide ratio is used in neonates with elevated TSH and low 
+thyroid hormone levels in order to confirm a congenital 
+iodide  symporter  defect.15    The  procedure  involves  in-
+jecting radioactive iodide into the neonate and measuring 
+the ratio of radioactivity between saliva and serum.  Ac-
+cording to Viljder and Vulsma, a ratio >10 is considered 
+normal,  3-10  —  borderline,  and  <3  —  abnormal.  
+“Partial  iodide  transport  defect  is  an  ill-defined  condi-
+tion;  if  it  exists,  the  diagnostic  test  results  depend  en-
+tirely  on  the  iodine  intake,  which  varies  greatly  world-
+wide.”15 
+
+Stable iodide, instead of radioactive iodide, as the means 
+to  assess  the  efficiency  of  the  iodide  transport  system 
+has  not  been  previously  reported  because  of  technical 
+difficulties in measuring low levels of iodine in biologi-
+cal  fluids.    Measurement  of  stable  iodide  in  serum  and 
+saliva under standardized conditions seems the ideal pro-
+cedure for fine tuning the assessment of the iodide trans-
+port efficiency, and it is the least invasive way to assess 
+response  of  the  symporter  function  following  interven-
+tion.    This  approach  would  obviate  the  need  to  expose 
+(Continued on next page) 
+
+152 
+
+THE ORIGINAL INTERNIST     Winter   2005 
+
+ 
+ 
+ 
+ 
+ 
+ 
+the  patient  to  radioactive  iodide.    A  ratio  near  unity 
+would  indicate  a  severe  defect/damage/inhibition  of  the 
+symporter  function.    An  increase  in  the  ratio  following 
+intervention  would  reflect  an  improvement  in  the  sym-
+porter  function.    The  data  presented  in  this  preliminary 
+communication  suggest  that  the  saliva/serum  iodide  ra-
+tio, using a stable iodide load, may be of value in assess-
+ing  iodide  transport  efficiency  prior  to,  and  following, 
+nutritional intervention. 
+
+Theoretical Considerations 
+The expected serum inorganic iodide level under steady 
+state conditions would be equal to the average daily in-
+take  of  elemental  iodine  divided  by  the  renal  clearance 
+rate  of  iodide,  that  is  43.5  L/day  as  we  previously  re-
+ported.16    With  an  average  daily  intake  of  iodine  at  the 
+level  of  the  US  RDA  of  0.15  mg/day,  the  expected  se-
+rum  level  of  iodide  would  be  0.0034  mg/L  (0.15  mg/L 
+divided by 43.5 L/day).  This level is below the sensitiv-
+ity of our assay:  0.006 mg/L.16,17  To measure accurately 
+the concentration of iodide in serum and saliva, a load of 
+50  mg  iodine  is  ingested  and  the  samples  of  biological 
+fluids  are  collected  24  hours  later.    Based  on  our  pub-
+lished  data,17  the  levels  of  serum  inorganic  iodide  24 
+hours  following  50  mg  of  iodine/iodide  were  markedly 
+above the sensitivity of our assay in normal subjects un-
+d e r  
+p o s t -
+o f  
+orthoiodosupplementation. 
+
+c o n d i t i o n s  
+
+p r e -  
+
+a n d  
+
+Assessing  whole  body  iodine  sufficiency  and  iodide 
+symporter function can be performed following the same 
+loading test.  A 24-hour urine collection is initiated after 
+50  mg  iodine  is  ingested.    Twenty-four  hours  after  the 
+load, serum and saliva samples are obtained.  For assess-
+ing whole body iodine sufficiency, the percentage of the 
+load  recovered  in  the  24-hour  urine  collection  is  meas-
+ured  in  an  aliquot  of  urine.    Using  one  sample  each  of 
+urine,  serum,  and  saliva  24  hours  following  the  iodine/
+iodide  load,  whole  body  iodine  sufficiency,  as  well  as 
+the efficiency of the iodide transport system in the whole 
+human body, can be evaluated. 
+
+p a t i e n t s  
+
+Results 
+In  order  to  test  the  validity  of  the  saliva/serum  iodide 
+ratio  as  an  index  of  the  efficiency  of  iodide  transport 
+mechanism,  we  compared the ratios  obtained in normal 
+subjects who achieved whole body sufficiency for iodine 
+w i t h  
+p o s t -
+p r i o r  
+orthoiodosupplementation.    We  first  established  a  nor-
+mal range of values based on data obtained in 14 normal 
+subjects  (five  males  and  nine  females)  who  achieved 
+whole body sufficiency for iodine.  The mean ± SD for 
+the saliva/serum ratios of iodide in these 14 subjects was 
+44.2±13.7 with a range of 28-74.  The mean ± SD for the 
+serum iodide levels 24 hours post-load in the same sub-
+jects were 0.76±0.17 mg/L.   
+
+a n d  
+
+t o  
+
+The  following  information  summarizes  our  findings  on 
+the 24-hour post-load serum iodide levels.  Serum inor-
+ganic iodide levels were measured serially for 24 hours 
+following  the  ingestion  of  four  tablets  of  Iodoral®  (50 
+mg) in six normal women with normal body weight prior 
+to orthoiodosupplementation.  The serum levels of inor-
+ganic  iodide  24-hour  post-load  were  0.45±0.051  mg/L 
+(mean  ±  SD).17    Following  three  months  of  orthoiodo-
+supplementation  at  50  mg/day  in  eight  normal  subjects 
+(three males and five females) who achieved whole body 
+sufficiency for iodine, the 24-hour post-load serum inor-
+ganic iodide were 1.1±0.18 mg/L.16 
+
+The Procedure 
+The subject ingests 50 mg of elemental iodine.  For the 
+loading test, the amount of the load excreted in the fol-
+lowing  24-hour  urine  collection  is  measured.    Whole 
+body  sufficiency  for  iodine  is  achieved  when  90%  or 
+more of the load is recovered in the 24-hour urine collec-
+tion.18    For  the  iodide  transport  efficiency  test,  24±2 
+hours  following  the  intake  of  the  50  mg  load,  a  serum 
+sample is collected concomitant with a sample of mixed 
+saliva.  Iodide levels in the serum and saliva samples are 
+measured using the ion-selective electrode procedure we 
+described previously.2,18 
+
+In  patients  with  an  inefficient  cellular  iodide  transport 
+mechanism,  the  absorbed  iodine/iodide  is  rapidly  ex-
+creted  in  the  urine  resulting  in  low  serum  iodide  levels 
+24 hours following a load of 50 mg iodine/iodide.19  In 
+seven patients not on orthoiodosupplementation and with 
+24-hour  post-load  serum  iodide  levels  below  0.1  mg/L 
+(normal is 0.45±0.051 mg/L), the mean ± SD of serum/
+saliva iodide ratio was 4.1±1.5. 
+
+In  one  female  patient  with  breast  cancer  and  elevated 
+serum bromide level, following six weeks on orthoiodo-
+supplementation  at  100  mg  iodine/day,  serum  bromide 
+levels  dropped  10-fold  and  saliva/serum  ratio  increased 
+three-fold.  Although this patient was taking iodine prior 
+to this study, we do not have data on serum bromide and 
+saliva/serum  iodide  ratio  previous  to  this  intervention.  
+At the beginning of this study, her serum bromide level 
+was 121 mg/L (normal range 3-12 mg/L) and her saliva/
+serum ratio was 22.  Following six weeks at 100 mg io-
+dine/day, serum bromide was 12.7 mg/L and the saliva/
+serum ratio increased to 61. 
+
+In another female patient with breast cancer on orthoio-
+dosupplementation  for  several  months  at  50-75  mg  io-
+dine,  the  saliva/serum  iodide  ratio  was  48.    After  de-
+(Continued on next page) 
+
+THE ORIGINAL INTERNIST     Winter   2005 
+
+153 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+creasing  the  iodine  intake  to  25  mg/day  for  six  weeks, 
+the ratio dropped to 24.  In a normal male volunteer on 
+orthoiodosupplementation  at  12.5  mg/day,  for  several 
+months,  the  serum  bromide  level  was  elevated  at  127 
+mg/L  and  the  saliva/serum  iodide  ratio  was  9.3.    After 
+six weeks at 50 mg/day, the serum bromide decreased to 
+37.3 mg/L, and the ratio increased five time (48.6).  In a 
+female patient with elevated serum fluoride level at 0.32 
+mg/L  (normal  range:  0.001-0.048  mg/L),  and  a  saliva/
+serum  iodide  ratio  of  1.1,  orthoiodosupplementation  at 
+50  mg/day  and  vitamin  C  at  3  g/day  for  six  weeks  re-
+sulted in a decrease in serum fluoride at 0.13 mg/L, and 
+the saliva/serum iodide ratio increased to 47. 
+
+We previously reported a case of iodide transport defect 
+with elevated bromide levels that responded to low dose 
+iodine (half tablet of Iodoral®/day) and vitamin C at 3 g/
+day.19  This patient was hypothyroid on Synthroid at 50 
+µg/day.  Following the nutritional intervention, she was 
+able  to  stop  the  thyroid  hormone.    Following  three 
+months  off  all  nutritional  supplementation,  her  saliva/
+serum iodide ratio was 3.5.  We do not have data on sa-
+liva/serum ratios prior to this current study.  We plan to 
+repeat  this  ratio  following  reinstatement  of  the  nutri-
+tional program.  The negative correlation between serum 
+bromide  levels  and  the  saliva/serum  iodide  ratios  ob-
+served  in  the  patients  reported  in  this  article  strongly 
+suggests that bromide interferes with the cellular uptake 
+of iodide.  More research is needed to identify the lowest 
+serum  bromide  levels  that  result  in  significant  interfer-
+ence with the iodide transport system. 
+
+Discussion 
+The  saliva/serum  iodide  ratio  is  currently  used  to  diag-
+nose congenital iodide transport defect in newborns with 
+elevated TSH and low thyroid hormone levels.15  How-
+ever,  radioiodide  is  used  in  this  test,  not  stable  iodide.  
+Congenital NIS defect as a cause of congenital hypothy-
+roidism  is  extremely  rare,  with  only  38  cases  reported 
+worldwide.2  In one case of homozygous missense muta-
+tion of NIS, a saliva/serum radioiodide ratio of 1.6 was 
+reported.20    This  patient  responded  to  potassium  iodide 
+therapy.    There  is  no  consensus  in  the  literature  on  the 
+normal  range  of  the  saliva/serum  iodide  ratio.    Viljder 
+and Vulsma15 stated that a value above 10 is considered 
+normal, whereas Miki, et al20 think a normal ratio should 
+be  above  20.    Although  congenital  hypothyroidism  due 
+to  sodium/iodide  symporter  defect  is  extremely  rare, 
+milder  forms  of  iodine/iodide  transport  defect/damage 
+throughout  the  whole  body  may  be  more  common  and 
+undetected.2 
+
+We  have  decided  to  investigate  the  potential  diagnostic 
+and  prognostic  value  of  a  standardized  procedure  for 
+
+assessing  the  saliva/serum  iodide  ratio,  using  the  stable 
+form  of  iodine  instead  of  radioiodide.    Our  first  choice 
+was  to  collect  parotid  saliva  through  a  parotid  gland 
+canula.    However,  this  would  require  a  special  setup 
+which  is  not  commonly  available.    Mixed  saliva  was 
+then used and collected by spitting into a container after 
+rinsing  the  mouth  with  water.    The  preliminary  results 
+obtained  with  this  procedure  suggest  that  the  saliva/
+serum stable iodide ratio is a very sensitive index of io-
+dide  symporter  function  pre-  and  post-nutritional  inter-
+vention.   
+
+Published  data  suggest  that  iodide  symporter  malfunc-
+tion may play a role in several clinical conditions.  Sera 
+from  breast  cancer  patients  block  the  cellular  uptake  of 
+radioiodide  using  an  in  vitro  system.21    The  concentra-
+tion of iodine in breast tissue from breast cancer is four 
+times  lower  than  breast  tissue  with  benign  breast  dis-
+ease.21  A significant difference in spot urine iodide lev-
+els  was  observed  between  smokers  and  non-smokers  in 
+women  attending  a  university  breast  center.22    Because 
+of the increased serum thiocyanate levels in smokers,23,24 
+a decreased efficiency of the symporter system would be 
+expected.    This  can  now  be  confirmed  with  the  saliva/
+serum iodide ratio. 
+
+The serum of 15% of patients with Hashimoto’s thyroid-
+itis and 84% of patients with Graves’ disease have anti-
+bodies  against  NIS.25    Using  fluorescence  excitation 
+analysis  (FEA)  to  measure  the  amount  of  stable  (non-
+radioactive) iodine in the thyroid gland, very low levels 
+of  thyroidal  iodine  have  been  reported  in  Hashimoto’s 
+thyroiditis.    Palmer,  et  al26  reported  a  mean  ±  SD  of 
+10.3±2.2 mg in 15 normal men, 8.2±2.5 mg in 43 normal 
+women and 4.4±3.1 mg in 30 cases of Hashimoto’s thy-
+roiditis.    Okerlund,27  likewise,  published  values  of 
+9.9±4.5 mg in 26 men and 9.2±4.3 mg in 41 women.  In 
+cases of Hashimoto’s thyroiditis, euthyroid patients had 
+a  mean  ±  SD  of  4.8±3.7  mg  and  hypothyroid  patients 
+2.3±2 mg.   
+
+The ideal set-up for the evaluation and follow-up of pa-
+tients  with  iodide  transport  defect  on  nutritional  inter-
+vention  should include  measurement  of  stable  iodide  in 
+the thyroid gland by FEA.  This would require the avail-
+ability  of  equipment  for  performing  FEA.    Unfortu-
+nately,  there  is  a  moratorium  in  the  US  on  the  use  of 
+FEA  to  measure  thyroidal  stable  iodine  content,  proba-
+bly because it exposes the harmful effect of radioiodide 
+and  thyroid  hormones  in  depleting  the  thyroid  gland  of 
+iodine  in  patients  not  supplemented  with  iodine.2    In  a 
+recent  textbook  on  thyroid  cancer,28  published  in  2000, 
+Wartofsky  wrote:    “Fluorescent  thyroid  scanning  offers 
+(Continued on next page) 
+
+154 
+
+THE ORIGINAL INTERNIST     Winter   2005 
+
+ 
+ 
+ 
+ 
+ 
+ 
+special  advantages  in  childhood  and  pregnancy  due  to 
+minimal  radiation  exposure.    The  procedure  has  been 
+said to  be  nearly  100% sensitive  but  only  64%  specific 
+when cold areas are taken as positive results.  The proce-
+dure  employs  241Am,  which  has  the  ability  to  excite 
+thyroidal iodine causing release of X-rays that quantita-
+tively correlate with iodine content of the imaged tissue.  
+Unfortunately,  the  required  equipment  is  not  widely 
+available  and  accumulated  data  remain  too  limited  to 
+recommend standard use of this technique.” 
+
+From a review of the literature, Wartofsky’s statement is 
+true for the US but not Western Europe, Japan, and Rus-
+sia.  Although US physicians are totally unaware of this 
+technology, which was invented in the US by Hoffer in 
+1971,29  it  is  routinely  used  in  Europe.    Jonckheer  and 
+Deconinck30 wrote in 1982:  “After a preliminary inves-
+tigative period, XRF scintigraphies are done routinely in 
+our  department,  and  the  purpose  of  this  review  is  to 
+share our experience of more than 2,000 such determina-
+tions with those that might be interested.”  
+
+Published  data  on  the  safe  and  useful  applications  of 
+FEA for both scanning of the thyroid gland and quantifi-
+cation of intrathyroidal iodine suggest that it is safer and 
+more  informative  than  radioisotope  scanning.    Some 
+quotes follow. 
+
+“Twenty-one  patients  in  this  series  demonstrated  single 
+or  multiple  ‘cold’  nodules  on  either  the  fluorescent  or 
+the radioisotope scan.  No ‘cold’ nodule seen on the ra-
+dioisotope  scan  was  missed  by  the  fluorescent  scan.  
+However,  the  fluorescent  scan  did  pick  up  one  nodule 
+missed on the original isotope scan.”29 
+
+“XRF  measurement  of  ITI  is  an  innocuous,  easy-to-
+perform procedure, readily accepted by the patients, that 
+probes an important parameter of thyroid function which 
+had to be neglected so far because of lack of appropriate 
+means.  It opens up a new field of investigations in thy-
+roid  physiopathology  but  has  already  reached,  to  our 
+mind, the stage of a routine clinical method.”30 
+
+“The  introduction  of  fluorescent  thyroid  scanning  by 
+Hoffer and associates in 1968, and further technical de-
+velopments  over  the  ensuing  years  have  presented  us 
+with a new tool of potential use in thyroid diagnosis and 
+research … Fluorescent thyroid scans may be preferable 
+to  conventional  scans  when  the  radiation  dose  needs  to 
+be  kept  as  low  as  possible  (as  in  children  and  pregnant 
+women), when an expanded iodine pool reduces the up-
+take  of  the  radioactive  tracer,  and  when  a  patient  is  on 
+short-term 
+thyroid-stimulating  hormone-suppressing 
+therapy with thyroid hormones … The technique allows 
+
+us,  however, to follow changes  in  iodine  content  of  the 
+thyroid in thyroid disease, such as Hashimoto’s thyroidi-
+tis,  in  which  this  may  have  some  prognostic  implica-
+tions.”31 
+
+“The  detection  of  iodine  in  a  thyroid  nodule  by  X-ray 
+fluorescence  pre-operatively  would  significantly  de-
+crease  the  probability  of  malignancy  and  the  need  for 
+surgical excision.”32 
+
+Pavoni,33 as well as Reiners, et al,34 used FEA to assess 
+response  of  thyroidal  iodine  after  administration  of  io-
+dine  supplementation.    This  cannot  be  performed  with 
+radioisotope  scanning.    Since  US  thyroidologists  and 
+radiologists would not have the incentive to set up FEA 
+in their practice, a grassroots effort is needed, via proper 
+education of physicians about the clinical importance of 
+FEA  in  medical  practice.    We  are  planning  to  evaluate 
+the  saliva/serum  iodide  ratio  in  several  clinical  condi-
+tions prior to and following nutritional intervention.  We 
+are evaluating the possibility of setting up the FEA tech-
+nology in situ in order to correlate the saliva/serum ratio 
+with the thyroidal iodine content.   
+
+About the Authors 
+
+Guy E. Abraham, MD, is a former Professor of Obstet-
+rics,  Gynecology,  and  Endocrinology  at  the  UCLA 
+School  of  Medicine.    Some  35  years  ago,  he  pioneered 
+the development of assays to measure minute quantities 
+of  steroid  hormones  in  biological  fluids.    He  has  been 
+honored as follows:  General Diagnostic Award from the 
+Canadian  Association  of  Clinical  Chemists,  1974;  the 
+Medaille  d’Honneur  from  the  University  of  Liege,  Bel-
+gium,  1976;  the  Senior  Investigator  Award  of  Phar-
+macia, Sweden, 1980. 
+
+The applications of Dr. Abraham’s techniques to a vari-
+ety of female disorders have brought a notable improve-
+ment to the understanding and management of these dis-
+orders.  Twenty-five years ago, Dr. Abraham developed 
+nutritional  programs for  women  with premenstrual  ten-
+sion syndrome and post-menopausal osteoporosis.  They 
+are  now  the  most  commonly  used  dietary  programs  by 
+American  obstetricians  and  gynecologists.    Dr.  Abra-
+ham’s  current  research  interests  include  the  develop-
+ment  of  assays  for  the  measurement  of  iodide  and  the 
+other halides  in  biological  fluids  and  their  applications 
+to  the  implementation  of  orthoiodosupplementation  in 
+medical practice. 
+
+David  Brownstein,  MD,  is  a  family  physician  who  util-
+izes  the  best  of  conventional  and  alternative  therapies. 
+(Continued on next page) 
+
+THE ORIGINAL INTERNIST     Winter   2005 
+
+155 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+He  is  the  Medical  Director  for  the  Center  of  Holistic 
+Medicine in West Bloomfield, Michigan.  A graduate of 
+the  University  of  Michigan  and  Wayne  State  University 
+School of Medicine, Dr. Brownstein is board certified by 
+the  American  Academy  of  Family  Physicians.    He  is  a 
+member of the American Academy of Family Physicians 
+and the American College for the Advancement in Medi-
+cine.    Over  the  past  2  1/2  years,  he  has  had  extensive 
+experience in the use of orthoidosupplementation in his 
+practice. 
+
+Jorge  D.  Flechas,  MD MPH,  is the  medical director of 
+Flechas Family Practice in Hendersonville, North Caro-
+lina,  specializing  in  hormonal  therapy  for  treatment  of 
+fibromyalgia  and  chronic  fatigue  and  immune  dysfunc-
+tion  syndrome  (CFIDS)  since  the  late  1980s.    He  also 
+specializes  in  iodine  therapy  for  hypothyroidism  and 
+fibrocystic breast disease. 
+
+REFERENCES 
+
+1)  Broekhuysen J, Laruel R, and Sion R.  “Recherches dans la serie 
+des  benzofurannes  XXXVII.  Etude  comparee  du  transit  et  du 
+metabolisme  de  l’amiodarone  chez  diverses  especes  animals  et 
+chez l’homme.”  Arch Int Pharmacodyn, 1969; 177(2):340-359. 
+2)  Abraham GE.  “The historical background of the Iodine Project.”  
+
+The Original Internist, 2005; 12(2):57-66. 
+
+3)  Slebodzinski  AB.    “Ovarian  iodide  uptake  and  triiodothyronine 
+generation  in  follicular  fluid.    The  enigma  of  the  thyroid  ovary 
+interaction.”  Domest Anim Endocrinol, 2005; 29(1):97-103. 
+4)  Carrasco N.  “Iodide transport in the thyroid gland.”  Biochimica 
+
+et Biophysica Acta, 1993; 1154:65-82.  
+
+5)  Brown-Grant  K.    “Extrathyroidal  iodide  concentrating  mecha-
+
+nisms.”  Physiol Rev, 1961; 41:189-213. 
+
+6)  Spitzweg  C,  Joba  W,  Schriever  K,  et  al.    “Analysis  of  human 
+sodium  iodide  symporter  immunoreactivity  in  human  exocrine 
+glands.”  J Clin Endocrinol & Metab, 1999; 84:4178-4184. 
+
+7)  Carrasco  N.    “Thyroid  synthesis  and  secretion.”    In:   Werner  & 
+Ingbar’s  The  Thyroid.    Braverman  LE  and  Utiger  RD,  editors.  
+Lippincott, Williams & Wilkins, 2000; 52-61. 
+
+8)  Everett  LA,  Glaser  B,  Beck  JC,  et  al.    “Pendred  syndrome  is 
+caused  by  mutation  in  a  putative  sulphate  transporter  gene 
+(PDS).”  Nat Genet, 1997; 17:411-422. 
+
+9)  Van Hauwe P, Everett LA, Coucke P, et al.  “Two frequent mis-
+sense  mutations  in  Pendred  syndrome.”    Human  Molecular  Ge-
+netics, 1998; 7(7):1099-1104. 
+
+10) Soleimani  M,  et  al.    “Pendrin:    an  apical  Cl-/OH-/HCO3-  ex-
+changer  in  the  kidney  cortex.”    Am  J  Physiol  Renal  Physiol, 
+2001; 280:F356-F364. 
+
+11) Rillema  JA  and  Hill  MA.    “Prolactin  regulation  of  the  pendrin-
+iodide transporter in the mammary gland.”  Am J Physiol Endo-
+crinol Metab, 2003; 284:E25-E28. 
+
+12) Scott DA, Wang R, Kreman TM, et al.  “The Pendred syndrome 
+gene  encodes  a  chloride-iodide  transport  protein.”  Nat  Genet, 
+1999; 21:440-443. 
+
+13) Fugazzola L, Cerutti N, Mannavola D, et al.  “The role of pendrin 
+in  iodide  regulation.”    Exp  Clin  Endocrinol  Diabetes,  2001; 
+109:18-22. 
+
+14) Rodriguez  AM,  Perron  B,  Lacroix  L,  et  al.    “Identification  and 
+characterization of a putative human iodide transporter located at 
+the  apical  membrane  of  thyrocytes.”    J  Clin  Enocr  &  Metab, 
+
+2002; 87(7):3500-3503. 
+
+15) Viljder  JJM  and  Vulsma  T.    “Hereditary  metabolic  disorders 
+causing hypothyroidism.”  In:  Werner  & Ingbar’s The Thyroid.  
+Braverman  LE  and  Utiger  RD,  editors.    Lippincott,  Williams  & 
+Wilkins, 2000; 733-742. 
+
+16) Abraham GE.  “The concept of orthoiodosupplementation and its 
+clinical implications.”  The Original Internist, 2004; 11(2):29-38. 
+17) Abraham  GE.    “Serum  inorganic  iodide  levels  following  inges-
+tion of a tablet form of Lugol solution:  Evidence for an entero-
+hepatic  circulation  of  iodine.”    The  Original  Internist,  2004;  11
+(3):29-34. 
+
+18) Abraham  GE.    “The  safe  and  effective  implementation  of  or-
+thoiodosupplementation  in  medical  practice.”    The  Original  In-
+ternist, 2004; 11(1):17-36. 
+
+19) Abraham GE and Brownstein D.  “Evidence that the administra-
+tion of vitamin C improves a defective cellular transport mecha-
+nism for iodine:  A case report.”  The Original Internist, 2005; 12
+(3):125-130. 
+
+20) Miki K, et al.  “Congenital hypothyroidism caused by a mutation 
+
+in the Na+/I- symporter.”  Nat Genet, 1997; 16:124-125. 
+
+21) Kilbane MT, Ajjan RA, Weetman AP, et al.  “Tissue iodine con-
+tent  and  serum-mediated  125I  uptake-blocking  activity  in  breast 
+cancer.”  J Clin Endocr Metab, 2000; 85:1245-1250. 
+
+22) Eskin  BA,  Anjum  W,  Abraham  GE,  et  al.    “Identification  of 
+breast  cancer  by  differences  in  urinary  iodine.”    Proceeding  of 
+the Am Assoc of Cancer Res, 2005; 46:504(2150). 
+
+23) Foss OP and Lund-Larsen PG.  “Serum thiocyanate and smoking:  
+Interpretation  of  serum  thiocyanate  levels  observed  in  a  large 
+health study.”  Scand J Clin Lab Invest, 1986; 46:245-251. 
+
+24) Tonacchera M, Pinchera A, Dimida A, et al.  “Relative potencies 
+and  additivity  of  perchlorate,  thiocyanate,  nitrate,  and  iodide  on 
+the inhibition of radioactive iodide uptake by the human sodium 
+iodide symporter.”  Thyroid, 2004; 14:1012-1019. 
+
+25) Endo T, Kaneshiga M, Nakazato M, et al.  “Autoantibody against 
+thyroid  iodide  transporter  in  the  acra  from  patients  with  Hashi-
+moto’s thyroiditis possesses iodide transport inhibitory activity.”  
+Biochem Biophys Res Commun, 1996; 228:199-202. 
+
+26) Palmer  DW,  Deconinck  F,  and  Swann  SJ.    “Low  cost  intrathy-
+roidal iodine quantification with a fluorescent scanner.”  Radiol-
+ogy, 1976; 119:733-735. 
+
+27) Okerlund MD.  “The clinical utility of fluorescent scanning of the 
+thyroid.”    In:    Medical  Applications  of  Fluorescent  Excitation 
+Analysis.  Kaufman L and Price DC, editors.  CRC Press, Boca 
+Raton, FL, 1979; 149-160. 
+
+28) Wartofsky  L.    “The  thyroid  nodule.”    In:    Thyroid  Cancer:    A 
+Comprehensive  Guide  to  Clinical  Management.    Wartofsky  L,  
+editor.  Humana Press, Totowa, NJ, 2000; 41. 
+
+29) Hoffer  PB  and  Gottschalk  A.    “Fluorescent  thyroid  scanning:  
+Scanning without radioisotopes.”  Radiology, 1971; 99:117-123. 
+30) Jonckheer  MH  and  Deconinck  F.    “X-ray-fluorescence  determi-
+nation  of  stable  iodine  in  the  thyroid  gland.    A  review.”    Acta 
+Clinica Belgica, 1982; 37(1):31-40. 
+
+31) Wahner  HW,  Sweet  RA,  McConahey  WM,  et  al.    “Fluorescent 
+thyroid  scanning.    A  method  based  on  stable  iodine  measure-
+ments.”  Mayo Clin Proc, 1978; 53(3):151-156. 
+
+32) Tadros TG, Malsey MN, Fui T, et al.  “The iodine concentration 
+in benign and malignant thyroid nodules measured by x-ray fluo-
+rescence.”  British J Radiology, 1981; 54:626-629. 
+
+33) Pavoni  P.    “Radioisotope  x-ray  fluorescence  technique  in  the 
+dynamic  study  of  thyroid  behaviour  under  iodine  load.”    Eur  J 
+Nucl Med, 1976; 1:117-122. 
+
+34) Reiners  Chr,  Hanscheid  H,  Lassmann  M,  et al.   “X-ray  fluores-
+cence  analysis  (XFA)  of  thyroidal  iodine  content  (TIC)  with  an 
+improved measuring system.”  Exp Clin Endocr Diabetes, 1998; 
+106:S31-S33.  u  
+
+156 
+
+THE ORIGINAL INTERNIST     Winter   2005

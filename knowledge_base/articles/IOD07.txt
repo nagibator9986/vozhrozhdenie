@@ -1,0 +1,960 @@
+Serum Inorganic Iodide Levels 
+Following Ingestion of a Tablet 
+Form of Lugol Solution: 
+Evidence for an Enterohepatic 
+Circulation of Iodine 
+
+by  Guy E. Abraham, MD 
+
+Introduction 
+The element iodine was discovered in 18111 and recog-
+nized as an essential element a century later in the early 
+1920s.2,3    The  recommended  daily  allowance  (RDA)  of 
+elemental iodine by the Food and Nutrition Board of the 
+United  States  National  Academy  of  Sciences  was  not 
+established  until  1980,  and  it  was  not  confirmed  until 
+1989.4    The  World  Health  Organization  made  its  own 
+recommendations  on  iodine  intake  in  1996,  taking  into 
+consideration  age  and  physiological  conditions.5    How-
+ever, the US RDA and WHO recommendations were not 
+based  on  whole-body  sufficiency  for  iodine,  but  on  the 
+minimum  amounts  of  iodine  required  to  prevent  goiter 
+and cretinism.4,5  In 1930, Thompson, et al6 stated, “The 
+normal  daily  requirement  of  the  body  for  iodine  has 
+never been determined.”  This statement is still true to-
+day,  more than 70 years later.  We still don’t know the 
+iodine/iodide requirements for whole-body sufficiency. 
+
+Based  on  an  iodine  loading  test  developed  by  the  au-
+thor to assess whole body sufficiency for iodine,7 100-
+400  times  the  US  RDA  (orthoiodosupplementation)  is 
+required  to  achieve  whole-body  sufficiency  for  iodine.  
+The  human  adult body  retains  approximately  1.5  gm  of 
+iodine  when  iodine  sufficiency  is  achieved,8  an  amount 
+100 times higher than reported in medical textbooks for 
+the normal adult.5  The amount of iodine present in the 
+thyroid  gland  in  an  iodine-sufficient  adult  represents 
+only 3.3% of the total body iodine,8 not the 70-80% re-
+ported in medical textbooks.5 
+
+Several clinicians are  now  using  the iodine loading  test 
+and  implementing  orthoiodosupplementation  in  their 
+practices.  They report a very good correlation between 
+the  results  of  the  loading  test  and  clinical  response  of 
+their patients to iodine supplementation (for an example, 
+see  reference  9).    As  part  of  a  project  to  study  the  me-
+tabolism  of  ingested  Lugol  solution  in  tablet  form 
+(Iodoral®),  serum  inorganic  iodide  levels  following  in-
+gestion of Iodoral® were measured in two groups of nor-
+
+mal volunteers evaluated with serial blood samples.  The 
+results  obtained  from  this  study  are  reported  here.    A 
+double  peak  of  serum  inorganic  iodide  levels  was  ob-
+served  in  some  subjects  with  a  time  interval  of  eight 
+hours between the peaks.  This double peak is typical of 
+substances  undergoing  an  enterohepatic  circulation.  
+This  metabolic  aspect  of  ingested  inorganic  iodine/
+iodide has not been previously reported. 
+
+Materials and methods 
+The  procedure  used  to  measure  urinary  iodide  levels10 
+was modified to measure serum inorganic iodide levels.  
+The  detection  method  by  ion-selective  electrode  is  the 
+same  as  previously  described.10    But  the  chroma-
+tographic purification of iodide from the other halides by 
+solid state partition on anion exchange resins was modi-
+fied.  First, instead of 500 mg column with a 10 ml reser-
+voir  (Alltech  #309750),  the  600  mg  syringe  cartridge 
+was used (Alltech #21907).  Both chromatographic sys-
+tems  contain  the  same  strong  anion  exchanger  SAX 
+resin.10    Second,  the  vacuum  manifold  connected  to  a 
+vacuum  pump  previously  used,10  was  replaced  with 
+Positive  Displacement  Manifolds  (PDM-40,  and  PDM-
+20) capable of running 40 and 20 samples, respectively, 
+in the same batch.  The Positive Displacement Manifolds 
+were designed by the author and built by a precision ma-
+chining  facility.    Third,  the  elution  of  the  halides  was 
+performed with increasing ionic strengths of sodium ni-
+trate.    Because  the  two  chromatographic  systems  be-
+haved  differently  regarding  the  sequence  of  elution  of 
+the  halides,  pilot  studies  were  performed  with  standard 
+materials  of  the  halides  to  optimize  the  system.    In  the 
+500 mg column, fluoride was eluted with the biological 
+fluid,  while  with  the  600  mg  cartridge,  chloride  came 
+first with the eluted sample.  The sequence of the elution 
+procedure  used  for the cartridges is  displayed in  Figure 
+1.  This elution sequence resulted in an excellent separa-
+tion of the halides with less than 5% overlap.  The sensi-
+tivity of the assay was 0.006 mg/L if a sample of 10 ml 
+of serum was used.  With a smaller volume of serum, the 
+sensitivity decreased proportionally.  All serum samples 
+measured  so  far,  prior  to  iodine  supplementation,  were 
+below the sensitivity of the assay. 
+
+Subjects 
+Following informed consent, two groups of normal sub-
+jects  were  studied.    Group  I  consisted  of  three  normal 
+women  and  two  normal  men  with normal  body  weight.  
+Subjects in Group I received an amount of three tablets 
+of Iodoral® (37.5 mg total iodine) orally.  Iodoral® is the 
+tablet  form  of  Lugol  solution  containing  12.5  mg  ele-
+mental iodine per tablet.11  Blood samples were obtained 
+at time zero, 30 min, 1 hr, 2 hrs, 4 hrs, 6 hrs, 8 hrs, and 
+(Continued on next page) 
+
+THE ORIGINAL INTERNIST     September   2004 
+
+29 
+
+ 
+ 
+ 
+ 
+ 
+ 
+24  hrs,  (eight  samples)  following  the  ingestion  of  the 
+preparation. 
+
+Group  II  consisted  of  six  normal  women  with  normal 
+body weight.  This group was studied twice:  Before and 
+after  1  month  of  iodine  supplementation  at  50  mg  ele-
+mental iodine/day (four tablets Iodoral®).  For the load-
+ing  test,  four  tablets  (50  mg)  were  ingested  and  blood 
+samples were obtained at time zero, 10 min, 20 min, 30 
+min, 1 hr, 2 hrs, 3 hrs, 4 hrs, 8 hrs, and 24 hrs (10 sam-
+ples).  Serum samples obtained, following further proc-
+essing, were frozen in plastic containers until assayed. 
+
+Results 
+The serum levels of inorganic iodide in Group I subjects 
+receiving three tablets of Iodoral® are compared with the 
+levels obtained pre-supplementation in Group II subjects 
+who  ingested  four tablets (Figure  2).    At time  zero, the 
+serum  iodide  levels  were  undetectable  in  both  groups.  
+Since 10 ml of serum was used in Group I and 3 ml in 
+Group II, the sensitivity of the assay was 0.006 mg/L for 
+Group I and 0.02 mg/L for Group II. 
+
+The  serum  levels  obtained  at  10  and  20  minutes  in 
+Group II were omitted from this figure for ease of com-
+parisons  since  these  two  samples  were  not  available  in 
+Group  I.    Also,  Group  I  subjects  did  not  have  a  three-
+hour blood sample, and Group II subjects did not have a 
+six-hour blood sample.  By 30 minutes post ingestion of 
+
+three tablets (Group I) and four tablets (Group II), mean 
+serum iodide levels were 0.4 mg/L and 0.7 mg/L respec-
+tively  for  Group  I  and  Group  II.    Peak  levels  were 
+achieved  in  both  groups  between  two  and  four  hours.  
+Serum inorganic iodide levels were still detectable at 24 
+hours  with  0.4  mg/L  and  0.45  mg/L.    The  mean  peak 
+levels  for  Group  I  were  around  1.5  mg/L;  whereas,  for 
+Group II, the mean peak levels were between 1.8 mg/L 
+and 2.2 mg/L.  After one month of supplementation at 50 
+mg/day  in  Group  II,  four  of  six  subjects  reached  peak 
+levels at 10 minutes.  These levels were maintained for 
+2-3 hours, forming a plateau, followed by a sharp drop, 
+and a second peak at eight hours post ingestion.   
+
+The  data  on  one  of  the  subjects  pre-  and  post-
+supplementation are displayed in Figure 3.  Prior to sup-
+plementation, the iodide levels were below 0.02 mg/L at 
+10  minutes,  became  measurable  at  20  minutes  (0.2  mg/
+L), increased progressively to reach a peak 1.8 mg/L  at 
+two hours, and decreased afterward to levels of 0.4 mg/L 
+at eight and 24 hours.  Following one month of supple-
+mentation with four tablets of Iodoral® (50 mg), the peak 
+levels were three times higher and shifted to the left by 
+two hours.  A plateau was maintained between 10 min-
+utes and three hours with levels fluctuating between 4.6 
+mg/L and 5 mg/L.  At four hours, the serum iodide level 
+dropped  sharply  to  1.4  mg/L.    No  blood  samples  were 
+obtained  at  six hours.    A  second peak  of  3.2  mg/L  was 
+(Continued on next page) 
+
+Figure 1 
+
+IN
+
+Sam ple
+10 ml of
+urine/serum
+
+SEQ U ENC E
+O F ELUTIO N
+
+1
+
+10 ml of
+0.05N  NaN O 3
+
+2
+
+10 ml of
+0.1N  NaN O 3
+
+3
+
+S      A 
+
+X  
+
+c 
+
+l 
+A ltech #21907 600 m g
+
+o 
+
+u  m  
+
+10 ml of
+5N  N aN O 3
+
+4
+
+n
+
+H A LID ES
+ELU TED
+
+- Chloride
+
+In 10 ml
+of urine/ 
+serum
+
+- Fluoride
+
+In 10 ml of
+0.05N  N aN O 3
+
+- Bromide
+
+In 10 m l of
+0.1N  N aN O 3
+
+- Iodide
+
+In 10 m l of
+5N N aNO 3
+
+++++
+
+++++
+
+++++
+
+++++
+
+5 m l of 5N N aNO 3
+
+10 ml of TISA B
+
+5 ml of 5N  NaN O 3
+
+20 m l H 2O
+
+ISE assay
+of chloride
+
+ISE assay
+of fluoride
+
+ISE assay
+of brom ide
+
+ISE assay
+of iodide
+
+O RIO N
+ELEC TRO D E #
+
+#9617 BN
+
+#9609 BN
+
+#9635 BN
+
+#9653 BN
+
+This  flowchart  describes  the  combined  measurement  of  chloride,  fluoride,  bromide,  and  iodide  in  the  same 
+urine or serum sample, by prior chromatography on anion-exchange resin cartridges fitted with 10 ml plastic 
+syringes, in a Positive Displacement Manifold (PMD). 
+
+ 
+ 
+ 
+ 
+observed at eight hours, suggesting an enterohepatic cir-
+culation of iodine.  Following one month of supplemen-
+tation, steady state conditions were achieved in this sub-
+ject,  and  the  serum  iodide  levels  were  1.3  mg/L  pre-
+loading and 1.2 mg/L 24 hours post-loading.  As previ-
+ously  discussed,8 at a  daily  intake  of  50  mg  iodine, ex-
+pected serum levels at steady state would be equal to 50 
+mg/day  divided  by  43.5  L/day  which  computes  to  1.15 
+mg/L.  The renal clearance rate of iodide is 43.5 L/day.8 
+
+The second peak of serum iodide levels eight hours after 
+the  first  peak,  following  supplementation  with  50  mg 
+iodine for one month, was confirmed in a female subject 
+who  collected  urine  samples  individually  without  pool-
+ing  for  24  hours  following  the  loading  test  with  50  mg 
+(four  tablets).    This  subject  excreted  42%  of  the  oral 
+amount  of  50  mg.    A  total  of  eight  samples  of  voided 
+urine were collected over the 24-hour period (Figure 4).  
+The values shown on Figure 4 are expressed as percent-
+age of the total iodide excreted in 24 hours, recovered in 
+the  voided  sample  expressed  per  hour,  therefore  repre-
+senting excretion rate.  This value was computed by di-
+viding the amount of iodide measured in the sample by 
+the  interval  of  time  in  hours  between  collections.    For 
+example, if 20% of the total iodide excreted was recov-
+ered in a sample with a time interval of two hours from 
+the  previous  void  sample,  the  excretion  rate  would  be 
+10%/hr.    The  first  peak  of  urine  iodide  excretion  rate 
+occurred in sample #2, collected at five hours post inges-
+
+tion,  representing  a three-hour  period (time  interval  2-5 
+hours from ingestion of iodine).  This peak at 2-5 hours 
+coincides  with  the  serum  data  with  peaks  observed  be-
+tween  two  and  four  hours  post-iodine  administration.  
+Serum  iodide  is  efficiently  cleared  by  the  kidneys.    A 
+second peak was observed in sample #6, obtained at 13 
+hours  post  ingestion  with  a  2-hour  interval  (11-13  hrs).  
+The  interval  of  time  between  the  two  peaks  is  approxi-
+mately  eight  hours,  confirming  the  peak  observed  at 
+eight hours in serum samples when the first peak was at 
+10 minutes. 
+
+Discussion 
+The  effect  of  orthoiodosupplementation  on  the  profile 
+and  levels  of  serum  iodide  following  a  loading  test  is 
+suggestive  of  an  effect  of  iodine  on  the  efficiency  and 
+rapidity of absorption of iodine.  Possibly, this effect of 
+iodine supplementation on iodine absorption may be ap-
+plicable to the absorption of other nutrients.   
+
+The second peak of serum iodide following the loading 
+test was not observed in the subjects prior to iodine sup-
+plementation  (Figure  2)  because  such  a  peak  would  be 
+expected eight hours after the first peak.  Since the first 
+peaks occurred 2-4 hours after ingestion of iodine in Fig-
+ure  2,  the  second  peak  would  have  occurred  at  10-12 
+hours  after  the  iodine  load.    No  blood  sample  was  ob-
+tained between eight and 24 hrs in those subjects. 
+
+(Continued on next page) 
+
+Figure 2 
+
+)
+
+L
+/
+g
+m
+
+(
+
+s
+l
+e
+v
+e
+l
+
+e
+d
+i
+d
+o
+i
+
+c
+i
+n
+a
+g
+r
+o
+n
+i
+
+m
+u
+r
+e
+S
+
+3
+
+2 .5
+
+2
+
+1 .5
+
+1
+
+0 .5
+
+0
+
+H ig h e s t  L e v e ls
+
+=  G r o u p  I
+
+=  G r o u p  I I
+
+v v
+
+P r e
+
+0 .5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+2 4
+
+h r s
+
+T im e  P o s t in g e s tio n  o f  I o d o r a l 
+
+Serum inorganic iodide levels following ingestion of 37.5 mg (three tablets Iodoral®) in Group I and 50 mg (four 
+tablets Iodoral®) in Group II.  Peak level are observed between two and four hours.  V is less than 0.006 mg/L 
+for Group I and less than 0.02 mg/L for Group II. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+It  is  hard  to  believe  that  such  a  drug  is  widely  used  by 
+US  physicians  in  medical  conditions  where  inorganic 
+non-radioactive  iodine  has  never  been  tested.    Con-
+nolly,15  in  his  1999  review  of  amiodarone  efficacy  and 
+safety, reported, “On the basis of the number of prescrip-
+tions  filled  in  retail  pharmacies,  amiodarone  was  the 
+most  often  prescribed  antiarrhythmic  agent,  accounting 
+for  24.1%  of  the  total  antiarrhythmic  prescriptions  in 
+1998.”    He  further  commented  that  amiodarone  ac-
+counted  for  33-74%  of  prescriptions  in  Europe  and 
+North  and  South  America,  compared  to  0.3%  in  Japan, 
+which  is  100  times  less  than  the  other  countries  men-
+tioned.  It is of interest that mainland Japanese consume 
+at  least  100  times  the  RDA  for  iodine.16,17    That  is  at 
+least  100  times  more  iodine  than  countries  with  100 
+times more prescriptions for amiodarone.  Regarding the 
+evidence-based  analysis  of  amiodarone  efficacy  and 
+safety, Connolly stated, “The general view that amiodar-
+one  is  the  most  useful  drug  for  VT  and  VF,  notwith-
+standing  the  rather  modest  evidence  from  randomized 
+trials,  led  to  its  being  adopted  as  the  standard  medical 
+therapy in several recent randomized secondary preven-
+tion trials evaluating the ICD… A meta-analysis of these 
+trials based on individual patient data yielded a relative 
+risk  reduction  in  all-case  mortality  of  13%  to  15%, 
+which  was of  borderline  statistical  significance (P=0.03 
+or 0.06 depending on analytical method used).”   
+
+To make matters worse with amiodarone, thyroidologists 
+have  become  so  destructive  that  some  of  them  recom-
+(Continued on next page) 
+
+Pre- supplementation
+Post 1 mo ×××× 4 tab/day
+
+2nd peak
+
+An enterohepatic circulation of ingested inorganic iodine 
+has  not  been  previously  reported.    Such  a  metabolic 
+pathway  of  iodine  could  result  in  elevated  hepatic  con-
+centrations of iodine.  We previously reported a signifi-
+cant  effect  of  orthoiodosupplementation  on  serum  liver 
+enzymes.11    What  role  iodine  plays  on  liver  functions 
+and  bile  formation  is,  at  the  present,  unknown.    Some 
+patients  have  reported  improved  digestion,  even  with 
+fatty  meals,  and  regular bowel  movement  following  or-
+thoiodosupplementation.    It  is  possible  that  iodine  im-
+proves the flow of bile from the liver to the gastrointesti-
+nal  tract.    Iodine  deserves  more  attention  from  medical 
+researchers and clinicians.   
+
+A  careful  review  of published  data on  amiodarone sug-
+gests  that  this  organic  iodine-containing  drug  is  a  sus-
+tained release form of iodine.  The iodine released is the 
+active  agent,  with  the  drug  itself  being  the  cause  of  its 
+toxicity.12    If  this  is  the  case,  inorganic  non-radioactive 
+iodine would be the treatment of choice in those clinical 
+conditions  currently  treated  with  amiodarone.    In  their 
+2001  publication,  Martino  et  al13  reported  a  list  of  side 
+effects and complications of amiodarone:  corneal micro-
+deposits in 100% of the cases; anorexia, nausea in 80%; 
+skin  photosensitivity  and  discoloration  in  55-75%;  neu-
+rological symptoms in 48%; abnormal liver tests in 25%; 
+thyroid dysfunction in 14-18%; and lung dysfunction in 
+10-13%.    The  pulmonary  toxicity  is  the  most  serious 
+complication  of  amiodarone  therapy,  with  a  fatal  out-
+come in 9% of the patients experiencing this side effect 
+of amiodarone.14 
+
+Figure 3 
+
+s
+l
+e
+v
+e
+l
+
+e
+d
+i
+d
+o
+i
+
+c
+i
+n
+a
+g
+r
+o
+n
+i
+
+m
+u
+r
+e
+S
+
+)
+
+L
+/
+g
+m
+
+(
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+v
+
+v
+
+Pre 0.15 0.3
+
+0.5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+24
+
+hrs
+
+Time Post ingestion of 4 tab Iodoral
+
+Serum inorganic iodide levels in a 48-year-old woman following 50 mg elemental iodine:  presupplementation 
+and after one month on 50 mg (four tablets Iodoral®)/day.  V is less than 0.02 mg/L. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+mend  radioiodine  ablation  of  the  thyroid  to  allow  the 
+reintroduction of amiodarone treatment in patients with a 
+prior  history  of  amiodarone-induced  thyrotoxicosis.18  
+To  quote  Hermida,  et  al,18  “However,  hypothyroidism 
+should  be  viewed  as  a  goal, rather  than a complication, 
+of treatment in these patients.”  They have gone berserk! 
+
+Implementation  of  orthoiodosupplementation  in  the 
+above cases would be appropriate, not as a treatment for 
+cardiac  arrhythmias,  but  as  a  means  of  supplying  these 
+patients  with  adequate  amounts  of  an  essential  nutrient 
+for  whole  body  sufficiency.    Who  knows?    Orthoiodo-
+supplementation and whole body iodine sufficiency may 
+be  the  answer  to  several  clinical  conditions  currently 
+treated with toxic drugs. 
+
+An  enterohepatic  circulation  of  amiodarone  has  been 
+reported by Andreasen, et al.19  Since we have observed 
+an  enterohepatic  circulation  for  inorganic  iodine,  could 
+the  iodine  present  in  amiodarone  and  released  from 
+amiodarone play a role in this enterohepatic circulation?  
+Broekhuysen,  et  al,20  using  balance  studies  of amiodar-
+one  and  the  iodine  released  from  amiodarone,  reported 
+the  following.    In  two  subjects  treated  with  300  mg  of 
+amiodarone/day, the total amount of iodine measured in 
+urine and feces was very low during the first three days, 
+with a mean of 19% and 7% of the total iodine ingested 
+suggesting  that  80-90%  of  the  iodine  ingested  was  re-
+
+tained in the body.  After 25-27 days of therapy with 300 
+mg/day,  the  mean  percentage  excretion  of  combined 
+urine plus feces in these two subjects increased 48% and 
+75%.    Therefore,  after  approximately  one  month,  the 
+percentage of iodine retained by the body had decreased 
+to 25% and 50%.  No inorganic iodine/iodide was found 
+in feces, only the organic form, amiodarone; whereas, in 
+urine, inorganic iodide was excreted. 
+
+In two other subjects treated with 300 mg/day for seven 
+weeks,  balance  studies  revealed  at  the  end  of  the  study 
+that the total excreted iodine in urine and feces averaged 
+97.4% and 96.9%.  The authors commented, “These re-
+sults  suggest  that  iodine  is  retained  in  the  body  until  a 
+mechanism  is  triggered  that  adjusts the  excretion  of  io-
+dine to balance completely the intake.”  They estimated 
+that the body retained 1.5-2.0 g of iodine before the in-
+gested iodine in amiodarone is completely excreted, and 
+before therapeutic efficacy.   
+
+In three patients who died following long-term treatment 
+with  amiodarone,  the  levels  of  inorganic  iodine  present 
+in various organs and tissues were measured.  The total 
+body iodine content was estimated at approximately 2 g 
+with  the  greatest  amount  found  in  fat  tissues  (700  mg) 
+and  striated  muscle  (650  mg).    Iodine  was  present  in 
+every  tissue  examined.    The  highest  concentrations  of 
+(Continued on next page) 
+
+≈≈≈≈ 8 h rs
+
+Figure 4 
+
+10
+
+d
+e
+r
+u
+s
+a
+e
+m
+e
+d
+i
+d
+o
+i
+
+y
+r
+a
+n
+
+i
+r
+u
+
+l
+a
+t
+o
+t
+
+f
+o
+t
+n
+e
+c
+r
+e
+P
+
+r
+u
+o
+h
+r
+e
+p
+d
+e
+t
+e
+r
+c
+x
+e
+
+r
+h
+4
+2
+r
+e
+v
+o
+
+8
+
+6
+
+4
+
+2
+
+0
+
+S am p le #
+
+T im e interval 
+after in gesting  
+4 tab  Io d oral 
+
+1
+
+0-2 h
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+2-5 h
+
+5-8  h
+
+8-9 h
+
+9-11 h
+
+11-13 h
+
+13-16 h
+
+16-24  h
+
+Urinary excretion of iodide per hour in consecutive samples of urine collected over 24 hours after ingestion of 
+four tablets of Iodoral® in a female subject. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iodine  were  found  in  descending  order  in  the  thyroid 
+gland,  liver,  lung,  fat  tissues,  adrenal  glands,  and  the 
+heart.  
+
+other  halites  in  biological  fluids  and  their  applications 
+to  the  implementation  of  orthoiodosupplementation  in 
+medical practice. 
+
+When  a  tablet  form  of  Lugol  solution  (Iodoral®)  is  in-
+gested  at  a  daily  amount  of  50  mg  elemental  iodine, 
+whole  body  sufficiency  is  achieved  in  approximately 
+three  months;  and  the  estimated  amount  of  iodine  re-
+tained  in  the  body  is  approximately  1.5  g.8    This  is  the 
+same amount of iodine retained in patients on amiodar-
+one  following  4-7  weeks  at  300  mg/day.    Clinical  re-
+sponse to amiodarone is observed after the same period 
+of time (4-7 weeks) on amiodarone therapy.  These data 
+are  suggestive  of  an  important  role  of  inorganic  iodine 
+released  from  amiodarone  in  the  therapeutic  effect  of 
+this drug; and that whole body sufficiency for iodine is a 
+requirement for optimal cardiac function.  If amiodarone 
+is a toxic form of sustained release iodine, and inorganic 
+iodine  is  the  active  ingredient,  why  not  give  inorganic 
+iodine  to  these  unfortunate  patients,  saving  them  from 
+the toxicity of the amiodarone molecule?12 
+
+Inorganic  non-radioactive  iodine/iodide  is  an  essential 
+nutrient, not a drug.  Therefore, the body has the meta-
+bolic mechanism for using inorganic iodine beneficially, 
+effectively and safely.  Iodine is the safest essential nu-
+trient,  with  a  track  record  of  180  years  of  use  in  medi-
+cine.7    Published  data  confirms  its  safety  even  when 
+used  in  pulmonary  patients  in  amounts  four  orders  of 
+magnitude greater than the US RDA.8 
+
+About the Author 
+
+Guy E. Abraham, MD, is a former Professor of Obstet-
+rics,  Gynecology  and  Endocrinology  at  the  UCLA 
+School  of  Medicine.    Some  35  years  ago,  he  pioneered 
+the development of assays to measure minute quantities 
+of  steroid  hormones  in  biological  fluids.    He  has  been 
+honored as follows:  General Diagnostic Award from the 
+Canadian  Association  of  Clinical  Chemists,  1974;  the 
+“Medaille  d’Honneur”  from  the  University  of  Liege, 
+Belgium,  1976;  the  Senior  Investigator  Award  of  Phar-
+macia, Sweden, 1980. 
+
+The applications of Dr. Abraham’s techniques to a vari-
+ety of female disorders have brought a notable improve-
+ment to the understanding and management of these dis-
+orders.  Twenty-five years ago, Dr. Abraham developed 
+nutritional  programs for  women  with premenstrual  ten-
+sion syndrome and post menopausal osteoporosis.  They 
+are  now  the  most  commonly  used  dietary  programs  by 
+American  obstetricians  and  gynecologists.    Dr.  Abra-
+ham’s  current  research  interests  include  the  develop-
+ment  of  assays  for  the  measurement  of  iodide  and  the 
+
+REFERENCES 
+
+1)  Anonymous.  “Sur un nouvel acide forme  avec la substance de-
+couverte  par  M.  Courtois.”    Annales  de  Chimie,  1813;  88:311-
+318. 
+
+2)  Marine  D  and  Kimball  OP.    “Prevention  of  simple  goiter  in 
+
+man.”  Arch Intern Med, 1920; 25:661. 
+
+3)  Marine D.  “Prevention and treatment of simple goiter.”  Atl Med 
+
+J, 1923; 26:437-442. 
+
+4)  Food and Nutrition Board, National Academy of Sciences, National 
+Research Council.  Recommended Dietary Allowances, 10th edition.  
+National Academy of Sciences Press, Washington, DC, 1989. 
+
+5)  Hetzel  BS  and Clugston  GA.    “Iodine.”    In:    Modern  Nutrition  in 
+Health and Disease, 9th edition. Shils ME, et al, editors.  Lippincott 
+Williams & Wilkins, 1999; 253-264. 
+
+6)  Thompson WO, Brailey AG, Thompson PK, et al.  “The range of 
+effective  iodine  dosage  in  exophthalmic  goiter  III.”    Arch  Int 
+Med, 1930; 45:430. 
+
+7)  Abraham  GE.    “The  safe  and  effective  implementation  of  or-
+thoiodosupplementation  in  medical  practice.”    The  Original  In-
+ternist, 2004; 11(1):17-36. 
+
+8)  Abraham GE.  “The concept of orthoiodosupplementation and its 
+clinical implications.”  The Original Internist, 2004; 11(2):29-38.  
+9)  Brownstein  D.    Iodine:  Why  You  Need  It,  Why  You  Can’t  Live 
+Without  It.    Medical  Alternative  Press,  West  Bloomfield,  MI, 
+2004.  (1-888-647-5616) 
+
+10) Abraham  GE,  et  al.    “Measurement  of  urinary  iodide  levels  by 
+ion-selective  electrode:  Improved  sensitivity  and  specificity  by 
+chromatography  on  anion-exchange  resin.”    Optimox  Research 
+Info #IOD-03.  (Reprint available upon request) 
+
+11) Abraham  GE,  Flechas  JD,  and  Hakala  JC.    “Optimum  levels  of 
+iodine  for  greatest  mental  and  physical  health.”    The  Original 
+Internist, 2002; 9(3):5-20. 
+
+12) Phillippou  G,  Koutras  DA,  Piperingos  G,  et  al,    “The  effect  of 
+iodide  on  serum  thyroid  hormone  levels  in  normal  persons,  in 
+hyperthyroid  patients,  and  in  hypothyroid  patients  on  thyroxine 
+replacement.”  Clin Endocr, 1992; 36:573-578. 
+
+13) Martino E, Bartalena L, Bogazzi F, et al.  “The effects of amio-
+darone  on  the  thyroid.”    Endocrine  Reviews,  2001;  22(2):240-
+254. 
+
+14) Dusman  RE,  et  al.    “Clinical  features  of  amiodarone-induced 
+
+pulmonary toxicity.”  Circulation, 1990; 82:51-59. 
+
+15) Connolly  SJ.    “Evidence-based  analysis  of  amiodarone  efficacy 
+
+and safety.”  Circulation, 1999; 100:2025-2034. 
+
+16) Ab r a h a m  GE ,   F l e c h a s  
+
+J C .  
+“Orthoiodosupplementation:    Iodine  sufficiency  of  the  whole 
+human body.”  The Original Internist, 2002; 9(4):30-41. 
+
+a n d   H a k a l a  
+
+J D ,  
+
+17) Abraham  GE.    “The  Wolff-Chaikoff  effect  of  increasing  iodide 
+intake on the thyroid.”  Townsend Letter, 2003; 245:100-101. 
+18) Hermida JS, Jarry  G, Tcheng E, et al.  “Radioiodine ablation of 
+the thyroid to allow the reintroduction of amiodarone treatment in 
+patients with a prior history of amiodarone-induced thyrotoxico-
+sis.”  Am J Med, 2004; 116:345-348. 
+
+19) Andreasen F, et al.  “Pharmacokinetics of amiodarone after intra-
+venous  and  oral  administration.”    Eur  J  Clin  Pharmacol,  1981; 
+19:293-299. 
+
+20) Broekhuysen J, Laruel R, and Sion R.  “Recherches dans la serie 
+des  benzofurannes  XXXVII.  Etude  comparee  du  transit  et  du 
+metabolisme  de  l’amiodarone  chez  diverses  especes  animals  et 
+chez  l’homme.”    Arch  Int  Pharmacodyn, 1969; 177(2):340-359.  
+u  
+
+34 
+
+THE ORIGINAL INTERNIST     September   2004

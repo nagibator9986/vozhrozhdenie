@@ -1,0 +1,2137 @@
+A Simplified Procedure for the 
+Measurement of Urine Iodide Levels 
+by the Ion-Selective Electrode 
+Assay in a Clinical Setting 
+
+by Guy E. Abraham, MD, Roxane C. Handal, BS 
+and John C. Hakala, RPh 
+
+Introduction 
+Various procedures are available for the measurement of 
+inorganic  iodide  in  urine  samples.1-3 and vide infra    Among 
+these  procedures,  the  ion-selective  electrode  assay  is  the 
+most appropriate for a physician’s office.  Quantification 
+of iodide is performed by a potentiometric method, using 
+an  iodide  selective  electrode  (ISE).    Urinary  iodide  is 
+measured  by  the  electromotive  force  (EMF)  generated 
+on  the  iodide-selective  electrode  due  to  the  presence  of 
+iodide  in  the  urine  sample.    Within  a  certain  range  of 
+iodide  concentrations,  there  is  a  linear  relationship  
+between  the  logarithm  of  iodide  concentration  and  the 
+EMF  generated.    The  only  reagents,  water  and  sodium 
+nitrate,  used  in  this  procedure  are  non-toxic  and  well 
+suited for a clinical setting.  Sodium nitrate (NaNO3) is 
+used as an Isotonic Strength Adjuster (ISA) at an initial 
+concentration  of  5  Moles/L  to  improve  performance  of 
+the  electrode.    The  ISA  is  diluted  one  part  ISA  to  two 
+parts  of  iodide  standards  and  urine  samples.    The  final 
+concentration of NaNO3 in the assay is 1.66 Molar.3 
+
+Although  the  iodide-selective  electrode  is  very  specific 
+for iodide (Table 1), chloride may interfere in the assay 
+of iodide when the molar concentration of chloride in the 
+urine  is  six  orders  of  magnitude  greater  than  that  of 
+iodide.4,5    Due  to  the  relatively  high  iodide  levels 
+observed  in  the  urine  of  mainland  Japanese  (10-4-10-5 
+Molar),  the  ion-selective  electrode  can  measure  iodide 
+samples  without  prior 
+directly 
+purification.6,7    In  the  US  population,  urinary  chloride 
+l e v e l
+l y  
+a r e  
+between 100 and 300 millimolar, whereas urinary iodide 
+levels  are  in  the  low  micromolar  range  (10-6-10-7M).  
+Urine  iodide  levels  in  the  US  population  are  100-fold 
+lower than observed in mainland Japanese.3 
+
+u s u a l
+
+their  urine 
+
+in 
+
+s
+
+the 
+
+In  order  to  measure  the  low  levels  of  urinary  iodide  in 
+a 
+the  US  population  by 
+anion 
+chromatographic  procedure  using 
+r  
+a
+e
+cartridges  in  a  positive  displacement  manifold  (PDM) 
+was  developed  by  the  senior  author  with  the  assistance 
+of a precision machinist in order to separate iodide from 
+
+ISE  method, 
+strong 
+g
+
+x
+
+n
+
+h
+
+e
+
+c
+
+the  other  halides  —  chloride,  fluoride,  and  bromide.8,9  
+The PDM allowed semiautomation of the ISE procedure.  
+Two models were constructed for use with 20 cartridges 
+(PDM-20) and 40 cartridges (PDM-40).  The PDM-20 is 
+shown  in  Figure  1.    We  are  now  making  available  a 
+PDM-6  with  a  small  footprint  for  six  cartridges.    The 
+PDM-6  is  intended  for  use  in  a  clinical  set-up.    The 
+chromatographic  separation  of  the  four  halides  allows 
+the  combined  measurement  of  each  halide  in  the  same  
+sample of urine, serum, and saliva9-11 (Figure 2).  These 
+cartridges have a high power of resolution with complete 
+  Serial 
+separation  of  the  four  halides  (Table  2). 
+measurements  of  serum  iodide,  fluoride,  and  bromide 
+w
+e  
+performed  in  six  normal  female  subjects  following  
+ngestion of 50 mg iodine/iodide (Iodoral®).  The results 
+are displayed in Figures 3-5.  The serum iodide levels in 
+these subjects were previously reported.8 
+
+e
+
+r
+
+An  iodine/iodide  loading  test  to  assess  whole  body 
+sufficiency for the essential element iodine was recently  
+developed.5,12  The test consists of ingesting four tablets 
+of a solid dosage form of Lugol (Iodoral®), containing a 
+total of 50 mg iodine/iodide.  Then urinary iodide levels 
+are  measured  in  the  following  24-hour  collection.    The 
+iodine/iodide  loading  test  is  based  on  the  concept  that 
+the normally functioning human body has a mechanism 
+to retain ingested iodine until whole body sufficiency for 
+iodine is achieved.  The daily amount of iodine required 
+f o r   w h o l e  
+c a l l e d 
+orthoiodosupplementation,3,12  ranged  from  12.5-50  mg 
+iodine.5 
+
+s u f f i c i e n c y ,  
+
+b o d y  
+
+During  orthoiodosupplementation,  a  negative  feedback 
+mechanism  is  triggered  that  progressively  adjusts  the 
+excretion  of  iodine  to  balance  the  intake.    As  the  body 
+iodine  content  increases,  the  percentage  of  the  iodine 
+load  retained  decreases  with  a  concomitant  increase  in 
+the  amount  of  iodide  excreted  in  the  24-hour  urine  
+collection.    When  whole  body  sufficiency  for  iodine  is 
+achieved,  the  absorbed  iodine/iodide  is  quantitatively 
+excreted  in  the  urine  as  iodide,  and  the  adult  body  
+retained approximately 1.5 g iodine.  A good correlation 
+was observed between the results of the loading test and 
+the  clinical  response  to  iodine  intervention  in  these  
+patients.12-14 
+
+For  the  iodine/iodide  loading  test  to  be  widely  used  in 
+medical practice, the measurement of urine iodide levels 
+would  be  best  performed  in  situ,  that  is,  in  the 
+physician’s  office,  using  a  simple  procedure  with  
+non-hazardous reagents.  The ISE procedure is ideal for 
+a  clinical  setting,  requiring  only  water  and  sodium  
+(Continued on next page) 
+
+THE ORIGINAL INTERNIST     September   2006 
+
+125 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+chromatographic system 
+described8 
+previously 
+was  modified 
+and 
+simplified  to  eliminate 
+the  collection  of  four 
+separate  fractions  from 
+the 
+chromatographic 
+column.    Although  the 
+separation  of  the  four 
+halides  from  each  other 
+t h e i r 
+a l l o w e d  
+the 
+in 
+measurement 
+same  biological  fluid,11 
+the  measurement  of 
+urine  iodide  levels  pre- 
+d 
+n
+a
+
+Table 1 
+
+Interferences in the ISE Assay of Halides and 
+Procedures for Preventing These Interferences 
+
+Halides 
+
+Interferences*  Procedures for Preventing Interference 
+
+Chloride 
+
+OH- = 80 
+Br- = 3 x 10-3 
+I- = 5x10-7 
+
+1)  Acidification 
+2)  Chromatographic separation from 
+
+other halides 
+
+Fluoride 
+
+OH- 
+
+Bromide 
+
+Iodide 
+
+OH- = 3 x 104 
+Cl- = 400 
+I- = 2 x 10-4 
+
+Cl- = 106 
+Br- = 5 x 103 
+
+Acidification with Orion special ISA: 
+TSIAB, added to urine samples at equal 
+volumes 
+
+Chromatographic separation from other 
+halides 
+
+Chromatographic separation from other 
+halides 
+
+*  The  maximum  allowable  concentrations  of  interfering  substances 
+express  as  the  molar  ratio  of  the  interfering  ion  concentration  to  the 
+sample halide concentration.  If the ratio is exceeded, the data generated 
+by  the  ion-selective  electrode  will  become  unreliable.    Information 
+supplied by Thermo Orion Corporation.  (From reference 5) 
+
+Varian 
+(Harbor  City, 
+CA)  with  a  capacity  of 
+0.85  m  Eq/g  of  resin.  
+However,  with  SDB 
+b a c k b o n e ,   A l t e c h 
+(Deerfield,  IL)  quotes  a 
+figure  of  1.5  m  Eq/g,  a 
+75%  greater  capacity  to 
+exchange  anions.    This 
+translates 
+the 
+ability to process a 75% 
+greater  volume  of  urine 
+for  the  same  amount  of 
+resin, and a 75% greater 
+capacity 
+retain 
+iodide. 
+
+into 
+
+to 
+
+postorthoiodosupplementation5  only 
+the 
+purification of iodide from the other halides without the 
+separation of the other halides from each other. 
+
+require 
+
+Theoretical  
+Considerations 
+Specificity of the Ion-Selective Electrode:  According to 
+information  supplied  by  Thermo  Orion,  chloride  will 
+interfere with the iodide electrode if the chloride/iodide 
+molar  ratio  exceeds  1  million.    For  bromide,  the iodide 
+selective  electrode  is  less  specific,  with  interference 
+expected  when  the  bromide/iodide  molar  ratio  exceeds 
+5,000 (Table 1).5  Since chloride and fluoride are eluted 
+easily  from  the  SAX  (strong  anion  exchanger)  resin 
+using low ionic strength nitrate solution, bromide is the 
+most  likely  halide  to  interfere  with  the  capacity  of  the 
+SAX resin to retain iodide and also to interfere with the 
+measurement of iodide if bromide concentration exceeds 
+those of iodide by three orders of magnitude. 
+
+Relative  Selectivity  of  Halides  for  the  SAX  Cartridge:  
+Materials  used  in  anion  exchange  chromatography  are 
+composed  of  three  components  attached  together  and 
+placed in a column or a cartridge:  the base or backbone 
+support,  the  functional  group  or  ion  exchanger,  and  the 
+counter  ion  available  for  exchange.    For  backbone, 
+styrene  divinyl  benzene  (SDB)  is  preferred  over  silica 
+gel  because  it  is  more  rugged,  less  sensitive  to  pH 
+changes, and possesses a higher capacity.15  For example, 
+SAX  columns  with  silica  backbone  are  available  from 
+
+S t r o n g  
+a n i o n 
+exchangers  are  always 
+charged  at  any  pH.  
+Therefore, elution of the 
+analate of interest could 
+b y 
+b e  
+a c h i e v e d  
+ionic 
+increasing 
+strength of the elution solvent without any acidification.  
+Data are available for strong anion exchangers regarding 
+the relative selectivity of halides.  With fluoride as unity; 
+chloride has a relative selectivity of 10, bromide 28, and 
+iodide  87.15    The  higher  the  number,  the  stronger  the 
+binding  of  the  halide  to  the  anion  exchanger.    The 
+stronger  the  binding  of  the  halide to the ion  exchanger, 
+the higher the ionic strength required for elution. 
+
+the 
+
+Using gradient elution, one would expect to desorb from 
+the  SAX  column  first  fluoride,  then  chloride,  followed 
+by bromide, and last iodide.  This pattern was observed 
+with  the  Altech  500  mg  SAX  column  #309750.3  
+However,  when  the  600  mg  cartridges  #21907  were 
+used, chloride was eluted before fluoride (Figure 2).  We 
+have no explanation for this deviation from the expected. 
+
+to  urine  samples 
+
+By  adding  sodium  nitrate 
+in 
+concentrations  high  enough  to  prevent  the  binding  of 
+fluoride, chloride, and bromide to the SAX resin, but not 
+high  enough  to  interfere  with  the  binding  of  iodide,  a 
+high  degree  of  purity  of  the  iodide  fraction  can  be 
+achieved.    Under  those  conditions,  the  eluted  urine 
+sample  would  contain  fluoride,  chloride,  and  bromide, 
+leaving iodide on the SAX resin for further elution with 
+10 ml of 5N NaNO3. 
+
+The  SAX  cartridges  used  in  the  procedure  contain  the 
+tetramethylammonium  group  as  strong  anion  exchanger 
+
+(Continued on next page) 
+
+126 
+
+THE ORIGINAL INTERNIST     September   2006 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+nium  group.    A  cartridge  with  nitrate  as  counter  ion 
+would  eliminate  the  addition  of  sodium  nitrate  to  the 
+urine  samples,  further  simplifying 
+this  procedure.  
+Unfortunately, the SAX cartridges are not commercially 
+available with nitrate as counter ion. 
+
+Figure 1 
+
+PDM-20 
+
+iodide 
+
+  Since 
+
+Capacity of the SAX Cartridge:  In the cartridge format, 
+the  largest  capacity  available  with  the  strong  anion 
+exchanger  is  600  mg  of  SAX  resin,  containing  900  µ 
+Moles  of  quarternary  amines. 
+is 
+monovalent,  the  maximum  amount  of  iodide  that  could 
+be  retained  on  the  column  is  900  µM.    Iodide  has  an 
+atomic  weight  of  127,  therefore  the  maximum  capacity 
+of the cartridge would be 114.3 mg of iodide.  However, 
+this  capacity  depends  also  on  the  amount  of  interfering 
+substances  present  in  the  urine  sample  such  as  nitrate, 
+thiocyanate,  and  bromide.    In  subjects  on  a  typical 
+Western  diet,  urine samples  contain,  at  most,  a few mg 
+of  nitrates  and  thiocyanates  per  liter  of  urine.16    The 
+main  source  of  thiocyanate  in  the  US  population  is 
+cigarette smoking.17,18  However, urinary bromide levels 
+can  reach  several  hundreds  milligrams  per  liter  of 
+urine.5,9,10 
+
+With  increased  levels  of  bromide  sometimes  observed 
+following  the  iodine/iodide  loading  test,5,9  the  capacity 
+of  the  SAX  resin  for  iodide  would  be  expected  to 
+decrease  significantly.    In  such  cases,  iodide  would  not 
+be completely retained on the SAX column, resulting in 
+underestimation  of  iodide  levels.    The  problem  with 
+bromide  is  not  just  its  interference  with  the  binding  of 
+iodide  to  the  SAX  column.    Bromide  would  also 
+interfere  with  iodide  measurement  by  the  ISE.    For 
+example, with a urine sample containing the usually low 
+iodide  levels  in  the  US  population  (0.02  –  0.5  mg/L), 
+only 100 mg of bromide per liter of urine could cause an 
+overestimation  of  the  iodide  levels  by  0.02  mg/L.    If 
+bromide  could  be  eluted  with the  urine in the first  pass 
+through  the  column,  the  full  capacity  of  the  column  to 
+retain  iodide  would  be  available.    Also,  the  complete 
+elimination  of  bromide  from  the  iodide  fraction  would 
+prevent  its  interference  in  the  ISE  measurement  of 
+iodide.  This goal was achieved in the simple procedure 
+described here. 
+
+Optimization of the Simplified 2-Step ISE Procedure 
+Deiodized urine was prepared by the method of Cooper 
+and  Croxson:4 
+samples  were 
+  Pooled  urine 
+chromatographed on a SAX resin (Altech #211510), and 
+the eluted urine was used in the following experiments.  
+Although  Cooper  and  Croxson4  called  this  processed 
+urine  “deiodized,”  we  have  observed  a  complete 
+elimination  of  bromide  also  from  the  eluted  urine  (less 
+than  0.006  mg/L  for  iodide  and  less  than  1  mg/L  for 
+
+The PDM-20 is a semiautomated equipment designed for 
+the  chromatographic  separation  of 
+the  halides  for 
+biological  fluids  using  the  SAX  600  mg  cartridge.    It  is 
+capable of processing 20 samples of biological fluids in a 
+batch.  The PDM-40 can process 40 samples. 
+
+bromide), leaving iodide and bromide on the SAX resin.  
+Therefore,  the  proper  name  would  be  “deiodized  and 
+debromized.” 
+
+The  concentration  of  chloride  in  the  processed  pooled 
+urine  was  80  mM/L.    Sodium  chloride  was  added  to 
+reach  a  concentration  of  300  mMoles  chloride/L.  
+Bromide  (25  mM/L) and fluoride (2 mM/L) were added 
+to the treated urine, called the halide stock  solution.   To 
+this  stock  solution, 
+iodide 
+(potassium salt) were added: 0, 1 µM, 10 µM, 100 µM, 
+1,000 µM and 10,000 µM iodide (0, 0.127, 1.27, 12.7, 
+127 and 1,270 mg). 
+
+increasing  amounts  of 
+
+Pilot  experiments  were  performed  with  increasing 
+concentrations  of  NaNO3  in  the  urine  samples  prior  to 
+chromatography  in  order  to  pinpoint  the  final 
+concentration of NaNO3 in the urine sample that would 
+result  in  the  complete  elution  of  chloride,  fluoride,  and 
+bromide  with  the  eluted  urine,  leaving  only  and 
+(Continued on next page) 
+
+THE ORIGINAL INTERNIST     September   2006 
+
+127 
+
+ 
+ 
+ 
+ 
+ 
+strength of 1.66 M NaNO3 prior to measurement by the 
+iodide  selective  electrode.    The  same  experiments  were 
+repeated  with  water  instead  of  deiodized/debromized 
+urine. 
+
+The data obtained when 100 µM of iodide (sodium salt) 
+was  added  to  the  halide  stock  solution  are  displayed  in 
+Figure 6.  Without NaNO3 in the urine samples, bromide 
+in the eluted urine was below the sensitivity (< 1 mg/L), 
+and  all  the  bromide  (2,000  mg/L)  was  eluted  with  the 
+second  elution  with  10  ml  5N  NaNO3.    Some  25  times 
+the  theoretical  maximum  capacity  of  the  cartridges  for 
+bromide was retained, that is 25 mM versus the expected 
+0.9 mM. 
+
+With  a  NaNO3  concentration  of  0.05  M  in  the  urine 
+sample,  only  36%  of  the  bromide  was  eluted  with  the 
+urine  fraction,  with  more  than  60%  remaining  on  the 
+column;  the  second  elution  with  10  ml  of  5N  NaNO3 
+contained  only  76%  of  the  iodide,  with  24%  remaining 
+on the column.  The retained iodide could be eluted with 
+a  second  elution  using  10  ml  5N  NaNO3.    A  minimum 
+concentration of 0.2 M NaNO3 in the urine sample was 
+required  in  order  to  elute  100%  of  the  iodide  in  the 
+
+second pass, but 20% of the bromide was present in the 
+iodide  fraction  at  that  concentration. 
+  At  0.3  M 
+concentration of NaNO3, 90% of the bromide was eluted 
+with  the  urine  sample.    At  0.4  M,  we  obtained 
+quantitative  recovery  of  bromide  in  eluted  urine  and 
+quantitative  recovery  of  iodide  in  the  5N  NaNO3 
+fraction.  The ideal concentration of NaNO3 in the urine 
+samples was 0.4 M. 
+
+Above  0.4  M  NaNO3  in  the  urine  samples,  increasing 
+amounts  of  iodide  were  recovered  in  the  eluted  urine 
+with up to 30% of iodide in the eluted urine at the 1.0 M 
+NaNO3  level.    We  chose  0.4  M  NaNO3  in  the  urine 
+samples  for  the  simplified  procedure.    Under  those 
+conditions,  bromide  was  completely  eluted  with  the 
+urine sample, with quantitative recovery of iodide in the 
+second  elution  with  10  ml  5N  NaNO3.    Since  bromide 
+possesses a much higher relative selectivity than fluoride 
+and  chloride  for  the  SAX  resin,  complete  elution  of 
+bromide  was  evidence  of  complete  elution  of  chloride 
+and  fluoride  in  the  eluted  urine.    The  simplified  ISE 
+procedure is outlined in Figure 7. 
+
+(Continued on next page) 
+
+Figure 2 
+Flowchart Describing the combined Measurement of the Different Halides in the Same Sample 
+
+IN
+
+Sample
+10 ml of
+urine/serum/saliva
+
+SEQUENCE
+OF ELUTION
+
+1
+
+10 ml of
+0.05N NaN O 3
+
+2
+
+10 ml of
+0.1N NaNO 3
+
+3
+
+10 ml of
+5N NaNO 3
+
+4
+
+S      A      X          c      o      l      u      m      n
+Altech #21907 600 mg
+
+HALIDES
+ELUTED
+
+- Chloride
+
+In 10 ml
+of urine/ 
+serum
+
+- Fluoride
+
+In 10 ml of
+0.05N NaN O 3
+
+- Bromide
+
+In 10 ml of
+0.1N NaNO 3
+
+- Iodide
+
+In 10 ml of
+5N NaNO 3
+
+++++
+
+++++
+
+++++
+
+++++
+
+20 ml of 2.5N NaNO 3
+
+10 ml of TISAB
+
+20 ml of 2.5N NaNO 3
+
+20 ml H 2O
+
+ISE assay
+of chloride
+
+ISE assay
+of fluoride
+
+ISE assay
+of bromide
+
+ISE assay
+of iodide
+
+ORION
+ELECTRODE #
+
+#9617 BN
+
+#9609 BN
+
+#9635 BN
+
+#9653 BN
+
+This chart describes the combined measurements of chloride, fluoride, bromide, and iodide in the same urine/serum/saliva sample 
+by prior chromatography on the anion-exchange resin cartridgeSAX 600 mg fitted with 10-milliliter plastic syringes in a positive 
+displacement manifold.  (From reference 8) 
+
+128 
+
+THE ORIGINAL INTERNIST     September   2006 
+
+ 
+ 
+ 
+ 
+high capacity of the SAX 600 mg cartridges for bromide 
+and  iodide,  we  retested  the  capacity  of  the  SAX 
+cartridges  for  iodide  and  bromide  with  the  4-step 
+procedure outlined in Figure 2, using increasing amounts 
+of  iodide  and  bromide.    The  information  supplied  by 
+Altech Associates grossly underestimated the capacity of 
+the SAX 600 mg cartridges.  Up to 10 mM iodide (1,270 
+mg/L)  were  completely  retained  without  breakthrough 
+bleeding  in  the  eluted  urine,  the  0.05  N  and  0.1  N 
+NaNO3 fractions.  All the iodide added was recovered 
+in  the  5  N  NaNO3  fraction.    That  is  10  times  the 
+maximum  amount  of  iodide  expected  from  theoretical 
+consideration.    The  same  high  capacity  of  the  SAX 
+cartridges for bromide was observed even when 25 mM 
+bromide (2,000 mg/L) was added to the urine samples, 
+that  is  25  times  the  expected  capacity  (Table  3).  We 
+have  no  explanation  for  this  discrepancy  between  the 
+data  supplied  by  Altech  and  the  data  obtained  at  the 
+Optimox Potentiometric R&D Laboratory. 
+
+  Orion 
+
+ratio  of  5,000 
+
+We confirmed data supplied by Thermo Orion regarding 
+the  specificity  of  the  iodide  electrode  from  interference 
+by  chloride  and  bromide. 
+reported  a 
+ratio  of  1  million  and  a 
+chloride/iodide  molar 
+bromide/iodide 
+the 
+in  order 
+interference  from  chloride  and  bromide  to  occur  in  the 
+ISE  procedure  of iodide.  We  measured a  mean  value of 
+582,000 for chloride and 5,530 for bromide (Table 4).  The 
+interference in the iodide assay due to chloride and bromide 
+was  non-linear  as  can  be  seen  in  Table  4.    The  relative 
+interference  increased  along  with  the  concentrations  of 
+it  decreased  when  bromide 
+chloride,  whereas 
+concentrations increased. 
+
+for 
+
+Reliability:    The  reliability  of  an  assay  depends  on  its 
+sensitivity, specificity, accuracy, and precision.19,20 
+
+  The 
+
+Sensitivity: 
+limit  of  sensitivity 
+theoretical 
+achievable with ISE assay of urinary iodide is set by the 
+sensitivity of the iodide selective electrode itself.  From 
+data  supplied  by  Thermo  Orion,  the  sensitivities  of  the 
+ISE electrodes for halides are:  5 x 10-8 M for iodide; 10-
+6 M for fluoride; 5 x 10-6 M for bromide; and 5 x 10-5 M 
+for chloride.  The iodide selective electrode is by far the 
+most  sensitive,  being  20  times  more  sensitive  than  the 
+ISE electrode for fluoride, 100 times more sensitive than 
+for  bromide,  and  1,000  times  more  sensitive  than  for 
+chloride.    Expressed  as  mg/L,  the  iodide  selective 
+electrode is sensitive down to 0.006 mg/L. 
+
+In achieving this theoretical sensitivity, other conditions 
+are  important.    First,  the  sensitivity  of  the  standard 
+curve, which is defined as the smallest amount of iodide 
+(Continued on next page) 
+
+THE ORIGINAL INTERNIST     September   2006 
+
+Figure 3 
+
+Serum Profile of Inorganic Iodide 
+Levels post Iodoral® 50 mg 
+
+3
+
+2.5
+
+2
+
+1.5
+
+1
+
+0.5
+
+0
+
+)
+L
+/
+g
+m
+
+(
+
+s
+l
+e
+v
+e
+l
+
+e
+d
+i
+d
+o
+i
+
+c
+i
+n
+a
+g
+r
+o
+n
+i
+
+m
+u
+r
+e
+S
+
+< 0.02
+
+Pre
+
+0.5
+
+1
+
+2
+
+3
+
+4
+
+8
+
+24
+
+hrs
+
+Time Post ingestion of Iodoral 50 mg load
+
+Mean value of six normal female subjects.  (Modified from 
+reference 8) 
+
+Serum Profile of Fluoride 
+Levels post Iodoral® 
+
+Figure 4 
+
+0.12
+
+0.1
+
+0.08
+
+0.06
+
+0.04
+
+0.02
+
+)
+L
+/
+g
+m
+
+(
+
+s
+l
+e
+v
+e
+l
+
+e
+d
+i
+r
+o
+u
+l
+f
+
+m
+u
+r
+e
+S
+
+< 0.04
+
+0
+
+0
+
+0.5
+
+1
+
+2
+
+4
+
+8
+
+Time post ingestion of Iodoral 50 mg load
+
+< 0.04
+
+24
+
+hrs
+
+Mean value of six normal female subjects 
+
+Figure 5 
+
+Serum Profile of Bromide 
+Levels post Iodoral® 
+
+)
+L
+/
+g
+m
+
+(
+
+s
+l
+e
+v
+e
+l
+
+e
+d
+i
+m
+o
+r
+b
+m
+u
+r
+e
+S
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+0
+
+0.5
+Time post ingestion of Iodoral 50 mg load
+
+4
+
+2
+
+8
+
+1
+
+Mean value of six normal female subjects 
+
+24
+
+hrs
+
+129 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 2 
+
+Chromatography of Halides Using the Altech SAX 600 mg Cartridge in a 
+Positive Displacement Manifold PDM-20:  Percent Recovery of Fluoride, Chloride, 
+Bromide, and Iodide in Eluted Fractions of Increasing NaNO3 Ionic Strength 
+
+Eluted Fractions 
+(10 ml each)  
+
+Eluate 
+
+0.05 N NaNO3 
+
+0.1 N NaNO3 
+
+5.0 N NaNO3 
+
+Chloride 
+
+Fluoride 
+
+Bromide 
+
+Percent Recovery 
+
+≥98% 
+
+<2% 
+
+<1% 
+
+<1% 
+
+<1% 
+
+≥98% 
+
+<1% 
+
+<1% 
+
+<1% 
+
+<1% 
+
+≥98% 
+
+<1% 
+
+Iodide 
+
+<1% 
+
+<1% 
+
+<1% 
+
+≥98% 
+
+dence limit, is a limiting factor.  In order to compute the 
+standard  curve,  (the  dose  response  curve),  the  EMF 
+expressed  in  millivolts  (mV)  was  plotted  on  the  Y-axis 
+against  the  logarithm  of  increasing  amount  of  iodide, 
+from  10-3  M  to  10-8  M  on  the  X-axis.    The  iodide 
+selective  electrode  was  extremely  sensitive  (Figure  8), 
+with a linear response from 10-3 M to 10-7 M.  A mean D 
+EMF of 61 mV per decade was observed from 10-3 M to 
+10-7  M,  but  from  10-7  M  to  10-8  M,  the  standard  curve 
+became non-linear with only 36.2 mV per decade.3 
+
+Specificity:  We have previously validated the specificity 
+of  the  ISE  method  by  comparison  of  values  obtained 
+with ICP-M.S.3  In the simplified procedure, the addition 
+of  0.4  M  NaNO3  to  the  urine  sample  resulted  in  the 
+removal of the interfering halides, chloride and bromide, 
+in the eluted urine prior to desorption of iodide with 10 
+ml 5 N NaNO3. 
+
+Precision and Accuracy:  The precision and accuracy of 
+the  2-step  method  were  tested  by  measuring  5-6 
+replicates  of  a  urine  collection  from  a  subject  not  on 
+
+iodine  supplementation,  prior  to  and  following  addition 
+of increasing amounts of potassium iodide to aliquots of 
+the  urine  collection  from  1  mg  iodide  to  50  mg  iodide.  
+The data are displayed in Table 5.  Regarding accuracy 
+of  the  2-step  procedure,  percentage  recovery  of  added 
+iodide  were  102%  for  1  mg  iodide;  92%  for  10  mg 
+iodide;  100%  for  30  mg  iodide;  and  102%  for  50  mg 
+iodide.  Regarding precision, the coefficient of variation 
+of 5-6 replicate measurements were 7% for 1 mg iodide; 
+12%  for  10  mg;  7.4%  for  30  mg;  and  6.3%  for  50  mg 
+  The  same  experiments  for  accuracy  and 
+iodide. 
+precision  were  performed  with  the  4-step  method  and 
+displayed in Table 5 for comparison. 
+
+in 
+
+Methodology 
+The procedure described here is for the measurement of 
+iodide 
+the 
+the  24-hour  urine  collection 
+iodine/iodide loading test.  The test is performed in order 
+to assess whole body sufficiency for iodine prior to and 
+following orthoiodosupplementation.12  However, it can 
+be used also to measure iodide in spot urine samples. 
+
+for 
+
+(Continued on next page) 
+
+Table 3 
+
+Eluted Fractions 
+
+Eluted urine 
+
+0.05 N NaNO3 
+
+0.1 N NaNO3 
+
+5.0 N NaNO3 
+
+Elution Profile of Iodide and Bromide 
+
+Percent Bromide Recovered 
+(mean of triplicates) 
+
+Percent Iodide Recovered 
+(mean of triplicates) 
+
+<0.1% 
+
+<<0.1% 
+
+99.2% 
+
+<0.1% 
+
+<0.1% 
+
+<0.1% 
+
+<0.1% 
+
+98.6% 
+
+Elution profile of iodide 10 mM (1,270 mg/L) and bromide 25 mM (2,000 mg/L) on the SAX 600 mg cartridge using a step 
+gradient elution with increasing concentration of NaNO3 as outlined in Figure 2.  (From reference 8) 
+
+130 
+
+THE ORIGINAL INTERNIST     September   2006 
+
+ 
+ 
+ 
+Table 4 
+Interference of Increasing Concentrations 
+of Chloride and Bromide Added to 
+Water in the ISE Measurement of Iodide 
+
+Chloride 
+Added 
+
+Iodide 
+Measured* 
+
+Interference** 
+
+100 mM 
+
+0.15 µM 
+
+500 mM 
+
+0.78 µM 
+
+1,000 mM 
+
+2.3 µM 
+
+670,000 
+
+641,000 
+
+435,000 
+
+Mean = 582,000 
+
+Bromide 
+Added 
+
+10 mM 
+
+2.2 µM 
+
+100 mM 
+
+18.6 µM 
+
+1,000 mM 
+
+152 µM 
+
+4,545 
+
+5,380 
+
+6,670 
+
+Mean = 5,530 
+
+* Mean of triplicates 
+** Molar ratio of added halide/iodide measured 
+
+Iodine/Iodide  Loading  Test:    If  the  patient  is  on 
+orthoiodosupplementation,  he/she  should  stop  ingesting 
+iodine    24-48  hours  prior  to  the  loading  test.    The 
+following instructions are presented as guidelines only: 
+1)  Discard the first morning urine of Day 1. 
+2)  Take  four  tablets  of  Iodoral®  12.5  mg  with  a 
+
+glass of water. 
+
+3)  Collect all urine samples for 24 hours following 
+ingestion  of  the  loading  dose.    Include  the  first 
+morning urine on Day 2.  A 3-liter plastic bottle 
+appropriate  for  the  24-hour  collection  can  be 
+obtained  from  VWR  Scientific  Product  (PN# 
+60872-564).  The 16-ounce urine collection cup 
+is  available  from  General  Bottle  Supply  Co., 
+phone (323) 581-2001 (PN# T31216-1). 
+
+4)  At  the  end  of  the  24-hour  collection,  shake  the 
+3-liter  bottle  well.   Measure  volume  of urine  in 
+the 3-liter bottle by looking at markings on side 
+of  bottle,  and  pour  1-2  ounces  into  a  2-ounce 
+plastic  bottle  (VWR  Scientific  Product,  PN# 
+16126-041).  Two plastic 2-ounce bottles should 
+be  supplied  in  case  the  24-hr  urine  volume  is 
+greater than 3 L. 
+
+5)  If the 24-hour urine volume exceeds 3 L, then: 
+
+a)  Measure volume of urine in the 3-liter bottle 
+
+by  looking  at  the  markings  on  the  side  of 
+bottle.    Pour  1  oz.  of  urine  in  the  2-ounce 
+plastic bottle.  Write the name, date, volume 
+of urine on the 2-ounce bottle. 
+
+b)  Discard  urine  in  the  3-liter  bottle.    Use  the 
+same 3-liter bottle to continue collection. 
+c)  At  the  end  of  24-hour  collection,  measure 
+urine  volume  again  and repeat steps  5a  and 
+5b. 
+
+d)  When  the  form  is  completed,  under  total 
+volume,  write:    “Collected  in  2  parts,  both 
+sample bottles enclosed.” 
+
+e)  The  concentration  of  iodide  in  the  24-hour 
+urine  will  be  the  sum  of  both  values 
+obtained in the two specimens. 
+If  only  one  of  the  two  sample  bottles  is 
+needed,  return  the  empty  one  with  your 
+package. 
+
+f) 
+
+We  use  the  food  grade  coloring  FDC  Green  #3  at  a 
+concentration of 1 ml of a 1% solution per liter of urine.3  
+It  is  used  for  its  antiseptic  properties  and  also  as  a 
+marker  for  spent  cartridges.    Having  two  benzene  rings 
+in  its  molecule,  FDC  Green  #3  forms  a  very  strong 
+hydrophobic  interaction  with  the  benzene  rings  in  the 
+SDB backbone of the SAX.  FDC Green #3 was retained 
+on  the  column,  resulting  in  a  clear  eluate.    Spent 
+(Continued on next page) 
+
+Figure 6 
+
+Effect of Increasing 
+Concentrations of NaNO3 
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+e
+d
+i
+d
+o
+i
+d
+n
+a
+
+e
+d
+i
+m
+o
+r
+b
+f
+o
+y
+r
+e
+v
+o
+c
+e
+r
+
+t
+n
+e
+c
+r
+e
+P
+
+Iodide
+Bromide
+
+0.05
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+Molar concentration of NaNO3 in urine sample
+
+Effect  of  increasing  concentrations  of  NaNO3  in  urine 
+samples containing 300mM chloride, 12.5 mM bromide, 
+2  mM  fluoride,  and  0.1  mM  of  iodide  on  recovery  of 
+bromide in the eluted urine and the recovery of iodide in 
+the second pass of 10 ml 5N NaNO3 through the Altech 
+cartridges (#21907) using the PDM shown in Figure 2. 
+
+THE ORIGINAL INTERNIST      
+
+September   2006 
+
+131 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+could  be  identified  by  the  greenish-blue  color  of  FDC 
+Green #3 retained on the resin of the cartridges. 
+
+  The 
+
+equipment, 
+Equipments  and  Materials: 
+accessories, and materials needed for the ISE procedure 
+are  displayed  in  Table  6.    We  recommend  the  Thermo 
+Orion  Meter  #720-A  Plus  connected  to  the  Thermo 
+Orion iodide electrode 9653 BN, which is very sensitive 
+for  iodide  (See  Figure  8).    The  9-position  magnetic 
+stirrer  from  Corning 
+is  available  from  Spectrum 
+Chemical  (Gardena,  CA).    The  SAX  cartridges  are 
+available from Altech Associates.  The specifications are 
+SAX cartridges #21907 Maxi Clean SPE 600 mg. 
+
+ISE  Procedure:    A  urine  sample  from  the  24-hour 
+collection is transferred into a supplied 45 ml plastic vial 
+with a snap top containing a tablet of NaNO3 and FDC 
+Green #3.  The volume of urine must reach the level of 
+the  outer  ring  on  the  plastic  vial  (35  ml).    After 
+dissolving  the  tablet  into  the  urine  (0.4  N  NaNO3  final 
+concentration),  10  ml  of  the  urine  containing  0.4  N 
+NaNO3  are  aspirated  into  10  ml  plastic  syringe  (BD 
+#301030).  Do not discard the remaining 25 ml of urine 
+in the plastic vial until you have satisfactorily completed 
+the  ISE  measurement  of  iodide.    The  Altech  SAX 
+cartridge (#21907) is then fitted at the tip of the syringe.  
+The  syringe/cartridge  combination  is  placed  into  the 
+PDM-6 unit for elution.  The speed of elution is set at 3 
+ml/min. 
+
+The  eluted  urine  contains  chloride,  fluoride,  and 
+bromide, and it is discarded.  The retained iodide on the 
+SAX  resin  is  then  eluted  with  10  ml  5  N  NaNO3 and 
+collected into a 30 ml glass beaker containing 20 ml of 
+purified water.  The concentration of iodide is measured 
+
+under  continuous  stirring  with  the  Orion  ISE  (#9653 
+BN)  connected  to  the  Orion  Meter  720A-Plus  which is 
+programmed with the units of milligrams iodide per liter for 
+the dose response curve.3  Figure 8 in this manuscript can 
+be used as a guideline when setting up the dose response 
+curve.  Over the last five years, Optimox Potentiometric 
+R&D Lab has used five different ISEs from Orion.  The 
+dose  response  curves  for  these  electrodes  are  almost 
+superimposable.  These electrodes are very reproducible. 
+
+familiar  with 
+
+Physicians who do not want to invest in the equipment, 
+time,  or  personnel  required  for  the  measurement  of  
+iodide in situ but wish to perform the initial step in the 
+separation of iodide from the other halides can mail the 
+SAX  cartridges  containing  the  iodide  fraction  to  a  
+  From 
+laboratory 
+preliminary testing at the Optimox Potentionmetric R&D 
+Lab,  the  retained  iodine  in  the  SAX  cartridge  is  stable 
+for  up  to  10  days  at  room  temperature,  as  long  as  the 
+hydrated  resin  does  not  dry  out.    To  prevent  drying  of 
+t
+e  
+h
+cartridges, tight plugs are provided for both ends of the 
+cartridge. 
+
+this  procedure. 
+
+If the health care provider chooses the above option, the 
+only  equipment  needed  would  be  the  PDM-6.    There 
+would  be  no  need  for  glassware  and  pipetting  devices.  
+We  are  planning  to  offer  kits  with  six  cartridges,  six 
+syringes,  and  six  plastic  45-milliliter  vials  with  caps 
+containing  one  tablet  of  NaNO3  and  FDC  Green  #3.  
+The  NaNO3  concentration  will  be  0.4  N  when  the 
+NaNO3  tablet  is  dissolved  in  35  ml  of  urine.    The 
+cartridges will have a code number so that the physician 
+can  supply  the  cartridges  to  another  laboratory  for 
+(Continued on next page) 
+
+Table 5 
+
+Accuracy and Precision of the ISE Assay of Iodide Using the 4-Step 
+versus the 2-Step Chromatography on the SAX Cartridges 
+
+Iodide Added 
+
+0 mg 
+
+1 mg 
+
+10 mg 
+
+30 mg 
+
+50 mg 
+
+4-Step Procedure 
+
+Mean 
+
+0.052 
+
+0.96 
+
+10.1 
+
+32.6 
+
+54.8 
+
+SD 
+
+0.012 
+
+0.084 
+
+0.34 
+
+1.1 
+
+7.8 
+
+CV 
+
+23% 
+
+8.9% 
+
+3.4% 
+
+3.4% 
+
+14% 
+
+(n) 
+
+(6) 
+
+(6) 
+
+(5) 
+
+(5) 
+
+(5) 
+
+2-Step Procedure 
+
+Mean 
+
+SD 
+
+0.045 
+
+0.010 
+
+1.02 
+
+9.2 
+
+30.2 
+
+50.8 
+
+0.07 
+
+1.1 
+
+2.2 
+
+3.16 
+
+CV 
+
+22% 
+
+7% 
+
+12% 
+
+7.4% 
+
+6.3% 
+
+(n) 
+
+(6) 
+
+(5) 
+
+(5) 
+
+(5) 
+
+(5) 
+
+Values are expressed as mg iodide/L urine. 
+n = number of replicate measurements 
+CV = coefficient of variation 
+
+132 
+
+THE ORIGINAL INTERNIST     September   2006 
+
+ 
+ 
+ 
+ 
+ 
+ 
+S A X   C a r t r i d g e
+Altech #21907 600 mg
+
+Figure 7 
+The Simplified 2-Step Chromatographic Procedure 
+
+the  amount  of  iodine/iodide  ingested  and  the  total 
+volume of the 24-hour collection are needed if you want 
+the  laboratory  to  calculate  the  percent  excretion  of  the 
+oral load. 
+
+the 
+
+Urine  samples  with  known  amounts  of  iodide  will  also 
+be available for testing the accuracy of the procedure in 
+the physician’s office.  If 
+cartridges 
+the  SAX 
+containing 
+iodide 
+fraction  are  mailed  to 
+another  laboratory,  one 
+sample  out  of  every  six 
+samples  could  be  an 
+aliquot  of  urine  with 
+of 
+known 
+iodide.    In  this  way,  the 
+reliability  of  the  results 
+from 
+laboratory 
+that 
+could be evaluated. 
+
+SEQUENCE
+OF ELUTION
+
+amounts 
+
+IN
+
+1
+
+10 ml of urine sample
+containing 
+0.4 Molar NaNO3
+
+Fluoride
+Chloride
+Bromide
+in eluted urine sample
+
+OUT
+
+discarded
+
+Discussion 
+Until 
+the 
+recently, 
+essential  element  iodine 
+was  totally  neglected  by 
+the medical profession to 
+p o i n t   w h e r e 
+t h e  
+not 
+did 
+physicians 
+request  a  single  test  for 
+i o d i d e 
+u r i n e  
+concentration 
+during 
+their  whole  medical 
+career. 
+they 
+  What 
+learned  about  inorganic, 
+non-radioactive 
+iodine 
+was mainly from epidemiological studies in areas of the 
+world  with  extremely  severe  deficiency  causing 
+neurological  defect  and  mental  retardation.    A  recent 
+review on the history of iodine in medicine21-23 revealed 
+that the neglect and fear of iodine in medical practice did 
+not  originate  from  published  studies  with  documented 
+cases  of  serious  adverse  effects  to  inorganic,  non-
+radioactive 
+from 
+Instead, 
+iodophobic misinformation, surprisingly resulting in two 
+successive  waves  of  medical  iodophobia  which  may 
+have caused more misery and death in the US than both 
+World Wars combined.24  The first wave lasted 15 years 
+(1910-1925) and the second wave is still alive and well 
+after almost 60 years (1948-2006). 
+
+it  originated 
+
+iodine. 
+
+Over the past four years, in response to our publications 
+emphasizing the safe and effective use of inorganic, non-
+in  medical  practice,5,8-14,24,25 
+radioactive 
+physicians  and  other  health  care  practitioners  have 
+
+iodine 
+
+and 
+
+safely 
+
+successfully, 
+
+implemented, 
+the 
+orthoiodosupplementation  program  in  their  practice, 
+including  the  iodine/iodide  loading  test  prior  to  and 
+following  iodine  supplementation.    Currently,  only  two 
+laboratories offer the measurement of urine iodide in the 
+24-hour  urine  collected  during  the  loading  test:    FFP 
+Laboratory  (Hendersonville,  NC) and  Doctors  Data  (St. 
+  Both 
+IL). 
+Charles, 
+laboratories  use  the  4-
+step  procedure  with  the 
+PDM-20.8  The increased 
+interest of physicians and 
+car e 
+ot her  
+healt h 
+professionals 
+this 
+program  is  exemplified 
+by  the  fact  that  at  the 
+FFP  Laboratory  alone, 
+10,000 
+more 
+than 
+loading 
+tests  were 
+performed  over  the  last 
+three and a half years. 
+
+10 ml of
+5N NaNO3
+
+in 
+
+2
+
+Iodide
+
+In 10 ml of
+5N NaNO3
+
+We  have  simplified  the 
+ISE procedure in order to 
+e n c o u r a g e   m o r e 
+physicians 
+other 
+health  care  professionals 
+t he 
+i mpl ement  
+t o 
+
+and 
+
+++++
+
+20 ml H2O
+
+ISE assay
+of iodide
+
+Orion electrode 
+#9653 BN
+
+the  ISE  procedure  with 
+
+orthoiodosupplementation  program  in  their  practices.  
+Having various options for measurement of urine iodide 
+by 
+increasing  degree  of 
+involvement  by  the  health  care  practitioner,  gives  more 
+flexibility  in  the  assessment  of  whole  body  sufficiency 
+for  iodine  during  the  follow-up  of  the  patient  on 
+orthoiodosupplementation.  We are planning to perform 
+“field  testing”  of  this  simplified  approach  with  the 
+collaboration of health care professionals.  The results of 
+these  tests  will  be  the  subject  of  a  future  article  in  The  
+Original Internist. 
+
+About the Authors 
+
+Guy  E.  Abraham,  MD,  is  a  former  Professor  of 
+Obstetrics, Gynecology, and Endocrinology at the UCLA 
+School  of  Medicine.    Some  35  years  ago,  he  pioneered 
+
+(Continued on next page) 
+
+This  procedure  is  used  to  separate  the  iodide  fraction  from  the  other 
+halides prior to measurement by the ISE assay.  NaNO3 is added to urine 
+samples to reach a concentration of 0.4 M. 
+
+THE ORIGINAL INTERNIST     September   2006 
+
+133 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 8 
+
+Dose-Response Curve Observed with the Iodide-Selective Electrode 
+
+)
+
+V
+m
+
+(
+F
+M
+E
+
+-50
+
+-100
+
+-150
+
+-200
+
+-250
+
+-300
+
+-350
+
+M eter: ORION #720 - A Plus
+Electrode = O RION #9653 BN
+Filling Solution = ORION #D
+ISA = N aNO 3 5M
+Standard Volume/ISA  V olume = 2
+
+µM
+0.01
+0.1
+1.0
+10
+100
+1000
+
+EM F (mV)
+- 72.4
+-108.6
+-170.7
+-232.7
+-292.9
+-352.5
+
+(cid:1) EM F (mV)
+
+36.2
+62.1
+62.0
+60.2
+59.6
+
+-50
+
+-100
+
+-150
+
+-200
+
+-250
+
+-300
+
+-350
+
+0.01
+0.00127
+
+0.1
+0.0127
+
+1.0
+0.127
+
+10
+1.27
+
+100
+12.7
+
+1000
+127
+
+µM
+m g I/L
+
+Potassium  Iodide Concentration
+
+From reference 3 
+
+Belgium,  1976;  the  Senior  Investigator  Award  of 
+Pharmaciamacia, Sweden, 1980.   
+
+Roxane  C  Handal,  BS,  is  a  graduate  student  at  Boston 
+University  who  spent  a  two  week  apprenticeship  with 
+Dr. Abraham at the Optimox Potentiometric R&D Lab. 
+
+John  C.  Hakala,  RPh,  is  the  Director  of  Hakala 
+Research Laboratory. 
+
+REFERENCES 
+
+1)  Turner RG.   “A  micro colorimetric  method for the quantitative 
+estimation of iodine in blood.”  J Biol Chem, 1931; 88:497-511. 
+2)  Taurog  A  and  Chaikoff  IL.    “On  the  determination  of  plasma 
+
+iodine.”  J Biol Chem, 1946; 163:313-322. 
+
+3)  Abraham  GE,  Flechas  JD,  and  Hakala  JC.    “Measurement  of 
+urinary  iodide  levels  by  ion-selective  electrode:    Improved 
+sensitivity  and  specificity  by  chromatography  on  anion-
+exchange resin.”  The Original Internist, 2004; 11(4):19-32. 
+4)  Cooper G and Croxson MS.  “Chloride interference with use of 
+an iodide-selective electrode for urinary I.”  Clinical Chemistry, 
+1983; 29:1320. 
+
+5)  Abraham  GE.    “The  historical  background  of  the  iodine 
+
+project.”  The Original Internist, 2005; 12(2):57-66. 
+
+6)  Yabu Y, Miyai K, Hayashizaki S, et al.  “Measurement of iodide 
+in  urine  using  the  iodide  selective  ion  electrode.”    Endocrinol, 
+1986; 83:905-911. 
+
+7)  Konno  N,  Yuri  K,  and  Miura  K.    “Clinical  evaluation  of  the 
+iodide/creatinine  ratio  of  casual  urine  samples  as  an  index  of 
+daily  iodide  excretion  in  a  population  study.”    Endocrine 
+Journal, 1993; 40:163-169. 
+
+8)  Abraham  GE.    “Serum  inorganic  iodide  levels  following 
+ingestion  of  a  tablet  form  of  Lugol  solution:  Evidence  for  an 
+enterohepatic  circulation  of  iodine.”    The  Original  Internist, 
+2004; 11(3):29-34. 
+
+9)  Abraham  GE.    “Iodine  supplementation  markedly  increases 
+urinary  excretion  of  fluoride  and  bromide.”    Townsend  Letter, 
+2003; 238:108-109. 
+
+10)  Abraham  GE  and  Brownstein  D. 
+
+the 
+administration  of  Vitamin  C  improves  a  defective  cellular 
+transport mechanism  for iodine:  A  case report.”  The  Original 
+Internist, 2005; 12(3):125-130. 
+
+  “Evidence 
+
+that 
+
+11)  Abraham  GE,  Brownstein  D,  and  Flechas  JD. 
+
+  “The 
+saliva/serum iodide ratio as an index of sodium/iodide symporter 
+efficiency.”  The Original Internist, 2005; 12(4): 152-156. 
+12)  Abraham  GE.    “The  safe  and  effective  implementation  of 
+orthoiodosupplementation  in  medical  practice.”    The  Original 
+Internist, 2004; 11:17-36. 
+
+13)  Flechas  JD.    “Orthoiodosupplementation  in  a  primary  care 
+
+practice.”  The Original Internist, 2005; 12(2):89-96. 
+
+(Continued on next page) 
+
+134 
+
+THE ORIGINAL INTERNIST     September   2006 
+
+ 
+ 
+ 
+ 
+ 
+14)  Brownstein  D.    “Clinical  experience  with  inorganic,  non-
+  The  Original  Internist,  2005; 
+
+radioactive  iodine/iodide.” 
+12(3):105-108. 
+
+15)  Thurman  EM  and  Mills  MS. 
+
+  Solid-Phase  Extraction.  
+Principles  and  Practice.  Wiley-Interscience  Publication,  1998; 
+123-160. 
+
+16)  Tonacchera  M,  Pinchera  A,  Dimida  A,  et  al.    “Relative 
+potencies and additivity of perchlorate, thiocyanate, nitrate, and 
+iodide  on  the  inhibition  of  radioactive  iodide  uptake  by  the 
+human  sodium  iodide  symporter.”    Thyroid,  2004;  14:1012-
+1019. 
+
+17)  Andrews J.  “Thiocyanate and smoking in pregnancy.”  J Obstet 
+
+Gynaecol Br Commonw, 1973; 80:810-814. 
+
+18)  Chen  Y,  Pederson  LL,  and  Lefcoe  NM.    “Exposure  to 
+environmental  tobacco  smoke  (ETS)  and  serum  thiocyanate 
+level in infants.”  Arch Environ Health, 1990; 45:163-176. 
+19)  Abraham  GE.    “Radioimmunoassay  of  steroids  in  biological 
+materials.”  In:    Radioimmunoassay  and  Related  Procedures  in 
+the 
+Medicine. 
+
+  Proceedings  of  a  symposium  held  by 
+
+International Atomic Energy Agency, Vienna, Austria, 1974; 3-
+30. 
+
+20)  Abraham  GE. 
+
+  “The  application  of  natural 
+
+steroid 
+radioimmunoassay  to  gynecologic  endocrinology.”  In:    GE 
+Abraham’s  Radioassay  Systems  in  Clinical  Endocrinology.  
+Marcel Dekker, Inc., 1981; 475-530. 
+
+21)  Abraham GE.  “The history of iodine in medicine.  Part I:  From 
+  The  Original  Internist,  2006; 
+
+discovery  to  essentiality.” 
+13(1):29-36. 
+
+22)  Abraham GE.  “The history of iodine in medicine.  Part II:  The 
+search  for  and  the  discovery  of  thyroid  hormones.”    The 
+Original Internist, 2006; 13(2):67-70. 
+
+23)  Abraham  GE.    “The  history  of  iodine  in  medicine.    Part  III:  
+Thyroid  fixation  and  medical  iodophobia.”    The  Original 
+Internist, 2006; 13(2):71-78. 
+
+24)  Abraham GE.  “The Wolff-Chaikoff effect:  Crying wolf?”  The 
+
+Original Internist, 2005; 12(3):112-118. 
+25)  Abraham  GE  and  Brownstein  D. 
+
+the 
+orthoiodosupplementation  program:    A  rebuttal  of  Dr.  Gaby’s 
+
+  “Validation  of 
+
+Table 6 
+
+Equipment 
+
+ISE Meter 
+
+Iodide Electrode 
+
+Magnetic Stirrer 
+
+Positive Displacement Manifold 
+PDM-6 
+
+Accessories 
+
+SAX Cartridges 
+
+Equipment, Accessories, and Chemicals Required for the 
+Measurement of Urine Iodide by the ISE Procedure 
+
+Manufacturer 
+(PN) 
+
+Supplier 
+(PN) 
+
+Approximate 
+Cost 
+
+Supplier 
+Phone # 
+
+Thermo Orion 
+(720A-Plus) 
+
+Cole Parmer 
+(C-58810-50) 
+
+Thermo Orion 
+(9653 BN) 
+
+Corning 
+(440826) 
+
+Optimox 
+(PDM-6) 
+
+Spectrum 
+(246-25491) 
+
+Spectrum 
+(338-21613) 
+
+Optimox 
+(PDM-6) 
+
+$1,500 
+
+800-323-4540 
+
+$650 
+
+800-772-8786 
+
+$1,300 
+
+800-772-8786 
+
+$900 
+
+800-223-1601 
+
+Altech Associates 
+(21907) 
+
+Altech Associates 
+(21907) 
+
+$150/50 cartridges  800-255-8324 
+
+Glassware Pipetting Devices 
+
+— 
+
+Spectrum 
+
+— 
+
+800-772-8786 
+
+Plastic Syringes (10 ml) 
+
+Chemicals 
+
+Sodium Nitrate 5N 
+
+Sodium Iodide 0.1 M 
+
+Electrode Filling Solution #D 
+
+Beckton 
+Dickinson 
+(BD301030) 
+
+VWR  
+BD301030) 
+
+$165/850 syringes  800-932-5000 
+
+Spectrum 
+(S-259) 
+
+Thermo Orion 
+(945306) 
+
+Thermo Orion 
+(900063) 
+
+Spectrum 
+(S-259) 
+
+Cole Parmer 
+(C057323) 
+
+Cole Parmer 
+(C05713-36) 
+
+$65/L 
+
+800-772-8786 
+
+$90/L 
+
+800-323-4540 
+
+$80/5 x 60 ml 
+
+800-323-4540 
+
+THE ORIGINAL INTERNIST     September   2006 
+
+135

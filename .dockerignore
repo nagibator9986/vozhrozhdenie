@@ -1,0 +1,69 @@
+# Keep the Docker image small and free of secrets/test artefacts.
+# Anything that doesn't ship in the runtime container goes here.
+
+# ── Secrets — never bake into images ─────────────────────────────────────────
+.env
+.env.*
+!.env.example
+
+# ── VCS / IDE / OS junk ──────────────────────────────────────────────────────
+.git/
+.gitignore
+.gitattributes
+.github/
+.vscode/
+.idea/
+.claude/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# ── Python build artefacts ───────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+dist/
+build/
+.cache/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.tox/
+
+# ── Virtual environments ─────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+
+# ── Runtime data (mounted as a volume in compose, regenerated at runtime) ───
+data/
+!data/.gitkeep
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# ── Logs — never useful inside an image ──────────────────────────────────────
+*.log
+
+# ── Test harnesses / scratch files ───────────────────────────────────────────
+tools/
+tasks/
+tests/
+
+# ── Heavy unrelated artefacts that happen to live in this folder ─────────────
+# Personal academic work checked into the project tree but unrelated to the bot.
+Диплом_*.docx
+СТАТЬЙ*
+
+# ── Documentation/notes ──────────────────────────────────────────────────────
+*.md
+!README.md
+
+# Sentence-transformers downloads at runtime (already baked into the image)
+.cache/huggingface/

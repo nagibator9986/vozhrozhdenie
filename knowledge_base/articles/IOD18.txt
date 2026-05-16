@@ -1,0 +1,3430 @@
+The Combined Measurement 
+of the Four Stable Halides 
+by the Ion-Selective Electrode 
+Procedure Following Their 
+Chromatographic Separation 
+on a Strong Anion Exchanger 
+Resin:  Clinical Applications 
+
+by Guy E. Abraham, M.D. 
+
+Introduction 
+Group VII B of the periodic table contains five elements 
+which  are  called  halides  in  the  reduced  state  and  halo-
+gens in the oxidized state:  fluorine (MW=19); chlorine 
+(MW=36);  bromine  (MW=80);  iodine  (MW=127);  and 
+astatine (MW=210).  In nature, the halogen astatine ex-
+ists  only  in  the  radioactive  form.    The  stable  (non-
+radioactive) halogens and halides include the other four 
+elements.  The largest of the stable halogens, iodine is an 
+essential  element.    It  was  called  “The  Universal  Medi-
+cine” more than 100 years ago because of its safe, effec-
+tive and widespread applications in clinical medicine for 
+conditions  not  responding  to  other  treatment  modali-
+ties.1-4 
+
+Following  World  War  II,  iodophobic  misinformation 
+resulted in medical iodophobia.2-4  As a result, iodine has 
+been  neglected  in  medical  textbooks  and  vilified  in  en-
+docrine  publications.    Medical  iodophobia  may  have 
+caused  more  human  misery  and  death  in  the  US  than 
+both  World  Wars.5    After  60  years  in  the  Dark  Ages, 
+iodine is experiencing a revival due to recent in vivo and 
+in vitro research on this essential element.  The observa-
+tions  of  our  medical  predecessors  regarding  the  role  of 
+iodine in clinical medicine are undergoing scientific vali-
+dation.1-18  With a resurgence of interest in its extra thy-
+roidal  functions,13,19-22  iodine  may  soon  regain its title as 
+“The  Universal  Medicine”  or  more  appropriately  as  the 
+“Universal Nutrient.”1 
+
+The  halides  fluoride  and  bromide  block  the  uptake  and 
+utilization of iodine in target cells.13  Bromide possesses 
+goitrogenic,  carcinogenic,  and  narcoleptic  properties.10  
+Iodine intake in adequate amounts increases the mobili-
+zation and urinary excretion of fluoride and bromide.9,13  
+Chloride, like iodide, increases urinary excretion of bro-
+
+mide.14  Restriction of table salt decreases markedly the 
+renal clearance of bromide by as much as tenfold, result-
+ing  in  a  corresponding  tenfold  elevation  of  serum  bro-
+mide levels.  Some subjects on a restricted salt diet with 
+elevated  serum  bromide  levels  reported  that  they  felt 
+better  the  days  they  indulged  in  salty  foods.    Urinary 
+excretion  of  chloride  is  a  good  index  of  intake,  and  its 
+measurement should therefore be included in a compre-
+hensive  assessment  of  the  metabolism  and  excretion  of 
+the  goitrogenic,  carcinogenic,  and  narcoleptic  bro-
+mide.14,15    In  this  author’s  experience,  elevated  serum 
+fluoride levels (greater than 0.05 mg/L) are a rare occur-
+rence  whereas  elevated  serum  bromide  levels  (greater 
+than 12 mg/L) are common in our population.   
+
+The  accurate,  precise,  and  specific  measurement  of  the 
+essential  element  iodine  and  the  toxic  halides,  fluoride 
+and bromide, in biological fluids is essential for a com-
+prehensive  understanding  of  the  metabolism  of  these 
+elements  and  their  interactions  in  health  and  diseases.  
+Among the various techniques available for the measure-
+ment of the essential element iodide in biological fluids, 
+the  ion-selective  electrode  (ISE)  procedure  is  the  sim-
+plest, fastest, safest, and least expensive.6,13,23,24  Quanti-
+fication  of  iodide  is  performed  by  a  potentiometric 
+method,  using  an  ISE.    Urinary  iodide  is  measured  by 
+the electromotive force (EMF) generated on the ISE due 
+to the presence of iodide in the urine sample.  Within a 
+certain  range  of  iodide  concentrations,  there  is  a  linear 
+relationship  between  the  logarithm  of  iodide  concentra-
+tion and the EMF generated.   
+
+The ISE procedure for iodide was used in the US during 
+the early 1980s to assess the concentration of this essen-
+tial  element  in  dairy25  and  human  milk.26    It  was  later 
+applied  in  Japan  by  Yabu,  et  al,23  in  1986,  and  by 
+Konno, et al,24 in 1993, to measure iodide in the urine of 
+mainland Japanese.  In all the above studies, iodide was 
+measured  directly  in  the  biological  fluids  without  prior 
+purification. 
+
+As part of a project initiated by this author seven years 
+ago,  called  The  Iodine  Project,13  with  the  goal  of  re-
+evaluating  the  role  of  the  essential  element  iodine  in 
+clinical  medicine, the  ISE  procedure  was  applied  to  the 
+measurement  of  iodide  in  urine,6  serum,12  and  saliva16 
+following  chromatography  on  a  strong  anion  exchange 
+(SAX) resin.  In order to assess whole body sufficiency 
+for  iodine,10  an  iodine/iodide  loading  test  based  on  the 
+ISE  measurement  of  iodide  in  24-hour  urine  collection 
+following  an  iodine/iodide  load  was  developed  by  this 
+author.  The daily amount of the essential element iodine 
+needed  for  whole  body  sufficiency  was  named  orthoio-
+dosupplementation.8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The  three  biological  fluids  tested  so  far  in  the  author’s 
+potentiometric  R&D  laboratory  are  urine,  serum,  and 
+saliva.    The  chromatographic  technique  on  SAX  car-
+tridges  allowed  the  combined  ISE  measurement  of  io-
+dide, fluoride, bromide, and chloride in these biological 
+fluids.9,13,16  These procedures were described in several 
+publications11,12,14,15  but  not  in  detail.    The  combined 
+measurement of the four stable halides in biological flu-
+ids are presented here in more detail.  Health care profes-
+sionals and commercial laboratories who wish to set up 
+the  ISE  procedure  will  have  access  under  one  cover  to 
+practical  guidelines  for  each  phase  of  these  techniques:  
+the  collection  of  biological  fluids;  the  separation  of  the 
+halides from each other by anion exchange chromatogra-
+phy; their measurements by the ISE procedure; and some 
+clinical applications of these procedures. 
+
+Collection of Biological Fluids 
+Urine  Collection:    The  procedure  for  urine  collection 
+was previously described.6,27  For the sake of having all 
+this information  in  one  manuscript, the  procedure  is re-
+peated  here.    Ingested  iodates,  inorganic  iodine  and  io-
+dide are quantitatively absorbed.13  When the oral intake 
+is not excessive, iodate is reduced to iodide in the intesti-
+nal tract.28  Iodine is partly reduced in the intestinal tract, 
+but a significant amount is absorbed as iodine.29,30  Tar-
+get cells have a mechanism to transfer peripheral iodide 
+inside the cells by an active process.16  However, recent 
+evidence  suggests  that  iodine  is  passively  transferred 
+across the cell membrane.31  Peripheral iodide is cleared 
+efficiently  by  the  kidneys  within  24  hours  after  inges-
+tion,  with  a  daily  renal  clearance  rate  of  43.5  L  of 
+plasma.11 
+
+The  measurement  of  iodide  in  a  spot  urine  sample  is  a 
+rough  estimate  of  inorganic  iodate,  iodine,  and  iodide 
+intake.  Spot urine iodide measurement is the procedure 
+used  in  epidemiological  studies.    However,  it  must  be 
+emphasized  that  the  spot  test  is  not  reliable  for  whole 
+body  iodine  sufficiency.10,11    The  iodine/iodide  loading 
+test  requiring  a  24-hour  urine  collection  following  the 
+iodine load has been standardized and correlates well with 
+clinical response to orthoiodosupplementation.10,13,17 
+
+Prior to ingesting the iodine load, the first void sample is 
+usually discarded.  However, the iodide level in this spot 
+urine may be used to confirm that the subject/patient has 
+not ingested the iodine supplementation for 24-48 hours 
+prior to the loading test.  This is of value when the load-
+ing test is repeated following orthoiodosupplementation.  
+If the subject/patient did not stop the iodine supplemen-
+tation for at least 24 hours pre-load, a carryover effect of 
+the  iodine  ingested  the  previous  day  will  result  in  an 
+overestimation of the percentage of the load excreted. 
+
+The following instructions for the 24-hour urine collec-
+tion during the loading test apply to both pre- and post-
+orthoiodosupplementation.   
+
+test 
+
+loading 
+
+1)  Discard the first morning urine of Day 1.  How-
+ever, it may be used as a spot urine collection if 
+the 
+is  performed  post-
+orthoiodosupplementation.    A  low  iodide  level 
+in  the  spot  sample  confirms  that  the  sub-
+ject/patient  has  not  ingested  the  iodine  supple-
+mentation for 24-48 hours prior to the test. 
+2)  Take  four  tablets  of  Iodoral®  12.5  mg  with  a 
+
+glass of water. 
+
+3)  Collect all urine samples for 24 hours following 
+ingestion  of  the  loading  dose.    Include  the  first 
+morning urine on Day 2.  A 3-liter plastic bottle 
+appropriate  for  the  24-hour  collection  can  be 
+obtained  from  VWR  Scientific  Product  (PN# 
+60872-564).  The 16-ounce urine collection cup 
+is  available  from  General  Bottle  Supply  Co., 
+phone (323) 581-2001 (PN# T31216-1). 
+
+4)  At  the  end  of  the  24-hour  collection,  shake  the 
+3-liter  bottle  well.    Measure  the  volume  of  the 
+urine in the 3-liter bottle by looking at markings 
+on the side of the bottle, and pour 1-2 oz. into a 
+2-ounce plastic bottle (VWR Scientific Product, 
+PN#  16126-041).    Two  plastic  2-ounce  bottles 
+should be supplied in case the 24-hour urine vol-
+ume is greater than 3 L.  Have the patient return 
+the  other empty  2-ounce  bottle  with  your  pack-
+age, if the total volume is 3 L or less. 
+
+5)  If  the  3-liter  bottle  is  full  before  the  end  of  the 
+collection, the same 3-liter bottle can be used to 
+continue collection after measuring the total vol-
+ume:  
+A)  Measure  the  volume  of  the  urine  in  the  3-
+liter  bottle  by  looking  at  the  markings  on  
+the side of the bottle.  Pour 1-2 oz. of urine 
+in  the  2-ounce  plastic  bottle.    Write  name, 
+date  and  volume  of  urine  on  the  2-ounce 
+bottle.   Write  on the label “Part  1  of  2  col-
+lections.” 
+
+B)  Discard  the  urine  in  the  3-liter  bottle.    Use  
+the same 3-liter bottle to continue collection. 
+C)  At  the  end  of  the  24-hour  collection,  meas-
+ure the volume of the urine again and repeat 
+step 5A.  Write “Part 2 of 2 collections.” 
+D)  When the patient’s information form is com-
+pleted,  under 
+total  volume,  write:  
+“Collected  in  2  parts,  both  sample  bottles 
+enclosed.” 
+
+(Continued on next page) 
+
+ 
+ 
+ 
+E)  The  concentration  of  iodide  in  the  24-hour 
+urine collection will be the sum of both val-
+ues  obtained  in  the  two  specimens.    Please 
+note that in this case, you will be performing 
+two  measurements  instead  of  one  to  com-
+pute  the  percentage  load  excreted.    For  ex-
+ample,  you  measure  6  mg/L  in  collection 
+Part 1 with a volume of 3 L, and you meas-
+ure  4  mg/L  in  collection  Part  2  with  a  vol-
+ume  1.5  L.    The  computation  of  the  total 
+amount  of  iodide  excreted  is:    Part  1  =  6 
+mg/L × 3 L = 18 mg; Part 2 = 4 mg/L × 1.5 
+L  =  6  mg;  Total  =  24  mg;  The  percentage 
+excreted = 48%. 
+
+The food grade coloring FD and C Green #3 is added at 
+a  concentration  of  1  ml  of  a  1%  solution  per  liter  of 
+urine.  It is used for its antiseptic properties and also as a 
+marker  for  spent  chromatography  cartridges.6    Sodium 
+azide at a final concentration of 0.01% is usually the an-
+tiseptic  used  during  collection  of  urine  samples.23    FD 
+and C Green #3 (Warner Jenkinson Company, St. Louis, 
+Missouri) and sodium azide  (Spectrum PN# S1666) can 
+both be used for maximum inhibition of mold and bacte-
+ria.    In  the  author’s  research  laboratory,  the  combined 
+addition of FD and C Green #3 and sodium azide is used 
+routinely for urine, serum, and saliva samples.  An aque-
+ous  solution  containing  15%  sodium  azide  and  1%  FD 
+and C Green #3 is added to urine samples at one drop per 
+ounce and to serum and saliva samples at one drop per 5-8 
+ml.   
+
+Serum  Collection:    Plasma  contains  fibrinogen  which 
+may coagulate and impair the flow of eluate through the 
+cartridges during chromatographic separation of the hal-
+ides.  This causes an increased pressure in the cartridges 
+which  results  in  a  distortion  of  the  elution  profile.    For 
+this  reason,  serum  samples  are  recommended.    After 
+venipuncture and collection of 10-15 ml of whole blood 
+in red top tubes without separator gel, let the blood clot 
+and retract.  Centrifuge the clotted blood.  Decant 5-8 ml 
+of serum in plastic tubes containing one drop of an aque-
+ous  solution  containing  15%  sodium  azide  and  1%  FD 
+and C #3.   
+
+Saliva  Collection:    After  rinsing  the  mouth  with  water 
+two to three times to remove any food particles, collec-
+tion  of saliva  for  a total  volume  of  5-8  ml  can  be done 
+passively  by  letting  it  flow  through  a  straw  into  a  test 
+tube or by spitting into a container with a wide opening.  
+One drop of an aqueous solution containing 15% sodium 
+azide and 1% FD and C Green #3 is added to the collect-
+ing  vial.    Xylitol  and  citric  acid  which  increase  saliva 
+flow  may  be  used  in  patients  who  cannot  produce 
+
+enough saliva within 5-10 minutes.  Centrifuge saliva to 
+remove  coagulated  mucus  which  interferes  with  the 
+chromatographic separation of the halides.   
+
+Combining  the  loading  test  with  the  measurements  of 
+serum and saliva iodide 24 hours post-load gives an as-
+sessment of iodine sufficiency of the whole body and effi-
+ciency of the cellular uptake and utilization of peripheral 
+iodide.16    This  is  called  the  triple  test  for  the  combined 
+assessment of sufficiency and efficiency.  The biological 
+fluids are stable for up to one week at room temperature 
+when collected in containers with sodium azide and FD 
+and C Green #3.  However, it is best to freeze the sam-
+ples if they are not processed within 48 hours of collec-
+tion. 
+
+Chromatographic Separation of 
+Halides from Biological Fluids 
+In order to improve the specificity of the ISE procedure, 
+the halides are separated from each other by solid phase 
+partition  on  Strong  Anion  Exchanger  (SAX)  columns 
+and cartridges prior to their ISE measurement. 
+
+Materials  used  in  anion  exchange  chromatography  are 
+composed  of  three  components  attached  together  and 
+placed in a column or a cartridge:  the base or backbone 
+support;  the  functional  group  or ion  exchanger;  and the 
+counter ion available  for  exchange.    For  backbone,  sty-
+rene divinyl benzene (SDB) was preferred over silica gel 
+because it is more rugged, less sensitive to pH changes, 
+and possesses a higher capacity.  For example, SAX col-
+umns  with  silica  backbone  are  available  from  Varian  and 
+Associates  (Harbor  City,  California)  with  a  capacity  of 
+0.85 m Eq/gm of resin.  However, with SDB backbone, 
+Altech  (Deerfield,  Illinois)  quotes  a  figure  of  1.5  m 
+Eq/gm, a 75% greater capacity to exchange anions.  This 
+translates  into  the  ability  to  process  a  75%  greater  vol-
+ume of urine for the same amount of resin. 
+
+Strong  anion  exchangers  are  quaternary  amines  versus 
+weak  anion  exchangers,  which  are  primary,  secondary 
+and tertiary amines.  Strong anion exchangers are always 
+charged at any pH.  Therefore, elution of the analate of 
+interest  could  be  achieved  by  increasing  the  ionic 
+strength  of the  elution  solvent  without  adding  any  acid.  
+Data are available for strong anion exchangers regarding 
+the  relative  selectivity  of  halides.32    With  fluoride  as 
+unity,  chloride  has  a  relative  selectivity  of  10;  bromide 
+28; and iodide 87.  The higher the number, the stronger 
+the  binding  of  the  halide  to  the  anion  exchanger.    The 
+stronger  the  binding  of  the  halide to the ion  exchanger, 
+the  higher  the  ionic  strength  required  for  elution.    By 
+adding sodium nitrate to the biological fluid at an ionic 
+strength high enough to elute fluoride, chloride, and bro-
+
+174 
+
+THE ORIGINAL INTERNIST     December   2006 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1 
+
+Flowchart Describing the Procedure Used in the Combined 
+Measurement of Fluoride, Bromide, and Iodide in the Same Urine Sample6 
+
+IN
+
+OUT
+
+Sample
+10 ml of
+urine
+
+1
+
+Wash solvent
+10 ml of
+0.5N NaNO3
+
+2
+
+Elution solvent
+5 ml of
+5N NaNO3
+3
+
+S A X   c o l u m n
+
+eluted urine
+
+wash solvent
+
+elution solvent
+
+HALIDES
+
+- Fluoride
+- 75-80% Chloride
+
+In 10 ml of
+urine
+
+- 20-25% Chloride
+- Bromide
+
+In 10 ml of
+0.5N NaNO3
+
+- Iodide
+
+In 5 ml of
+5N NaNO3
+
+++++
+
+++++
+
+10 ml of TISAB II
+
+5 ml of 5N NaNO3
+
+ISE assay
+of fluoride
+
+ISE assay
+of bromide
+
+++++
+
+10 ml H2O
+
+ISE assay
+of iodide
+
+mine  with  the  biological  fluid, but  not  high  enough to 
+elute iodide, a high degree of purity of the iodide frac-
+tion  could  be  achieved  in  a  2-step  procedure,  even 
+though the other halides were not separated from each 
+other. 
+
+When the decision was made in early 2002, to measure 
+urine iodide levels in situ and to use a chromatographic 
+separation  of  the  halides  prior  to  measurement  to  im-
+prove  specificity,  the  only  available  chromatographic 
+manifolds  affordable  for  a  small  laboratory  were  the 
+positive pressure manifolds and the vacuum manifolds.  
+Two vacuum manifolds capable of handling 10 samples 
+and 30 samples were purchased by the Optimox Poten-
+tiometric  R&D  Laboratory  from  Applied  Separation, 
+Inc. (Allentown, Pennsylvania).  To generate a vacuum 
+in the vacuum manifold, the Benchtop Vacuum Station 
+from  Altech  was  chosen  because  it  was  capable  of 
+maintaining  a  preset  vacuum.    For  the  separation  of 
+halides,  the  SAX  resin  from  Altech  was  tested  in  col-
+umns containing from 100-600 mg of resin.  The 500-
+
+milligram column with a 15-milliliter reservoir was cho-
+sen.  A 3-step procedure using increasing concentrations 
+of  an  aqueous  solution  of  NaNO3  yielded  the  halides 
+shown in Figure 1.  The eluted urine contained fluoride 
+and 75-80% of the chloride.  Some 20-25% of the chlo-
+ride was retained on the column, together with bromide 
+and iodide.    A  wash  of the  column  with  10  ml  of  0.5N 
+NaNO3  eluted  the  retained  chloride  and  the  bromide.  
+Quantitative  recovery  of  iodide  (>95%)  was  achieved 
+with 5 ml 5N NaNO3.6 
+
+Although  the  iodide  fraction  did  not  contain  the  other 
+halides,  the  chloride  fraction  was  not  completely  sepa-
+rated from the fluoride and bromide fractions.  This pro-
+cedure  was  used  to  measure  urine  iodide  levels  during 
+the early phase of The Iodine Project, and the specificity 
+was  confirmed  by  the  high  degree  of  correlation  ob-
+served when values of urine iodide by the ISE procedure 
+were  compared  with  corresponding  values  by  the  ICP-
+MS technique.6  The correlation was better with low io-
+dide levels than levels post-orthoiodosupplementation. 
+
+(Continued on next page) 
+
+ 
+ 
+In  order  to  improve  the  specificity,  precision  and  accu-
+racy  in  the  measurement  of  the  other  halides,  the  chro-
+matographic purification of iodide from the other halides 
+by  solid  state  partition  on  anion  exchange  resins  was 
+modified.    Instead  of  the  500-milligram  column  with  a 
+10-milliliter  reservoir  (Altech  #309750), 
+the  600-
+milligram syringe cartridge (Altech #21907) was used.12  
+Both  chromatographic  systems  contain  the  same  SAX 
+resin.6    The  vacuum  manifold  connected  to  a  vacuum 
+pump  was  replaced  with  the  Positive  Displacement 
+Manifolds (PDM-40, PDM-20, and PDM-6), capable of 
+running 40, 20 and six samples, respectively, in the same 
+batch.  The PDMs were designed by the author with the 
+assistance of precision machinists who built the units in 
+aluminum.   
+
+The concentrations of NaNO3 used for the elution of the 
+halides  were  modified  from  a  3-step  procedure  to  a  4-
+step  procedure.12    Pilot  studies  were  performed  with 
+standards of the halides in order to optimize the new sys-
+
+Figure 2 
+
+tem.    In  the  500-milligram  column,  fluoride  was  eluted 
+with  the  biological  fluid  together  with  75-80%  of  the 
+chloride.    With  the  600-milligram  cartridge,  chloride 
+came first with the eluted sample.  The 4-step procedure 
+using  the  600-milligram  cartridges  had  a  much  greater 
+resolution  power  in  separating  the  halides  from  each 
+other  than  the  3-step  procedure  with  the  500-milligram 
+column.  The sequence of the elution procedure used for 
+the cartridges is displayed in Figure 2.  This elution se-
+quence resulted in an excellent separation of the halides 
+with less than 2% overlap (Table 1). 
+
+As previously discussed, the stronger the binding of the 
+halide to the ion exchanger, the higher the ionic strength 
+required for elution.  By increasing the ionic strength of 
+the biological fluid with sodium nitrate to elute fluoride, 
+chloride,  and  bromide  with  the  biological  fluid,  but  not 
+high  enough  to  elute  iodide,  a  high  degree  of  purity  of 
+the iodide fraction could be achieved in a 2-step proce-
+dure.   
+
+Flowchart Describing the Combined Measurement of 
+Halides in the Same Urine/Serum/Saliva Sample 
+
+IN
+
+Sample
+10 ml of
+urine/serum/saliva
+
+SEQUENCE
+OF ELUTION
+
+1
+
+10 ml of
+0.05N NaNO3
+
+2
+
+10 ml of
+0.1N NaNO3
+
+3
+
+10 ml of
+5N NaNO3
+
+4
+
+S      A      X          c      o      l      u      m      n
+Altech #21907 600 mg
+
+HALIDES
+ELUTED
+
+- Chloride
+
+In 10 ml
+of urine/ 
+serum
+
+- Fluoride
+
+In 10 ml of
+0.05N NaNO3
+
+- Bromide
+
+In 10 ml of
+0.1N NaNO3
+
+- Iodide
+
+In 10 ml of
+5N NaNO3
+
+++++
+
+++++
+
+++++
+
+++++
+
+20 ml of 2.5N NaNO3
+
+20 ml of 75% TISAB II
+
+20 ml of 2.5N NaNO3
+
+20 ml H2O
+
+ISE assay
+of chloride
+
+ISE assay
+of fluoride
+
+ISE assay
+of bromide
+
+ISE assay
+of iodide
+
+ORION
+ELECTRODE #
+
+#9617 BN
+
+#9609 BN
+
+#9635 BN
+
+#9653 BN
+
+Chloride, fluoride, bromide, and iodide measured by prior chromatography on the anion-exchange resin cartridge SAX 600 mg 
+fitted with 10-milliliter plastic syringes in a positive displacement manifold.12 
+
+(Continued on next page) 
+
+176 
+
+THE ORIGINAL INTERNIST     December   2006 
+
+ 
+ 
+Table 1 
+
+Eluate 
+
+0.05N NaNO3 
+
+0.1N NaNO3 
+
+5.0N NaNO3 
+
+Chromatography of Halides in Water: 
+Percent Recovery in Eluted Fractions of Increasing Ionic Strength 
+
+Chloride 
+
+Fluoride 
+
+Bromide 
+
+Percent Recovery 
+
+≥98% 
+
+<2% 
+
+<1% 
+
+<1% 
+
+<1% 
+
+≥98% 
+
+<1% 
+
+<1% 
+
+<1% 
+
+<1% 
+
+≥98% 
+
+<1% 
+
+Iodide 
+
+<1% 
+
+<1% 
+
+<1% 
+
+≥98% 
+
+The eluted fractions were 10 ml each.  For the chromatography an Altech 600mg SAX cartridge #21907 using a positive 
+displacement manifold was employed. 
+
+If iodide is the only halide of interest, a 2-step procedure 
+is adequate.  Experiments were performed using increas-
+ing  concentrations  of  NaNO3  in  urine  samples.    Com-
+plete elution of chloride, bromide, and fluoride with the 
+eluted  urine  was  observed  when  NaNO3  was  added  to 
+the urine sample at a concentration of 0.4 M (Figure 3).  
+This  2-step procedure (Figure  4)  was  developed for the 
+measurement of iodide exclusively.27  The main applica-
+tion of this rapid procedure is in the measurement of per-
+centage  excretion  of  iodide  following  ingestion  of  the 
+
+Figure 3 
+
+Effect of Increasing 
+Concentrations of NaNO3 
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+e
+d
+i
+d
+o
+i
+d
+n
+a
+
+e
+d
+i
+m
+o
+r
+b
+f
+o
+y
+r
+e
+v
+o
+c
+e
+r
+
+t
+n
+e
+c
+r
+e
+P
+
+Iodide
+Bromide
+
+0.05
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+Molar concentration of NaNO3 in urine sample
+
+Effect  of  increasing  concentrations  of  NaNO3  in  urine 
+samples containing 300mM chloride, 12.5 mM bromide, 
+2  mM  fluoride,  and  0.1  mM  of  iodide  on  recovery  of 
+bromide in the eluted urine and the recovery of iodide in 
+the second pass of 10 ml 5N NaNO3 through the Altech 
+cartridges (#21907) using the PDM.27 
+
+iodine/iodide load, in order to assess whole body iodine 
+sufficiency.10,13 
+
+The 4-step procedure (Figure 2) with the PDM-20 or the 
+PDM-40 and the 600-milligram SAX cartridges are used 
+for the combined measurement of the four halides.  It is 
+best not to equilibrate the cartridges with water or buffer 
+as  recommended  by  Orion  (Beverly,  Massachusetts) 
+prior to use.   In the author’s experience, their power of 
+resolution is greater if the biological fluid is added to the 
+dry  cartridge  without  pre-equilibration.    Keep  at  least 
+one  month  supply  of  cartridges,  mainly  for  commercial 
+laboratories with a high volume of samples.  The 4-step 
+procedure using the PDM-40 is described below: 
+
+1)  Turn the PDM-40 unit on. 
+2)  Pull out the syringe rack to the stop position, and 
+
+remove any used syringes. 
+
+3)  Insert  unused  B-D  10cc  plastic  syringes  (PN 
+#BD301030) in the syringe rack.  Make sure to 
+remove the tips of the syringes.  Secure syringes 
+with aluminum plates. 
+
+4)  Slide the syringe rack back into the PDM-40. 
+5)  Remove  the  cartridge  rack,  discard  used  car-
+
+tridges, and add new cartridges. 
+
+6)  In the sample tray, add 10 ml of biological fluid 
+(i.e., urine) in the 40 wells of the sample tray.  If 
+volume of the sample is less than 10 ml, complete 
+volume to 10 ml with water. 
+
+7)  Insert  the  sample  tray  into  its  position  on  the 
+
+PDM-40 (same position as cartridge rack). 
+
+8)  Set  on  cycle  I  (aspiration cycle),  and  push start 
+
+to aspirate biological fluid in syringe. 
+
+(Continued on next page) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9)  The  PDM-40  will stop  at the  end  of  each  cycle 
+and will disengage the syringe tip from the car-
+tridge. 
+
+10) After the aspiration cycle is complete, remove the 
+sample tray from the PDM-40.  The sample tray, 
+after use, should be soaked in 0.05-0.10% H2O2 
+containing the appropriate detergent in the right 
+concentration.    Rinse  with  water,  dry  and  store 
+for reuse. 
+
+11) Insert the cartridge rack into its appropriate loca-
+
+tion (same as sample tray).   
+
+12) Insert  beaker  tray  in  PDM-40  with  30-milliliter 
+glass beakers or disposable 1-ounce plastic cups, 
+corresponding  to  the  locations  of  the  new  car-
+
+tridges in the cartridge tray and of the used wells 
+in the sample tray. 
+
+13) Switch to cycle II (elution cycle), and push start 
+to reengage the syringes in the cartridges and to 
+elute the biological fluid. 
+
+14) This  fraction  contains  chloride  with  the  eluted 
+
+biological fluid. 
+
+15) After completion of cycle II, remove the beaker 
+tray  from  the  PDM-40.    Add  20  ml  of  2.5  M 
+NaNO3 to each beaker, and place the beaker tray 
+in the Orion autosampler #AS 3000 for measure-
+ment  of  chloride  using  Orion  electrode 
+#9617BN.    Place  clean  beakers  in  another 
+beaker tray, and insert into the PDM-40. 
+
+Figure 4 
+
+The Simplified 2-Step Chromatographic Procedure 
+
+IN
+
+10 m l of urine sam ple
+containing 
+0.4 M olar N aN O 3
+
+SE Q U EN C E
+O F EL U TIO N
+
+1
+
+10 m l of
+5N  NaN O 3
+
+2
+
+S A  X    C a r t r i d g e
+Altech #21907 600 m g
+
+O U T
+
+Fluoride
+C hloride
+Brom ide
+in eluted urine sam ple
+
+In 10 m l of
+5N  NaNO 3
+
+Iodide
+
+++++
+
+20 m l H 2O
+
+discarded
+
+ISE assay
+of iodide
+
+O rion electrode 
+#9653 BN
+
+This procedure is used to separate the iodide fraction from the other halides prior to measurement by the ISE assay.  NaNO3 is 
+added to urine samples to reach a concentration of 0.4 M.
+
+27
+
+178 
+
+THE ORIGINAL INTERNIST     December   2006 
+
+ 
+Table 2 
+
+Ion Selective Electrodes for Measurement of Halides: 
+Ion Plus Sure Flow Solid State from Thermo Orion 
+
+Halide 
+
+Orion # 
+
+Spectrum 
+Chemicals # 
+
+Approximate 
+Cost 
+
+Filling 
+Solution 
+
+Phone # 
+
+Chloride 
+
+9617BN 
+
+246-25417 
+
+$630.00 
+
+Fluoride 
+
+9609BN 
+
+246-25405 
+
+$630.00 
+
+Bromide 
+
+9635BN 
+
+246-25429 
+
+$630.00 
+
+Iodide 
+
+9653BN 
+
+246-25441 
+
+$630.00 
+
+*Orion part number 
+
+**Spectrum part number 
+
+B 90062* 
+246-24019** 
+
+A 90061* 
+246-24016** 
+
+D 90063* 
+246-24022** 
+
+D 90063* 
+246-24022** 
+
+1-800-772-8786 
+
+1-800-772-8786 
+
+1-800-772-8786 
+
+1-800-772-8786 
+
+16) Add 10 ml of 0.05N NaNO3 in the wells of an-
+other  sample  tray  labeled  “elution  solvent  tray” 
+and insert into the PDM-40.   
+
+17) Switch  to  cycle  I  and  push  start  to  aspirate  the 
+
+eluate (0.05N NaNO3) in the syringes. 
+
+18) Repeat steps 8-12. 
+19) This  fraction  contains  fluoride.    Remove  the 
+beaker tray containing the fluoride fraction.  To 
+each  beaker  add  20  ml  of  a  solution  containing 
+three parts TISAB II to one part water.  Place the 
+beaker tray in the autosampler for measurement 
+of fluoride using Orion electrode #9609BN. 
+20) Add  10ml  0.1N  NaNO3  to  the  wells  of the  elu-
+tion solvent tray.  It is not necessary to rinse the 
+elution  solvent  tray  prior  to  use  for  the  0.1N 
+NaNO3 and the 5.0N NaNO3.  Repeat steps 8-12. 
+21) This fraction contains bromide.  Add 20  ml 2.5 
+M NaNO3 to each beaker in the beaker tray, and 
+place  the  beaker  tray  in the  autosampler  for  as-
+say of bromide using Orion electrode #9635BN. 
+22)  Add  10ml  of  5N  NaNO3  to  the  wells  of  the 
+elution  solvent  tray  and  insert  into  the  PDM-
+40. 
+
+23) Repeat steps 8-12. 
+24) This fraction contains iodide.  Add 20 ml of wa-
+ter  to  each  beaker  and  place  the  beaker  tray  in 
+the autosampler for assay of iodide using Orion 
+electrode #9653BN. 
+
+After use, the sample tray, all glassware and plasticware 
+are  soaked  in  warm  water  containing  0.05-0.1%  H2O2 
+and the appropriate detergent for 30 minutes before rins-
+ing  with  tap  water  followed  by  reverse  osmosis  (R/O) 
+water.   The  beaker trays  of  the  PDM-40  were  designed 
+to be compatible with the Orion Autosampler AS-3000.  
+This  autosampler  has  45  positions.    The  first  five  posi-
+tions are for washing beakers and the remaining 40 posi-
+tions  are  for  measurement  of  samples.    The  beakers  in 
+the beaker tray of the PDM-40 are coded with the same 
+numerical  sequence  programmed  in  the  940/960  Model 
+coupled  to  the  Autosampler  AS-3000,  eliminating  hu-
+man  error.    Unfortunately,  the  AS-3000  is  no  longer 
+available  from  Orion.    The  new  version  has  a  different 
+configuration,  and  the  beaker  rack  of  the  new  Orion 
+model  cannot  be  installed  in  the  PDM-40.    So  we  are 
+back to the drawing board to design a new PDM-42 that 
+will be compatible with the new Orion autosampler. 
+
+Using the ISE Procedure to Measure Purified Halides 
+Although  there  are  several  suppliers  of  equipment  and 
+accessories  for  the  ISE  measurement  of  halides,  the 
+equipment  and  accessories  discussed  in  this  manuscript 
+were obtained from Orion and were tested in the author’s 
+Potentiometric Laboratory.  The results presented in this 
+manuscript are from personal experience. 
+
+Potentiometric  Equipment:    In  early  2002,  this  author 
+decided to set up the ISE measurement of urine iodide in 
+situ  for  better  quality  control  in  the  performance  of  the 
+iodine/iodide  loading  test.13    The  first  instrument  used 
+(Continued on next page) 
+
+ 
+ 
+ 
+ 
+ 
+for the ISE measurement of iodide in urine samples was 
+the Orion 720A+ meter6 which requires manual input for 
+generating  the  standard  curve  and  measurement  of  un-
+known samples.  The procedure for generating a calibra-
+tion curve and for measuring iodide in unknown samples 
+with  the  720A+  meter  was  previously  described.6    This 
+procedure  was  later  modified  and  semiautomated  in 
+2003  using  the  PDM40  for  chromatographic  separation 
+of the halides using syringe cartridges12,13 and the Orion 
+940/960 Meter coupled to the AS-3000 for measurement 
+of the purified halides. 
+
+Electrodes:  In Table 2, the ion-selective electrodes used 
+to measure the four halides are displayed with the prod-
+uct  number  for  both  Thermo  Orion  and  Spectrum 
+Chemicals  and  their  approximate  cost.    Although  some 
+manufacturers  supply  ISE  electrodes  at  a  lower  cost, 
+they are not as sensitive, as precise, and as simple to op-
+erate  and  maintain  as  the  Orion  electrodes  displayed  in 
+Table 2.  The filling solutions displayed in Table 2 can 
+be drained easily for storage of the electrode.  At the end 
+of each day, it is best to drain the filling solution, rinse 
+the inner chamber and the tip of the electrode with puri-
+
+fied water, dry and store the electrode with the tip in its 
+protective  rubber  cap.    The  Orion  instruction  booklet 
+contains  a  troubleshooting  checklist.    Based  on  the  ex-
+perience obtained over the past five years at the Optimox 
+Potentiometric Laboratory, the ISE electrodes for halides 
+have a useful lifespan of 9-12  months with regular use, 
+and the biological fluids are purified prior to their meas-
+urement with these electrodes.  Some companies supply-
+ing similar electrodes at a lower cost claim a useful life-
+span of six months. With new electrodes, the calibration 
+curves  performed  monthly  are  superimposable.    The 
+slope  and  limit  of  detection  are  within  a  narrow  range. 
+Afterward 9-12 months of regular use, there is evidence 
+of  deterioration  of  performance  as  described  below.  
+First,  attempt  to  correct  the  problems  by  following  the 
+recommendations  from  Orion,  including  polishing  the 
+tip of the electrode.  If this fails, acquire a new electrode.  
+The  fluoride  electrode  shows  decreased  performance 
+sooner than the others.   It  is time to replace these elec-
+trodes when:  
+
+•  The slope of the calibration curve becomes less 
+steep  with  decreased  EMF  per  decade.    If  this 
+deterioration  occurs  before  the  next  calibration, 
+
+Figure 5 
+
+Effect of Aging of Iodide Electrode on the EMF Changes per Decade of Standard Iodide 
+
+0
+
+-100
+
+-200
+
+-300
+
+- 400
+
+New Electrode
+Deteriorating Electrode
+
+Low iodide level
+
+High iodide level
+
+)
+
+V
+m
+
+(
+F
+M
+E
+
+0.1
+
+1
+
+10
+
+100
+
+1000
+
+uM
+
+Concentration of Iodide
+
+Decreased EMF changes/decade; underestimation of iodide at low levels and overestimation at high levels. 
+
+180 
+
+THE ORIGINAL INTERNIST     December   2006 
+
+ 
+ 
+Table 3 
+
+Practical Limits of Detection of the Halide Electrodes in Descending Order of Sensitivities 
+
+Halide 
+
+Molecular 
+Weight 
+
+Iodide 
+
+Fluoride 
+
+Bromide 
+
+Chloride 
+
+127 
+
+19 
+
+80 
+
+36 
+
+Sensitivity* 
+
+Mg/L 
+
+0.006 
+
+0.04 
+
+0.4 
+
+13.0 
+
+µM/L 
+
+0.05 
+
+2.1 
+
+5.0 
+
+360 (0.36 mM) 
+
+Tested in author’s laboratory using 10 ml of biological fluid in a total volume of 30 ml 
+
+it  causes  underestimation  at  low  halide  levels 
+and overestimation at high halide levels (Figure 
+5). 
+
+•  The  limit  of  detection  (MUD  value)  has  in-
+creased significantly with significant loss of sen-
+sitivity.    With  the  Orion  940/960,  this  loss  of 
+sensitivity  can  be  assessed  during  calibration 
+since the MUD value will increase progressively 
+over time.  
+
+• 
+
+It  requires  a  longer  time  during  washing  of  the 
+electrodes  for  a  return  of  the  EMF  to  baseline.  
+Eventually,  the  EMF  of  the  electrode  does  not 
+return  to  baseline  but  remains  above  the  ex-
+pected  value,  therefore  increasing  the  limit  of 
+detection.  Using a new electrode, five washes of 
+10 seconds between measurements are adequate 
+to prevent overestimation of a low halide sample 
+when  it  follows  a  sample  with  concentration  of 
+halides 1000-fold higher.  With deterioration of 
+the  electrode,  a  longer  washing  time  becomes 
+necessary.  If this is not taken into consideration, 
+a  low  halide  sample  following  a  high  halide 
+sample  will  be  overestimated.    If  washing  the 
+electrodes becomes too time consuming to bring 
+the EMF value to baseline, replace the electrode. 
+•  Measurement  of  the  pool  samples  with  added 
+standards results in underestimation of the halide 
+levels  in  the  pools  with  low  concentrations  of 
+standards and overestimation of the halide levels 
+in  the  pools  with  high  concentration  of  halides 
+(Figure  5).  The  accuracy  of  experiments  per-
+formed  in  every  batch  is  the  best  means  of  de-
+tecting a deteriorating electrode between calibra-
+tion.  
+
+Any of the first three examples would justify replacing 
+the  electrode.    Check  every  new  electrode  before  use 
+for the above.  Compare performance with the previous 
+electrode.    Defective  new  electrodes  can  be  detected 
+early and exchanged.  It may take up to two months to 
+obtain new electrodes from Orion.  For electrodes that 
+are used frequently, mainly in commercial laboratories 
+where  turnaround  time  is  critical,  extra  electrodes  for 
+halides most in demand should be kept in stock just in 
+case. 
+
+The sensitivity (limit of detection) of the standard curve 
+obtained  with  these  electrodes  in  the  author’s  labora-
+tory is displayed in Table 3, when 10 ml of biological 
+fluid  and  30  ml  total  volume  are  used  in  the  assay.  
+When a volume of less than 10 ml of biological fluid is 
+used, and the total volume is maintained at 30 ml, the 
+limit of detection increases proportionately.  The values 
+displayed  in  Table  3  are  conservative  and  vary  from 
+batch to batch, but they represent average values.  For 
+example, the limit of detection for iodide can be as low 
+at 0.002 mg/L with some electrodes.   
+
+Figure 6 displays the standard curves for the four hal-
+ides.  The linear or near linear portion of these curves 
+are boxed in grey for easy identification.  The two hal-
+ides with the lowest limit of detection (iodide and fluo-
+ride)  have  the  widest  ranges  of  linearity.    The  iodide 
+electrode  is  the  most  sensitive  with  limit  of  detection 
+ranging  from  0.002-0.006  mg/L,  followed  by  fluoride 
+at  0.04  mg/L  then  comes  bromide  at  0.4  mg/L,  and 
+lastly  chloride  at  13  mg/L.    For  urine  samples,  a  vol-
+ume of 10 ml is easily available.  However, for serum 
+and saliva, a volume of 3 ml diluted with 7 ml of water 
+(Continued on next page) 
+
+ 
+ 
+Figure 6 
+
+Dose-Response Curve for the Four Halides Using Thermo Orion ISE Electrodes 
+
+Fluoride #9609 BN
+
+Chloride
+
+#9635 BN
+
+Bromide
+
+#9635 BN
+
+Iodide #9653 BN
+
+)
+
+V
+m
+(
+F
+M
+E
+
++200
+
++150
+
++100
+
++50
+
+0
+
+-50
+
+-100
+
+-150
+
+-200
+
+-250
+
+-300
+
+-350
+
+-400
+
+-450
+
+-500
+
++200
+
++150
+
++100
+
++50
+
+0
+
+-50
+
+-100
+
+-150
+
+-200
+
+-250
+
+-300
+
+-350
+
+-400
+
+-450
+
+-500
+
+0.1
+
+1.0
+
+10
+
+100
+
+1,000
+
+10,000
+
+100,000
+
+µM Iodide/Bromide/Fluoride
+mM Chloride
+
+The Thermo Orion part number is displayed next to the standard curve.  The gray box outlines the linear or near linear portion 
+of the standard curve. 
+
+182 
+
+THE ORIGINAL INTERNIST     December   2006 
+
+is  usually  used  in  the  assay.    The  limit  of  detection  is 
+therefore 3.3 times higher in the measurement of the hal-
+ides in serum and saliva. 
+
+Standards:    The  halides  can  be  purchased  in  the  solid 
+forms or dissolved in purified water.  If an aqueous solu-
+tion of the halide standards is used to generate the stan-
+dard  curves,  make  sure  that  these  solutions  are  not  be-
+yond their expiration date.  Some companies do not sup-
+ply an expiration date, and it is best not to use standard 
+solutions from these companies.  The solid forms of the 
+halides purchased from Spectrum Chemicals in the pur-
+est  forms  available  are  used  in  the  author’s  laboratory.  
+The  Spectrum  product  number  for  the  four  halides  are: 
+chloride (sodium salt) PN# S1249; fluoride (sodium salt) 
+PN# S0167; bromide (sodium salt) PN# S1195; and io-
+dide  (potassium  salt)  PN#  P0185.    Concentrated  stock 
+solutions  of  the  halides  are  prepared  every  six  months.  
+For chloride, the stock solution contains 1 M/L.  For the 
+other  halides,  a  concentration  of  0.1  Molar  is  prepared.  
+The iodide stock solution is stored in brown glass bottles 
+and  the  other  halides in  opalescent  plastic  bottles.   The 
+concentration of the halide stock solution for each halide 
+is displayed in Table 4.   
+
+For  generating  the  calibration  curve  (standard  curve) 
+with  the  Orion  940/960,  the  owner’s  manual  recom-
+mends  a  concentration  of  halide  10  times  the  arbitrary 
+upper limit of detection set by the laboratory (Table 4).   
+
+For example, if one wishes to set an upper limit of detec-
+tion of one mM/L (127 mg/L) for iodide, the concentra-
+tion  recommended  in  the  stock  solution  for  the  Orion 
+940/960 is 10 mM/L.  The calibration is performed every 
+month.  If the 720A+ meter is used, prepare standards in 
+water at 10-fold dilutions within the linear portion of the 
+standard curve.  The 10-fold dilutions of standards to be 
+used in the 720A+ model for the calibration curve can be 
+expressed either as µM/L or as mg/L for iodide, fluoride, 
+and bromide.  For chloride, the measurement can be dis-
+played either as mM/L or g/L.  As many as five concen-
+trations  can  be  used  for  generating  the  standard  curve 
+with  the  Orion  720A+  meter.    This  meter  performed  a 
+point to point calibration.  The Orion 940/960 will com-
+pute  the  standard  curve  automatically  by  pumping  in-
+creasing  amounts  of  halides  to  an  aqueous  solution  of 
+the  ionic  strength  adjuster  appropriate  for  the  halide 
+measured (see Table 4). 
+
+Ionic Strength Adjuster (ISA):  For best performance of 
+the ISE electrodes, ISAs are used to bring standards and 
+unknown  samples  within  the  same  narrow  range  of  pH 
+and of ionic strength.  For the measurement of chloride, 
+bromide,  and  iodide,  the  ISA  is  an  aqueous  solution  of 
+sodium nitrate (NaNO3) at a final concentration of 1.66 
+M.  The ISA used in the assay of fluoride is an aqueous 
+solution  containing  sodium  acetate,  sodium  chloride, 
+acetic  acid,  and  citric  acid.    This  ISA  from  Thermo 
+(Continued on next page) 
+
+Table 4 
+
+Stock Solutions of Halides 
+
+Halide 
+
+Chloride 
+
+Fluoride 
+
+Bromide 
+
+Iodide 
+
+Concentrations in 
+Stock solution 
+(Prepared fresh every 
+six months) 
+
+Upper Limit of 
+Detection in the 
+940/960 meter* 
+
+1 Molar 
+(36 g/L) 
+
+0.1 Molar 
+(1.9 g/L) 
+
+0.1 Molar 
+(8 g/L) 
+
+0.1 Molar 
+(12.7 g/L) 
+
+0.1 Molar 
+(3.6 g/L) 
+
+0.001 Molar 
+(19 mg/L) 
+
+0.005 Molar 
+(400 mg/L) 
+
+0.0005 Molar 
+(63.5 mg/L) 
+
+Concentration 
+Used in the 940/960 
+Model for 
+Calibration 
+(Performed every 
+month) 
+
+Final Concentra-
+tion of ISA in the 
+Assay Beaker 
+
+1 Molar 
+(36 g/L) 
+
+NaNO3 1.66 M 
+
+0.01 Molar 
+(190 mg/L) 
+
+TISABII 50% Aque-
+ous Solution 
+
+0.05 Molar 
+(4 g/L) 
+
+0.005 Molar 
+(635 mg/L) 
+
+NaNO3 1.66 M 
+
+NaNO3 1.66 M 
+
+*Arbitrarily set for practical reasons at the Optimox Potentiometric R&D Laboratory. 
+
+ 
+ 
+ 
+Orion is called TISAB I.  Trivalent aluminum binds co-
+valently  to  fluoride.    Since  the  negative  charge  on  the 
+halides is required for detection by the ISE electrode, the 
+covalent  binding  of  aluminum  would  neutralize  the 
+negative  charge  of  the  halide,  causing  an  underestima-
+tion of the levels of fluoride measured.  In order to pre-
+vent interference from aluminum in the direct ISE meas-
+urement  of  fluoride,  citric  acid  in  the  TISAB  I  is  re-
+placed  with  1,  2-cyclohexane  diaminotetraacetic  acid 
+(CDTA).    This  fluoride  ISA  from  Thermo  Orion  is 
+called TISAB II.   
+
+An  aqueous  solution  of  sodium  nitrate  5  M  concentra-
+tion  is  available  from  Spectrum  Chemicals  (PN#  246-
+25150).  In the author’s laboratory, sodium nitrate FDC 
+grade is obtained from Spectrum Chemicals in the solid 
+form in bottles of 2,500 g (Spectrum PN# 501813).  This 
+quantity is dissolved in 6 L of R/O water to obtain a 5 M 
+concentration.  This preparation is then filtered through a 
+0.2 µm filter (Millipore PN# MPGL06 GHZ) and stored 
+in  1-liter  plastic  bottles  (Fisher  Scientific  PN#  05-712-
+224) for up to six months. 
+
+The Orion special ISA called TISAB II is obtained from 
+Spectrum  Chemicals  already  dissolved  in  water.    The 
+Orion product number for the TISAB  II reagent is PN# 
+940909, and the Spectrum product number is PN# 246-
+25171.    In  the  assay  of  fluoride,  it  is  diluted  with  an 
+equal  volume  of  water  or  of  the  aqueous  solution  con-
+taining standards and purified biological fluids.   
+
+Validation of the ISE Procedure 
+The same procedure previously described for the valida-
+tion  of  the  radioimmunoassay  of  steroid  hormones  in 
+biological fluids is used to validate the ISE procedure of 
+the  halides.33,34    The  criteria  for  acceptability  includes 
+reliability and practicability.  The reliability of an assay 
+depends on its specificity, sensitivity, accuracy, and pre-
+cision.    The  practicability  of  an  assay  is  judged  by  the 
+skill required to perform it, the time involved in its per-
+formance,  and  the  cost  of  the  assay.    The  criteria  for 
+practicability of the ISE procedure are satisfied as previ-
+ously discussed.6 
+
+Specificity:    There are various ways of validating an as-
+say  in  terms  of its  specificity,  one  of  which is  by  com-
+parison  with  an  accepted  method.    Yabu,  et  al,23  and 
+Kono, et al,24 validated the specificity of the ISE method 
+for direct measurement of urinary iodide levels by com-
+parison with the ceric ion-arsenious acid method.35  The 
+ISE  procedure  for  urine  iodide  levels  developed  at  the 
+Optimox  Potentiometric  R&D  Laboratory  was  previ-
+ously  validated  by  the  high  degree  of  correlation  with 
+value  obtained  using  the  ICP-MS  technique.6    The 
+
+specificity  of  the  ISE  procedure for the  other  halides  is 
+inerrant in the specificity of the ion selective electrodes 
+themselves  and  in  the  chromatographic  separation  of 
+each halide from the other interfering halides with a high 
+degree  of  resolution.    For  example,  the  electrode  for 
+fluoride is so specific, that two commercial laboratories, 
+Doctors  Data  and  National  Medical  Services,  measure 
+urine  fluoride  directly  with  this  electrode  without  prior 
+purification. 
+
+Sensitivity:    The  sensitivity  (limit  of  detection)  of  the 
+assay in the measurement of halides in biological fluids 
+is not identical with the sensitivity of the standard curve.  
+The  Orion  940/960  will  compute  the  sensitivity  of  the 
+standard curve which it identifies as “MUD.”  The MUD 
+value  is  automatically  subtracted  from  each  sample 
+measured.  However, the limit of detection of the assay 
+in the measurement of unknown samples must be calcu-
+lated  by  running  4-6  replicates  of  the  biological  fluid 
+devoid of the halide to be measured (i.e., stripped urine).  
+A  simple  and  practical  way  to  obtain  stripped  urine for 
+the assay of fluoride, bromide, and iodide is to elute 50 
+ml  of  urine  per  SAX  600-milligram  cartridge.    The 
+eluted urine will be essentially devoid of halides, except 
+chloride.  The pooled urine samples should be collected 
+from  normal  volunteers  not  on  orthoiodosupplementa-
+tion.  A low chloride pooled urine can be obtained from 
+these  subjects  if  they  are  told  to  restrict  salt  during  the 
+period of urine collection. 
+
+Theoretically, no fluoride, bromide, or iodide should be 
+present in the stripped urine samples.  However, a value 
+is measured which is called a blank.  The mean ±SD of 
+4-6 blank samples are computed.  The limit of detection 
+in  the  measurement  of  unknown  samples  at  the  95% 
+confidence limit is equal to 2 SD of the mean blank after 
+subtracting the mean blank value from the concentration 
+measured  in  the  unknown  samples.    At  the  99%  confi-
+dence limit, the sensitivity is equal to 3 SD of the mean 
+blank value.  If the blank value is below the MUD value, 
+subtracting  that  blank  is  not  required,  since  the  Orion 
+940/960 automatically subtracts the MUD value.  If the 
+blank  is  higher  than  the  MUD  value,  it  is  important  to 
+subtract the mean blank value, mainly when the levels of 
+halides in  the  biological  fluids  are  near  the limit  of de-
+tection.  For example, when measuring iodide in random 
+or  morning  urine  samples prior to  orthoiodosupplemen-
+tation in the US population, some values will be near the 
+limit  of  detection.    It  is  not  as  critical  to  compute  and 
+subtract  the  mean  blank  value  of  urine  iodide  levels 
+when  the  levels  measured  in  unknown  samples  are  2-3 
+orders  of  magnitude  above  the  blank,  such  as  post-  or-
+thoiodosupplementation.   
+
+184 
+
+THE ORIGINAL INTERNIST    December   2006 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Table 5 
+
+Halide 
+
+Chloride 
+
+Fluoride  
+
+Bromide  
+
+Iodide  
+
+Range of Halides Added to “Stripped” Biological Fluids* of 
+Equivalents for the Assessment of Accuracy and Precision 
+
+Biological 
+Fluid 
+
+Blank Fluid 
+
+Range of 
+Added Halides 
+
+Urine 
+
+Urine 
+
+Serum 
+
+Saliva 
+
+Urine 
+
+Serum 
+
+Saliva 
+
+Urine 
+
+Serum 
+
+Saliva 
+
+Low chloride urine pool 
+
+0.1-10.0 g/L 
+
+Stripped urine pool* 
+
+0.1-10.0 mg/L 
+
+3% BSA in NS** 
+
+0.05-2.00 mg/L 
+
+NS** 
+
+0.05-2.00 mg/L 
+
+Stripped urine pool* 
+
+3% BSA in NS** 
+
+NS** 
+
+10-400 mg/L 
+
+10-400 mg/L 
+
+1-40 mg/L 
+
+Stripped urine pool* 
+
+0.05-50.00 mg/L 
+
+3% BSA in NS** 
+
+0.05-10.00 mg/L 
+
+NS** 
+
+0.5-100.0 mg/L 
+
+*Urine collected following elution from the SAX cartridges.  Only chlorine is eluted.  The levels of fluoride, bromide, 
+and iodide in stripped urine pool are below the limit of detection. 
+**BSA = Bovine serum albumin; NS = Normal saline 
+
+Accuracy:  The accuracy is assessed by recovery experi-
+ments.    Known  amounts  of  the  halide  to  be  measured  
+are added to pooled samples of the biological fluid or an 
+equivalent  aqueous  solution  devoid  of  the  halides  to be 
+measured.  The accuracy is expressed as percent recov-
+ery  of  the  added  halides  at  concentrations  within  the 
+range expected in the unknown samples.  An acceptable 
+accuracy  is  a  recovery  rate  of  90-110%  of  the  added 
+amount.  The exact amount of halide added to the pooled 
+blank samples can be estimated by transferring the same 
+volume  of  halide  standards  in  the  ISA  solution  at  the 
+same total volume.  For example, if one wishes to meas-
+ure the recovery of 0.1 mM (12.7 mg iodide/L) added to 
+the stripped biological fluid, pipette 10 µL of 0.1 M io-
+dide/L standard solution in 30 ml of 1.66 M NaNO3.  In 
+the protocol for the ISE measurement of halide, the vol-
+ume of standards and purified unknown samples is 10 ml 
+in a total volume of 30 ml ISA.  Since 10 µL in 10 ml is 
+1,000-fold  dilution  of  the  0.1  Molar  stock  solution  of 
+iodide, the amount added is 0.1 mM or 12.7 mg/L.  Use 
+the  same  pipette  to  add  the  same  amount  of  iodide  (10 
+µL  of  stock)  to  10  ml  of  the  stripped  biological  fluid 
+prior  to  chromatography.    The  mean  value  of  triplicate 
+
+direct measurement of iodide in the spiked ISA solution 
+is taken as 100%. 
+
+Accuracy  can  also  be  evaluated  by  adding  known 
+amounts  of  halides to  unknown  samples.    For  example, 
+if an unknown urine sample obtained post-iodine/iodide 
+load  is  analyzed  prior  to,  and  after,  adding  12.7  mg  of 
+iodide/L  (100  µM),  the  difference  between  the  values 
+pre-  and  post-spiked  samples  should  be  12.7  mg/L.  
+Again,  the  acceptable  range  for  spiked  samples  is  a  re-
+covery rate of 90-110% of the added amount.   
+
+Precision:   The intra-assay and inter-assay precision are 
+evaluated  by  analysis  of  replicates  of  pooled  samples 
+without  or  with  added  halide  in  known  amounts  (4-6 
+replicates), and calculating the mean ±SD for within as-
+say  precision  and  duplicate  measurement  in  several 
+batches for between assay precision.  The coefficient of 
+variation  is  the  standard  deviation  expressed  as  a  per-
+centage  of  the  mean  value.    Taking  the  mean  value  as 
+100%,  the  acceptable  limit  for  the  coefficient  of  varia-
+tion for a high degree of precision is 5%.  That translates 
+(Continued on next page) 
+
+THE ORIGINAL INTERNIST     December   2006 
+
+185 
+
+ 
+ 
+Table 6 
+
+Quality Control Report 
+
+Halide Measured  Cl- (cid:134)(cid:134)(cid:134)(cid:134)  F- (cid:134)(cid:134)(cid:134)(cid:134)  Br- (cid:134)(cid:134)(cid:134)(cid:134)  I- (cid:134)(cid:134)(cid:134)(cid:134) 
+
+Pools with added standards.  
+Date prepared 
+
+Electrode 
+Part# 
+Date QC test 
+performed 
+
+Electrode 
+SN# 
+
+Date last calibration 
+of 940/960 Meter 
+
+Date first 
+used 
+
+MUD value ______ mg/L
+
+Pool I (blank) 
+No halide added 
+
+Halide 
+measured   
+(mg/L) 
+
+Pool II  
+Added standard 
+_____ mg/L 
+
+Halide 
+measured  
+(mg/L) 
+
+Pool III  
+Added standard 
+_____ mg/L 
+
+Halide 
+measured  
+(mg/L) 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+X 
+
+SD 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+X 
+
+SD 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+X 
+
+SD 
+
+Limit of detection 
+(2 × SD) 
+
+Accuracy (% Rec)
+
+Precision (C.V.) 
+
+Accuracy (% Rec) 
+
+Precision (C.V.) 
+
+Pool IV  
+Added standard 
+_____ mg/L 
+
+Halide 
+measured  
+(mg/L) 
+
+Pool V  
+Added standard 
+_____ mg/L 
+
+Halide 
+measured  
+(mg/L) 
+
+Pool VI  
+Added standard 
+_____ mg/L 
+
+Halide 
+measured  
+(mg/L) 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+X 
+
+SD 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+X 
+
+SD 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+X 
+
+SD 
+
+Accuracy (% Rec) 
+
+Precision (C.V.) 
+
+Accuracy (% Rec)
+
+Precision (C.V.) 
+
+Accuracy (% Rec) 
+
+Precision (C.V.) 
+
+Q.C. Tests   =    Passed (cid:134)(cid:134)(cid:134)(cid:134)      Failed (cid:134)(cid:134)(cid:134)(cid:134)  
+
+186 
+
+THE ORIGINAL INTERNIST     December   2006 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+into a 95% confidence limit from 90-110%.  In general, 
+the intra-assay precision is better than inter-assay preci-
+sion; and the inter-assay precision in the same laboratory 
+is better than inter-laboratory precision.   
+
+For  a  newly  developed  procedure,  the  above  validation 
+should be performed prior to analysis of unknown sam-
+ples and every time the procedure is modified.  For rou-
+tine  analysis,  the  accuracy  experiments  using  single 
+measurement of the pooled samples with added standard 
+are adequate.  It is a good practice to spread the pooled 
+spiked samples evenly throughout the batch of unknown 
+samples.  When measurements are made near the detec-
+tion limit, blank samples in 4-6 replicates are needed to 
+assess  the  sensitivity  of  the  assay.    At  the  95%  confi-
+dence limit, the sensitivity would be equal to 2 SD of the 
+blank; and at 99% confidence limit to 3 SD of the blank.  
+Measuring  blank  samples  is  not  necessary  if  the  levels 
+measured in unknown samples are 2-3 orders of magni-
+tude greater than the blank value. 
+
+Acceptable  limits  of  precision  and  accuracy  should  be 
+based  on  the  research  and  clinical  applications  of  these 
+tests.    The  range  of  halide  concentrations  used  for  the 
+accuracy  and  precision  evaluation  should  be  within  the 
+range  expected  in  biological  fluids  under  normal  and 
+pathological conditions.  For precision and accuracy ex-
+periments using serum and saliva, a 3% solution of Bo-
+vine  Serum  Albumin  (BSA)  in  normal  saline  (NS)  is 
+used instead of stripped serum and normal saline is used 
+instead of stripped saliva (Table 5). 
+
+A  proposed  protocol  for  the  reliability  testing  of  a  new 
+ISE  procedure  or  a  modification  of  an  existing  proce-
+dure, prior to measurement of halides in unknown sam-
+ples, is outlined in Table 6. 
+
+Clinical Applications 
+During  the  1930s,  attempts  were  made  to  differentiate 
+between  euthyroidism,  hyperthyroidism,  and  hypothy-
+roidism  by  the  effect  of  iodine  supplementation  on  the 
+basal  metabolic  rate  and  the  profile  of  serial  serum  io-
+dide levels.36-38  At the Lahey Clinic,38 an iodine/iodide 
+“tolerance test” was used to assess thyroid functions.  To 
+quote Perkin, et al:38 
+
+“The  technique  of  the  test  may  be  reviewed  briefly 
+as  follows:    10  cc  of  blood  is  withdrawn  from  the 
+patient, following which a known amount of iodine 
+as Lugol’s solution (37.5 mg iodine used at present) 
+in milk is given orally).  At one-half hour, one hour, 
+one and one-half hours and at two and one-half hour 
+periods, two cc blood samples are taken ... From the 
+above  chart  it  may  be  seen  that  the  blood  iodine 
+curve does not rise to such a high level in the hyper-
+
+thyroid individual as in the normal or nontoxic goi-
+trous patient.” 
+
+The last paragraph of this manuscript reads:  “An iodine 
+tolerance test is described which may prove to be a valu-
+able  asset  in  establishing  a  diagnosis  of  hyperthyroid-
+ism.” 
+
+Obviously,  this  prediction  did  not  materialize.    To  this 
+author’s  knowledge,  the  first  published  statement  con-
+cerning whole body sufficiency for iodine was made by 
+Thompson, et al, in 1930:39  “The normal daily require-
+ment of the body for iodine has never been determined.” 
+
+This  statement  is  still  true  today,  more  than  70  years 
+later.    We  still  don’t  know  the  iodine/iodide  require-
+ments  for  whole  body  sufficiency.    The  Iodine  Project 
+initiated by this author seven years ago13 was an attempt 
+to answer the question:  What is the optimal intake and 
+what is the optimal form of the essential element iodine 
+for  whole  body  sufficiency  and  for  optimal  mental  and 
+physical  performances?    Results  obtained  with  the  io-
+dine/iodide 
+post-
+orthoiodosupplementation  suggest  that  100-400  times 
+the RDA would be required for whole body iodine suffi-
+ciency.10    At  sufficiency,  the  human  body  retains  ap-
+proximately 1.5 g of iodine,11 50 times the medical text-
+books’ figure of 30 mg. 
+
+loading 
+
+pre- 
+
+test 
+
+and 
+
+Background on the Metabolism of Halides:  The stable 
+halides  are  quantitatively  absorbed  by  the  gastrointesti-
+nal tract and renal clearance is the principal mode of ex-
+cretion.11,40-43  Chloride and bromide compete with each 
+other  for  the  extracellular  fluid  compartments  and  for 
+renal  tubular  reabsorption.    Chloride  and  bromide  are 
+mainly extracellular halides and, as such, are not stored.  
+However, bromide can be oxidized to bromine in fat tis-
+sues and stored as organic bromine.  Bromide has a high 
+affinity  for  carbon-carbon  double  and  triple  bonds 
+(unsaturated fatty acids).  In the central nervous system, 
+bromide is oxidized and organified to form a narcoleptic 
+organobromide.10  Fluoride is stored in bones and teeth, 
+mainly  in  bones  which  contains  97%  of  the  total  body 
+pool of fluoride.43  Iodide is stored in target cells which 
+contain  the  mechanism  to  transport  peripheral  iodide 
+inside the cells.10,16  The oxidized form of iodide, that is, 
+iodine  is  mainly  stored  in  fat  tissues  and  muscles.12    
+Next to fat tissue, muscle contains the largest amount of 
+iodine.  Fat and muscle combined contribute 70% of to-
+tal body iodine in individuals who have achieved iodine 
+sufficiency and, in such cases, the total iodine content in 
+the thyroid gland represents only 3% of body iodine.11,12 
+The organic forms of bromine, when stored in fat tissue, 
+(Continued on next page) 
+
+THE ORIGINAL INTERNIST     December   2006 
+
+187 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 7 
+
+Some Clinical Applications of the ISE Procedure of Halides in Biological Fluids 
+
+Halide 
+
+Biological 
+Fluid 
+
+Applications 
+
+Urine 
+
+•  Assessment of salt intake 
+
+Chloride  
+
+Serum 
+
+Urine 
+
+•  Serum chloride by ISE procedure pre- and post-chromatography may be 
+
+useful in cases of suspected bromism 
+
+•  Assessment of fluoride intake 
+• 
+
+Increases following orthoiodosupplementation 
+
+Fluoride  
+
+Serum 
+
+•  Below detection limit in 90% of the samples measured 
+• 
+•  Decreases following orthoiodosupplementation 
+
+Increases following the loading test 
+
+Saliva 
+
+•  Below detection limit in all samples measured so far 
+•  Sal/Ser ratio below 0.4 
+
+Urine 
+
+•  Depends on chloride intake 
+• 
+• 
+
+Increases following salt intake 
+Increases following orthoiodosupplementation 
+
+Bromide  
+
+Serum 
+
+•  The best index of bromide excess 
+• 
+Increases following salt restriction 
+•  Decreases following orthoiodosupplementation and chloride load 
+
+Saliva 
+
+•  Lower concentration than serum 
+•  Sal/Ser ratios ranged is 0.1-0.8 
+
+Urine 
+
+•  Spot test is a rough estimate of iodine balance between intake and retention 
+during the previous 24 hours.  A significant difference was observed be-
+tween female smokers and non-smokers. 
+
+•  The iodide levels in 24-hour urine collection post-loading test is a reliable 
+
+assessment of whole bode iodine sufficiency. 
+
+Iodide  
+
+Serum 
+
+•  Profile of serial serum levels following iodine/iodide load gives an indica-
+tion of absorption of iodine/iodide and cellular uptake and utilization of io-
+dine. 
+
+•  The 24-hour post-load serum level gives an estimate of whole body iodine 
+
+sufficiency. 
+
+Saliva 
+
+•  Normal range of sal/ser ratio is 28-74 
+•  Symporter inefficiency or inhibition associated with low sal/ser ration <28 
+•  TPO inefficiency or inhibition associated with elevated sal/ser ratio >74 
+
+188 
+
+THE ORIGINAL INTERNIST     December   2006 
+
+have half-lives of several years.44,45  Organic bromine in 
+fat tissue is slowly reduced to bromide which contributes 
+to the bromide pool.  Bromide increases the urinary ex-
+cretion of iodide46 and competes with iodide for uptake 
+and  utilization  by  the  thyroid  gland,47-50  causing  a  rela-
+tive iodine deficiency.  Iodide increases mobilization and 
+urinary  excretion  of  bromide.13    Based  on  this  back-
+ground  information,  some  clinical  applications  of  the 
+ISE  measurement  of  the  stable  halides  in  urine,  serum, 
+and saliva are discussed below.  These data are summa-
+rized in Table 7.  
+
+Fluoride:  Urine fluoride levels are a good index of fluo-
+ride  intake.    Urinary  fluoride  increases  following  or-
+thoiodosupplementation.9,13    Prior  to  orthoiodosupple-
+mentation,  urine  fluoride  levels  measured  following 
+chromatography in 24 normal subjects had a mean ±SD 
+of 0.95±0.072 mg/24 hours and a post-loading test mean 
+±SD of 1.8±0.13/24 hours.  The levels of urine fluoride 
+measured  in  these  subjects  following  chromatographic 
+purification  were  not  significantly  different  from  levels 
+obtained  with  the  direct  measurement  of  fluoride  in  the 
+urine samples.13 
+
+In 250 normal subjects not exposed to fluoride, a mean 
+serum  fluoride  of  0.018  mg/L  with  a  range  of  0.001-
+0.047  mg/L  were  reported  by  Torra,  et  al,  in  1998.51  
+Serum  fluoride  above  0.05  mg/L  would  therefore  be 
+above the normal range.  Based on experience at the Op-
+timox  Potentiometric  R&D  Laboratory,  serum  fluoride 
+concentrations measured in 10 ml of serum were below 
+the  limit  of  detection  (<0.04  mg/L)  in  over  90%  of  the 
+samples  measured.    Following  ingestion  of  50  mg  of 
+iodine  in  the  form  of  a  Lugol  tablet  by  six  normal 
+women, serum fluoride increased slightly to reach mean 
+levels ranging from 0.06-0.09 mg/L between 30 minutes 
+and eight hours post-load.27  By 24 hours post-load, the 
+fluoride concentrations were below <0.04 mg/L (Figure 
+7).   
+
+The highest  level  of  post-load  serum  fluoride  measured 
+so  far  was  observed  in  a  female  patient  with  multiple 
+allergies  who  consumed  well  water  with  elevated  fluo-
+ride levels.  Her serum fluoride was 0.32 mg/L and 24-
+hour urine fluoride was 6.4 mg/24 hours, giving a renal 
+clearance rate of 6.4 mg/24 hr ÷ 0.32 mg/L = 20 L/day.  
+Following  orthoiodosupplementation  at  50  mg  of  io-
+dine/day and 3 g vitamin  C/day, her serum fluoride de-
+creased to 0.13 mg/L after six weeks and was below 0.04 
+mg/L by three months.16  Her allergies improved  mark-
+edly.   
+
+Serum Profile of Fluoride 
+Levels post Iodoral® 
+
+Figure 7 
+
+0.12
+
+0.1
+
+0.08
+
+0.06
+
+0.04
+
+0.02
+
+)
+L
+/
+g
+m
+
+(
+
+s
+l
+e
+v
+e
+l
+
+e
+d
+i
+r
+o
+u
+l
+f
+
+m
+u
+r
+e
+S
+
+< 0.04
+
+0
+
+0
+
+0.5
+
+1
+
+2
+
+4
+
+8
+
+Time post ingestion of Iodoral50 mg load
+
+Mean value of six normal female subjects
+
+27
+
+< 0.04
+
+24
+
+hrs
+
+iodine/iodide loading, with serum samples increasing up 
+to 0.1 mg/L.  Saliva/serum ratio of fluoride is therefore 
+below 0.4.   
+
+Chloride:    The  amount  of  chloride  excreted  in  the  24-
+hour urine collection gives a good estimate of salt intake 
+during  the  previous  24  hours.    Since  the  atomic  weight 
+of  chloride  is  36  and  the  molecular  weight  of  sodium 
+chloride is 58, salt intake can be estimated by multiply-
+ing  the  amount  of  chloride  excreted  in  24  hours  by 
+58/36, that is, 1.6.   
+
+In  clinical  chemistry,  chloride  is  measured  directly  in 
+serum  by  the  ISE  procedure.    In  cases  of  bromism,  se-
+rum  chloride  is  usually  overestimated  by  the  direct 
+method due to interference from bromide.52,53  Spurious 
+elevation of serum chloride from bromide interference in 
+a  case  of  severe  bromism  was  reported  by  Horowitz  in 
+1997.53 
+
+Severe bromism should be suspected if the direct method 
+of  measuring  serum  chloride  yields  values  significantly 
+above  the  normal  range.    In  these  cases,  the  values  ob-
+tained  for  serum  chloride  post-chromatography  will  be 
+in  the  normal  range.    The  chromatographic  procedure 
+described in this manuscript would assist physicians per-
+forming this procedure in situ and also commercial and 
+hospital laboratories in the diagnosis of bromism.   
+
+Saliva  fluoride  levels  have  consistently  been  below 
+<0.04  mg/L  in  all  samples  measured  so  far,  even  post-
+
+Bromide:    Both chloride and bromide are passively and 
+(Continued on next page) 
+
+THE ORIGINAL INTERNIST     December   2006 
+
+189 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+quantitatively  absorbed  by  the  intestinal  tract  with  an 
+absorption  rate  faster  for  bromide  than  for  chloride.54,55  
+Chloride  competes  with  bromide  for  tubular  reabsorp-
+tion,  and  the  biological  half-life  of  bromide  can  be  de-
+creased  markedly  by  administration  of  chloride.41,42    In 
+studies  performed  on  rats,  the  half-life  of  bromide  was 
+25 days on a salt restricted diet and less than a day with 
+chloride loading. 
+
+serum levels of bromide below 500 mg/L are considered 
+non-toxic;  500-1,000  mg/L,  possibly  toxic;  1,000-2,000 
+mg/L, serious toxicity; 2,000-3,000 mg/L, coma; greater 
+than 3,000 mg/L, possibly fatal.53  There is a gray zone 
+between the upper limit of normal serum bromide, that is 
+12 mg/L, and the lower limit of serum bromide consid-
+ered toxic, that is 500 mg/L.  This gray zone needs fur-
+ther investigation. 
+
+Compared  to  fluoride,  chloride,  and  iodide  with  serum 
+half-life of a few hours and a renal clearance rate of 20-
+50  L/day,  the  serum  half-life  of  bromide  averages  12 
+days (i.e., 288 hours), and the renal clearance of bromide 
+is only 1 L/day.  With salt restriction, the renal clearance 
+rate  of  bromide  can  be  as  low  as  0.2  L/day.    Under 
+chronic exposure to bromide, 40-50 days (4-5 half-lives) 
+must elapse before a steady state serum concentration is 
+achieved, assuming a narrow range of intake of bromide 
+and  chloride  during  that  time  period.    In  cases  of  low 
+chloride intake (salt restricted diet), the time required for 
+steady  state  is  even  longer.    Because  of  the  above,  uri-
+nary bromide levels are not a reliable index of intake or 
+of  serum  bromide  levels, when  there is  recent exposure 
+to bromide before steady state is achieved.  Serum bro-
+mide levels are the best index of bromide toxicity. 
+
+Several  authors  have  attempted  to  establish  a  normal 
+range  of  serum  bromide  in  otherwise  normal  subjects.  
+Baselt54  reported  mean  serum  bromide  levels  of  3-5 
+mg/L in three groups of normal individuals.  Sticht and 
+Käferstein55 reported a normal range for serum bromide 
+of  1.0-7.5  mg/L.    Jong  and  Burgrel56  found  a  mean  se-
+rum bromide level in 19 male and 19 female subjects of 
+5.4  mg/L.    Miller  and  Capon57  reported  a  range  of  3.5-
+10.0  mg/L  in  eight  normal  adult  subjects.    Olszowy,  et 
+al,58 in a manuscript published in 1998, did an extensive 
+review of published data on bromide levels in biological 
+fluids.  To quote Olszowy:   
+
+“Much work has been carried out to establish a reli-
+able  reference  concentration  of  bromide  in  the  bio-
+logical fluids of healthy humans, and some data are 
+summarized in Table I … With the exception of the 
+high  cord  serum  result  shown  in  Table  I,  bromide 
+concentrations  in  all  examined  body  fluids  (whole 
+blood, serum, and urine) are similar with a range of 
+3-12 mg/L and mean value around 5 mg/L, which is 
+consistent  with  past  routine  clinical  results  of  this 
+laboratory.” 
+
+In 183 random blood samples collected in healthy Aus-
+tralians,  Olszowy,  et  al,  measured  a  mean  of  5.3±1.4 
+mg/L  with  a  range  of  2.5-11.7  mg/L.    Based  on  the 
+above data, the upper limit of the normal range for serum 
+bromide would be 12 mg/L.  By toxicological standards, 
+
+In Horowitz’s patient previously mentioned, serum bro-
+mide  was  3,180  mg/L,  considered  possibly  fatal.  
+Horowitz’s  patient  experienced  severe  bromism  follow-
+ing  daily  ingestion  of  a  soft  drink  containing  organic 
+bromine.53    Brominated  oils  are  used  frequently  in  soft 
+drinks, and the label does not clearly indicate the amount 
+of  organic  bromine  present.    As  previously  stated,  or-
+ganic bromine is stored in fat tissue and released slowly 
+as bromide.   
+
+Horowitz  stated  that  he  was  unable  to  measure  the 
+amount of bromine in the suspected drink because all the 
+bottles were removed by the owner of the store who re-
+fused to have the product analyzed.  The patient, a com-
+puter  executive,  experienced  confusion,  ataxia,  head-
+ache,  fatigue,  and  loss  of  concentration.    The  diagnosis 
+of severe bromism was not made until the third visit with 
+the  same  complaints.    Hemodyalysis  was  required  to 
+improve the patient’s clinical condition.  All these prob-
+lems  originated  from  consumption  of  a  cola  drink.    In 
+several  reported  cases  of  chronic  intoxication  from  in-
+gesting an organic bromine-containing drug, serum bro-
+mide levels remained elevated even after serum levels of 
+the drug were undetectable.52  Chronic bromide intoxica-
+tion from this drug is probably due to inorganic bromide 
+released from the drug. 
+
+Physicians are encouraged to learn more about the symp-
+toms of bromism and to request serum bromide levels in 
+suspected  cases.    Chronic  bromism  causes  symptoms 
+that cover many medical specialties:  psychiatry, neurol-
+ogy,  gastroenterology,  and  dermatology.    If  the  physi-
+cian  is  not  familiar  with  bromine  toxicity,  these  symp-
+toms  will  be  misdiagnosed  and  mistreated.    Ewing  and 
+Grant,59  emphasizing  the  bromide  hazard  commented:  
+“Physicians  must  participate  in  educating  the  public  to 
+the bromide hazard.” 
+
+The lowest serum bromide levels that will result in sig-
+nificant mental and physical symptoms is at the present 
+unknown.    Fuortes60  proposed  30  mg/L  as  the  highest 
+non-toxic  level  of  serum  bromide.    In  1938,  Clark61 re-
+ported that small doses  of bromide resulted in  dullness, 
+apathy,  and  inability  to  concentrate.    Sangster,  et  al,62 
+evaluated  the  effect  of  daily  oral  ingestion  of  bromide 
+
+190 
+
+THE ORIGINAL INTERNIST     December   2006 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+for  three  months  at  4  mg/kg  BW  and  9  mg/kg  BW  in 
+seven male and seven female volunteers.  At the 4 mg/kg 
+BW  level,  five  of  the  seven  males  complained  of  in-
+creased  sleepiness  and  decreased  ability  to  concentrate.  
+Decreased amplitude of brain waves in the temporal and 
+central areas were observed in these subjects.  Mean se-
+rum  bromide  levels  pre-intervention  were  5.6  mg/L  for 
+the males and 4.8 mg/L for the female subjects.  Under 
+steady state conditions at 12 weeks post-intervention, the 
+mean serum bromide levels were 160 mg/L for the seven 
+male  subjects  and  240  mg/L  for  the  seven  female  sub-
+jects.  These levels of serum bromide associated with the 
+above  symptoms  were  much  lower  than  the  arbitrarily 
+set limit of 500 mg/L for bromide toxicity.   
+
+How many patients with misdiagnosed bromism are cur-
+rently  treated  with  psychiatric  drugs?    Levin63  in  1948, 
+described  four  varieties  of  bromide  psychosis:    chronic 
+brain syndrome from chronic bromism, delirium, schizo-
+phrenia,  and  hallucinosis.    Decreased  cerebral  blood 
+flow was reported in a case of bromide psychosis, being 
+one-third of values observed in normal subjects.64  Undi-
+agnosed bromism is common in psychiatric patients.59,65 
+
+Bromide  has  been  implicated  in  thyroid  cancer.9,10  
+Malenchenko, et al,66 measured the content and distribu-
+tion  of  iodine,  chlorine,  and  bromine  in  normal  and 
+pathological  thyroid  tissue.    No  significant  trend  was 
+observed  for  chlorine.    Iodine  levels  were  significantly 
+lower  in  thyroid  cancer,  Hashimoto’s  thyroiditis,  and 
+goiter than normal tissue.  Bromine concentrations were 
+elevated in all thyroid pathologies.  The highest bromine 
+levels  were  found  in  thyroid  cancer,  being  50  times 
+higher than normal thyroid tissue.   
+
+Rats  fed  brominated  oils  displayed  thyroid  hyperplasia, 
+myocarditis,  fatty  liver,  and  testicular  atrophy.67-70    De-
+creased  activity  of  glucose-6-phosphate  dehydrogenase 
+and glucose-6-phosphatase were observed before hepatic 
+pathology  was  demonstrated  histologically.    Since  the 
+above enzymes are involved in the production of hydro-
+gen peroxide by the thyroid gland, and hydrogen perox-
+ide  is  the  oxidant  used  by  TPO  to  oxidize  symported 
+iodide,10 mild bromism may be a factor in some forms of 
+hypothyroidism  caused  by  decreased  oxidation  and  or-
+ganification  of  intracellular  iodide.    In  such  cases,  the 
+exchangeable iodide pool of the thyroid and other target 
+organs would be higher than normal.   
+
+Serum bromide levels measured at the Optimox Potenti-
+ometric  R&D  Laboratory  prior  to  orthoiodosupplemen-
+tation  are  rarely  below  12  mg/L  in  “normal  subjects.”  
+Values are usually 30-120 mg/L.  These levels decreased 
+markedly  following  orthoiodosupplementation  in  these 
+
+Serum Profile of Bromide 
+Levels post Iodoral® 
+
+Figure 8 
+
+)
+L
+/
+g
+m
+
+(
+
+s
+l
+e
+v
+e
+l
+
+e
+d
+i
+m
+o
+r
+b
+m
+u
+r
+e
+S
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+0
+
+1
+
+0.5
+Time post ingestion of Iodoral 50 mg load
+
+4
+
+2
+
+8
+
+24
+
+hrs
+
+Mean value of six normal female subjects
+
+27
+
+normal  subjects  who  reported  lifting  of  brain  fog,  less 
+fatigue,  and  performing  more  in  less  time,  that  is,  they 
+became  more  efficient.    In  six  normal  female  subjects 
+evaluated following ingestion of 50 mg of iodine in the 
+form  of  Lugol  tablets,  the  mean  serum  level  was  43 
+mg/L pre-load and increased significantly post-load with 
+biphasic profile (Figure 8).  This pattern is suggestive of 
+an  enterohepatic  circulation  of  bromide  like  iodine.12  
+The  mean  serum  bromide  levels  in  these  six  subjects 
+prior  to  the  iodine/iodide  load  were  eight  times  higher 
+than reported in the literature previously reviewed.  This 
+may be due to increased exposure to bromide and/or de-
+creased  salt  intake.    Based  on  the  author’s  experience 
+over the past 30 years with normal subjects participating 
+in a wide range of clinical studies, normal subjects today 
+are not what they used to be.  “Normal” individuals of-
+ten  complain  of  brain  fog,  fatigue,  and  lack  of  motiva-
+tion.  Bromide is used extensively in our food and water 
+supplies15 and could play a role in these symptoms.  Io-
+dine and chloride increase the renal clearance of bromide 
+and  the  above  complaints  are  improved  following  or-
+thoiodosupplementation10 and salt loading.14 
+
+Iodide:  In populations consuming iodine at RDA levels, 
+random  sampling  of  urine  for  ISE  measurement  of  io-
+dide gives a rough estimate of intake.  A significant dif-
+ference (p<0.05) was observed between spot urine iodide 
+levels  measured  in  female  patients  attending  a  breast 
+clinic  when  female  smokers  were  compared  with  non-
+smokers, and non-significant trend between patients with 
+breast cancer and patients without breast cancer.20  Spot 
+urine sampling for iodide measurement may be of value 
+(Continued on next page) 
+
+THE ORIGINAL INTERNIST     December   2006 
+
+191 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+in  epidemiological  studies,  but it  is  not  a reliable  index 
+of whole body sufficiency.  The most useful application 
+of  the  measurement  of  urinary  iodide  is  in  the  24-hour 
+urine  collection  post-iodine/iodide  load  pre-  and  post- 
+orthoiodosupplementation,  using  arbitrarily  90%  of  the 
+load  excreted  as  an  index  of  whole  body  iodine  suffi-
+ciency.10    At  50  mg  iodine/day,  sufficiency  is  usually 
+achieved within three months in normal female subjects 
+but  may  take  several  months  in  patients  with  elevated 
+bromide levels.  In six normal subjects ingesting 100 mg 
+iodine/day  in  the  form  of  a  Lugol  tablet,  body  suffi-
+ciency was assessed by the loading test every two weeks 
+for  six  weeks.    All  six  subjects  achieved  sufficiency  at 
+six weeks. 
+
+In  certain  circumstances,  the  iodine/iodide  loading  test 
+may result in a high percentage of the iodine load recov-
+
+ered in 24-hour urine collection from an iodine deficient 
+patient, giving the false impression of whole body iodine 
+sufficiency.14,16  This can occur when the gastrointestinal 
+absorption  of  iodine is  very  efficient,  but  peripheral  io-
+dide is not efficiently transferred inside the target cells or 
+the  symported  iodide  is  not  oxidized  and  organified.14  
+Peripheral iodide is cleared very rapidly by the kidneys 
+with a clearance rate of 43.5 L/day,11 resulting in a high 
+percentage of the iodine/iodide load excreted. 
+
+iodide 
+
+saliva/serum 
+
+The 
+ratio  24  hours  post-
+iodine/iodide load gives a reliable index of the efficiency 
+of the iodide transport mechanism.  We reported a nor-
+mal  range  of  28-74  with  a  mean  ±SD  of  44.2±13.7.16  
+The 24-hour post-load mean serum iodide levels in these 
+subjects were 0.76±0.17 mg/L.  In a female patient with 
+breast  cancer  and  elevated  serum  bromide  levels,  or-
+
+Figure 9 
+
+Serum Profile of Inorganic Iodide Levels Following the Iodine/Iodide Load 
+
+)
+
+L
+/
+g
+m
+
+(
+
+s
+l
+e
+v
+e
+l
+
+e
+d
+i
+d
+o
+i
+
+c
+i
+n
+a
+g
+r
+o
+n
+i
+
+m
+u
+r
+e
+S
+
+=  Mean of 6 normal female subjects
+
+=  Patient with iodide transport defect 
+
+Prior to intervention
+– % iodide load excreted = 90%
+– Baseline serum iodide = 0.016 mg/L
+
+35
+
+30
+
+3
+
+2.5
+
+2
+
+1.5
+
+1
+
+0.5
+
+v
+
+0
+
+Pre 0.5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10 11 12 24
+
+hrs
+
+Time Post ingestion of Iodoral 50 mg load
+
+50 mg in six normal female subjects and in a patient with iodide transport defect.  Patient excreted 90% of the iodine load, but 
+her  basal  serum  inorganic  iodide  level  was  very  low  (0.016  mg/L).    This  pattern  suggests  a  defect  in  the  iodine  retention 
+mechanism.14 
+
+192 
+
+THE ORIGINAL INTERNIST     December   2006 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 10 
+
+Serum Profile of Inorganic Iodine Levels Following Iodine/Iodide Load 
+
+)
+
+L
+/
+g
+m
+
+(
+
+s
+l
+e
+v
+e
+l
+
+e
+d
+i
+d
+o
+i
+
+c
+i
+n
+a
+g
+r
+o
+n
+i
+
+m
+u
+r
+e
+S
+
+=  Mean of 6 normal female subjects
+
+=  Patient with iodide transport defect 
+Post 3 months Vitamin C 3g/day
+
+– % iodide load excreted = 49.2%
+– Baseline serum iodide = 0.42 mg/L
+
+3
+
+2.5
+
+2
+
+1.5
+
+1
+
+0.5
+
+v
+
+0
+
+Pre 0.5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10 11 12 24
+
+hrs
+
+Time Post ingestion of Iodoral 50 mg load
+
+Iodine/iodide load was 50 mg for six normal female subjects, and for a patient  with iodide transport defect following three 
+months ov intervention with sustained-release vitamin C at 3 g/day.  She excreted 49.2% of the iodine load and the baseline 
+serum level ws 0.42 mg/L, evidence of improved function of the iodine cellular transport mechanism.14 
+
+thoiodosupplementation  at  100  mg/day  for  six  weeks 
+resulted  in  a  10-fold  drop  in  serum  bromide  and  a  3-
+fold  increase  in  the  saliva/serum  iodide  ratio.    At  the 
+beginning  of  the  study,  serum  bromide  level  was  121 
+mg/L  (normal  range  3-12  mg/L),  and  the  saliva/serum 
+iodide ratio was 22 (normal range is 28-74).  Following 
+six  weeks  at  100  mg  iodine/day,  serum  bromide  de-
+creased  markedly  to  12.7  mg/L,  and  the  saliva/serum 
+ratio increased to 61.  These results were obtained with-
+out chloride loading. 
+
+In  a  female  patient  who  presented  with  hyperthyroid-
+ism  followed  by  hypothyroidism  and  elevated  serum 
+bromide, serial serum iodide measurement for 11 hours 
+post-iodine/iodide  load  displayed  a  markedly  elevated 
+serum  iodide  level  of  32  mg/L  at  one  hour  post-load 
+followed  by  a  marked  drop  to  2.5  mg/L  at  two  hours 
+and  below  0.5  mg/L  thereafter.14    She  could  tolerate 
+only 6.25 mg of the iodine supplement before because 
+of  side  effects  probably  due  to  detoxification  from 
+bromism.    Following  3  g  of  sustained  release  vitamin 
+C/day,  her  serum  profile  normalized.    She  excreted 
+
+90% of the  load prior  to  intervention  and  49.2%  three 
+months post-intervention (Figures 9 and 10).  
+
+As  previously  mentioned,  elevated  bromide  levels 
+block TPO activity and could result in hypothyroidism.  
+Besides  bromide  toxicity,  other  TPO  inhibitors  could 
+produce the same end result.  Since the salivary glands 
+concentrate and organify peripheral iodide, blockage of 
+oxidation  of  iodide  would  result  in  an  elevated  sa-
+liva/serum  iodide  ratio  above  74. 
+  Elevated  sa-
+liva/serum  iodide  ratio  was  observed  in  some  patients 
+with hypothyroidism and autoimmune thyroiditis.  This 
+interesting observation needs follow-up.  This elevated 
+ratio is suggestive of decreased oxidation and organifi-
+cation  of  iodide.    Hydrogen  peroxide  (H2O2)  admini-
+stration  or  enhancing  the  H2O2  producing  NADPH-
+oxydase system with vitamin B3 would be expected to 
+result  in  a  beneficial  effect.    The  author  is  currently 
+assessing the organification of iodide by measuring the 
+ratio  of  organic  iodine  over  total  iodide  in  saliva.    By 
+measuring saliva iodide before and after reduction with 
+sodium  metabisulfite  and  sodium  borohydride,  organic 
+(Continued on next page) 
+
+THE ORIGINAL INTERNIST     December   2006 
+
+193 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iodine can be estimated by the difference between the two 
+values obtained.  
+
+The  study  of  the  metabolism  of  iodide  and  the  other 
+halides can be assessed using commercial laboratories, 
+but physicians have not utilized these services because 
+of  the  expense  involved  and  also  because  physicians 
+are  not  aware  of  the  importance  of  these  halides  in 
+medical practice.  With the ISE procedure described in 
+this  manuscript,  these  studies  can  be  performed  in  the 
+physician’s office.  Consequently, the clinical applica-
+tions of these procedures will become more widespread 
+among the medical profession.  Clinical research using 
+nutrients instead of prescription drugs gives the physi-
+cian the satisfaction of contributing to new knowledge 
+in alternative medicine while at the same time improv-
+ing patient care using nutrients instead of drugs.  
+
+About the Author 
+
+Guy E. Abraham, MD, is a former Professor of Obstet-
+rics,  Gynecology,  and  Endocrinology  at  the  UCLA 
+School of Medicine.  Some 35 years ago, he pioneered 
+the development of assays to measure minute quantities 
+of steroid hormones in biological fluids.  He has been 
+honored  as  follows:    General  Diagnostic  Award  from 
+the  Canadian  Association  of  Clinical  Chemists,  1974; 
+the  Medaille  d’Honneur  from  the  University  of  Liege, 
+Belgium, 1976; the Senior Investigator Award of Phar-
+macia,  Sweden,  1980.    The  applications  of  Dr.  Abra-
+ham’s techniques to a variety of female disorders have 
+brought  a  notable  improvement  to  the  understanding 
+and management of these disorders. 
+
+Twenty-five  years  ago,  Dr.  Abraham  developed  nutri-
+tional  programs  for  women  with  premenstrual  tension 
+syndrome and post-menopausal osteoporosis.  They are 
+now  the  most  commonly  used  dietary  programs  by 
+American  obstetricians  and  gynecologists.    Dr.  Abra-
+ham’s  current  research  interests  include  the  develop-
+ment  of  assays  for  the  measurement  of  iodide  and  the 
+other halides in biological fluids and their applications 
+to  the  implementation  of  orthoiodosupplementation  in 
+medical practice. 
+
+REFERENCES 
+
+1)  Abraham  GE.    “Iodine:  The  universal  nutrient.”    Townsend 
+
+Letter, 2005; 269:85-88. 
+
+2)  Abraham GE.  “The history of iodine in medicine.  Part I:  From 
+discovery  to  essentiality.”    The  Original  Internist,  2006; 
+13(1):29-36. 
+
+3)  Abraham GE.  “The history of iodine in medicine.  Part II:  The 
+search for and the discovery of thyroid hormones.”  The Origi-
+nal Internist, 2006; 13(2):67-70. 
+
+4)  Abraham GE.  “The history of iodine in medicine.  Part III:  Thy-
+roid  fixation  and  medical  iodophobia.”    The  Original  Internist, 
+2006; 13(2):71-78. 
+
+5)  Abraham GE.  “The Wolff-Chaikoff effect:  Crying wolf?”  The 
+
+Original Internist, 2005; 12(3):112-118. 
+
+6)  Abraham  GE,  Flechas  JD,  and  Hakala  JC.    “Measurement  of 
+urinary iodide levels by ion-selective electrode: Improved sensi-
+tivity  and  specificity  by  chromatography  on  anion-exchange 
+resin.”  The Original Internist, 2004; 11(4):19-32. 
+
+7)  Abraham  GE,  Flechas  JD,  and  Hakala  JC.    “Optimum  levels  of 
+iodine  for  greatest  mental  and  physical  health.”    The  Original 
+Internist, 2002; 9(3):5-20. 
+8)  Ab r a h a m  GE ,   F l e c h a s  
+
+J C .  
+“Orthoiodosupplementation:    Iodine  sufficiency  of  the  whole 
+human body.”  The Original Internist, 2002; 9(4):30-41. 
+
+a n d   H a k a l a  
+
+J D ,  
+
+9)  Abraham  GE.    “Iodine  supplementation  markedly  increases  uri-
+nary excretion of fluoride and bromide.”  Townsend Letter, 2003; 
+238:108-109. 
+
+10) Abraham  GE.    “The  safe  and  effective  implementation  of  or-
+thoiodosupplementation  in  medical  practice.”    The  Original  In-
+ternist, 2004; 11(1):17-36. 
+
+11) Abraham GE.  “The concept of orthoiodosupplementation and its 
+clinical implications.”  The Original Internist, 2004; 11(2):29-38. 
+12) Abraham  GE.    “Serum  inorganic  iodide  levels  following  inges-
+tion  of  a  tablet  form  of  Lugol  solution:  Evidence  for  an  entero-
+hepatic  circulation  of  iodine.”    The  Original  Internist,  2004; 
+11(3):29-34. 
+
+13) Abraham GE.  “The historical background of the iodine project.”   
+
+The Original Internist, 2005; 12(2):57-66. 
+
+14) Abraham GE and Brownstein D.  “Evidence that the administra-
+tion of vitamin C improves a defective cellular transport mecha-
+nism  for  iodine:    A  case  report.”    The  Original  Internist,  2005; 
+12(3):125-130. 
+
+15) Abraham  GE  and  Brownstein  D.    “Validation  of  the  orthoiodo-
+supplementation program:  A rebuttal of Dr. Gaby’s editorial on 
+iodine.”  The Original Internist, 2005; 12(4): 184-194. 
+
+16) Abraham GE, Brownstein D, and Flechas JD.  “The saliva/serum 
+iodide ratio as an index of sodium/iodide symporter efficiency.”  
+The Original Internist, 2005; 12(4): 152-156. 
+
+17) Brownstein  D.    “Clinical  experience  with  inorganic,  non-
+  The  Original  Internist,  2005; 
+
+iodine/iodide.” 
+
+radioactive 
+12(3):105-108. 
+
+18) Flechas JD.  “Orthoiodosupplementation in a primary care prac-
+
+tice.”  The Original Internist, 2005; 12(2):89-96. 
+
+19) Eskin BA.  “Dynamic effects of  iodine therapy on breast cancer 
+and the thyroid.”  Proc Int Thyroid Symposium, 1996; 6:192-197. 
+20) Eskin  BA,  Anjum  W,  et  al.    “Identification  of  breast  cancer  by 
+differences  in  urinary  iodine.”    Proceeding  of  the  Am  Assoc  of 
+Cancer Res, 2005; 46:504 (2150). 
+
+21) Cann SAH.  “Hypothesis: Dietary iodine intake in the etiology of 
+
+cardiovascular disease.”  JACN, 2006; 25:1-11. 
+
+22) Shrivastava  A,  Tiwari M, et  al.  “Molecular iodine induces cas-
+pase-independent  apoptosis  in  human  breast  carcinoma  cells 
+involving  mitochondra-mediated pathway.”    J  Biol  Chem,  2006; 
+281(28):19762-19771. 
+
+23) Yabu Y, Miyai K, et al.  “Measurement of iodide in urine using 
+the  iodide  selective  ion  electrode.”    Endocrinol,  1986;  83:905-
+911. 
+
+24) Konno N, Yuri K, and Miura K.  “Clinical evaluation of the io-
+dide/creatinine ratio of casual urine samples as an index of daily 
+iodide  excretion  in  a  population  study.”    Endocrine  Journal, 
+1993; 40:163-169. 
+
+25) Lacroix DE and Wong P.  “Determination of iodide in milk using 
+the  iodide  specific  ion  electrode  and  its  application  to  market 
+milk samples.”  Journal of Food Protection, 1980; 43:672-674. 
+26) Gushurst CA, Mueller JA, et al.  “Breast milk iodide:  Reassess-
+
+194 
+
+THE ORIGINAL INTERNIST     December   2006 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ment in the 1980s.”  Pediatrics, 1984; 73:354. 
+
+27) Abraham GE, Handal RC, and Hakala JC.  “A simplified proce-
+dure  for  the  measurement  of  urine  iodide  levels  by  the  ion-
+selective electrode assay in a clinical setting.”  The Original In-
+ternist, 2006; 13(3):125-135. 
+
+28) Bürgi H, Schaffner Th, and Seller JP.  “The toxicology of iodate:  
+
+A review of the literature.”  Thyroid, 2001; 11:449-456. 
+
+29) Thrall KD and Bull RJ.  “Distribution of iodine into blood com-
+ponents of the Sprague-Dawley rat differs with the chemical form 
+administered.”    J  Toxicology  &  Environ  Health,  1992;  37:443-
+449. 
+
+30) Thrall KD and Bull RJ.  “Differences in the distribution of iodine 
+and  iodide  in  the  Sprague-Dawley  rat.”    Fundamental  and  Ap-
+plied Toxicology, 1990; 15:75-81. 
+
+31) Garcia-Solis  P,  Alfaro  Y,  et  al.    “Inhibition  of  N-methyl-N-
+nitrosourea-indcuced  mammary  carcinogenesis  by  molecular 
+iodine (I2) but not by iodide (I-) treatment.  Evidence that I2 pre-
+vents  cancer  promotion.”    Molecular  &  Cellular  Endocr,  2005; 
+236:49-57. 
+
+32) Thurman EM and Mills MS.  Solid-Phase Extraction.  Principles 
+and Practice.  Wiley-Interscience Publication, 1998; 123-160. 
+33) Abraham GE.  “Radioimmunoassay of steroids in biological ma-
+terials.”    In:    Radioimmunoassay  and  Related  Procedures  in 
+Medicine.  Proceedings of a symposium held by the International 
+Atomic Energy Agency, Vienna, Austria, 1974; 3-30. 
+
+34) Abraham GE.  “The application of natural steroid radioimmuno-
+assay to gynecologic endocrinology.”  In:  GE Abraham’s Radio-
+assay  Systems  in  Clinical  Endocrinology.    Marcel  Dekker,  Inc, 
+1981; 475-530. 
+
+35) Garry  PJ,  Lashley  DW,  and  Owen  GM.    “Automated  measure-
+
+ment of urinary iodine.”  Clin Chem, 1973; 19:950-953. 
+
+36) Means JH.  “The diagnostic use of iodine in thyrotoxicosis.”  Ann 
+
+Int Med, 1933; 7:439-444. 
+
+37) Elmer  AW.    “Iodine  tolerance  test  for  thyroid  insufficiency.”  
+
+Endocinology, 1934; 16:137. 
+
+38) Perkin HJ, Lahey FH, and Cattell RB.  “Blood iodine studies in 
+relation to thyroid disease.  Basic concept of the relation of iodine 
+to  the  thyroid  gland;  An  iodine  tolerance  test.”    NEJM,  1936; 
+214(2):45-52. 
+
+39) Thompson WO, Brailey AG, et al.  “The range of effective iodine 
+dosage in exophthalmic goiter III.”  Arch Int Med, 1930; 45:430-
+455. 
+
+40) Wallace  GB  and  Brodie  BB.    “The  distribution  of  administered 
+bromide  in  comparison  with  chloride  and  its  relation  to  body 
+fluids.”  J Pharmac Exp Ther, 1939; 65:214-219. 
+
+41) Rauws AG.  Pharmacokinetics of bromide ion — An overview.”  
+
+Fd Chem Toxic, 1983; 21:379-382. 
+
+42) Vaiseman  N,  Koren  G,  and  Pencharz  P.    “Pharmacokinetics  of 
+oral and intravenous bromide in normal volunteers.”  Clin Toxic, 
+1986; 24:403-413. 
+
+43) Sticht  G.    “Fluorine.”    In:    Handbook  on  Toxicity  of  Inorganic 
+Compounds.    Seiler  HG  and  Sigel  H,  editors.    Marcel  Dekker, 
+Inc, 1988; 283-294. 
+
+44) FAO  Nutrition  Meetings,  Report  Series  No.  48A,  WHO/FOOD 
+
+ADD/70.39. 
+
+45) Jones BA, Tinsley IJ, and Lowry RR.  “Bromine levels in tissue 
+lipids of rats fed brominated fatty acids.”  Lipids, 1983; 18:319-
+326. 
+
+46) Vobecky M, Babicky A, and Lener J.  “Effect of increased bro-
+mide  intake  on  iodine  excretion  in  rats.”    Biological  Trace  Ele-
+ment Research, 1996; 55:215-219. 
+
+47) Velicky J, Titlbach M, et al.  “Potassium bromide and the thyroid 
+gland  of  the  rat:  morphology  and  immunohistochemistry,  RIA 
+and INNA analysis.”  Ann Anat, 1997; 179:421-431. 
+
+48) Vobecky M and Babicky A.  “Effect of enhanced bromide intake 
+on the concentration ratio I/Br in the rat thyroid gland.”  Biologi-
+
+cal Trace Element Research, 1994; 43:509-516. 
+
+49) Vobecky M, Babicky A, et al.  “Interaction of bromine with io-
+dine in the rat thyroid gland at enhanced bromide intake.”  Bio-
+logical Trace Element Research, 1996; 54:207-212. 
+
+50) Velicky J, Titlbach M, et al.  “Expression of the proliferating cell 
+nuclear antigen (PCNA) in the rat thyroid gland after exposure to 
+bromide.”  Acta histochem, 1997; 99:391-399. 
+
+51) Torra M, Rodamilans M, and Corbella J.  “Serum and urine ionic 
+
+fluoride.”  Biol Trace Elem Res, 1998; 63:67-71. 
+
+52) Maes V, Huyghens L, et al.  “Acute and chronic intoxication with 
+
+carbromal preparations.”  Clin Toxic, 1985; 23:341-346. 
+
+53) Horowitz  BZ.    “Bromism  from  excessive  cola  consumption.”   
+
+Clinical Toxicology, 1997; 35:315-320. 
+
+54) Baselt  RC.    Disposition  of  Toxic  Drugs  and  Chemicals  in  Man. 
+Seventh edition, Biomedical Publications, Foster City, CA, 2004; 
+468-469. 
+
+55) Sticht G and Käferstein H.  “Bromine.”  In:  Handbook on Toxic-
+ity  of  Inorganic  Compounds.    Seiler  HG  and  Sigel  H,  editors.  
+Marcel Dekker, Inc, 1988; 143-151. 
+
+56) De Jong P and Burggraaf M.  “An ion chromatographic method 
+for  the  simultaneous  determination  of  inorganic  phosphate,  bro-
+mide,  nitrate  and  sulphate  in  human  serum.”    Clin  Chem  Acta, 
+1983; 132:63-71. 
+
+57) Miller  ME  and  Cappon  CJ.    “Anion-exchange  chromatographic 
+  Clin  Chem,  1984; 
+
+determination  of  bromide  in  serum.” 
+30(5):781-783. 
+
+58) Olszowy HA, Rossiter J, et al.  “Background levels of bromide in 
+human blood.”  J Analytical Toxicology, 1998; 22:225-230. 
+59) Ewing JA and Grant WJ.  “The bromide hazard.”  South Med J, 
+
+1965; 58:148-152. 
+
+60) Fuortes  LJ.    “A  case  of  fatal  methyl  bromide  poisoning.”    Vet 
+
+Hum Toxicl, 1992; 34(3):240-241. 
+
+61) Clark AJ.  Applied Pharmacology.  Churchill, London, 1938. 
+62) Sangster B, Blom JL, et al.  “The influence of sodium bromide in 
+man:  A study in human volunteers with special emphasis on the 
+endocrine  and  the  central  nervous  system.”    Fd  Chem  Toxic, 
+1983; 21:409-419. 
+
+63) Levin M.  “Bromide psychoses:  Four varieties.”  Am J Psychiatr, 
+
+1948; 104:798-800. 
+
+64) Berglund M, Nielsen S, and Risberg J.  “Regional cerebral blood 
+flow  in  a  case  of  bromide  psychosis.”   Arch  Psychiat  Nervenkr, 
+1977; 223:197-201. 
+
+65) Kessell  A.    “Serum  bromide  levels  in  a  mental  health  unit.”  
+
+Medical J. of Australia, 1969; 1:1073-1075. 
+
+66) Malenchenko  AF,  Demidchik  EP,  and  Tadeush  VN.    “The  con-
+tent  and distribution  of  iodine,  chlorine  and bromide  in  the nor-
+mal  and  pathologically  changed  thyroid  tissue.”  Med  Radiol, 
+1984; 29:19-22. 
+
+67) Munro  IC,  Middleton  EJ,  and  Grice  HC.    “Biochemical  and 
+pathological changes in rats fed brominated cottonseed oil for 80 
+days.”  Ed Cosmet Toxicol, 1969; 7:25-33. 
+
+68) FAO  Nutrition  Meetings.  Report  Series  No.  48A,  WHO/FOOD 
+
+ADD/70.39. 
+
+69) Jones BA, Tinsley IJ, and Lowry RR.  “Bromine levels in tissue 
+lipids of rats fed brominated fatty acids.”  Lipids, 1983; 18:319-
+326. 
+
+70) Jones  BA,  Tinsley  IJ,  et  al.    “Toxicology  of  brominated  fatty 
+acids:    Metabolite  concentration  and  heart  and  liver  changes.”  
+Lipids, 1983; 18:327-334.  u  
+
+THE ORIGINAL INTERNIST     December   2006 
+
+195

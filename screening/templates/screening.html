@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<title>Системный скрининг организма</title>
+<script src="https://telegram.org/js/telegram-web-app.js"></script>
+<style>
+  :root {
+    --bg: var(--tg-theme-bg-color, #f4f7f6);
+    --text: var(--tg-theme-text-color, #333);
+    --hint: var(--tg-theme-hint-color, #7f8c8d);
+    --link: var(--tg-theme-link-color, #2980b9);
+    --button: var(--tg-theme-button-color, #e74c3c);
+    --button-text: var(--tg-theme-button-text-color, #fff);
+    --secondary-bg: var(--tg-theme-secondary-bg-color, #fff);
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, 'Segoe UI', Roboto, sans-serif;
+    background-color: var(--bg);
+    color: var(--text);
+    padding: 16px;
+    padding-bottom: 140px;
+  }
+
+  .header {
+    text-align: center;
+    margin-bottom: 24px;
+  }
+  .header h1 {
+    font-size: 1.4em;
+    margin-bottom: 8px;
+  }
+  .header p {
+    color: var(--hint);
+    font-size: 0.9em;
+    line-height: 1.4;
+  }
+
+  .section {
+    background: var(--secondary-bg);
+    border-radius: 12px;
+    padding: 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  }
+  .section-title {
+    font-size: 0.85em;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--link);
+    margin-bottom: 12px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid rgba(0,0,0,0.08);
+  }
+
+  .question {
+    display: flex;
+    align-items: center;
+    padding: 10px 8px;
+    border-radius: 8px;
+    margin-bottom: 4px;
+    transition: background 0.2s;
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .question:active { background: rgba(0,0,0,0.04); }
+  .question.checked { background: rgba(231, 76, 60, 0.08); }
+
+  .checkbox-custom {
+    width: 22px; height: 22px;
+    border: 2px solid #ccc;
+    border-radius: 6px;
+    margin-right: 12px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s;
+  }
+  .question.checked .checkbox-custom {
+    background: var(--button);
+    border-color: var(--button);
+  }
+  .question.checked .checkbox-custom::after {
+    content: '✓';
+    color: var(--button-text);
+    font-size: 14px;
+    font-weight: bold;
+  }
+
+  .question label {
+    font-size: 0.95em;
+    line-height: 1.3;
+    cursor: pointer;
+    flex: 1;
+  }
+
+  .result-box {
+    background: var(--secondary-bg);
+    border-radius: 12px;
+    padding: 20px;
+    margin-top: 16px;
+    text-align: center;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  }
+  .result-box h3 {
+    font-size: 0.95em;
+    color: var(--hint);
+    margin-bottom: 12px;
+  }
+
+  .progress-bar {
+    width: 100%;
+    background: rgba(0,0,0,0.06);
+    border-radius: 10px;
+    height: 20px;
+    overflow: hidden;
+    margin-bottom: 12px;
+  }
+  .progress-fill {
+    height: 100%;
+    background: #2ecc71;
+    width: 0%;
+    transition: width 0.4s ease, background 0.4s ease;
+    border-radius: 10px;
+  }
+
+  .score {
+    font-size: 1.6em;
+    font-weight: 700;
+    margin: 8px 0;
+  }
+  .score .num { color: var(--button); }
+
+  .verdict {
+    font-size: 0.95em;
+    line-height: 1.5;
+    color: var(--text);
+    margin-top: 12px;
+    padding: 0 8px;
+  }
+
+  input[type="checkbox"] { display: none; }
+
+  /* Standalone mode: fixed-bottom action button (for WhatsApp users in browser) */
+  .standalone-action {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 16px;
+    background: linear-gradient(180deg, rgba(244,247,246,0) 0%, var(--bg) 20%);
+    z-index: 100;
+  }
+  .standalone-action.visible { display: block; }
+  .wa-btn {
+    display: block;
+    width: 100%;
+    max-width: 480px;
+    margin: 0 auto;
+    padding: 16px 20px;
+    background: #25D366;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    font-size: 1em;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(37, 211, 102, 0.3);
+    transition: transform 0.1s, box-shadow 0.2s;
+  }
+  .wa-btn:active {
+    transform: translateY(1px);
+    box-shadow: 0 2px 6px rgba(37, 211, 102, 0.3);
+  }
+  .wa-btn-hint {
+    text-align: center;
+    font-size: 0.8em;
+    color: var(--hint);
+    margin-top: 8px;
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>🔬 Системный скрининг организма</h1>
+  <p>Отметьте симптомы, которые вы наблюдаете у себя.<br>Это займёт 2 минуты.</p>
+</div>
+
+<div class="section">
+  <div class="section-title">⚡ Энергия и Нервная система</div>
+  <div class="question" data-id="q1"><input type="checkbox" id="q1"><div class="checkbox-custom"></div><label for="q1">Усталость и отсутствие энергии утром/днём</label></div>
+  <div class="question" data-id="q2"><input type="checkbox" id="q2"><div class="checkbox-custom"></div><label for="q2">Депрессия и подавленное настроение</label></div>
+  <div class="question" data-id="q3"><input type="checkbox" id="q3"><div class="checkbox-custom"></div><label for="q3">Внутреннее напряжение и беспокойство</label></div>
+  <div class="question" data-id="q4"><input type="checkbox" id="q4"><div class="checkbox-custom"></div><label for="q4">Нечёткое мышление («туман в голове»)</label></div>
+  <div class="question" data-id="q5"><input type="checkbox" id="q5"><div class="checkbox-custom"></div><label for="q5">Нарушения сна (сонливость или бессонница)</label></div>
+</div>
+
+<div class="section">
+  <div class="section-title">🪞 Внешность и Физиология</div>
+  <div class="question" data-id="q6"><input type="checkbox" id="q6"><div class="checkbox-custom"></div><label for="q6">Сухая кожа, ломкие ногти</label></div>
+  <div class="question" data-id="q7"><input type="checkbox" id="q7"><div class="checkbox-custom"></div><label for="q7">Истончение и выпадение волос</label></div>
+  <div class="question" data-id="q8"><input type="checkbox" id="q8"><div class="checkbox-custom"></div><label for="q8">Внезапный набор или потеря веса</label></div>
+  <div class="question" data-id="q9"><input type="checkbox" id="q9"><div class="checkbox-custom"></div><label for="q9">Постоянная мерзлявость или сильная потливость</label></div>
+  <div class="question" data-id="q10"><input type="checkbox" id="q10"><div class="checkbox-custom"></div><label for="q10">Хрипота, изменение голоса, «комок в горле»</label></div>
+</div>
+
+<div class="section">
+  <div class="section-title">🫀 Внутренние органы и Системы</div>
+  <div class="question" data-id="q11"><input type="checkbox" id="q11"><div class="checkbox-custom"></div><label for="q11">Учащённое сердцебиение или «трепетание»</label></div>
+  <div class="question" data-id="q12"><input type="checkbox" id="q12"><div class="checkbox-custom"></div><label for="q12">Высокое кровяное давление</label></div>
+  <div class="question" data-id="q13"><input type="checkbox" id="q13"><div class="checkbox-custom"></div><label for="q13">Высокий уровень холестерина</label></div>
+  <div class="question" data-id="q14"><input type="checkbox" id="q14"><div class="checkbox-custom"></div><label for="q14">Нарушения пищеварения (запор или диарея)</label></div>
+  <div class="question" data-id="q15"><input type="checkbox" id="q15"><div class="checkbox-custom"></div><label for="q15">Постоянный голод или изменение вкуса</label></div>
+  <div class="question" data-id="q16"><input type="checkbox" id="q16"><div class="checkbox-custom"></div><label for="q16">Боль или покалывание в конечностях</label></div>
+  <div class="question" data-id="q17"><input type="checkbox" id="q17"><div class="checkbox-custom"></div><label for="q17">Потеря интереса к близости</label></div>
+  <div class="question" data-id="q18"><input type="checkbox" id="q18"><div class="checkbox-custom"></div><label for="q18">Изменение менструального цикла</label></div>
+  <div class="question" data-id="q19"><input type="checkbox" id="q19"><div class="checkbox-custom"></div><label for="q19">Проблемы с зачатием / беременностью</label></div>
+</div>
+
+<div class="result-box">
+  <h3>Индекс клеточного голодания</h3>
+  <div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
+  <div class="score">Маркеров: <span class="num" id="scoreNum">0</span> / 19</div>
+  <div class="verdict" id="verdict">Отметьте симптомы выше</div>
+</div>
+
+<!-- Standalone mode action (shown only in browser, not in Telegram) -->
+<div class="standalone-action" id="standaloneAction">
+  <a class="wa-btn" id="waBtn" href="#" target="_blank" rel="noopener">
+    💬 УЗНАТЬ ГЛАВНУЮ ПРИЧИНУ
+  </a>
+  <div class="wa-btn-hint">Откроется чат с ассистентом в WhatsApp</div>
+</div>
+
+<script>
+// ─────────────────────────────────────────────────────────────────────────
+// Dual-mode detection: Telegram WebApp vs standalone browser
+// ─────────────────────────────────────────────────────────────────────────
+const IS_TELEGRAM = !!(window.Telegram?.WebApp?.initData);
+const tg = IS_TELEGRAM ? window.Telegram.WebApp : null;
+
+// WhatsApp deep-link configuration (read from URL params or defaults)
+const urlParams = new URLSearchParams(window.location.search);
+const WA_PHONE = urlParams.get('wa') || '77773997793';  // fallback bot number
+
+if (tg) {
+  tg.ready();
+  tg.expand();
+}
+
+const TOTAL = 19;
+const questions = document.querySelectorAll('.question');
+const progressFill = document.getElementById('progressFill');
+const scoreNum = document.getElementById('scoreNum');
+const verdictEl = document.getElementById('verdict');
+const standaloneAction = document.getElementById('standaloneAction');
+const waBtn = document.getElementById('waBtn');
+
+let currentScore = 0;
+let currentSymptoms = [];
+let currentLevel = 'low';
+
+// Toggle on tap (whole row is clickable)
+questions.forEach(q => {
+  q.addEventListener('click', () => {
+    const cb = q.querySelector('input[type="checkbox"]');
+    cb.checked = !cb.checked;
+    q.classList.toggle('checked', cb.checked);
+    updateScore();
+  });
+});
+
+function getCheckedSymptoms() {
+  const symptoms = [];
+  questions.forEach(q => {
+    const cb = q.querySelector('input[type="checkbox"]');
+    if (cb.checked) {
+      symptoms.push(q.querySelector('label').textContent.trim());
+    }
+  });
+  return symptoms;
+}
+
+function updateScore() {
+  currentSymptoms = getCheckedSymptoms();
+  currentScore = currentSymptoms.length;
+  scoreNum.textContent = currentScore;
+
+  const pct = (currentScore / TOTAL) * 100;
+  progressFill.style.width = pct + '%';
+
+  let color;
+  if (currentScore <= 3) {
+    currentLevel = 'low';
+    color = '#2ecc71';
+    verdictEl.innerHTML = 'Пока ваш организм справляется. Профилактика не повредит.';
+    showActionButton(false);
+  } else if (currentScore <= 8) {
+    currentLevel = 'medium';
+    color = '#f39c12';
+    verdictEl.innerHTML = '<strong>Внимание!</strong> Обнаружены признаки метаболического сбоя и истощения щитовидной железы. Ваши клетки начинают испытывать дефицит энергии.';
+    showActionButton(true);
+  } else {
+    currentLevel = 'high';
+    color = '#e74c3c';
+    verdictEl.innerHTML = '<strong>Критический уровень!</strong> Ваши клетки находятся в состоянии глубокого голодания. Обычно люди лечат это у десятка разных врачей, но всё это — симптомы ОДНОЙ проблемы.';
+    showActionButton(true);
+  }
+
+  progressFill.style.backgroundColor = color;
+}
+
+function showActionButton(show) {
+  if (tg) {
+    // Telegram mode: use native MainButton
+    if (show) {
+      tg.MainButton.setText('УЗНАТЬ ГЛАВНУЮ ПРИЧИНУ');
+      tg.MainButton.show();
+    } else {
+      tg.MainButton.hide();
+    }
+  } else {
+    // Standalone mode: show/hide HTML button + update WhatsApp link
+    if (show) {
+      standaloneAction.classList.add('visible');
+      waBtn.href = buildWhatsAppLink();
+    } else {
+      standaloneAction.classList.remove('visible');
+    }
+  }
+}
+
+function buildWhatsAppLink() {
+  // Build a wa.me deep link with pre-filled result text
+  // When user taps this, WhatsApp opens the chat with our number
+  // and the message is pre-typed — they just tap send.
+  const topSymptoms = currentSymptoms.slice(0, 8).map(s => '• ' + s).join('\n');
+  const levelText = currentLevel === 'high' ? 'критический'
+                  : currentLevel === 'medium' ? 'средний'
+                  : 'начальный';
+
+  const text = `🔬 Результат скрининга: ${currentScore}/${TOTAL}
+Уровень: ${levelText}
+
+Отмеченные симптомы:
+${topSymptoms}${currentSymptoms.length > 8 ? '\n...' : ''}
+
+Хочу узнать главную причину и получить рекомендации.`;
+
+  return `https://wa.me/${WA_PHONE}?text=${encodeURIComponent(text)}`;
+}
+
+// Telegram WebApp: wire MainButton click handler
+if (tg) {
+  tg.MainButton.onClick(() => {
+    const payload = JSON.stringify({
+      type: 'screening_result',
+      symptoms: currentSymptoms,
+      score: currentScore,
+      total: TOTAL,
+      level: currentLevel
+    });
+    tg.sendData(payload);
+  });
+}
+</script>
+
+</body>
+</html>

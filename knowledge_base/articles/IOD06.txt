@@ -1,0 +1,1880 @@
+The Concept of 
+Orthoiodosupplementation 
+and Its Clinical Implications 
+
+by  Guy E. Abraham, MD 
+
+Introduction 
+The  recommended  daily  allowance  (RDA)  of  elemental 
+iodine  by  the  Food  and  Nutrition  Board  of  the  United 
+States National Academy of Sciences was not established 
+until 1980, and it was not confirmed until 1989.1 
+
+In  that  year,  1989,  the Executive  Director  of the  Interna-
+tional Council for Control of Iodine Deficiency Disorders 
+(that  is  a  very  impressive  title  to  say  the  least),  Basil  S. 
+Hetzel, published a book entitled The Story of Iodine Defi-
+ciency.2  In that book, goiter and cretinism were the only 
+two  aspects  of  iodine  deficiency  discussed.    One  would 
+assume that the experts on human requirements for iodine 
+have already figured out the amounts of iodine needed for 
+sufficiency  of  the  human  body  (i.e.,  the  daily  amount  of 
+iodine needed for the prevention and control of cretinism 
+and  endemic  goiter).    However,  the  1930  statement  of 
+Thompson, et al,3 is still valid today:  “The normal daily 
+requirement  of the body for iodine has  never  been  deter-
+mined.”  In the ninth edition of the classic textbook of nu-
+trition, Modern Nutrition in Health and Disease, edited by 
+Shils,  et  al,  and  published  in  1999,  the  section  on  iodine 
+was written by no less than Basil S. Hetzel and coauthored 
+with  Graeme  A.  Clugston.4   They  reported the latest rec-
+ommended  intakes  of  iodine  established  in  1996  by  the 
+World  Health  Organization  (WHO),  based  on  age  and 
+physiological conditions.  The highest recommended daily 
+intakes are for pregnant and lactating women — 200 mcg 
+or 0.2 mg.   In a subsection entitled “Iodine toxicity,” the 
+authors stated:  “Wolff39 has suggested that human intakes 
+of 2,000 mcg I/day should be regarded as excessive or po-
+tentially  harmful.”    Please  note,  the  unit  mcg  is  used  in-
+stead of 2 mg in order to make the amount appear really 
+“excessive.”    For  example,  if  they  used  the  unit  ng,  that 
+amount would be 2,000,000 ng, a number that would scare 
+just about anybody.  Reference 39 in this citation was au-
+thored  in  1969  by  the  world  famous  thyroidologist,  I. 
+Wolff,5 coauthor of the world famous Wolff-Chaikoff ef-
+fect  published  in  1948.6    There  was  a  fly  in  the  Wolff-
+Chaikoff ointment, however. 
+
+fibrocystic  disease  of  the  breast”  —  implies  that  this  ab-
+normality  of  the  breast  was  due  to  iodine  deficiency  and 
+the  amount  of  iodine  used,  that  is  5  mg/day  for  a  50  kg 
+woman, was within the physiological ranges of iodine in-
+take.    Ghent’s  study  did  not  confirm  Wolff’s  prediction 
+that  daily  iodine  intake  of  2,000  mcg  (2  mg)  was 
+“excessive  and  potentially  harmful”  as  quoted  by  Hetzel 
+and Clugston.4  Based on academic credentials and reputa-
+tion,  the  opinion  of  thyroidologist  Wolff,  from  the  Na-
+tional Institute of Health, would prevail over the findings 
+of  Canadian  gynecologist  Ghent.    However,  being  inter-
+ested in facts only, not in preconceived opinions of famous 
+thyroidologists, this author initiated an extensive search of 
+the literature on iodine in medicine. 
+
+The  concept  of  orthoiodosupplementation  is  the  outcome 
+of  this  intensive  literature  search,  which  started  seven 
+years  ago,  combined  with  some  original  clinical  research 
+performed  by  the author.   The clinical aspects of  this re-
+search were performed under contract at the Flechas Fam-
+ily Practice Clinic in Hendersonville, North Carolina under 
+the supervision of Jorge D. Flechas, MD, and funded with 
+grants  from  Optimox  Corporation.    The  author  designed 
+the  protocols and  monitored  the progress  and completion 
+of each project.  Informed consent was obtained from all 
+the  subjects  participating  in  these  projects.    Pilot  studies 
+were  performed  with tablets containing Lugol solution  in 
+amounts  per  tablet  ranging  from  1  to  12.5  mg  and  com-
+pounded  by  John  C.  Hakala,  RPh,  from  Hakala  Apothe-
+cary in Lakewood, Colorado.  The results of some of these 
+projects have been published,8-12 with Flechas and Hakala 
+as coauthors in two publications.10,11 
+
+From a review of the published data, it soon became evi-
+dent that medical textbooks contain several vital pieces of 
+misinformation  about  the  essential  element  iodine,  which 
+may have caused more human misery and death than both 
+world wars combined.8,9  The purpose of this manuscript is 
+to  present  some  useful  information  about  iodine  and  to 
+discuss  the  concept  of  orthoiodosupplementation  in  more 
+detail  than  in  previous  publications.9,11    This  manuscript 
+was written in response to a request from the eclectic and 
+altruistic physician, a recent collaborator on the iodine pro-
+ject, David Brownstein, MD, to expand further on the con-
+cept of orthoiodosupplementation with more details than in 
+the  previous  publication9  in  order  to  help  the  practicing 
+physician  fully  appreciate  the  impact  of  this  concept  on 
+their practice.  Dr. Brownstein recently wrote a book about 
+his  experience  with  the  implementation  of  orthoiodosup-
+plementation in his practice.13 
+
+In 1993, Ghent, et al,7 reported that daily intake of iodine 
+at 0.1 mg/kg BW was effective in fibrocystic disease of the 
+breast.   The title  of the  article  — “Iodine replacement  in 
+
+The Various Natural Forms of Iodine 
+The  element  iodine  exists  in  nature  under  several  forms:  
+(Continued on next page) 
+
+THE ORIGINAL INTERNIST     June   2004 
+
+29 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+inorganic  sodium  and  potassium  salts  of  iodates  (IO3-) 
+and  iodides  (I-);  inorganic  diatomic  iodine  (I2);  and  or-
+ganic  monatomic  iodine  (C-I).    The  first  reported,  natu-
+rally  occurring,  halogenated  organic  compound  was  3,5- 
+diiodothyrosine,  isolated  in  1896  by  Drechsel  from  the 
+coral,  Gorgonia  cavolinii.14    Surprisingly,  invertebrates 
+and algae have the ability to synthesize the “thyroid hor-
+mone” thyroxine (T4).15  Evidence will be presented later 
+for the synthesis of T4 by human leukocytes.   
+
+In the US, various forms of iodine have been used in food 
+products: iodides in table salt since the 1920s; iodates in 
+bread from 1960-1980; and diatomic iodine in municipal 
+waters (on an experimental basis only).9  Since the 1940s, 
+radioisotopes  of  iodide  became  available  for  diagnostic 
+therapeutic  purposes.  
+and 
+The  most  common  forms  of 
+iodine  used  in  clinical  medi-
+cine are listed in Table 1.  The 
+iodine-containing 
+organic 
+compounds,  whether  occur-
+ring  naturally  or  manmade, 
+have  properties  distinctly  dif-
+io-
+from 
+ferent 
+dine/iodates/iodides. 
+
+1)  Non-Radioactive 
+
+A)  Inorganic 
+
+inorganic 
+
+Table 1 
+
+B)  Organic 
+
+2)  Man-made 
+
+Sources of Iodine in Nature 
+The  greatest  reservoir  of  io-
+dides  is  in  the  oceans  of  our 
+planet,  although  present  in 
+very  diluted  concentrations 
+(0.05  mcg/ml  of  sea  water); 
+therefore,  this  is  not  a  good 
+starting material for industrial 
+production  of  iodine.    How-
+ever,  sea  algae  can  concen-
+trate iodides by several orders 
+of magnitude.  For example, iodide concentrations as high 
+as 0.5%  wet  weight have been  reported in red  algae,16  a 
+concentration  100,000  times  higher  than  that  present  in 
+seawater.    From  the  discovery  of  iodine  in  1811  until 
+1840, France was the sole producer of iodine.  Japan did 
+not  become  a  major  iodine  producer  until  1888.17    Cur-
+rently, the major iodine producers are the US, Japan, and 
+Chile; caliches, oil wells, and deep well water are the ma-
+jor sources. 
+
+The iodine cycle starts and ends in the oceans.  Under the 
+influence of sunlight, the iodides in seawater are oxidized 
+to diatomic iodine I2.  Due to sublimation at ambient tem-
+perature and atmospheric pressure, the  I2  gas evaporates 
+in  the  air  in  an  estimated  amount  of  400,000  tons  per 
+year.2    This  form  of  diatomic  iodine  can  be  absorbed 
+through the lungs by breathing air, which usually contains 
+
+approximately  1  mcg/m3,  a  very  insignificant  source  of 
+iodine.  The high voltage currents flowing through clouds 
+reduce  the  diatomic  iodine  to  iodides  dissolved  in  water 
+droplets which fall on the soil in the form of rain.  Rivers 
+return the iodide to the oceans to complete the cycle. 
+
+Iodine Metabolism in Man 
+Diatomic  iodine  (I2)  can  be  absorbed  through  the  lungs 
+and through the skin.18,19  However, ingested food, drinks 
+and iodine/iodide supplementation, are the most common 
+means  of supplying  iodine to the human body.   Without 
+interfering substances present in the gastrointestinal tract, 
+inorganic  iodine,  iodates,  and  iodides  are  quantitatively 
+absorbed.  The elimination of peripheral inorganic iodide 
+occurs almost exclusively through renal clearance.20  Or-
+ganic and inorganic iodine are 
+not  cleared  by  the  kidneys.  
+When  inorganic  iodide  is  in-
+gested  in  amounts  ranging 
+from  0.001  mg  up  to  2,000 
+mg,  Childs,  et  al,20  estimated 
+an  average  renal  clearance  of 
+serum 
+iodide  of 
+50L/day over the whole range 
+of intakes.  Fisher, et al,21 and 
+Koutras,  et  al,22  have  meas-
+ured  serum  inorganic  iodide 
+levels  at  equilibrium  in  sub-
+jects 
+increasing 
+amounts  of  iodide  from  75-
+1,250  mcg/day.    Their  results 
+in  Table  2.  
+are  displayed 
+When  these  data  are  plotted 
+on  an  X-Y  axis  (Figure  1),  a 
+high  degree  of  correlation 
+(0.999)  was  obtained  with  a 
+slope  of  0.023.    The  slope  is 
+
+inorganic 
+
+ingesting 
+
+an index of renal clearance:  1/0.023 = 43.5 L/day.   
+
+To compute the serum inorganic iodide levels at equilib-
+rium  in  a  subject  ingesting  a  narrow  range  of  io-
+dine/iodide,  divide  the  average  daily  intake  expressed  as 
+milligrams  elemental  iodine  by  43.5  liters  to  obtain  the 
+serum  concentration  of  inorganic  iodide  expressed  as 
+mg/L  of  serum.    Besides  giving  accurate  information 
+about the peripheral concentrations of iodide available for 
+uptake by the cells and organs of the human body, meas-
+urement of serum inorganic iodide levels is very useful for 
+assessing  bioavailability  of  the  iodine/iodide  ingested.  
+Alexander,  et  al,23  measured  the  serum  inorganic  iodide 
+levels in normal subjects consuming an average of 70 mcg 
+iodide per day, but no iodized salt.  He observed a mean 
+value of 1.8 mcg/L.  This measured value is very close to 
+(Continued on next page) 
+
+Various Forms of Iodine/Iodide 
+Used in Clinical Medicine9 
+
+a)  Iodides (I.e., SSKI) 
+b)  Tincture of Iodine 
+c)  Lugol Solution 
+
+2)  Radioactive Iodides for Diagnostic and  
+     Therapeutic Purposes 
+
+1)  Naturally Occurring 
+
+a)  Thyroid hormones 
+b)  Thyroidal Iodolipids 
+
+a)  Radiographic Contrast Media 
+b)  Iodine-Containing Drugs (I.e., Amiodarone) 
+
+30 
+
+THE ORIGINAL INTERNIST     June   2004 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the  value  computed  by  dividing  70  mcg/day  by  43.5  li-
+ters/day = 1.6 mcg/L.  This is evidence that the iodine pre-
+sent  in  the  food  and  drink  of  these  subjects  is  highly 
+bioavailable.    Pittman,  et  al,24  measured  serum  inorganic 
+iodide  levels  in  two  groups  of  subjects:    one  group  after 
+iodization  of  salt,  with  an  estimated  daily  intake  of  750 
+mcg iodide, and the other group after iodization of bread, 
+with  a similar average  daily  intake  of  iodates.25   The ex-
+pected  mean  serum  level  at  equilibrium  would  be  17.2 
+mcg/L  (750  mcg/43.5  L).   The  mean  values observed by 
+Pittman, et al,24 were 1.7 mcg/L for subjects after iodiza-
+tion of salt, and 18.7 mcg/L for subjects after iodization of 
+bread.    These  data  suggest  that  iodate  in  bread  is  very 
+bioavailable,  whereas  only  10%  of  iodide  in  iodized  salt 
+were  absorbed.    On  a  molar  basis,  there  is  30,000  times 
+more chloride than iodide in iodized salt.  Chloride com-
+petes with iodide for absorption in the intestinal tract.26  To 
+this author’s knowledge, the low bioavailability of iodide 
+in iodized salt has never been reported.    
+
+Using  ion-selective  electrode  measurement,  following 
+chromatography  on  anion-exchange  resins,27  serum  inor-
+ganic  iodide  levels  were  measured  by  the  author  serially 
+for  24  hours in five normal  subjects  and  one  obese  man, 
+following  a  single  ingestion  of  37.5  mg  of  iodine/iodide 
+from  a  tablet  form  of  Lugol  solution  (three  tablets  of  Io-
+doral®).9    Baseline  serum  iodide  levels  were  below  the 
+sensitivity  of  the  assay  (0.006  mg/L)  in  all  the  subjects 
+tested.    There  was  no  significant  difference  in  the  levels 
+and  pattern  of  serum  levels  obtained  in  three  normal 
+women (subjects A, B, C) and two normal men (subjects 
+D  and  E)  (Figure  2).    The  serum  inorganic  iodide  levels 
+increased rapidly to reach peak levels between 1.4 and 1.8 
+mg/L at 2-3 hours post ingestion, and decreased afterward.  
+The serum levels were still elevated at 24 hours post inges-
+tion,  ranging  from  0.3-0.5  mg/L.    The  serum  levels  ob-
+served in an obese man (subject F) (Figure 2) were much 
+lower and approached baseline by 8 hours post ingestion.  
+
+Table 2 
+
+Sequestration of iodine by fats may be the explanation for 
+this observation.  With selective uptake of iodine, but not 
+iodide by fats, obesity would create a selective iodine defi-
+ciency  for  tissues  like  the  mammary  glands  possessing  a 
+preference  for  iodine.28,29    Following  ingestion  of  50  mg 
+(four  tablets)  of  the  same  preparation  in  six  normal 
+premenopausal subjects, the serum inorganic iodide levels 
+followed the same profile as the one observed in the five 
+normal subjects following ingestion of 37.5 mg elemental 
+iodine  but  with  higher  serum  levels.    The  baseline  inor-
+ganic iodide levels were below the sensitivity of the assay 
+in all six subjects.   
+
+The expected serum inorganic iodide levels at equilibrium 
+for subjects ingesting 50 mg iodine/iodide would be 1.15 
+mg/L  (50  mg/43.5  L).    In  eight  normal  subjects  (three 
+males and five females) ingesting four tablets of Iodoral® 
+(50 mg) daily for three months, the serum inorganic iodide 
+levels  at  equilibrium  ranged  from  0.85-1.34  mg/L  with  a 
+mean ± SD of 1.1±0.18 mg/L.  This finding confirms the 
+high bioavailability of the Lugol tablet (Iodoral®) routinely 
+used in the iodine/iodide loading test and for orthoiodosup-
+plementation.9 
+
+Thyroidal Metabolism of Iodide 
+Serum inorganic iodide is in dynamic equilibrium with the 
+exchangeable pool of inorganic iodide in the thyroid gland.  
+This  pool  was  estimated  at  6-7  mg  iodide  by Koutras,  et 
+al.22    Uptake  of  inorganic  iodide  by  the  thyroidal  Na/I 
+symporter system increases with increased peripheral lev-
+els, but only up to a point.  The maximum daily thyroidal 
+uptake was estimated at 0.6 mg/day when 50 mg of iodide 
+are ingested daily.11  Based on studies in farm animals by 
+Marine, saturation of the thyroid occurs with 5 mg iodine 
+per gm (dry wt) of thyroid.30  That would compute to 50 
+mg iodine per thyroid gland in an adult man, 8 times the 
+exchangeable pool of iodide.  Hyperplastic changes in the 
+(Continued on next page) 
+
+Serum Inorganic Iodide Levels at Equilibrium, Following Increasing Iodine Intake 
+
+Average Total I Intake 
+(Diet & Supplement) 
+(mcg/day) 
+
+75 
+150 
+350 
+690 
+
+350 
+600 
+1250 
+
+Duration 
+of Intake 
+
+12 weeks 
+
+13 weeks 
+
+Mean Serum II Levels 
+(PPB) 
+(By Isotope Dilution) 
+
+2.1 
+4.0 
+8.2 
+15.5 
+
+8.6 
+14.0 
+29.5 
+
+References 
+
+Koutras, et al22 
+
+Fisher, et al21 
+
+THE ORIGINAL INTERNIST     June   2004 
+
+31 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Correlation between Intake of Iodide and Serum 
+Inorganic Iodide (II) Levels at Equilibrium.   
+
+Figure 1 
+
+thyroid  gland  are  observed  when  iodine  concentrations 
+drop  below 0.1% dry  weight (dry  wt).31   Thyroidal  con-
+centration of 0.1% iodine corresponds to 1 mg iodine/gm 
+thyroid (dry wt).  With an estimated weight of the thyroid 
+gland around 10 gm dry wt in the normal adult, the mini-
+mum amount of iodine/iodide in the thyroid before hyper-
+plastic  changes occur  would  be  10  mg  (1  mg  I/gm  x  10 
+  F.M.  Delange32 
+gm). 
+estimated, from an exten-
+sive  review  of  the  litera-
+ture,  that  daily  intake  of 
+0.05 mg iodine and 10-20 
+mg  iodine/thyroid  were 
+required  to  prevent  sim-
+ple  goiter.   Goiter devel-
+opment  correlates  better 
+with low thyroidal iodine 
+than  with  elevated  TSH 
+an 
+levels, 
+role  of 
+autoregulatory 
+iodine 
+thyroid 
+gland.33 
+
+suggesting 
+
+m
+u
+r
+e
+S
+
+the 
+
+s
+l
+e
+v
+e
+l
+
+B
+P
+P
+
+in 
+
+15
+
+25
+
+20
+
+30
+
+I
+I
+
+10
+
+l
+l
+
+l
+
+l
+
+5
+
+200
+
+400
+
+induces 
+Elevated  TSH 
+hypertrophy,  whereas 
+intrathyroidal iodine defi-
+ciency  induced  thyroid 
+hyperplasia.    In  iodine-
+iodine 
+deficient  goiter, 
+supplementation 
+abol-
+ishes  not  only  hypertrophy,  but  also  hyperplasia  of  the 
+thyroid  gland.    On  the  other  hand,  suppression  of  TSH 
+with T4 abolishes hypertrophy, not hyperplasia if there is 
+intrathyroidal iodine deficiency.33  Therefore, administra-
+tion  of  T4  to  iodine-deficient  patients  does  not  decrease 
+their  risk  for  thyroid  cancer,  an  effect  expected  with  io-
+dine  supplementation.34    Stubner,  et  al,33  concluded:  
+“These  data  indicate  that  iodine  supplementation  is  the 
+causal therapy for iodine-deficient goiter because it abol-
+ishes  not  only  hypertrophy,  but  also  hyperplasia  of  the 
+glands  and  restores  normal  function  and  regulation.”  
+Based on the above findings, orthoiodosupplementation is 
+highly  recommended  in  patients  receiving  thyroid  hor-
+mone therapy.  
+
+There  is  an  inverse  relationship  between  the  iodine  con-
+centration  of  the  thyroid  gland  and  total  DNA  content, 
+indicating an autoregulatory effect of iodine on cell prolif-
+eration (anticarcinogenic effect).  Recent investigations on 
+this  autoregulatory  effect  of  iodine  on  cell  proliferation 
+suggest  that  it  is  due  to  iodinated  lipids.9    Iodination  of 
+lipids  in  thyrocytes  requires  an  amount  of  iodine/iodide 
+two orders of magnitude greater than the RDA, that is two 
+orders of magnitude greater than required for iodination of 
+
+l
+
+l
+
+600
+
+800
+
+Daily I intake
+
+thyrosine.   Apparently, the thyroid  gland  requires higher 
+concentrations of iodide in the thyrocyte for the iodination 
+of lipids than for the iodination of thyrosine.  For further 
+details on the intrathyroidal metabolism of iodide and syn-
+thesis of thyroid hormones, the reader is referred to text-
+books  of  endocrinology  and  thyroidology  where  this  as-
+pect of iodine metabolism is well described. 
+
+l
+
+cor. coef = 0.999
+slope = 0.023
+intercept = 0.27
+
+Extrathyroidal 
+Metabolism of Iodide 
+The  mammary  glands 
+can  effectively  compete 
+with the thyroid gland for 
+peripheral iodine.  Eskin, 
+et  al,28  measured  the  24-
+hour  radioiodide  uptake 
+in  57  clinically  normal 
+breasts, and in eight clini-
+cally  abnormal  breasts.  
+The  mean ±  SD percent-
+a g e  
+u p t a k e   w a s 
+6.9±0.46% in the normal 
+breasts  and  12.5±1%  in 
+abnormal  breasts.  These 
+means  were  statistically 
+significant  at  p  <0.005.  
+Considering 
+these 
+measurements  are  repre-
+sentative  of  a  single 
+breast, and a  woman has 
+two  breasts,  the  percentage  uptake  per  patient  is  twice 
+these  amounts.    This  brings  the  24-hour  radioiodide  up-
+take  by  the  mammary  glands  of  a  woman  in  the  same 
+range  as  the  24-hour  radioiodide  uptake  by  the  thyroid 
+gland.    The  higher  percentage  uptake  in  the  abnormal 
+breasts suggests that the abnormal breasts were more defi-
+cient in elemental iodine than normal breasts. 
+
+that 
+
+1400
+
+1000
+
+1200
+
+ug I
+
+Since  the  radioiodide  uptake  study  of  breast  tissue  by 
+Eskin, et al,28 was performed with iodide, not iodine, it is 
+likely that the percent uptake by the breast would even be 
+higher if radioiodine were used.  There is some evidence 
+that  the  udder  of  a  lactating  cow  has  a  greater  need  for 
+iodine than the thyroid gland.  When the radioisotope 131I 
+was  administered  to  lactating  cows  under  four  different 
+chemical  forms35  —  diatomic  iodine,  methyliodine,  io-
+dide, and iodate — the average maximum uptake by the 
+thyroid gland was 3.8% of the administered dose, whereas 
+milk from the same cows contained an average of 14% of 
+the administered dose.  A slightly higher concentration of 
+radioactivity  was  observed  in  the  milk  of  cows  fed  ra-
+dioiodine than those fed radioiodide.    Of interest  are the 
+findings of Eskin, et al,29 that the thyroid gland preferen-
+(Continued on next page) 
+
+32 
+
+THE ORIGINAL INTERNIST     June   2004 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+s
+l
+e
+v
+e
+l
+
+I
+I
+
+m
+u
+r
+e
+S
+
+)
+
+M
+P
+P
+(
+
+s
+l
+e
+v
+e
+l
+
+I
+I
+
+m
+u
+r
+e
+S
+
+)
+
+M
+P
+P
+(
+
+Figure 2 
+
+Serum Inorganic Iodide Levels Following Ingestion of Three Tablets of Iodoral®, Containing 
+37.5 mg Elemental Iodine, in Three Normal Women, Two Normal Men and One Obese Man. 
+
+l
+
+l
+
+28 yr. old female subject
+
+l
+
+l
+
+Ht = 61”
+Wt = 121 lbs.
+BMI = 22.8
+
+A
+
+l
+
+l
+
+1.8
+
+1.6
+
+1.4
+
+1.2
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+s
+l
+e
+v
+e
+l
+
+I
+I
+
+m
+u
+r
+e
+S
+
+)
+
+M
+P
+P
+(
+
+1.8
+
+1.6
+
+1.4
+
+1.2
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+l
+
+l
+
+l
+
+l
+
+24 yr. old female subject
+
+Ht = 65”
+Wt = 151 lbs.
+BMI = 25.1
+
+l
+
+l
+
+B
+
+l
+
+<0.006
+
+l
+
+*
+
+Time after ingestion
+
+<0.006> *
+
+Time after ingestion
+
+2
+
+4
+
+6
+
+8
+
+24 hrs
+
+2
+
+4
+
+6
+
+8
+
+24 hrs
+
+1.8
+
+1.6
+
+1.4
+
+1.2
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+<0.006
+
+*
+
+l
+
+l
+
+l
+
+43 yr. old female subject
+
+Ht = 67”
+Wt = 170 lbs.
+BMI = 26.7
+
+l
+
+C
+
+l
+
+s
+l
+e
+v
+e
+l
+
+I
+I
+
+m
+u
+r
+e
+S
+
+)
+
+M
+P
+P
+(
+
+1.8
+
+1.6
+
+1.4
+
+1.2
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+Time after ingestion
+
+<0.006
+
+2
+
+4
+
+6
+
+8
+
+24 hrs
+
+24 yr. old male subject
+
+Ht = 74”
+Wt = 167 lbs.
+BMI = 21.4
+
+D
+
+l
+
+l
+
+l
+
+l
+
+l
+
+Time after ingestion
+
+2
+
+4
+
+6
+
+8
+
+24 hrs
+
+l
+
+l
+
+*
+
+0
+
+l
+
+l
+
+l
+
+l
+
+19 yr. old male subject
+
+Ht = 72”
+Wt = 178 lbs.
+BMI = 24.1
+
+E
+
+l
+
+35 yr. old male subject
+
+Ht = 71.5”
+Wt = 286 lbs.
+BMI = 39.2
+
+F
+
+s
+l
+e
+v
+e
+l
+
+I
+I
+
+m
+u
+r
+e
+S
+
+)
+
+M
+P
+P
+(
+
+1.8
+
+1.6
+
+1.4
+
+1.2
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+l
+
+l
+
+l
+
+l
+
+l
+
+l
+
+l
+
+l
+
+l
+
+s
+l
+e
+v
+e
+l
+
+I
+I
+
+m
+u
+r
+e
+S
+
+)
+
+M
+P
+P
+(
+
+1.8
+
+1.6
+
+1.4
+
+1.2
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+<0.006 *
+
+Time after ingestion
+
+2
+
+4
+
+6
+
+8
+
+24 hrs
+
+<0.006 *
+
+l
+
+8
+
+2
+
+4
+
+6
+
+l
+
+Time after ingestion
+
+24 hrs
+
+THE ORIGINAL INTERNIST     June   2004 
+
+33 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+tially  concentrates  iodide  whereas  the  mammary  gland 
+favors  iodine.    In  I-deficient  female  rats,  histological  ab-
+normalities  of  the  mammary  gland  were  corrected  more 
+completely, and in a larger number of rats treated with io-
+dine, than iodide given orally at equivalent doses.  Ghent, 
+et al,7 reported a better response from patients with fibro-
+cystic  disease  of  the  breast  when  inorganic  iodine  was 
+used, compared with organic iodine and inorganic iodide. 
+
+In the rats studied by Thrall and Bull,36 20% of the iodide, 
+but  not  iodine,  administered  orally  was  recovered  in  the 
+skin.    This  suggests  that  the  skin,  like  the  thyroid  gland, 
+has a preference for iodide.  Extrathyroidal synthesis of T4 
+has been demonstrated in thyroidectomized rats by Evans, 
+et al,37 following administration of iodide in amount of 25 
+mg/kg BW.  For a 70-kg human subject, the corresponding 
+amount would be 1.75 g, well within the range of iodides 
+prescribed  for  pulmonary  patients.9    Iodotherapy  in  these 
+thyroidectomized  rats  reversed  the  effect  of  hypothyroid-
+ism on growth, on the adrenal glands, the ovaries, testicles, 
+and thymus.   
+
+Human  leukocytes  during  phagocytosis  synthesized  T4 
+when the incubation media contained 10-6M iodide.38  Ex-
+trathyroidal  hyperthyroidism  with  exophthalmia  has  been 
+reported in patients with leukemia.39,40  The administration 
+of Lugol solution was effective in these cases.41,42  Iodine 
+deficiency may play an important role in leukemia.  Sali-
+vary glands and stomach cells oxidized and organified io-
+dide with the synthesis of iodolipids, mono- and diiodothy-
+rosine,  when  the  incubation  media  contained  10-6M  io-
+dide.43  The essential element iodine modulates the adrenal 
+response to stress44 and improves immune functions.45 
+
+Certain roles of iodine in well-being and protection against 
+infections,  degenerative  diseases,  and  cancer  may  not  in-
+volve  its  action  on  specific  organs  and  tissues.    Instead, 
+such  properties,  affecting  every  cell  in  the  human  body, 
+may depend on iodine/iodide concentrations in biological 
+fluids.  Because of its large size, iodine has the ability to 
+markedly  enhance  the  excited  singlet  to  triplet  radia-
+tionless transition.46  Szent-Gyorgy was able, 50 years ago, 
+to demonstrate this effect of iodine on the singlet → triplet 
+radiationless transition, at a concentration of 10-5M.47  To 
+achieve  the  10-5M  concentration  of  serum  inorganic  io-
+dide, a daily ingestion of 50 mg elemental iodine would be 
+required.    Reactive  oxygen  species,  causing  damage  to 
+DNA  and  other  macromolecules,  are  usually  excited 
+singlets with a high energy content released rapidly,48 and 
+characterized by fluorescence; whereas the corresponding 
+triplet  state  contains  lower  energy  levels,  which  are  re-
+leased  slowly,  expressed  as  phosphorescence.    Singlet-
+oxygen-induced lesions in DNA are processed by an error-
+prone repair in mammalian cells.  The DNA repair mecha-
+
+nisms  are  efficient  in  preserving  biological  activity  but 
+highly  mutagenic  in  mammalian  cells.48    Intake  of  io-
+dine/iodide  at  50  mg/day  would  decrease  the  oxidative 
+burden and DNA damage.  Such an effect would be anti-
+carcinogenic in every organ of the human body.  A daily 
+intake of 50 mg is also the amount of elemental iodine that 
+saturates the iodide thyroidal symport system11 and could 
+serve as a preventive measure against unexpected exposure 
+to radioactive iodine/iodide.9 
+
+An overview of the available data suggests that, for opti-
+mal function of the human body, peripheral inorganic io-
+dide levels between 10-6M to 10-5M are required — levels 
+two to three orders of magnitude greater than the level of 
+10-8M observed in the US population. 
+
+The Concept of Orthoiodosupplementation 
+Orthoiodosupplementation  is  the  daily  amount  of  the  es-
+sential element iodine required for whole body sufficiency.  
+Whole  body  sufficiency  for  iodine  is  assessed  by  an  io-
+dine/iodide  loading  test.9    The  iodine/iodide  loading  test 
+evolved  by  serendipity  from  a  project  to  assess  the 
+bioavailability  of  a 
+tablet  form  of  Lugol  solution 
+(Iodoral®).    From  the  medical  literature,  it  is  stated  that 
+urinary  iodide  levels  are  the  best  index  of  iodine/iodide 
+intake.2,4  Studies were performed in five normal subjects 
+(two  male,  three  female),  with  the  assumption  that  urine 
+concentrations of iodide were a reliable index of bioavail-
+ability of the product tested.   
+
+Following  oral  intake  of  12.5  mg  Lugol  in  tablet  form, 
+iodide  levels  in  the  24-hour  urine  collection  were  meas-
+ured.  The subjects excreted in their 24-hour urine samples 
+only  10-30%  of  the  amount  ingested,  with  a  mean  of 
+20%.27  This low recovery of iodide in the urine samples 
+could  be  due  to  either  low  bioavailability  of  the  product 
+tested or high retention in the body.  In order to elucidate 
+the  cause  of  this  low  iodide  excretion,  we  continued  the 
+administration of the supplement in those subjects for one 
+month. Then, we repeated the 24-hour urine collection and 
+iodide was measured again in the 24-hour urine samples.  
+In  four  of  the  five  subjects,  the  percentage  oral  dose  ex-
+creted in the 24-hour urine sample increased significantly, 
+with a  mean  group  value  of 50%.27   Contrary to  medical 
+textbooks, 80% of the iodine/iodide ingested was retained.  
+After  one  month  of  supplementation,  the  body  still  re-
+tained  50%  of  the  ingested  amount.    The  iodine/iodide 
+loading  test  evolved  from  these  observations.    However, 
+instead  of  a  one-month  loading  test,  further  studies  were 
+performed to shorten  this test to  a single ingestion of the 
+preparation.   
+
+Another  group  of  six  subjects,  (three  male  and  three  fe-
+(Continued on next page) 
+
+34 
+
+THE ORIGINAL INTERNIST     June   2004 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3 
+
+Effect of Increasing Intake of Iodine/Iodide on Percent Urinary Excretion of Ingested Amount9 
+
+d
+e
+t
+e
+r
+c
+x
+e
+
+e
+s
+o
+d
+
+l
+a
+r
+o
+%
+n
+a
+e
+M
+
+n
+o
+i
+t
+c
+e
+l
+l
+
+o
+c
+
+e
+n
+i
+r
+u
+h
+4
+2
+n
+i
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+M ean      S D
+
+(    ) = R ange
+
+(14.2-66)
+
+(14-37)
+
+(20-26)
+
+(22-25)
+
+1
+
+2
+
+3
+
+4
+
+Q uantity of Iodoral® tablets used in loading test
+
+male)  were  evaluated  with  24-hour  urinary  iodide  levels 
+after  ingesting  one,  two,  and  three  tablets  of  the  same 
+preparation.  The mean percentage excretions (± SD) were:  
+22±1.2%  for  one  tablet,  23±2.8%  for  two  tablets,  and 
+25±12.3%  for  three  tablets.    In  a  third  group  of  six  sub-
+jects,  urine  iodide  levels  were  evaluated  following  four 
+tablets of the same preparation.  The mean excretion rate 
+was  39±17.2%  (Figure  3).    For  the  loading  test,  a  single 
+ingestion of four tablets was chosen because this dose re-
+sulted in the highest mean percent iodide excreted and in 
+the widest interindividual variations.   
+
+Because  of  the  improved  overall  well-being  reported  by 
+the  subjects  who  achieved  90%  or  more  iodide  excreted, 
+sufficiency  was  arbitrarily  defined  as  90%.    Implementa-
+tion  of  orthoiodosupplementation,  based  on  the  loading 
+test,  revealed  that  sufficiency  was  not  achieved  in  some 
+subjects even after two years of iodine supplementation at 
+1-2  tablets/day.    To  achieve  sufficiency  within  three 
+months,  most  subjects  required  3-4  tablets/day  (37.5-50 
+mg).    US  physicians  over the  past century  recommended 
+daily intakes between 0.1 ml and 0.3 ml of Lugol solution 
+containing  12.5-37.5  mg  elemental  iodine.9    Our  medical 
+predecessors were already using orthoiodosupplementation 
+based  on  their  keen  observation  of  their  patient’s  overall 
+well-being.  Whole body sufficiency for iodine correlated 
+well with overall well-being, and some subjects could tell 
+when  they achieved  sufficiency  even before  knowing the 
+
+results of the test.  Iodine sufficiency was associated with a 
+sense of overall  well-being, lifting of a brain fog,  feeling 
+warmer  in  cold  environments,  increased  energy,  needing 
+less sleep, achieving more in less time, experiencing regu-
+lar bowel movements, and improved skin complexion.  In 
+some  overweight  or  obese  subjects,  orthoiodosupplemen-
+tation resulted in weight loss, decreased percent body fat, 
+and increased muscle mass.   
+
+Clinical Implications 
+The goal of orthoiodosupplementation is not the treatment 
+of disease, but the supply of optimal amounts of an essen-
+tial  nutrient  for  whole  body  sufficiency  and  for  optimal 
+mental and physical performance.  Whole body iodine de-
+ficiency,  based  on  the  concept  of  orthoiodosupplementa-
+tion, may play an important role in several clinical condi-
+tions.  
+
+Summary of Findings 
+Based  on  the  above  review  of  the  literature  and  this  au-
+thor’s clinical research studies,8-12 the concept of orthoio-
+dosupplementation can be summarized as follows: 
+
+1)  The  nutrient  iodine  is  essential  for  every  cell  of 
+the  human  body  requiring  peripheral  concentra-
+tions  of  inorganic  iodide  ranging  from  10-6M  to 
+10-5M. 
+
+(Continued on next page) 
+
+THE ORIGINAL INTERNIST     June   2004 
+
+35 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2)  In non-obese subjects, these concentrations can be 
+achieved with daily intake of 12.5-50 mg elemen-
+tal iodine. 
+
+3)  The  thyroid  gland  is  the  most  efficient  organ  of 
+the  human  body,  capable  of  concentrating  iodide 
+by two orders of magnitude to reach 10-6M iodide 
+required  for  the  synthesis  of  thyroid  hormones 
+when  peripheral  levels  of  inorganic  iodide  are  in 
+the 10-8M range. 
+
+4)  Goiter  and  cretinism  are  evidence  of  extremely 
+severe  iodine  deficiency  because  the  smallest  in-
+take  of  iodine    would  prevent  these  conditions, 
+(i.e., 0.05 mg/day) is 1,000 times less than the op-
+timal intake of 50 mg elemental iodine. 
+
+5)  The  thyroid  gland  has  a  protective  mechanism, 
+limiting the uptake of peripheral iodide to a maxi-
+mum of 0.6 mg/day when 50 mg or more elemen-
+tal  iodine  are  ingested.    This  amount,  therefore, 
+would  serve  as  a  preventative  measure  against 
+radioactive fallout. 
+
+6)  An  intake  of  50  mg  elemental  iodine/day  would 
+achieve  peripheral  concentration  of  iodide  at  10-
+5M, which is the concentration of iodide markedly 
+enhancing the singlet → triplet radiationless tran-
+sition.  This effect would decrease DNA damage 
+with an anticarcinogenic effect.9,11 
+
+7)  Orthoiodosupplementation  results  in  detoxifica-
+tion of the body from the toxic metals, aluminum, 
+cadmium, lead, and mercury. 
+
+8)  Orthoiodosupplementation  increases  urinary  ex-
+cretion  of  fluoride  and  bromide,  decreasing  the 
+goitrogenic effects of these halides. 
+
+9)  Most patients on a daily intake ranging from 12.5-
+50  mg  elemental  iodine  reported  higher  energy 
+levels and greater mental clarity with 50 mg (four 
+tablets Iodoral®) daily.  The amount of iodine used 
+in patients with fibrocystic disease of the breast by 
+Ghent,  et  al,7  that  is  0.1  mg/kg  BW/day,  is  10 
+times below the optimal daily intake of 50 mg.  In 
+our  experience,  patients  with  this  clinical  condi-
+tion  responded  faster  and  more  completely  when 
+ingesting 50 mg iodine/iodide/day. 
+
+10) Orthoiodosupplementation may be the safest, sim-
+plest,  most  effective,  and  least  expensive  way  to 
+solve the health-care crisis crippling our nation. 
+
+11) For best results, orthoiodosupplementation should 
+be part of a complete nutritional program, empha-
+sizing magnesium instead of calcium. 
+
+12) The  iodine/iodide  loading  test  and  serum  inor-
+ganic iodide levels are reliable means of assessing 
+
+whole  body  sufficiency  for  elemental  iodine  and 
+also  for  quantifying  the  bioavailability  of  the 
+forms of iodine ingested. 
+
+Misinformation in Medical Textbooks 
+The concept of orthoiodosupplementation requires a major 
+revision  of commonly  held  beliefs  expounded in  medical 
+textbooks regarding iodine metabolism and requirements. 
+
+1)  Ingested  iodine  is  reduced  to  iodide  in  the  intestinal 
+
+tract prior to absorption. 
+
+Ghent,  et  al,7  and  Eskin,  et  al,29  reported  that  in 
+women  and  in  female  rats,  fibrocystic  disease  of 
+the breast responded better to iodine  than iodide.  
+Thrall and Bull36 observed that in both fasted and 
+fed rats, the thyroid gland and the skin contained 
+significantly more iodine when rats were fed with 
+iodide  than  with  iodine;  whereas  the  stomach 
+walls  and  stomach  contents  had  a  significantly 
+greater  level  of  iodine  in  iodine-fed  rats  than  io-
+dide-fed  animals.    Peripheral  levels  of  inorganic 
+iodine were different with different patterns, when 
+rats were fed with these two forms of iodine.  The 
+authors concluded:   “These  data lead us to ques-
+tion the view that iodide and iodine are essentially 
+interchangeable.” 
+
+2)  Urine  iodide  levels  are  a  reliable  index  of  elemental 
+
+iodine intake. 
+
+Contrary  to  the  opinions  of  nutritionists  and  thy-
+roidologists,  urinary  excretion  of  iodide  is  not  a 
+good  index  of  iodine/iodide  intake.    Besides  the 
+low  bioavailability  of  some  forms  of  iodine  and 
+iodide, such as sodium iodide in table salt, there is 
+also a significant retention of iodine/iodide by the 
+human body until sufficiency is achieved.  Based 
+on  our  experience  with  the  iodine/iodide  loading 
+test, only 10-30% of a highly bioavailable prepa-
+ration of iodine are recovered in the 24-hour urine 
+collection, when subjects ingested from 12.5-37.5 
+mg/day.  Urinary iodide levels approximate intake 
+only  in  individuals  who  achieved  iodine  suffi-
+ciency  of  the  whole  body  (90%  or  more  of  the 
+ingested  amount  is  excreted  in  the  24-hour  urine 
+collection).  It is then obvious that urinary iodide 
+excretion is  not  a reliable  index  of intake, unless 
+the form of iodine ingested is highly bioavailable 
+and whole body sufficiency is achieved. 
+
+3)  Absence of goiter and cretinism are evidence of iodine 
+
+sufficiency. 
+
+(Continued on next page) 
+
+36 
+
+THE ORIGINAL INTERNIST     June   2004 
+
+ 
+ 
+ 
+ 
+ 
+   
+ 
+According  to  Delange,32  a  daily  intake  of  only 
+0.05 mg elemental iodine will prevent goiter and 
+cretinism, which are the manifestation of the most 
+severe  forms  of  iodine  deficiency.    To  achieve 
+whole  body  sufficiency  for  iodine,  250  to  1,000 
+times that amount is required. 
+
+allowance.  However, for whole body sufficiency, 
+and for optimal physical and mental health, 100 to 
+400 times the RDA would be required. 
+
+7)  The  toxic  side  effects  of  organic  iodine  containing 
+
+drugs are caused by inorganic iodide. 
+
+4)  The  healthy human adult  body  contains  15-20  mg  of 
+
+iodine. 
+
+Based  on  calculations  derived  from  the  loading 
+test,  the  retention  of  iodine  by  subjects  on  50 
+mg/day  for  three  months  ranged  from  1,450  to 
+1,600 mg elemental iodine.  This amount was de-
+rived by subtracting the amount of iodide excreted 
+from  50  mg  prior  to and  monthly following sup-
+plementation.    The  mean  daily  amount  retained 
+was calculated by averaging.  For example, a sub-
+ject  excreted  20  mg  iodide/24-hour  prior  to  sup-
+plementation and 45 mg after 90 days of supple-
+mentation.  The amount retained would be:  
+
+Day 1 = 50-20 = 30 mg 
+
+Day 90 = 50-45 = 5 mg 
+
+Daily average = 30 + 5 / 2 = 17.5 mg/day 
+
+For 90 days = 17.5 mg/day x 90 days = 1575 mg 
+
+The levels of 15-20 mg iodine mentioned in medi-
+cal  textbooks  represent  severe  iodine  deficiency 
+based  on  the  concept  of  orthoiodosupplementa-
+tion. 
+
+5)  The thyroid  gland contains 70-80% of the  total body 
+
+iodine. 
+
+Marine30  reported  that  the  thyroid  gland  of  farm 
+animals  given  increasing  amounts  of  iodine  con-
+tained a maximum of 5 mg iodine per gm thyroid 
+(dry weight).  For an adult man, that would com-
+pute to 50 mg (5 mg/gm x 10 gm).  In an iodine 
+sufficient individual, the percentage of total body 
+iodine present in the thyroid gland would be 3.3% 
+(50 mg/1,500 mg x 100). 
+
+6)  The normal daily requirement of iodide for an adult is 
+
+150-200 mcg (0.15-.2 mg). 
+
+If the goal of the International Council for Control 
+of Iodine Deficiency Disorders is to have a world 
+full  of  sick  zombies  surviving  on  antibiotics  and 
+toxic  drugs,  that  amount  of  iodine  is  more  than 
+enough;  and  the  council  should  not  allow  more 
+than  that  amount  to  be  the  recommended  daily 
+
+There  is  a  lot  of  misinformation  in  the  medical 
+literature  concerning  the  safety  of  the  different 
+forms of the element iodine.  The inorganic forms 
+are  blamed  for  the  severe  side  effects  of  the  or-
+ganic iodine-containing drugs.49  From a publica-
+tion  by  Phillippou,  et  al,  published  in  1992,  it  is 
+obvious that the cytotoxicity of the organic iodine-
+containing drugs is due to the molecule itself, not 
+to the iodine released or present in the molecule.  
+“We  can,  therefore,  conclude  that  the  effect  of 
+amiodarone, benziodarone, Na iopanate, and other 
+iodine-containing  substances  with  similar  effects 
+is due to the entire molecule and not to the iodine 
+liberated.    It  should  be  noted  that  the  cytotoxic 
+effect of amiodarone in all cultures is also due to 
+the entire molecule and not to the iodine present in 
+it.”50 
+
+About the Author 
+
+Guy  E.  Abraham,  MD,  is  a  former  Professor  of  obstet-
+rics,  Gynecology  and  Endocrinology  at  the  UCLA 
+School  of  Medicine.    Some  35  years  ago,  he  pioneered 
+the development of assays to measure minute quantities 
+of  steroid  hormones  in  biological  fluids.    He  has  been 
+honored as follows:  General Diagnostic Award from the 
+Canadian  Association  of  Clinical  Chemists,  1974;  the 
+“Medaille  d’Honneur”  from  the  University  of  Liege, 
+Belgium,  1976;  the  Senior  Investigator  Award  of  Phar-
+macia,  Sweden,  1980.    The  applications  of  Dr.  Abra-
+ham’s  techniques  to  a  variety  of  female  disorders  have 
+brought  a  notable  improvement  to  the  understanding 
+and  management  of  these  disorders.    Twenty-five  years 
+ago,  Dr.  Abraham  developed  nutritional  programs  for 
+women  with  premenstrual  tension  syndrome  and  post 
+menopausal osteoporosis.  They are now the most com-
+monly used dietary programs by American obstetricians 
+and gynecologists.  Dr. Abraham’s current research in-
+terests  include the  development  of  assays  for  the  meas-
+urement  of  iodide  and  the  other  halides  in  biological 
+fluids  and  their  applications  to  the  implementation  of 
+orthoiodosupplementation in medical practice. 
+
+REFERENCES 
+
+1)  Food and Nutrition Board, National Academy of Sciences, National 
+(Continued on next page) 
+
+THE ORIGINAL INTERNIST     June   2004 
+
+37 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Research Council.  Recommended Dietary Allowances, 10th edition.  
+National Academy of Sciences Press, Washington, DC, 1989. 
+2)  Hetzel BS.  The Story of Iodine Deficiency.  An International Chal-
+lenge  in  Nutrition.  Oxford  University  Press,  Oxford,  New  York, 
+Tokyo, 1989. 
+
+3)  Thompson  WO,  et  al.    “The  range  of  effective  iodine  dosage  in 
+
+exophthalmic goiter.”  Arch Int Med, 1930; 45:261-281. 
+
+4)  Hetzel BS and Clugston GA.  Iodine. In Modern Nutrition in Health 
+and Disease, 9th edition. Shils ME, et al, editors.  Lippincott Wil-
+liams & Wilkins, 1999; 253-264. 
+
+selective electrode: Improved sensitivity and specificity by chroma-
+tography on anion-exchange resin.”  Optimox Research Info #IOD-
+03. (Reprint available upon request). 
+
+28) Eskin BA, et al.  “Human breast uptake of radioactive iodine.”  OB-
+
+GYN, 1974; 44:398-402. 
+
+29) Eskin B, et al.  “Different tissue responses for iodine and iodide in 
+rat  thyroid  and  mammary  glands.”    Biological  Trace  Element  Re-
+search, 1995; 49:9-19. 
+
+30) Marine D and Kimball OP.  “Prevention of simple goiter in man.”  
+
+Arch Intern Med, 1920; 25:661-672.   
+
+5)  Wolff  J.    “Iodide  goiter  and  the  pharmacologic  effects  of  excess 
+
+31) Underwood EJ.   Trace  Elements  in  Human  and  Animal  Nutrition.  
+
+iodide.”  Am J Med, 1969; 47:101-124. 
+
+6)  Wolff J and Chaikoff IL.  “Plasma inorganic iodide as a homeostatic 
+regulator of thyroid function.”  J Biol Chem, 1948; 174:555-564. 
+7)  Ghent WR, et al.  “Iodine replacement in fibrocystic disease of the 
+
+breast.”  Can J Surg, 1993; 36:453-460. 
+
+8)  Abraham  GE.    “The  Wolff-Chaikoff  effect  of  increasing  iodide 
+
+intake on the thyroid.”  Townsend Letter, 2003; 245:100-101. 
+9)  Abraham GE.  “The safe and effective implementation of orthoiodo-
+supplementation in medical practice.”  The Original Internist, 2004; 
+11(1):17-36. 
+
+10) Abraham GE, et al.  “Optimum levels of iodine for greatest mental 
+
+and physical health.”  The Original Internist, 2002; 9(3):5-20. 
+
+11) Abraham GE, et al.  “Orthoiodosupplementation:  Iodine sufficiency 
+of the whole human body.”  The Original Internist, 2002; 9(4):30-
+41. 
+
+12) Abraham GE.  “Iodine supplementation markedly increases urinary 
+excretion  of  fluoride  and  bromide.”    Townsend  Letter,  2003; 
+238:108-109. 
+
+13) Brownstein  D.    Iodine:    Why  You  Need  It,  Why  You  Can’t  Live 
+Without It.  Medical Alternative Press, West Bloomfield, MI, 2004. 
+14) Drechsel  E.    “Contribution  to  the  chemistry  of  a  sea  animal.”    Z 
+
+Biol, 1896; 33:85-107. 
+
+15) Hunt S.  “Halogenated tyrosine derivatives in invertebrate scleropro-
+teins:    Isolation  and  identification.”  Chapter  27.    In:    Methods  of 
+Enzymology,  Volume  107,  Postranslational  Modifications  Part  B.  
+Wold F and Moldave K, editors.  Academic Press, New York, 1984; 
+413-438. 
+
+16) Fenical W.  “Halogenation in the rhodophyta:  A review.”  J Phycol, 
+
+1975; 11:245-259. 
+
+17) Kelly FC.  “Iodine in medicine and pharmacy since its discovery — 
+
+1811-1961.”  Proc R Soc Med, 1961; 54:831-836. 
+
+18) Harrison J.  “The fate of radioiodine applied to human skin.”  Health 
+
+Physics, 1963; 9:993-1000. 
+
+19) Miller KL, et al.  “Effectiveness of skin absorption of tincture of I in 
+blocking radioiodine from the human thyroid gland.”  Health Phys-
+ics, 1989; 56:911-914. 
+
+20) Childs  DS,  et  al.    “The  effect  of  varying  quantities  of  inorganic 
+iodide (carrier) on the urinary excretion and thyroidal accumulation 
+of radioiodine in exophthalmic goiter.”  J Clin Invest, 1950; 29:726-
+738. 
+
+21) Fisher  DA,  et  al.    “Effect  of  increased  dietary  iodide  on  thyroid 
+accumulation and secretion in euthyroid Arkansas subjects.”  J Clin 
+Endocr, 1965; 25:1580-1590.   
+
+22) Koutras DA, et al.  “Effect of small iodine supplements on thyroid 
+function in normal individuals.”  J Clin Endocr, 1964; 24:857-862. 
+23) Alexander WD, et al.  “Iodine and thyroid function:  Physiological 
+significance of the plasma inorganic iodine.”  J Clin Endocr, 1964; 
+24:851-856. 
+
+24) Pittman JA, et  al.  “Changing normal values for thyroidal radioio-
+
+dine uptake.”  NEJM, 1969; 280:1431-1434. 
+
+25) London WT, et al.  “Bread — A dietary source of large quantities of 
+
+iodine.”  NEJM, 1965; 273:381. 
+
+26) Schiff  L,  et al.   “Gastric  (and  salivary)  excretion of  radioiodine in 
+
+man (preliminary report).”  J Nat Can Int, 1947; 7:349-356. 
+
+27) Abraham GE, et al.  “Measurement of urinary iodide levels by ion-
+
+Academic Press, New York, San Francisco, London, 1977.    
+
+32) Delange  FM.    “Iodine  deficiency.”    In:    Werner  &  Ingbar’s  The 
+Thyroid.    Braverman  LE  and  Utiger  RD,  editors.    Lippincott  Wil-
+liams & Wilkins, 2000; 295-329. 
+
+33) Stubner  D,  et  al.    “Hypertrophy  and  hyperplasia  during  goiter 
+growth  and  involution in  rats  -  separate bioeffects  of  TSH  and io-
+dine.”  Acta Endocr, 1967; 116:537-548. 
+
+34) Gaitan E, Nelson NC, and Poole GV.  “Endemic goiter and endemic 
+
+thyroid disorders.”  World J Surg, 1991; 15:205-215. 
+
+35) Bretthauer  EW,  et  al.    “Milk  transfer  comparisons  of  different 
+chemical forms of radioiodine.”  Health Physics, 1972; 22:257-260. 
+36) Thrall K and Bull RJ.  “Differences in the distribution of iodine and 
+iodide in the Sprague-Dawley rat.”  Fundamental and Applied Toxi-
+cology, 1990; 15:75-81. 
+
+37) Evans ES, et al.  “Biological evidence for extrathyroidal thyroxine 
+
+formation.”  Endo, 1966; 78:983-1001. 
+
+38) Stole  V.    “Stimulation  of  iodoproteins  and  thyroxine  formation  in 
+human  leukocytes  by  phagocytosis.”    Biochem  Biophys  Res  Com-
+mun, 1971; 45:159-168. 
+
+39) Minot GR and Means JH.  “The metabolism pulse ration in exoph-
+thalmic goiter and in leukemia.”  J H Arch Int Med, 1924; 33:576-
+580. 
+
+40) Friedgood  HB.    “The  relation  of  the  sympathetic  nervous  system 
+and generalized lymphoid hyperplasia to the pathogenesis of exoph-
+thalmic goiter and chronic lymphatic leukemia.”  Amer J Med Sci, 
+1932; 183:841-849. 
+
+41) Friedgood  HB.    “The  effect  of  Lugol’s  solution  on  chronic  lym-
+phatic leukemia and its bearing upon the pathogenesis of exophthal-
+mic goiter.”  Am J Med Sci, 1932; 183:515-529. 
+
+42) Friedgood  HB.    “The  effect  of  Lugol’s  solution  on  the  elevated 
+basal metabolism in conditions other than exophthalmic goiter.”  J 
+Clin Invest, 1931; 10:172. 
+
+43) Banerjee  RK,  et  al.    “Peroxidase-catalysed  iodotyrosine  formation 
+in dispersed cells of mouse extrathyroidal tissues.”  J Endocr, 1985; 
+106:159-165. 
+
+44) Nolan  LA,  et  al.    “Chronic  iodine  deprivation  attenuates  stress-
+induced  and  diurnal  variation in  corticosterone  secretion  in  female 
+Wistar rats.”  J Neuroendocr, 2000; 12:1149-1159. 
+
+45) Marani  L,  et  al.    “Role  of  iodine  in  delayed  immune  response.”  
+
+Israel J of Med Sci, 1985; 21:864. 
+
+46) Kasha M.  “Collisional perturbation of spin-orbital coupling and the 
+mechanism  of  fluorescence quenching.   A  visual  demonstration  of 
+the perturbation.”  The  Journal of  Chemical Physics, 1952; 20:71-
+74. 
+
+47) Szent-Gyorgyi A.  Bioenergetics.  Academic Press, NY, 1957; 113. 
+48) Sies H.  “Damage to plasmid DNA by singlet oxygen and its protec-
+
+tion.”  Mutation Research, 1993; 299:183-191. 
+
+49) Roti E and Vagenakis AG.  “Effect of excess iodide:  Clinical as-
+pects.”  In:  Werner and Ingbar’s The Thyroid.  Braverman LE and 
+Utiger RD, editors.  Lippincott Williams & Wilkins, 2000; 316-329. 
+50) Phillippou G, Koutras DA, Piperingos G, et al.  “The effect of io-
+dide on serum thyroid hormone levels in normal persons, in hyper-
+thyroid patients,  and in  hypothyroid patients on  thyroxine  replace-
+ment.”  Clin Endocr, 1992; 36:573-578.  u  
+
+38 
+
+THE ORIGINAL INTERNIST     June   2004

@@ -1,0 +1,889 @@
+The Importance of 
+Bioactive Silicates 
+in Human Health 
+
+by  Guy E. Abraham, MD 
+
+Introduction 
+The  element  silicon  does  not  exist  in  nature  in  its  pure 
+form but rather is always combined with oxygen.  Next 
+to  oxygen,  silicon  is  the  most  abundant  element  in  the 
+earth’s  crust.    Silicon  dioxide  or  silica,  SiO2,  is  formed 
+by covalent binding of two atoms of oxygen to one atom 
+of  silicon.    Free  silica  is  found  both  in  the  amorphous 
+state  such  as  opal  and  in  the  crystalline  state  such  as 
+quartz.  Biological systems are capable of forming amor-
+phous microparticles of hydrated silica,  but they cannot 
+form the crystalline state of silica.  Under proper condi-
+tions,  one  molecule  of  silica  will  react  covalently  with 
+one  molecule  of  water  to  form  monometasilicic  acid, 
+H2SiO3;  combined  with  two  molecules  of  water,  it  be-
+comes monoorthosilicic acid, H4SiO4.  In both plants and 
+animals, monoorthosilicic acid is the biologically active 
+form of silicon and silica.  Up to saturation at 100 parts 
+per million (100 PPM), aqueous solution of monoortho-
+silicic  acid  exists  in  its  free  form,  below  a  pH  of  9.  
+Above saturation, monoorthosilicic acid loses one mole-
+cule  of  water  to  form  monometasilicic  acid  which  po-
+lymerizes  and  precipitates  out  of  solution  to  form  opal.  
+Plant  tissues  contain  this  form  of  opal,  with  extremely 
+small particle sizes.  The loss of two molecules of water 
+from silicic acid results in the formation of silicic anhy-
+dride,  more  commonly  known  as  silica  or  silicon  diox-
+ide, SiO2.  When two molecules of monoorthosilicic acid 
+combine by condensation (loss of on molecule of water), 
+they  generate  disilicic  acid.    When  three  molecules  of 
+monoorthosilicic  acid  combine  through  condensation, 
+with the loss of four molecules of water, trisilicic acid is 
+formed: 
+
+2 H4SiO4 = H2O + H6Si2O7 
+
+3 H4SiO4 = 4 H2O + H4Si3O8 
+
+The natural silicates  found in rocks correspond to these 
+silicic acids, combined with transition metal oxides  and 
+as  salts  of  alkali  metals  (silica-mineral  complexes).  
+Sixty percent of all rocks are made of silica, either in its 
+pure  form  or  as  silica-mineral  complexes.    Erosion  of 
+
+those  rocks  releases  into  the  soil,  streams,  and  ground 
+water all these forms of silica and silicates.  Silica is of-
+ten  the  principal  solute  in  natural  fresh  water,  where  it 
+occurs  entirely  as  monoorthosilicic  acid.    The  reported 
+concentrations  of  monoorthosilicic  acid,  expressed  as 
+silicon,  ranged  from  0.8-5.0  PPM  in  streams  and  3.5-
+28.0 PPM in ground water compared to 1.0-40.0 PPM in 
+soil  solution.1-4    In  an  aqueous  environment,  hydrated 
+silica releases silicic acid in solution by hydrolysis.  The 
+amount  of  silicic  acid  released  is  dependent  on  the  sur-
+face/volume ratio of the silica particles.  The smaller the 
+particle  sizes,  the  greater  the  surface/volume  ratio  and 
+the  greater  the  release  of  silicic  acid.5    Increasing  the 
+zeta potential (electrical charge) of the aqueous suspen-
+sion  of  silica  by  the  presence  of  alkali  metal  salts  of 
+polyacidic  organic  compounds  enhances  the  hydrolysis 
+and release of silicic acid.  Humic acid in the moist soil 
+enhances the release of free silicic acid from the soil sil-
+ica-mineral  complexes.    Coating  of  the  hydrated  silica 
+particles  with  organic  compounds  stabilizes  the  silica 
+particles  and  inhibits  the  release  of  silicic  acid.    These 
+two  opposing  factors  control  hydrolysis  and  release  of 
+free silicic acid and play an important role in the avail-
+ability of silicic acid in the moist soil.1-5 
+
+The Silica Cycle 
+The silica cycle begins with the uptake of bioactive sil-
+ica, that is monoorthosilicic acid, by roots of plants.  Be-
+low  a  pH  of  9,  monoorthosilicic  acid,  hereafter  called 
+silicic acid, exists in its free form in water up to satura-
+tion (100 PPM).  After translocation, condensation, and 
+precipitation  in  plant  tissues,  silicic  acid  performs  sev-
+eral important functions.6 
+
+Structural:    Silica  contributes  compression-resistance 
+and rigidity to the cell walls which aids in photosynthe-
+sis by improving lights interception.  It also renders the 
+plant drought-resistant. 
+
+Physiological:    The presence of silica reduces evapora-
+tion and transpiration, therefore conserving tissue water.  
+It  also  promotes  oxygen  availability  via  the  roots 
+through increased rigidity of the air canals. 
+
+Protective:   Silica increases the resistance to pathogens, 
+insects,  and  mollucs.    It  also  protects  the  plants  from 
+toxicity  of  excess  metals,  such  as  manganese  and  iron, 
+by distributing these oxides evenly in plants tissues, in-
+creasing their solubility.  Silicic acid also forms a silicate 
+coating around microparticles of the oxides of these met-
+als, increasing their stability, preventing aggregation and 
+precipitation.  These microscopic amorphous particles of 
+silica, and the other silica-containing plant tissues, return 
+(Continued on next page) 
+
+THE ORIGINAL INTERNIST     Spring   2005 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+to  the  soil  for  recycling  after  the  death  and  decay  of 
+plants. 
+
+The next step in the silica cycle involves the assimilation 
+of plant silica by herbivorous animals.  Although plants 
+and  animals  can  combine  silicic  acid  into  organic  sub-
+stances,  it  is  most  likely  via  Si-O-C  silanolate  bonding 
+through condensation of a silanol group with a hydroxyl 
+group  of  an  organic  compound  as  proposed  by 
+Schwartz.7    The  Si-C  bond,  that  is  true  organic  silicon, 
+does not exist in the earth crust, only man-made. 
+
+Plants in the early stage of growth contain a small frac-
+tion of silica in the form of silicic acid.  The proportion 
+of  silicic  acid  decreases  with  the  increasing  age  of  the 
+plant and approaches zero in mature plants, probably due 
+to coating of the silica particles with organic polyals and 
+polyphenols.    Drying  of  plant  tissues  causes  condensa-
+tion of  silicic  acid,  so  that  silicic  acid  concentrations  in 
+dried  plants  of  any  age  are  reduced  markedly.    There-
+fore,  a  large  proportion  of  the  ingested  silica  from  feed 
+(greater  than  95%)  by  herbivorous  animals  is  not 
+bioavailable.8    Silicic  acid  in  water  is  much  more 
+bioavailable, and is either absorbed rapidly after a short 
+transit  time  in  blood,  excreted  in  the  urine,  or  diffused 
+passively in extracellular fluid compartments.  Plant tis-
+sues  contain  much  larger  amounts  of  silica  than  animal 
+tissues.  Plants assimilate silica from the soil more effi-
+ciently than animals absorb and retain silica from plants.  
+As a result, herbivorous animals excrete in their urine 10
+-30 times more silica than carnivorous animals.1 
+
+Essentiality of Bioactive Silicates in Higher Animals 
+The essentiality of the element silicon in the form of bio-
+active  silicates  in  higher  animals  was  demonstrated  30 
+years ago by the research performed on chicks by E.M. 
+Carlisle9 and on rats by K. Schwartz10 from the Univer-
+sity  of  California  at  Los  Angeles.    These  researchers 
+used  sodium  monomethasilicate  (Na2SiO3)  to  supple-
+ment the diet of chicks and rats made deficient in silicon 
+by  a  low  silicon  diet.    The  addition  of  one  molecule  of 
+water to metasilicic acid generates silicic acid in the in-
+testinal tract.  Silicon, in the form of bioactive silicates, 
+was  found  to  be  essential  for  normal  growth,  bone  for-
+mation and production of connective tissue in chicks and 
+rats.  In young growing bones, the concentrations of sili-
+con were in the same ranges as the concentrations of cal-
+cium,  magnesium,  and  phosphorus.    As  the  bones  pro-
+gress  to  maturity,  silicon  is  progressively  replaced  with 
+calcium,  suggesting  that  silicon  plays  a  role  in  the  for-
+mation of bone matrix prior to calcium deposition.11 
+
+Carlisle investigated further the mechanism of action of 
+silicon  in  growth  and  health.    The  highest  silicon  con-
+
+centrations  generally  occur  in  connective  tissues,  and 
+organs  with  the  highest  amounts  of  connective  tissue 
+have the highest concentrations of silicon.  When several 
+tissues  from  rats  were  analyzed  for  silicon  content,  the 
+aorta,  trachea,  and  tendon  were  4-5  times  richer  in  sili-
+con  than  liver,  heart,  and  muscle.12    The  skin  also  was 
+found to contain high levels of silicon.  Aging causes a 
+decrease  in  silicon  concentrations  only  in  the  aorta  and 
+the  skin.    In  12-week-old  rabbits,  the  mean  concentra-
+tions  of  silicon  were  respectively  in  the  aorta  and  the 
+skin  80  µg  Si/gm  tissue  (dry  weight)  and  45  µg  Si/gm 
+tissue.  At 18-24 months of age, the levels dropped to 15 
+and  9  µg/gm  respectively.    The  skin  of  fetal  pigs  aver-
+aged 95 µg Si/gm dry weight, compared to 10 µg/gm in 
+mature pigs.  No change was observed with aging in sili-
+con concentrations of the heart, liver, and muscle. 
+
+Further  research  by  Carlisle  revealed  that  the  high  sili-
+con  content  of  connective  tissue  arises  mainly  from  its 
+presence  as  an  integral  component  of  the  glycosami-
+noglycans (mucopolysaccharides) and their protein com-
+plexes.  Extraction and fractionation of connective tissue 
+showed the glycosaminoglycan-protein complexes to be 
+high in silicon.  Through further purification, the silicon 
+was  recovered  in  glycosaminoglycan  fraction.    Enzy-
+matic  hydrolysis  of  glycosaminoglycans  did  not  release 
+free silicic acid but rather yielded products of lower mo-
+lecular  weight,  still  containing  silicon  in  bound  form.  
+Even  disaccharides  of  chondroitin  sulfate  A  contained 
+significant  amounts  of  silicon  in  bound  form.10    Silicon 
+also increases the hexosamine content of articular carti-
+lage. 
+
+Collagen,  which  is  present  in  connective  tissue,  is  the 
+most  abundant  of  all  proteins  in  higher  vertebrates,  ac-
+counting  for  up  to  one-third  or  more  of  the  total  body 
+protein.  Carlisle demonstrated that silica in its bioactive 
+forms, plays an important role in collagen synthesis.13,14  
+Collagen contains 12% of the aminoacid proline and 9% 
+of  4-hydroxyproline.    Silica  increases  synthesis  of 
+proline from glutamic acid.  In the presence of iron and 
+vitamin  C,  silica  enhances  markedly  hydroxylation  of 
+proline residues of procollagen to form collagen.  Silica 
+also  promoted  the  formation  of  extracellular  matrix 
+(ground  substance)15  with  a  concomitant  increase  in  in-
+terstitial fluid, due to hydration of the extracellular sub-
+stances. 
+
+Metabolism of Silicon in Man 
+In most studies of bioactive silicates performed on man, 
+the  values  reported  are  expressed  as  concentrations  of 
+the  element  silicon  (Si).    The  compounds  measured, 
+however,  were  obviously  not  pure  Si  but  derivatives  of 
+(Continued on next page) 
+
+14 
+
+THE ORIGINAL INTERNIST     Spring   2005 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+silica and silicic acid.  To convert values expressed as Si 
+to values expressed as silica, multiply by 2.14.  To con-
+vert  values  from  Si  to  silicic  acid,  multiply  by  3.4.  
+When  values  reported  in  publications  are  expressed  in 
+molar  concentrations,  these  conversion  factors  do  not 
+apply. 
+
+Balance Studies:  To this point, the only silicon balance 
+study on humans that has been published was performed 
+at the US Department of Agriculture in Beltsville, Mary-
+land.16    Eleven  male  subjects,  ranging  from  37  to  58 
+years of age were evaluated over two periods of 26 days.  
+The  subjects  alternated  between  two  different  diets:    a 
+low-fiber diet consisting of juice from fruits and vegeta-
+bles and a high-fiber diet consisting of fruits and vegeta-
+bles.    During  the  last  seven  days,  balance  studies  were 
+performed daily, and the mean values reported.  The low
+-fiber diet contained 4.6 gm of fiber and 21 mg Si/day; 
+the  high-fiber  diet  contained  23.8  gm  of  fiber  and  45.8 
+mg Si/day.  The mean ±SEM of the daily silicon levels 
+in urine and fecal excretions were 12.2±1.1 mg Si (urine) 
+and  12.3±0.9  mg  Si  (fecal  excretion)  for  the  low-fiber 
+diet.    For  the  high  fiber  diet,  those  values  were  16±2.6 
+mg Si and 44.4±2.6 mg Si.  The mean percentage of Si 
+intake recovered in fecal excretions were 59.0±5.3% for 
+the low-fiber diet and 96.5±4.3% for the high-fiber diet.  
+With both diets, a negative silicon balance was obtained, 
+with  mean daily losses of 3.5±1.6 mg and 14.6±3.5  mg 
+Si for the low- and high-fiber diets, respectively.   
+
+When  balance  studies  are  performed  on  essential  trace 
+elements, a negative balance means that, under the con-
+ditions  of  the  experiment,  more  nutrients  would  be  re-
+quired  to  achieve  balance.    Surprisingly,  the  high-fiber 
+diet, with intake of Si twice as high as the low-fiber diet, 
+resulted  in  a  daily  loss  of  Si  four  times  higher  than  the 
+low-fiber  diet.    The  percentage  of  Si  in  the  diet  recov-
+ered in fecal excretions on the high fiber diet (96.5±4.3%) 
+is  similar  to those observed in farm  animals.8  Since  the 
+bioactive and bioavailable form of silicon is silicic acid, 
+the above results could be explained by the greater solu-
+bility  of  silicic  acid  in  the  liquid  diet  of  the  low  fiber 
+regimen.  It is likely that food fiber does not contribute 
+significantly to the bioavailable pool of silicic acid in the 
+intestinal  tract  and  may  even  interfere  with  the  absorp-
+tion of free silicic acid. 
+
+Silicon Levels in Biological Fluids:  Over a wide range 
+of  intakes,  serum  silicon  levels  are  maintained  within  a 
+narrow range because of a very efficient renal clearance 
+system.  Renal clearance of silicon is similar to glomeru-
+lar filtration rate (GFR) with the implication that silicon 
+as  silicic  acid  is  passively  cleared  by  the  kidney  and  is 
+dependant on the GFR.  In patients with decreased GFR, 
+
+THE ORIGINAL INTERNIST     Spring   2005 
+
+serum silicic acid increases in proportion with the degree 
+of renal impairment. 
+
+Silicon exists in serum exclusively as silicic acid and is 
+diffused  passively  into  the  extravascular  extracellular 
+fluid  compartments  where  silicon  concentrations  are 
+maintained  in  the  same  range  as  those  in  serum.17    In 
+herbivorous  animals  like  sheep  and  cattle,  serum  silicic 
+acid  levels  are  twice  as  high  as  in  man.    Urine  silicon 
+excretion depends on bioavailable silicon in the diet and 
+renal function. 
+
+Dobbie  and  Smith  measured  the  levels  of  silicon  in  se-
+rum and urine in normal subjects of both sexes on differ-
+ent diets and in patients with renal impairment.18  In one 
+woman  on  water  only,  the  intake  of  silicon  was  16 
+micromoles/day,  and  the  urinary  excretion  was  16 
+micromoles/day;  that  is  100%  of  the  silicon  intake.    In 
+nine male subjects on a dairy diet consuming an average 
+of  3.4  liters  of  milk/day,  the  mean  silicon  daily  intake 
+was  96  micromoles  and  24-hr  urinary  excretion  was 
+130.0±0.13 micromoles, a negative balance of 34 micro-
+moles, or 0.95 mg Si per day, which is a minimum since 
+fecal excretion of Si was not measured.  In subjects on a 
+“normal  diet”  (73  male  and  67  female  subjects),  the 
+main  silicon  excretion  in  the  24-hr  urine  collections 
+ranged from 200-310 micromoles, or 5.6-8.7 mg Si/day.  
+In  five  male  and  nine  female  subjects  consuming  5  gm 
+of  magnesium  trisilicate  (an  antacid)  containing  1.6  gm 
+of silicon (57 millimoles), the mean ± SD of silicon level 
+in  the  24-hr  urine  collections  was  3.1±1.02  millimoles, 
+that is 5% of the amount ingested. 
+
+In  patients  with  renal  impairment  on  a  normal  diet,  the 
+amount of silicon excreted was proportional to the GFR, 
+with  0.288±0.114  millimole/24-hr  in  42  patients  with 
+GFR  above  100  ml/min  and  0.136±0.057  millimoles  in 
+57  patients  with  GFR  below  20  ml/min.    Serum  silicon 
+levels in 10 men and 11 women with chronic renal fail-
+ure were about twice as high as levels observed in nor-
+mal subjects. 
+
+In random blood samples obtained from normal subjects, 
+the  level  of  serum  silicon  (X±SD)  was  21.3±5  micro-
+moles/L  for  95  male  subjects  and  21.7±5  for  78  female 
+subjects.    No  significant  difference  was  observed  be-
+tween  the  sexes.    The  authors  did  not  specify  the  men-
+strual status of the female subjects, that is, whether they 
+were pre- or post-menopausal.  As we will discuss later, 
+post-menopausal women were found to have lower lev-
+els  of  serum  silicic  acid  compared  to  pre-menopausal 
+women. 
+
+(Continued on next page) 
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Review of Some Pertinent Research Studies on 
+Silicon with Potential Clinical Applications 
+Silicon,  in  the  form  of  bioactive  mineral  silicates,  has 
+been recognized for 30 years as an essential element par-
+ticipating  in  the  normal  metabolism  of  higher  animals.  
+So far, these finding have not been translated into practi-
+cal  recommendations  for  human  health.    There  are  no 
+recommended  daily  allowances,  and  no  cases  of  silicon 
+deficiency  have  been  reported.    However,  there  is  con-
+vincing  evidence  in  favor  of  bioactive  silicates  playing 
+important  roles  in  the  maintenance  of  optimal  levels  of 
+mental and physical health. 
+
+Mental  Health:    An  association  between  silicon  defi-
+ciency  and  Alzheimer’s  disease  (AD)  was  proposed  by 
+Carlisle  in  1987.19    Five  percent  of  the  population  over 
+70 years of age suffers from AD.  Another important fact 
+is that AD is twice as common in women as in men.20  In 
+an  attempt  to  reproduce  in  old  rats  the  neurotoxicity  of 
+aluminum observed in AD and to evaluate the protective 
+effect  of  silicon,  Carlisle  studied  the  effects  of  silicon 
+and aluminum supplementation in the diet of female rats 
+on silicon and aluminum levels in 12 brain regions.  Two 
+ages of female rats were studied:  22 days old (weanling 
+rats)  and  10  months  old  (Carlisle  called  them  “retired 
+female breeders”).  We will call them young and old fe-
+male rats.  Groups of rats were assigned to four dietary 
+regiments: 
+
+1)  Low silicon diet. 
+
+2)  Silicon  supplementation  using  sodium  metasili-
+
+cate at 600 PPM in the diet. 
+
+3)  Low  silicon  diet,  plus  aluminum  supplementa-
+tion,  with  aluminum  oxide  or  chloride  at  5,000 
+PPM in the diet. 
+
+4)  Silicon  supplementation  +  aluminum  supple-
+
+mentation. 
+
+The  experiment  was  carried  out  for  22  months  in  the 
+four  groups  of  young  rats;  and  18  months  in  the  four 
+groups of old rats. 
+
+At the end of the experiment, silicon and aluminum were 
+measured  in  12  different  brain  regions.    There  was  no 
+significant  difference  between  the  aluminum  levels  of 
+the 12 brain regions in the low silicon diet of young and 
+old rats.  On the low silicon diet, aluminum supplemen-
+tation showed no effect on brain aluminum levels in the 
+young  rats  but  increased  brain  aluminum  levels  signifi-
+cantly  in  the  hippocampus  and  posterior  cortex  of  old 
+rats.  Aluminum supplementation had no effect on brain 
+aluminum  levels  in  silicon  supplemented  old  rats,  sug-
+gesting  a  protective  role  of  bioactive  silicates,  in  ade-
+
+quate  amounts,  against  aluminum  neurotoxicity  in  old 
+age.   
+
+Regarding  brain  silicon  levels,  there  were  differences 
+between the 12 brain regions examined, with the highest 
+levels  observed  in  the  hippocampus,  caudate,  lentiform 
+nucleus, posterior cortex, olfactory bulbs and mid brain.  
+Silicon supplementation increased brain silicon levels in 
+the  caudate,  hippocampus  and  lenticular  nucleus,  the 
+areas  involved  in  AD.    Aluminum  supplementation  de-
+creased  brain  silicon  levels,  mainly  in  the  caudate,  hip-
+pocampus and lentiform nucleus.  In the discussion sec-
+tion of her publication, Carlisle compared her results in 
+rats  with  data  available  in  human  subjects.    The  age  of 
+her old rats approximates the age of 70 years in humans.  
+In both rats and humans, the brain becomes more perme-
+able to aluminum with aging.  In both old rats and men, 
+the  highest  concentrations  of  aluminum  were  found  in 
+the hippocampus.  The protective role of silicon against 
+aluminum  neurotoxicity  in  old  age  is  reflected  by  the 
+observation  that  in  the  old  rats  supplemented  with  sili-
+con,  aluminum  supplementation  did  not  increase  brain 
+aluminum levels, whereas in the low silicon group of old 
+rats, brain aluminum increased following aluminum sup-
+plementation. 
+
+Carlisle  commented,  “The  finding  that  aluminum  sup-
+plementation of the diet results in a significant decrease 
+in  brain  silicon  content  in  selected  regions  of  the brain, 
+including  those  regions  thought  to  be  involved  in  Alz-
+heimer’s  disease,  may  be  important  …  If  silicon  per-
+forms a role in brain metabolism, it is possible that alu-
+minum  may  interfere  with  some  specific  silicon  func-
+tion.  The variations in regional brain silicon concentra-
+tions  support  the  possibility  that  silicon  may  be  a  func-
+tional  trace  element  in  the  brain.    The  significantly 
+higher levels of silicon in brain compared to plasma (p < 
+0.05),  especially  in  certain  regions  (e.g.,  the  hippocam-
+pus,  caudate,  and  lentiform  nucleus),  even  on  very  low 
+dietary  levels  of  silicon,  also  support  this  possibility …
+silicon appears to protect rats against aluminum induced 
+abnormal behavior.” 
+
+In  support  of  Carlisle’s  postulate,  Charnot  has  reported 
+decreased  levels  of  serum  silicic  acid  following  meno-
+pause in women, and following castration in women and 
+female  rats.21    Serum  silicic  acid  levels  in  castrated  fe-
+male rats were about 50% of the serum levels observed 
+in control female rats.  No effect was observed on serum 
+silicic acid in castrated male rats.  This could explain the 
+higher incidence of AD in post-menopausal women ver-
+sus old men.  In the 15th Edition of Harrison’s Principle 
+of  Internal  Medicine  published  in  2001,21  a  recent  pro-
+(Continued on next page) 
+
+16 
+
+THE ORIGINAL INTERNIST     Spring   2005 
+
+ 
+ 
+ 
+ 
+ 
+ 
+spective  study  is  quoted,  on  the  effect  of  estrogen  re-
+placement  therapy  on  the  prevention  of  AD  in  women.  
+“Estrogen  replacement  therapy  appeared  to  protect  by 
+about  50%  against  the  development  of  AD  in  women.”  
+The effect of estrogen could be via increased peripheral 
+silicic acid levels and, subsequently, increased brain bio-
+active silicate and silanolate levels.  The response to es-
+trogen in those women would probably be better if sup-
+plemented with bioactive silicates. 
+
+No published study, so far, has attempted to evaluate the 
+effect of bioactive silica on either prevention or cure of 
+AD.  Since there are no recommended daily allowances, 
+the daily amount administered in such studies would be 
+tentative  and  depend  on  the  form  of  bioactive  silicates 
+supplemented.    Carlisle’s  study  in  rats  used  600  PPM 
+silicon as sodium metasilicates in the diet consumed.  A 
+200-gm rat consumes an average of 20 gm of dry food/
+day.  Therefore, those rats would consume the equivalent 
+of  60  mg  Si/kg  body  weight.    For  a  70-kg  human,  that 
+computes  to  4.2  gm  Si,  which  seems  an  excessive 
+amount.  However, the antacid, magnesium trisilicate, is 
+consumed  at  those  levels  of  Si  daily  by  some  individu-
+als.  We do not know the bioavailability of sodium meta-
+silicate under the conditions of Carlisle’s experiments. 
+
+In 115-lb sheep, balance studies showed that the fraction 
+of silicon absorbed is dependant of the amount ingested.8  
+On  three  different  diets  containing  a  daily  average  of 
+0.85  gm,  8.5  gm,  and  22  gm  of  silica  (measured  as  sil-
+ica),  the  percentage  of  silica  intake  recovered  in  24-hr 
+urine  collections  (measured  as  silica)  were  3.5,  1.7  and 
+0.8.    The  ingested  amounts  expressed  as  mg  silica/kg 
+BW/day would be 18, 180, and 490 (8.4, 84, and 220 if 
+expressed as silicon).  Since Carlisle’s rats consumed 60 
+mg  Si/kg  BW/day,  the  bioavailability  would  be  about 
+2%,  or  1.2  mg  Si/kg  BW/day.    For  a  70-kg  human,  the 
+amount of bioavailable and bioactive silicon required to 
+neutralize  the  neurotoxic  effect  of  aluminum,  would  be 
+84  mg  Si/day.    The  amount  of  aluminum  consumed  by 
+human subjects from an average diet is much lower22 than 
+the levels present in Carlisle’s diet of aluminum supple-
+mentation.    However,  aluminum  contamination  of  food 
+and drink and the amount of aluminum in OTC medica-
+tions may contribute to such high levels of aluminum in 
+some individuals.   
+
+The protective role of silicic acid against aluminum tox-
+icity has been demonstrated in vitro by Birchall and Es-
+pie.23  The enzyme prolylhydroxylase is required for col-
+lagen synthesis.  Silicon, in the presence of iron and vita-
+min  C,  enhances  the  activity  of  this  enzyme  in  vitro.14  
+Aluminum competes with iron for binding sites on pro-
+lylhydroxylase  and  inhibits  this  enzyme  in  the  proper 
+
+ratio with iron.  The inhibition of this enzyme by alumi-
+num  at  100  micromolar  concentration  could  be  pre-
+vented  with  silicic  acid  added  at  600  micromolar  con-
+centration.    It  is  possible  that  the  right  amount  of  the 
+right  bioactive  silicates  may  not  only  prevent  AD  but 
+also  reverse  it.    Since  the  anatomical  lesions,  together 
+with high, localized aluminum concentrations, observed 
+in certain regions of the brain of AD patients24 were also 
+found  in  patients  with  amyotrophic  lateral  sclerosis,25 
+bioactive  silicates  may  also  be  effective  in  non-AD  re-
+lated neurotoxicity of aluminum. 
+
+Physical  Health:    As previously mentioned, high levels 
+of silicon occur in the organs with the highest amount of 
+connective  tissue  such  as  the  aorta,  trachea,  skin,  ten-
+dons,  and  bones.    The  finding  by  Carlisle12  that  silicon 
+deficiency  is  manifested  by  abnormalities  involving  ar-
+ticular cartilage and connective tissue has potential clini-
+cal applications in arthritic conditions. 
+
+In studies performed in animals and men, aging causes a 
+progressive  decrease  of  silicon  concentrations  only  in 
+the aorta and the skin.  Loss of skin silicon in old age is 
+associated  with  loss  of  interstitial  water  with  decreased 
+formation of collagen, glycosaminoglycans, and hexosa-
+mine.  Bioactive silica supplementation may improve the 
+texture of the skin in older individuals by increasing syn-
+thesis  of  these  substances,  resulting  in  increased  hydra-
+tion of the extracellular matrix. 
+
+Of  greater  clinical  implication,  however,  is  the  loss  of 
+silicon in the aorta with aging.  Loeper, et al,26 observed 
+that  in  man  and  rabbits  high  concentrations  of  silicon 
+were  found  in  the  aorta, which  is  very  rich  in  collagen, 
+elastin,  and  glycosaminoglycans.    In  the  rabbits,  the 
+aorta  contained  the  highest  levels  of  silicon,  5-10  times 
+higher  than  levels  in  the pancreas,  liver,  heart,  and  kid-
+neys.    Loeper  measured  silicon  levels  in  human  aortas 
+with  different  degrees  of  atheromatous  lesions.    With 
+values expressed as µg Si/100 mg nitrogen, he observed 
+the following: 
+
+1)  In 19 cases with a normal aorta (i.e., no athero-
+matous lesion), 180±21 µg Si/100 mg nitrogen. 
+
+2)  In  28  cases  with  moderate  aorta  damage  (i.e., 
+one  or  two  plaques),  105±12  µg  Si/100  mg  ni-
+trogen. 
+
+3)  In  22  cases  with  serious  aorta  damage  (i.e.,  nu-
+merous  atheromatous  plaques),  63±8  µg  Si/100 
+mg nitrogen. 
+
+Loeper  then  studied  the  effect  of  bioactive  silicates  in 
+rabbits on a high cholesterol diet for two months.  Out of 
+(Continued on next page) 
+
+THE ORIGINAL INTERNIST     Spring   2005 
+
+17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31  rabbits  that  received  cholesterol,  24  suffered  from 
+atherosclerotic  lesions  of  the  aorta.    Out  of  28  rabbits 
+who  received  the  cholesterol  diet  plus  intravenous  sili-
+cates (sodium silicate, lysine silicate, or monomethyltris-
+ilanol) at 10 mg every other day, only six aortas showed 
+atheromatous  lesions.    The  other  22  samples  were  per-
+fectly healthy with smooth and shiny walls.  Among 10 
+rabbits  who  received  the  cholesterol  diet  plus  oral  sili-
+cate  (sodium  silicate)  at  10  mg/day,  three  out  of  the  10 
+showed atheromatous lesions.  Overall, 77% of the rab-
+bits  on  the  cholesterol  diet  developed  aortic  lesions, 
+compared  to  a  combined  rate  in  both  groups  receiving 
+silicon (IV or oral) of 23%.  Loeper further observed that 
+elastin fibers of the aorta contain a high level of silicon.  
+Silicate supplementation increased the thickness and the 
+integrity of elastin.   
+
+In another publication by Loeper,27 three groups of rab-
+bits followed for two months were studied for atheroma-
+tous lesions of the aorta.  In the control group of 15 rab-
+bits, 14 had no lesions, and one rabbit had two atheroma-
+tous plaques.  In 18 rabbits fed a high cholesterol diet for 
+two months, only two were without lesions.  Out of the 
+16  with  lesions,  eight  were  moderate,  and  eight  were 
+severe  with  multiple  plaques.    In  the  third  group  of  18 
+rabbits fed the high cholesterol diet for two months  but 
+with  supplementation  concurrently,  using  10  mg  mono-
+methytrisilanol  IV  every  other  day,  14  rabbits  had  nor-
+mal aortas without any lesions, three presented with one 
+or  two  lesions,  and  one  had  several  plaques.    The  male 
+rabbits used by Loeper weighted 2.5 kg and received 10 
+mg  IV  every  other  day.    Since  the  IV  mode  of  admini-
+stration  is  100%  bioavailable,  10  mg  every  other  day 
+would give a daily amount of 5 mg.  Since the molecular 
+weight of monomethytrisilanol is 110, 5 mg of this prod-
+uct  would  be  equivalent  to  1.25  mg  Si/day.    Corrected 
+for  body  weight  and  expressed  per  kg/BW/day,  the 
+amount would be 0.5 mg Si.  For a 70-kg person, 35 mg 
+Si/day in the form of bioavailable and bioactive mineral 
+silicates would be required. 
+
+The  protective  role  of  bioactive  silicates  against  tumors 
+in  general,  and  brain  tumors  in  particular,  was  reported 
+by Carlisle.28  When she kept several generations of rats 
+on  a  low-silicon  diet,  the  incidence  of  tumors,  overall, 
+was higher than rats supplemented with sodium metasili-
+cate.    In  a  longitudinal  study  lasting  two  years  in  the 
+same generation of rats, equivalent to a 70-year longitu-
+dinal  study  in  human  subjects,  the  low  silicon  diet  re-
+sulted  in  brain  tumors  in  60%  of  the  rats  but  no  tumor 
+was  observed  in  the  group  on  the  silicon  supplemented 
+diet.  The clinical implications of such findings in cancer 
+prevention, in general, and brain tumor, in particular, are 
+obvious.    Since  reported  17  years  ago,  no  follow-up 
+
+study has appeared in the scientific literature, due to Car-
+lisle’s untimely death. 
+
+Discussion 
+The problems with silicon breast implants have given a 
+bad name to silicon.  Pulmonary complications of silico-
+sis,  an  industrial  lung  pathology,  due  to  inhalation  of 
+crystalline silica particles, such as asbestos (fibrous sili-
+cates of complex composition), has given a bad name to 
+silica.    Proper  education  would  be  required  in  order  to 
+make  a  distinction  between  the  forms  of  silica  and  sili-
+con  mentioned  above  and  the  very  important  bioactive 
+forms of silica, that is silicic acid and amorphous silica-
+mineral  complexes,  which  could  play  an  important  role 
+in brain function with application to AD and old age de-
+mentia.    Besides  AD,  attention  deficit  disorders  (ADD) 
+may  be  another  area  worth  investigating  with  bioactive 
+silicate supplementation.   
+
+One approach that has been suggested to lower the inci-
+dence of AD and dementia due to aluminum neurotoxic-
+ity is to increase fluoride levels in drinking water above 
+the  EPA  limits  of  1.4-2.4  mg/L.29 and vide infra    Fluoride 
+blocks  the  absorption  of  aluminum  from  the  intestinal 
+tract  by  forming  an  aluminum-fluoride  complex.    One 
+study  in  three  counties  of  South  Carolina  revealed  that 
+two  counties  with  fluoride  levels  within  the  EPA  limits 
+experienced  a  high  annual  incidence  of  primary  degen-
+erative dementia (PDD) in the population above 55 years 
+of age:  17.1/100,00 and 20.8/100,000.  However, in the 
+county with high fluoride levels (4.18 mg/L) in the water 
+supply, the incidence of PPD was only 3.6/100,000.  Us-
+ing  high  levels  of  fluoride  to  prevent  aluminum  neuro-
+toxicity is not a good idea.  To start with, activated alu-
+mina is used in water treatment plants to remove fluoride 
+from  water  apparently  in  order  to  prevent  mottling  of 
+tooth  enamel.    This  procedure  is  the  cause  of  elevated 
+aluminum  in  drinking  water  to  start  with.    It  does  not 
+make sense to put fluoride back into municipal water in 
+order  to  neutralize  the  neurotoxicity  of  aluminum  after 
+removing  fluoride  with  alumina  gel  in  water  treatment 
+plants.    Besides,  fluoride  has  its  own  problems  —  ad-
+verse  effects  on  bone  integrity,  thyroid  function,  and 
+cognition,30-32 just to name three problems.  There must 
+be  a  better  way,  and  it  may  include  bioactive  silicates.  
+Future research would dictate the form of bioactive sili-
+cates most appropriate for replacement and supplementa-
+tion.  If Carlisle’s postulate regarding an essential role of 
+silicates  in  brain  function  is  valid,  and  if  silicon  defi-
+ciency  in  the  form  of  bioactive  silicates  is  involved  in 
+AD, ADD, atherosclerosis, and arthritis, a good starting 
+point would be to titrate the amount of bioavailable and 
+bioactive silicates required to reverse these pathologies.  
+(Continued on next page) 
+
+18 
+
+THE ORIGINAL INTERNIST     Spring   2005 
+
+ 
+ 
+ 
+ 
+ 
+The formulation of a silica-mineral complex should take 
+into  consideration  the  available  data  on  the  factors  in-
+volved in the availability of silicic acid in the moist soil 
+and  the  bioavailability  of  silicic  acid  from  silica  in  its 
+different  forms  in  animals  and  men.    The  smaller  the 
+particle sizes of silica, the greater the hydrolysis of silica 
+and  the  greater  the  release  of  silicic  acid.    Next  to  an 
+aqueous  solution  of  silicic  acid,  which  is  the  most 
+bioavailable form, microparticles of silica-mineral com-
+plexes  combined  with  organic  polyacids  in  a  solid  dos-
+age form may be the next best alternative. 
+
+About the Author 
+
+Guy E. Abraham, MD, is a former Professor of Obstet-
+rics,  Gynecology,  and  Endocrinology  at  the  UCLA 
+School  of  Medicine.    Some  35  years  ago,  he  pioneered 
+the development of assays to measure minute quantities 
+of  steroid  hormones  in  biological  fluids.    He  has  been 
+honored as follows:  General Diagnostic Award from the 
+Canadian  Association  of  Clinical  Chemists,  1974;  the 
+Medaille  d’Honneur  from  the  University  of  Liege,  Bel-
+gium,  1976;  the  Senior  Investigator  Award  of  Phar-
+macia,  Sweden,  1980.    The  applications  of  Dr.  Abra-
+ham’s  techniques  to  a  variety  of  female  disorders  have 
+brought  a  notable  improvement  to  the  understanding 
+and management of these disorders. 
+
+Twenty-five  years  ago,  Dr.  Abraham  developed  nutri-
+tional  programs  for  women  with  premenstrual  tension 
+syndrome and post-menopausal osteoporosis.  They are 
+now  the  most  commonly  used  dietary  programs  by 
+American  obstetricians  and  gynecologists.    Dr.  Abra-
+ham’s  current  research  interests  include  the  develop-
+ment  of  assays  for  the  measurement  of  iodide  and  the 
+other  halides  in  biological  fluids  and  their  applications 
+to  the  implementation  of  orthoiodosupplementation  in 
+medical practice. 
+
+REFERENCES 
+
+1)  King  EJ  and  Belt  TH.  “The  physiological  and  pathological  as-
+
+pects of silica.”  Physiol Rev, 1938; 18:329-365. 
+
+2)  Jones  LHP  and  Handreck  KA.    “Silica  in  soils,  plants,  and  ani-
+mals.”    In:    Advances  in  Agronomy.  A.G.  Norman,  Academic 
+Press, New York and London, 1967; 19:108-149. 
+
+3)  Farmer VC.  “Sources and speciation of aluminum and silicon in 
+natural  waters.”    In:    Silicon  Biochemistry.    Ciba  Foundation 
+Symposium 121, 1986; 4-23. 
+
+4)  Bache BW.  “The role of soil in determining surface water com-
+
+position.”  Wat Sci Tech, 1983; 15:33-35. 
+
+5)  Williams RJP.  “Introduction to silicon chemistry and biochemis-
+try.”    In:    Silicon  Biochemistry.    Ciba  Foundation  Symposium 
+121, 1986; 24-29. 
+
+6)  Sangster  AG  and  Hodson  MJ.    “Silica  in  higher  plants.”    In:  
+Silicon  Biochemistry.    Ciba  Foundation  Symposium  121,  1986; 
+90-111. 
+
+7)  Schwarz  K.    “A  bound  form  of  silicon  in  glycosaminoglycans 
+and polyuronides.”  Proc Nat Acad Sci, 1973; 70:1608-1612. 
+8)  Jones  LHP  and  Handreck  KA.    “The  relation  between  the  silica 
+content of the diet and the excretion of silica by sheep.”  J Agric 
+Sci, 1965; 65:129-134. 
+
+9)  Carlisle  EM.    “Silicon:    An  essential  element  for  the  chick.”  
+
+Science, 1972; 178:619-621. 
+
+10) Schwarz K and Miline DB.  “Growth-promotion effects of silicon 
+
+in rats.”  Nature, 1972; 239:333-334. 
+
+11) Carlisle EM.  “Silicon as an essential element.”  Fed Proc, 1974; 
+
+33:1758-1766. 
+
+12) Carlisle EM.  Silicon.  In Trace Elements in Human and Animal 
+
+Nutrition, 5th Edition.  Walter Mertz, 1986; 373-390. 
+
+13) Carlisle  EM  and  Alpenfels  WF.    “The  role  of  silicon  in  proline 
+
+synthesis.”  Fed Proc, 1984; 43:680. 
+
+14) Carlisle EM, Berger JW, and Alpenfels WF.  “A silicon require-
+ment for prolyl hydroxylase activity.”  Fed Proc, 1981; 40:886. 
+15) Carlisle EM and Garvey DL.  “The effect of silicon on formation 
+of  extracellular  matrix  components  by  chondrocytes  in  culture.” 
+Fed Proc, 1982; 41:461. 
+
+16) Kelsay  JL,  Behall  KM,  and  Prather  ES.    “Effect  of  fiber  from 
+fruits and vegetables on metabolic responses of human subjects.” 
+Am J Clin Nutr, 1979; 32:1876-1880. 
+
+17) Dobbie  JW  and  Smith  MJB.    “The  silicon  content  of  body  flu-
+
+ids.”  Scot Med J, 1982; 27:17-19. 
+
+18) Dobbie JW and Smith MJB.  “Urinary and serum silicon in nor-
+mal  and  uraemic  individuals.”    In:    Silicon  Biochemistry.    Ciba 
+Foundation Symposium 121, 1986; 194-213. 
+
+19) Carlisle EM and Curran MJ.  “Effect of dietary silicon and alumi-
+num on silicon and aluminum levels in rat brain.”  Alzh Disease 
+and Asso Disorders, 1987; 2:83-89. 
+
+20) Bird  TD.    “Alzheimer’s  disease  and  other  primary  dementias.”  
+In:    Harrison’s  15th  Edition.  Principles  of  Internal  Medicine, 
+2001; 2391-2398. 
+
+21) Charnot Y and Peres G.  “Contribution a l’etude de la regulation 
+endocrinienne du metabolisme silicique.”  Ann Endocrinol, 1971;  
+32:397-402. 
+
+22) Hamilton  EI  and  Minski  MJ.    “Abundance  of  the  chemical  ele-
+ments  in  man’s  diet  and  possible  relations  with  environmental 
+factors.”  Sci Total Envir, 1972-1973; 1:378-380. 
+
+23) Birchall JD and Espie AW.  “Biological implications of the inter-
+action (via silanol groups) of silicon with metal ions.”  In:  Sili-
+con Biochemistry.  Ciba Foundation Symposium 121, 1986; 140-
+159. 
+
+24) Perl  DP  and  Brody  AR.    “Alzheimer’s  disease:    X-ray  spectro-
+metric  evidence  of  aluminum  accumulation  in  neurofibrillary 
+tangle-bearing neurons.”  Science, 1980; 208:297-299. 
+
+25) Perl DP, Gajdusek DC, Garruto RM, et al.  “Intraneuronal alumi-
+num  accumulation  in  amyotrophic  lateral  sclerosis  and  Parkin-
+sonism-dementia of Guam.”  Science, 1982; 217:1053-1055. 
+26) Loeper  J,  Goy-Loeper  J,  Rozensztajn  L,  et  al.    “The  antiathero-
+matous action of silicon.”  Atherosclerosis, 1979; 33:397-408. 
+27) Loeper J, Emerit J, Goy J, et al.  “Etude des acides gras et de la 
+peroxydation  lipidique  dans  l’atherome  experimental  du  lapin.” 
+Pathologie Biologie, 1984; 32:693-697. 
+
+28) Carlisle  EM.    “Discussion.”  In:    Silicon  Biochemistry.    Ciba 
+
+Foundation Symposium 121, 1986; 228. 
+
+29) Still CN and Kelley P.  “On the incidence of primary degenera-
+tive dementia vs. water fluoride content in South Carolina.”  Neu-
+rotoxicol, 1980; 4:125-131. 
+
+30) Null  G  and  Feldman  M.    “The  fluoride  controversy  continues:  
+
+An update – Part 1.”  Townsend Letter, 2002; 233:58-62. 
+
+31) Null  G  and  Feldman  M.    “The  fluoride  controversy  continues:  
+
+An update – Part 1.”  Townsend Letter, 2003; 234:72-78. 
+
+32) Null  G  and  Feldman  M.    “The  fluoride  controversy  continues:  
+An update – Part 1.”  Townsend Letter, 2003; 235:117-121.  (cid:139) 
+
+THE ORIGINAL INTERNIST     Spring   2005 
+
+19

@@ -1,0 +1,2728 @@
+The Safe and Effective 
+Implementation of 
+Orthoiodosupplementation 
+In Medical Practice 
+
+by Guy E. Abraham, MD 
+
+I.  Introduction 
+Of  all  the  elements  known  so  far  to  be  essential  for 
+health,  iodine  is  the  most  misunderstood  and  the  most 
+feared.    Yet,  it  is  by  far  the  safest  of  all  the  trace  ele-
+ments known to be essential for human health.  It is the 
+only trace element that can be ingested safely in amounts 
+up to 100,000 times the RDA.  For example, potassium 
+iodide has been prescribed safely to pulmonary patients 
+in daily amounts of up to 6.0 gm/day, in large groups of 
+such  patients  for  several  years.1-3    It  is  important,  how-
+ever, to emphasize that this safety record only applies to 
+inorganic,  non-radioactive  iodine/iodide,  not  to  organic 
+iodine-containing  drugs  and  to  radioiodides.    Unfortu-
+nately, the severe side effects of iodine-containing drugs 
+have  been  attributed  to  inorganic  iodine/iodide,  even 
+though  published  studies  clearly  demonstrate  that  it  is 
+the whole organic molecule that is cytotoxic, not the io-
+dine covalently bound to this molecule.  To quote Philli-
+pou, et al:4  “We can, therefore, conclude that the effect 
+of  amiodarone,  benziodarone,  Na  iopanate,  and  other 
+iodine  containing  substances  with  similar  effects  is  due 
+to the entire molecule and not to the iodine liberated.  It 
+should be noted that the cytotoxic effect of amiodarone 
+in all cultures is also due to the entire molecule and not 
+to the iodine present in it.”  Several forms of iodine are 
+used  in  clinical  medicine  (Table  1).    Unless  otherwise 
+stated,  this  presentation  is  concerned  only  with  inor-
+ganic, non-radioactive iodine/iodide.   
+
+Medical iodophobia is the unwarranted fear of using and 
+recommending  inorganic,  non-radioactive  iodine/iodide 
+within  the  range  known  from  the  collective  experience 
+of  three  generations  of  clinicians  to  be  the  safest  and 
+most effective amounts for treating symptoms and signs 
+of  iodine/iodide  deficiency  (12.5-37.5  mg).    The  range 
+of  daily  intake  of  this  essential  nutrient  is  hereafter  re-
+ferred  to  as  orthoiodosupplementation  because  it  is  the 
+range of iodine/iodide intake required in order to achieve 
+whole  body  sufficiency  for  this  element  based  on  a  re-
+cently  developed  iodine/iodide  loading  test.    (See  Sec-
+tion VII for more details on the loading test.) 
+
+Medicoiodophobes  suffer  from:    A)  a  split  personality 
+which results in iodophobia within the orthoiodosupple-
+mentation range previously used safely and successfully 
+in medical practice and iodophylia for megadoses of io-
+dide (up to 12gm/day); B) double standards, which ren-
+der those physicians intolerant to the minor side effects 
+of the inorganic forms and extremely tolerant to the se-
+vere side effects of the radioactive and organic forms; C) 
+amnesia  pertaining  to  the  inorganic,  non-radioactive 
+forms when making therapeutic decisions; D) confusion, 
+attributing  the  severe  side  effects  of  organic  iodine-
+containing  drugs  to  inorganic  iodine/iodide;  and  E)  an 
+altered  state  of  consciousness,  allowing  doublethink, 
+doublespeak, and contradictory logic to become accept-
+able.  Although the factors involved in medical iodopho-
+bia  are  still  unknown,  decreased  cognition  seems  in-
+volved.  Since low iodine intake is associated with intel-
+lectual  impairment,  deficiency  of  this  essential  element 
+cannot be ruled out, and if present, would create a self-
+perpetuating  phenomenon.    Needless  to  say,  medical 
+iodophobia  is  contagious  and  can  be  transmitted  to  pa-
+tients  and  other  physicians  (iatrogenic  iodophobia).  
+Medical  iodophobia  will  remain  a  syndrome  until  the 
+causes  are  discovered  and  effective  therapy  imple-
+mented.  It is very likely however, that medical iodopho-
+bia will eventually be classified as an iodine-deficiency 
+disease.  
+
+Discovered in Imperial France5 a century before the con-
+cept of essential trace elements was proposed by Gabriel 
+Bertrand,6  the  first  trace  element  tested  in  human  sub-
+jects and recognized as essential to human health,7,8 the 
+most deficient trace element in the world,9 iodine had the 
+misfortune of attracting the attention of endocrinologists 
+(Continued on next page) 
+
+Table 1 
+
+Various Forms of Iodine/Iodide 
+Used in Clinical Medicine 
+
+A)  Inorganic 
+
+1)  Non-radioactive 
+
+a)  Iodides (i.e., SSKI) 
+b)  Tincture of iodine 
+c)  Lugol solution 
+
+2)  Radioactive iodides for diagnostic and  
+      therapeutic purposes 
+
+B)  Organic 
+
+1)  Naturally occurring 
+
+a)  Thyroid hormones 
+b)  Thyroid iodolipids 
+
+2)  Man-made 
+
+a)  Radiographic contrast media 
+b)  Iodine-containing drugs (I.e., amiodarone) 
+c)  Iodinated lipids for goiter prevention 
+
+THE ORIGINAL INTERNIST     March   2004 
+
+17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+because it is incorporated into some very important hor-
+mones of the thyroid gland.10-13  Starting out as a pana-
+cea  for all  human ills,14 iodine,  as  an  essential  element,  
+eventually  became  associated  exclusively  with  the  thy-
+roid  gland.15    This  thyroid  fixation  resulted  in  endocri-
+nologists dictating the human needs for this nutrient.  All 
+human applications of iodine became eventually subser-
+vient to the dictates of misinformed endocrinologists. 
+
+For example, disinfection of water for human consump-
+tion  and  in  swimming  pools  is  far  superior,  safer,  and 
+less expensive with the use of iodine at 1 to 2 ppm, than 
+with  the  use  of  chlorine  and  its  derivatives  at  the  same 
+concentrations.16-19  However, unfounded concern about 
+the  adverse  effects  of  iodine  at  these  levels  on  the  thy-
+roid  gland,20-22 and vide infra  has  prevented  the  widespread 
+use  of iodine for these  applications,  with toxic  chlorine 
+and its derivatives used by default.  All studies published 
+so far favor iodine over chlorine for treatment of munici-
+pal  waters  and  swimming  pools,  “Because  of  the  in-
+creasing difficulty experienced by many communities in 
+achieving  satisfactory  disinfection  of  public  water  sup-
+plies with acceptable concentrations of chlorine, a feasi-
+bility study on the use of iodine for this purpose was un-
+dertaken.”19    “The  effectiveness,  ease  of  administration 
+and palatability were prime reasons for considering iodine 
+as a disinfectant of community water supplies… effective 
+bacteriological control of the water was maintained by all 
+concentrations of iodine used in this study.”17  “At an io-
+dine concentration of 1 mg/liter (1 ppm), the water met 
+all  standards  for  safety  and  palatability  (1962  USPHS 
+Drinking  Water  Standards)…  During  the  five  years  in 
+which this study was conducted no instances of urticaria 
+or  iodism  were  observed.”19    “No  evidence  of  iodine-
+induced  allergic  phenomena  was  detected  during  this 
+study.”17  “Comparative data indicate that disinfection of 
+an  Olympic-size  swimming  pool  can  be  accomplished 
+with iodine at half the dose of chlorination… Use of the 
+iodinated swimming pool caused no significant changes 
+in either the RAI uptakes or PBI concentrations.”19  The 
+advantage of iodine over chlorine as a disinfectant in the 
+treatment of municipal waters is that it could be used as 
+a  disinfectant  and  also  as  a  source  of  a  very  important 
+essential element.  It is obvious that the benefits of such 
+an  approach  would  outweigh  the  risks,  based  on  the 
+studies mentioned above. 
+
+When  different  groups  of  competitive  swimmers  were 
+asked about their preference between chlorine and iodine 
+as a disinfectant of swimming pools,19 they overwhelm-
+ingly chose iodine.  None preferred chlorine.  “All mem-
+bers of the swimming teams of five universities who par-
+ticipated in AAWU swimming championships that were 
+held  in  the  Stanford  pools  were  asked  to  express  their 
+
+opinions of iodine-treated water as compared with chlo-
+rine-treated  water…  Seventeen  of  the  20  freshmen  and 
+varsity swimming team members expressed a preference 
+for  the  iodine-treated  pool  in  respect  to  eye  irritation.  
+The other three had no preference, but none preferred the 
+chlorine  treatment.    Of  the  championship  swimming 
+contestants, 48 preferred the iodine-treated pool, five had 
+no  preference,  but  none  preferred  the  chlorine-treated 
+pool...  Twenty-eight  of  the  subjects  who  had  been  ex-
+posed  to  the  iodine-treated  water  for  one  month  were 
+examined  by  the  three  physicians  of  the  research  staff, 
+each  of  whom  made  his  observations  independently  of 
+the  others.    Twenty-seven  of  the  swimmers  examined 
+received  a  completely  negative  rating  for  eye  irritation.  
+In  only  one  student  was  a  mild  conjunctivitis  found  on 
+medical examination.  This student wears contact lenses 
+and  stated  that  his  eye  irritation  had  improved  in  a  mi-
+raculous  way  since  the  pool  had  been  treated  with  io-
+dine.” 
+
+In the early 1960s, iodine was added to bread as a dough 
+conditioner.  One slice of bread contained the full RDA 
+of 150 µg.23,24  As would be expected, because of isotope 
+dilution effect, the  percent  of  radioiodide  uptake  by  the 
+thyroid  gland  decreased  from  20-30%  to  10-20%.    In 
+1965,  London,  et  al25  from  the  National  Institute  of 
+Health evaluated the amount of iodine present in 32 bak-
+ery  products  from  12  different  commercial  bakeries.  
+They reported that a typical diet contributed to approxi-
+mately  1  mg  of  iodine  per  day  and  726  µg  came  from 
+bakery products.  Concern was expressed over the inhi-
+bition  of  thyroid  hormone  synthesis  in  thyrotoxic  pa-
+tients  at those levels of iodine.  The last sentence of their 
+publication  read,  “One  milligram  of  iodine  will  suppress 
+the  uptake  of  radioactive  iodine  by  the  normal  thyroid 
+gland, probably by simple dilution of the dose, and may 
+considerably reduce organic binding of iodine in the thy-
+roid glands of thyrotoxic persons.7”  Reference 7 of their 
+manuscript is a study published in 1949 by Stanley26 one 
+year  after  the  Wolff-Chaikoff  Effect  was  reported  in 
+rats.27  The first paragraph of Stanley’s manuscript stated 
+the  objective,  “The  interest  of  thyroidologists  was  re-
+cently aroused by the demonstration by Wolff and Chai-
+koff (1) that, with levels of serum iodide higher than 20 
+to 30 micrograms per cent, organic binding of iodine in 
+the rat thyroid was inhibited.  Extension of these obser-
+vations to man was undertaken.” 
+
+The  interest  of  thyroidologists  could  not  have  been 
+aroused so quickly by the publication of Wolff and Chai-
+koff in The Journal of Biological Chemistry,27 a journal 
+involved in publishing research in the basic sciences, not 
+clinical medicine.  The thyroidologist with aroused inter-
+(Continued on next page) 
+
+18 
+
+THE ORIGINAL INTERNIST     March   2004 
+
+ 
+ 
+ 
+ 
+est was Stanley himself who obviously had insider infor-
+mation  in  order to publish his  manuscript  within  a  year 
+following  the  Wolff-Chaikoff  publication,  considering 
+the fact that it takes several months for the review proc-
+ess  in  peer  review  journals,  and  that  it  would  have  re-
+quired several months for him to design and perform his 
+experiments  after  reading  the  Wolff-Chaikoff  paper.  
+During the year Stanley published his “extension of the 
+Wolff-Chaikoff  Effect  to  man,”  he  co-authored  a  paper 
+with  Astwood  on  using  goitrogens  to  manage  patients 
+with Graves’ disease as an alternative to using inorganic 
+iodine/iodide.  It is a strange coincidence that the investi-
+gators who authored the iodophobic publications regard-
+ing the so-called inhibition of organic binding of radio-
+active  iodide  in  the  thyroid  gland  by  the  administration 
+of inorganic, non-radioactive iodide, were also involved 
+in testing goitrogens in laboratory animals and in normal 
+human  subjects  and  in  implementing  the  use  of  these 
+goitrogens as an alternative to inorganic iodine/iodide in 
+patients with Graves’ disease (See Section IV).    
+
+Stanley concluded, “Thus, the observations of Wolff and 
+Chaikoff in the rat were extended to man.”  However, in 
+a  review  published  in  1969,  Wolff28  stated,  “The  rarity 
+of iodide goiter in the face of the extensive exposure of a 
+great many patients to iodide has not been satisfactorily 
+explained.”  Without preconceived ideas, it is easily ex-
+plained  —  inorganic,  non-radioactive  iodine/iodide  is 
+safe.    “The  demonstration  of  the  Wolff-Chaikoff  Effect 
+in man remains presumptive.”  Several researchers erro-
+neously concluded that the rapid decrease in serum thy-
+roxine  (T4)  following  oral  ingestion  of  inorganic  io-
+dine/iodide in thyrotoxic patients was due to the Wolff-
+Chaikoff Effect, that is sustained inhibition of T4 synthe-
+sis.  However, Wartofsky, et al29 in 1970, evaluated the 
+effect  of  Lugol  solution,  administered  at  five  drops  (30 
+mg  iodine/iodide)  three  times  a  day  in  five  thyrotoxic 
+patients.  Following a well-designed protocol, they con-
+cluded  that  “the  rapid  decrease  in  T4  secretion  induced 
+by iodine is not the result of an acute sustained inhibition 
+of  T4  synthesis  (The  Wolff-Chaikoff  Effect),  but  rather 
+results  from  an  abrupt  decrease  in the fractional  rate  of 
+thyroid  T4  release.”    Therefore,  in  hyperthyroidism,  io-
+dine/iodide in Lugol at a daily dose of 90 mg induced a 
+physiological  trend  toward  normalization  of  thyroid 
+function, a beneficial effect.  
+
+One can appreciate the thyroid fixation of confused en-
+docrinologists who ignore the rest of the human body in 
+favor of misinterpreted laboratory tests assessing thyroid 
+function.    The  concern  about  decreased  uptake  of  ra-
+dioiodide  by  the  thyroid  gland  following  ingestion  of 
+increasing  amounts of  inorganic,  non-radioactive iodide 
+shows a lack of understanding of the physiological inter-
+
+pretation of the iodide tracer.  Theoretically, as we previ-
+ously discussed,30 the uptake of radioactive iodide by the 
+thyroid  gland  should  be  zero  in  order  to  achieve  suffi-
+ciency  of  the  thyroid  for  inorganic,  non-radioactive  io-
+dide.  Decreased thyroid uptake of inorganic radioiodide 
+is  an  effect  to  be  desired,  not  avoided.    Besides,  a  low 
+radioiodide  uptake  by  the  thyroid  resulting  from  ade-
+quate  intake  of  inorganic,  non-radioactive  iodine/iodide 
+(orthoiodosupplementation) serves as a preventive meas-
+ure  against  unexpected  exposure  to  radioactive  io-
+dide/iodine.30    Based  on  a  review  of  the  literature,  we 
+computed  the  daily  amount  of  iodine/iodide  needed  for 
+sufficiency  of  the  thyroid  gland  and  the  whole  human 
+body.    This  amount,  called  orthoiodosupplementation, 
+amounted to 100 times the RDA.30 
+
+In the 1980s, thanks to iodophobia, iodine was replaced 
+with bromine in the bread-making process.31  Bromide is 
+a  goitrogen  and interferes with iodide utilization  by  the 
+thyroid  gland,32-34  and  possibly  by  the  mammary  gland 
+also.35    Iodine  has  an  anticarcinogenic  effect  on  the 
+breast.30    The  last  national  nutritional  survey  showed  a 
+trend  of  decreasing  iodine  intake  by  the  US  popula-
+tion.30,31  Currently 15% of the US adult female popula-
+tion excreted in their urine less than 0.05 mg iodide/L, a 
+level  classified  by  the  World  Health  Organization 
+(WHO)  as  iodine  deficiency.    One  must  keep  in  mind 
+that  the  amounts  of  daily  intake  of  iodine  set  by  the 
+WHO  were  recommended  with  the  goal  of  preventing 
+simple goiter and stupidity (cretinism), not sufficiency of 
+the  whole  human  body  for  iodine,  an  amount  we  esti-
+mated to be 100-fold higher than the recommended daily 
+intake.30    Concurrent  with  the  decreased  intake  of  io-
+dine/iodide  and  increased  intake  of  bromine  in  the  US 
+population,  a  trend  of  increasing  prevalence  of  cancers 
+of the mammary and thyroid glands was reported.30 
+
+Velicky, et al33 in a 1997 publication, reported that rats 
+consuming low levels of bromide, similar to levels pres-
+ently  consumed  by  human  subjects,  developed  goiter, 
+even  though  those  rats  received  the  normal  amount  of 
+iodide  in  their  diet.    Under  histological  examinations, 
+increased  mitotic  activity  of  the  follicular  epithelium 
+was observed.  The values of the mitotic index increased 
+with increasing intake of bromide.  The authors discuss-
+ing their results, commented, “This finding is important 
+in connection with the data showing an increasing expo-
+sure  of  living  organisms  to  environmental  bromine 
+which represents an important environmental factor con-
+tributing  to  the  development  of  endemic  goiter;  this  is 
+caused by a decreased utilization of the consumed iodine 
+which  produces  a  relative  iodine  deficiency  even  when 
+the  iodine  intake  is  sufficient...  The  transport  of  iodine 
+(Continued on next page) 
+
+THE ORIGINAL INTERNIST     March   2004 
+
+19 
+
+ 
+ 
+ 
+ 
+and its organification can be blocked by Br- ions due to 
+a  mutual  competition  between  bromide  and  iodide  ani-
+ons…  This  results  in  a  thyroxin  and  triiodothyronine 
+deficiency,  which  in  turn  increases  secretion  of  TSH... 
+Each stimulation of cell proliferation is obviously a key 
+factor  in  the  tumor  growth  of  the  thyroid  (Williams, 
+1992) and an increased incidence of thyroid carcinoma in 
+humans  is  higher  in  regions  with  iodine  deficiency 
+(Gaitan, et al, 1991).”   
+
+Shimomura,  et  al36  observed  that  bromine  enhances  the 
+biological activity of a tumor promoter.    Sangster,  et  al37 
+reported a decreased ability to concentrate and sleepiness 
+in  normal  male  subjects  ingesting  4  mg  sodium  bro-
+mide/kg  bw/day.    This  hypnotic  effect  could  be  due  to 
+oxidation  and  organification  of  bromide  in  the  central 
+nervous system.  Torii, et al38 tested an organic bromine 
+compound,  isolated  from  the  cerebrospinal  fluid  of  pa-
+tients  with  bromism.    In  cats,  this  organic  bromine  in-
+duced REM sleep.  Therefore, bromine has a zombifying 
+potential.  Why iodine was replaced with a goitrogen pos-
+sessing carcinogenic and zombifying potentials in a popu-
+lation already very iodine deficient, even by the very low 
+RDA standard, remains a mystery!  Nevertheless, it is a 
+very effective way to keep a nation sick and zombified. 
+
+The purpose of this manuscript is to review studies pub-
+lished  during  the late 1800s  and early  1900s  describing 
+the effect of oral ingestion of inorganic, non-radioactive 
+iodine/iodide  in  patients  with  simple  goiter  and  in 
+Graves’  disease,  both  conditions  due  to  iodine/iodide 
+deficiency.    This  physiological  approach  will  be  com-
+pared  with  the  current  non-physiological  trend  of  pre-
+
+Table 2 
+
+The Halides: 
+Discovery in Chronological Order 
+
+Halide 
+
+Chloride 
+
+Iodide 
+
+Bromide 
+
+Fluoride 
+
+Astatin 
+
+Discovery 
+
+Year 
+
+Discoverer  Country 
+
+1809 
+1810 
+
+1811 
+
+1826 
+
+1886 
+
+1940 
+
+Gay-Lussac 
+H. Davy 
+
+France 
+Great Britain 
+
+B. Courtois 
+
+France 
+
+A.J. Balard 
+
+France 
+
+F. Moissan 
+
+France 
+
+Carson, 
+McKenzie, 
+Segre 
+
+US 
+
+All isotopes are radioactive —  exist naturally in  minute amounts.  
+First  isolated  as  a  byproduct  of bombardment  of  a  bismuth  target 
+with alpha particles in a 60-inch cyclotron. 
+
+scribing  to  iodine-deficient  female  patients  with  hypo-
+thyroidism  and  simple  goiter  the  hormone  thyroxine 
+(T4),  which  increases  the  risk  of  breast  cancer  in  those 
+patients (discussed in Section III).  In Graves’ disease, the 
+non-physiological use of goitrogens and radioiodide has 
+replaced  iodine/iodide  resulting  in  hypothyroidism  of 
+these  unfortunate  patients.   It  seems  that  no  matter  what 
+your thyroid problem is, you always end up getting T4.  In 
+the discussion of published data on iodine-induced hypo-
+thyroidism and hyperthyroidism, a clear distinction will 
+be made between inorganic versus organic forms, in or-
+der  to  demonstrate  that  adverse  effects  attributed  to  io-
+dine  in  most  publications  were  the  result  of  ingestion 
+and  injection  of  organic  forms  of  iodine-containing 
+drugs.    A  review  of  some  historical  events  combined 
+with  some  physiological  aspects  of  iodide  metabolism 
+by the thyroid gland will be discussed in order to demon-
+strate  that  inadequate  iodine/iodide  intake  combined 
+with goitrogens, not excess iodide, is the cause of auto-
+immune  thyroiditis.    Last, the  concept  of orthoiodosup-
+plementation will be presented, including the description 
+of  a  simple  iodine/iodide  loading  test  to  assess  suffi-
+ciency of the whole human body.  Orthoiodosupplemen-
+tation is the safest and most effective method of supple-
+menting  patients  with  this  essential  trace  element  in 
+amounts for whole body sufficiency.  
+
+II.  The Discovery of Iodine 
+The  discovery  of  the  stable  halides  —  chloride,  iodide, 
+bromide,  and  fluoride  —  seems  to  have  been  a  French 
+enterprise.    All  four  halides  were  identified  by  French 
+scientists,  (Table  2)  with  H.  Davy  from  Great  Britain, 
+sharing  the  discovery  of  chloride  with  Gay-Lussac  in 
+1809-1810.39 
+
+Bernard  Courtois,  a  French  chemist,  was  a  saltpeter 
+(potassium  nitrate)  manufacturer.    Saltpeter  was  one  of 
+the compounds needed for the manufacture of gunpow-
+der.  Seaweed ash was used as a valuable source of so-
+dium  and  potassium  salts.    Sulfuric  acid  was  added  to 
+remove interfering compounds before the salts could be 
+precipitated.  One day toward the end of 1811, Courtois 
+added too much acid to the suspension of seaweed ash.  
+The  iodides  in  seaweed  were  oxidized  to  iodine,  which 
+sublimated and formed a violet vapor above the prepara-
+tion.    The  crystals  obtained  from  condensation  of  the 
+iodine vapor were analyzed by Courtois, and he prepared 
+several iodide salts, but he never published his findings.  
+Some  of  these  crystals  ended  up  in  the  hands  of  Gay-
+Lussac  and  Ampere,  who  gave  some  to  H.  Davy.    An 
+anonymous  paper  was  published  in  1813,  written  by 
+Gay-Lussac, giving full credit to Courtois for the discov-
+ery of iodine.5  In the same year, C.B. Desormes and N. 
+(Continued on next page) 
+
+20 
+
+THE ORIGINAL INTERNIST     March   2004 
+
+ 
+ 
+ 
+ 
+ 
+Clement  presented  Courtois’  discovery  at  a  meeting  of 
+the Imperial Institute of France.  Gay-Lussac named the 
+new  element  “iode”  from  the  Greek  ioeides  meaning 
+“violet-colored.”  H. Davy anglicized the name “iode, ” 
+calling it “iodin,” which became “iodine” in the 1930s. 
+
+By  1813,  Gay-Lussac  had  synthesized  several  products 
+from iodine and fully characterized this new element, but 
+he  gave  full  credit  to  Courtois  for  the  discovery  of  io-
+dine.  According to the Dictionary of Scientific Discov-
+ery,39  Davy,  in  an  attempt  to  eclipse  Gay-Lussac  in  the 
+characterization of iodine, did the unthinkable for a sci-
+entist of his rank, “A large part of Davy’s claim for the 
+originality  of  his  study  of  iodine  depends  on  his  com-
+plete honesty in claiming certain knowledge before that 
+of Gay-Lussac and in particular in dating as 11 Decem-
+ber a paper read to the Institute on 13 December (that is 
+the day following Gay-Lussac’s publication).”  Courtois 
+did not benefit from his discovery.  “In 1831, the Insti-
+tute awarded him a prize of 6,000 francs for the discov-
+ery.    By  this  time  Courtois  had  given  up  the  saltpeter 
+business and, from the 1820s, attempted to make a living 
+by  preparing  and  selling  iodine  and  iodine  compounds.  
+This enterprise also failed, and he died in poverty.”39 
+
+The  history  of  iodine  in  medicine  and  pharmacy  was 
+reviewed by F.C. Kelly14 from its discovery in 1811 up 
+to  1961.    The  review  of  the  history  of  iodine  by  L.E. 
+Braverman,15  covering  the  period  from  1961  to  1994, 
+was limited to the thyroid gland exclusively, because by 
+then,  thyroid  fixation  had  become  pandemic,  and  the 
+only role of iodine as an essential element was assumed 
+to  be  due  to  its  incorporation  in  the  thyroid  hormones.  
+Detailed information about the intrigue and the political 
+climate may be found in the Dictionary of Scientific Bi-
+ography39  edited  by  C.C.  Gillispie  and  published  in  14 
+volumes  by  Simon  and  Schuster.    The  scientists  are 
+listed alphabetically with their accomplishments. 
+
+III.   The Use of Inorganic, non-radioactive 
+Iodine/Iodide in Simple Goiter 
+Centuries  before  the  discovery  of  iodine,  seaweed  was 
+used in the treatment of thyroid enlargement (goiter).  In 
+his  review,  F.C.  Kelly14  mentioned  Chinese  physician 
+Ke-Hung (281-361 AD), who used seaweed in the treat-
+ment of goiter.  Five centuries later, Wang Tao listed 36 
+prescriptions for goiter, 27 of which contained seaweed.  
+The name “thyroid” was assigned to this gland by Brit-
+ish  physician  Thomas  Wharton  in  his  book  Adeno-
+graphia,  written  in  Latin  and  published  by  himself  in 
+1656.39  The goal of this book was “a description of the 
+glands of the entire body.”  The name “thyroid” (shield) 
+was  assigned  to  the  gland  because  the  thyroid  cartilage 
+behind the gland was in the shape of a shield.  Wharton 
+
+postulated  that  the  role  of  the  gland  was  purely  esthet-
+ical.  He observed that the thyroid was larger in women 
+than in men, “It (the thyroid gland) contributes much to 
+the beauty of the neck… particularly in females, for this 
+reason, a larger gland has been assigned, which renders 
+their necks … more beautiful.” 
+
+After  the  discovery  of  iodine  from  seaweed,  a  Swiss 
+physician,  J.F.  Coindet,  who  previously  used  success-
+fully burnt sponge and seaweed for goiter, reasoned that 
+iodine  could  be  the  active  ingredient  in  seaweed.    In 
+1819, he tested tincture of iodine at 250 mg/day, an ex-
+cessive  amount  by  today’s  standard,  in  150  goiter  pa-
+tients with great success.  He could reduce significantly 
+the size of goiter within a week.  He published his results 
+in 1820.40  He later reported some side effects to iodine, 
+including  iodine-induced  thyrotoxicosis.41    “I  have  ob-
+served goitrous patients who have been greatly affected 
+by the treatment:  acceleration of the pulse, palpitations, 
+dry  frequent  cough,  insomnia,  rapid  emaciation,  loss  of 
+strength, in others only swelling of the legs or tremor of 
+a painful hardening of the goiter, sometimes a shrinkage 
+of the breast, remarkable and sustained increase in appe-
+tite.”  He was the first physician to use iodine in medical 
+practice.  To be discussed later, the use of combined in-
+organic  iodine/iodide  (Lugol  solution)  in  the  right 
+amounts  resulted in  better response  with less  complica-
+tions than iodine and iodide alone. 
+
+Because iodine is not very soluble in water, (330 mg/L), 
+alcoholic tinctures were first used externally as an anti-
+septic and internally as a treatment for every conceivable 
+medical and surgical condition.  In 1829, Jean Lugol, a 
+French physician researching the medical uses of iodine 
+in  infectious  diseases,42  observed  that  the  presence  of 
+potassium iodide in water increases markedly the aque-
+ous  solubility  of  iodine,  from  0.33  gm/L  to  50  gm/L.  
+The  Lugol  solution  contains  5%  iodine  and  10%  potas-
+sium  iodide  in  water.    He  used  his  preparation  for  the 
+treatment of “les maladies scrofuleuses.”  The antiseptic 
+properties of iodine were widely used from the discovery 
+of iodine until today.  In 1873, the French bacteriologist 
+Davaine  used  tincture  of  iodine as an  agent to treat an-
+thrax in patients suffering from this infection.39  Orthoio-
+dosupplementation30 may be the best preventive measure 
+against  bioterrorism.    It  is  important  to  point  out  that 
+iodides  have  no  antiseptic  and  antibacterial  properties.  
+Only  iodine,  the  oxidized  state,  is  antiseptic.    Since  io-
+dine is not very soluble in water, the best preparation of 
+an aqueous solution of iodine is Lugol solution because 
+it allows the administration of a relatively large amount 
+of iodine in small volumes of water.  The collective ex-
+perience  of  a  large  number  of  clinicians  over  the  last 
+(Continued on next page) 
+
+THE ORIGINAL INTERNIST     March   2004 
+
+21 
+
+ 
+ 
+ 
+ 
+ 
+century  has  resulted  in  the  recommended  daily  amount 
+of 0.1 to 0.3 ml of Lugol, containing from 12.5-37.5 mg 
+elemental  iodine,  for  iodine/iodide  supplementation.  
+Interestingly,  this  is  the  range  of  iodine/iodide  intake 
+required for whole body sufficiency based on a recently 
+developed  iodine/iodide  loading  test  (discussed  in  Sec-
+tion  VII).    We  have  confirmed  the  observations  of  our 
+medical predecessors who were keen observers. 
+
+In  1831,  French  chemist  and  agronomist  J.G.  Boussin-
+gault43 proposed iodized sodium chloride (table salt) as a 
+means of preventing goiter.  Such a proposal was imple-
+mented first in Europe and then in the 1920s in the US.  
+That was a very bad idea because it gave a false sense of 
+iodine  sufficiency  and  resulted  in  the  public  relying  on 
+iodized  salt  for  supplementation  instead  of  the  previ-
+ously used forms of iodine and iodide, such as the Lugol 
+solution.  In order to ingest 12.5 mg of elemental iodine 
+from  salt,  one  would  have  to  consume  165  gm  of  salt; 
+and  obviously three times that  amount  of  salt  would be 
+required  for  supplying  37.5  mg  elemental  iodine.    Be-
+sides, table salt contains iodide only, not iodine.  To be 
+discussed later, iodine is very important for normal func-
+tion of breast tissue.  Therefore, supplementation should 
+contain both forms, iodine and iodide. 
+
+In  1926,  physician  C.L.  Hartsock,  from  Cleveland, 
+Ohio44  wrote,  “Iodized  salt  is  now  being  very  much 
+more extensively used by the public than other forms of 
+iodine,  such  as  sodium  iodide,  iodostarine,  and  com-
+pound  solution  of  iodine  (Lugol’s  solution),  probably 
+because  of  the  propaganda  to  insure  its  use.”    Iodized 
+salt was unfortunately used as a substitute for the previ-
+ously  recommended  forms  of  iodine/iodide.    The  aver-
+age  daily  intake  of  iodide  from  iodized  salt  represents 
+less than 1% of the recommended daily intake of Lugol 
+solution.  Implementation of iodization of salt was asso-
+ciated  with  an  increased  incidence  of  autoimmune  thy-
+roiditis.  In Section VI of this manuscript, we propose a 
+mechanism  that  could  explain  how  inadequate  iodide 
+intake, combined with goitrogens in a previously iodine-
+deficient individual, caused oxidative damage to thyroid 
+peroxydase  and  thyroglobulin,  resulting  in  an  autoim-
+mune  reaction  to  those  proteins.    The  same  mechanism 
+can  explain  autoimmune  thyrotoxicosis  (Graves’  dis-
+ease).  Hartsock recommended the use of a tablet of io-
+dine/iodide in known and fixed amounts as the best form 
+of  supplementation,  just  like  the  most  popular  form  of 
+supplementation  used  today  for  vitamins,  minerals  and 
+trace elements.  “Tablets containing definite amounts of 
+iodine seemed to be the method of choice.” 
+
+Following  Coindet’s  original  success  in  treating  goiter 
+with  tincture  of  iodine  in  1819  and  1820,  “In  the  first 
+
+flush  of  enthusiasm  for  the  newcomer,  physicians  and 
+surgeons  tested  it  and  tried  it  for  every  conceivable 
+pathological  condition.”14    However,  no  attempt  was 
+made  to  study  the  optimal  daily  requirement  of  the  hu-
+man  body  for  iodine,  because  the  concept  of  essential 
+trace elements was not proposed until the end of the 19th 
+century by Gabriel Bertrand.6  Even after iodine was rec-
+ognized as an essential element in the 1920s, mainly due 
+to Marine’s studies,7,8 no attempt was made to assess the 
+optimal daily requirement of this nutrient for sufficiency 
+of the whole human body.  Marine8 used a daily average 
+of 9 mg iodide in the prevention of goiter in adolescent 
+girls, an amount 60 times the current RDA for iodine.  In 
+1930,  Thompson,  et  al45  stated:  “The  normal  daily  re-
+quirement  of  the  body  for  iodine  has  never  been  deter-
+mined.”  This statement is still true today, more than 70 
+years  later.    We  still  don’t  know  the  iodine/iodide  re-
+quirements for whole body sufficiency.   
+
+In  1821,  Francois  Magendie  was  the  first  to  put  iodine 
+into  a  pharmacopoeia.14.    The  number  of  preparations 
+containing  iodine  and  iodine  compounds  increased  rap-
+idly afterward.  To quote Kelly, “In the Great Exhibition 
+at the Crystal Palace in Hyde Park in May 1851, iodine 
+and iodine compounds were publicly shown for the first 
+time by 10 pharmaceutical firms… by 1890, to choose a 
+date  at  random,  the  sixth  edition  of  Martindale’s  Extra 
+Pharmacopoeia  sponsored  30  medicaments  derived 
+from  iodine;  the  ‘Iodine  Centenary  Volume’  compiled 
+by The Prescriber in 1914, mentions 45 iodine prepara-
+tions; by 1928 Martindale had extended its coverage to 
+128  iodine  items;  and,  in  an  international  index  pub-
+lished  in  1956,  and  devoted  exclusively  to  iodine  phar-
+maceuticals, no less than 1,700 approved pharmacopoe-
+ial names, proprietary names, synonyms, and alternative 
+designations are alphabetically listed.”   
+
+As late as 1995, the 19th edition of Remington’s Science 
+and  Practice  of  Pharmacy,46  continued  to  recommend 
+between 0.1 to 0.3 ml daily of Lugol 5% solution in the 
+treatment  of  iodine  deficiency  and  simple  goiter.    The 
+5%  Lugol  solution  contains  50  mg  iodine  and  100  mg 
+potassium iodide per ml with a total of 125 mg elemental 
+iodine/ml.  The suggested daily amount of 0.1 ml to 0.3 
+ml is equivalent to 12.5 mg to 37.5 mg, with 40% iodine 
+and 
+salt 
+(orthoiodosupplementation).  This amount was based on 
+the collective experience of clinicians over the last cen-
+tury.  We have recently confirmed the keen observation 
+of  our  medical  predecessors.   The range  of  Lugol  solu-
+tion  they  recommended  is  exactly  the  range  of  io-
+dine/iodide intake for whole body sufficiency based on a 
+recently developed iodine/iodide loading test (discussed 
+(Continued on next page) 
+
+potassium 
+
+iodide 
+
+60% 
+
+the 
+
+as 
+
+22 
+
+THE ORIGINAL INTERNIST     March   2004 
+
+ 
+ 
+ 
+ 
+ 
+in  Section  VII).    In  the  early  1920s  the  influence  of 
+Plummer increased further the popularity of Lugol solu-
+tion  among  clinicians.    In  1932,  physician  B.N.  Cohn47 
+wrote: “… The widespread use of compound solution of 
+iodine, USP, (for the reader’s information, that is Lugol 
+solution)  is  the  result  of  a  paper  by  Plummer  and 
+Boothby, published in that year (1923).  Since then com-
+pound solution of iodine has been used by nearly every 
+clinician.” 
+
+With  the  availability  of  thyroid  extracts  in  the  early 
+1900s  and  thyroid  hormones  in  the  1930s,  thyroidolo-
+gists  started  using  these  preparations  in  patients  with 
+iodine deficiency and simple goiter instead of the previ-
+ously  used  inorganic  iodine/iodide  preparations.    The 
+situation  was  aggravated  in  the  1930s  by  the  fact  that 
+during  the  same  period,  the  public  was  relying  on  io-
+dized  table  salt  instead  of  iodine/iodide  preparations 
+from apothecaries for supplementation, due to the propa-
+ganda favoring the use of iodized salt.44  The thyroidolo-
+gists  assumed  that,  with  iodization  of  table  salt,  iodine 
+deficiency  became  a  thing  of  the  past  because  of  the 
+positive effect of iodized salt on the incidence of goiter.  
+That  was  the  beginning  of  thyroid  fixation.    By  the 
+1950s  most  physicians  neglected  the  rest  of  the  human 
+body, in terms of sufficiency for iodine, and forgot that 
+their  predecessors  were  using  amounts  of  iodine/iodide 
+two  orders  of  magnitude  greater  than  the  amounts  pre-
+sent in the average daily consumption of table salt.  This 
+was mainly due to iodophobic publications appearing in 
+the mid 1940s (discussed in Section IV) and the errone-
+ous assumption that absence of goiter means iodine suf-
+ficiency.    A  textbook  entitled  Diagnosis  and  Treatment 
+of Diseases of the Thyroid, edited by Amy Rowland and 
+published in 1932, contained chapters from 24 thyroidolo-
+gists of that time.48  Although the most common cause of 
+hypothyroidism  and  simple  goiter  worldwide  is  iodine 
+deficiency,  the recommended  treatment  of  hypothyroid-
+ism was summarized in two sentences, “The treatment of 
+hypothyroidism  of  any  type  consists  merely  in  the  sub-
+stitution  of  thyroid  extract  for  the  deficient  secretion.  
+Any form of prepared gland or the active principle, thy-
+roxin, may be used.”  However, not all physicians aban-
+doned iodine/iodide, and many continued up to the pre-
+sent  day  to  use  Lugol  solution  and  potassium  iodide  in 
+the  treatment  of  iodine  deficiency  and  simple  goiter.  
+Today, this is called alternative medicine, but 100 years 
+ago  it  was  mainstream  medicine.    In  1921,  S.P.  Beebe 
+stated,  “We  may  say  that  medical  treatment  of  simple 
+goiter is contained in this one word — iodine.”49 
+
+It is unfortunate that mainstream endocrinologists today 
+do not share Beebe’s enthusiasm for iodine.  In the eighth 
+edition of The Thyroid published in 2000, Brent and Lar-
+
+sen50 wrote  the chapter  on the treatment of hypothyroid-
+ism in the adult.  They stated, “The goal of treatment of 
+hypothyroidism is to normalize thyroid status in periph-
+eral  tissues,  whatever  the  cause  of  the  hypothyroidism.  
+The usual approach is to give sufficient T4 to ameliorate 
+all  symptoms  of  hypothyroidism  and,  in  patients  with 
+primary  hypothyroidism,  to  reduce  serum  TSH  concen-
+trations to within the normal range…”  In the battle royal 
+for supremacy, T4 became the uncontested winner in the 
+treatment  of  simple  goiter  and  hypothyroidism,  caused 
+by  iodine  deficiency  and  goitrogens,  but  the  female  pa-
+tients became the real losers with increasing prevalence of 
+obesity, diabetes, hypertension, and cancers of the breast 
+and thyroid glands.30  What happened to inorganic, non-
+radioactive iodine/iodide?   Don’t they know that iodine 
+deficiency  in  women  predisposed  them  to  breast  can-
+cer,30  and  that  giving  T4  to  iodine-deficient  women  in-
+creases further their risk for breast cancer?51 
+
+IV.  The Use of Inorganic, Non-radioactive 
+Iodine/Iodide in Graves’ Disease 
+Since Graves’ disease represents up to 90% of hyperthy-
+roidism,52  we  will  limit  our  discussion  to  Graves’  dis-
+ease, called by different names in different publications:  
+exophthalmic goiter or goitre, hyperthyroidism, and toxic 
+goiter.   
+
+Iodine was used in the treatment of toxic goiter as early 
+as 1840 by Von Basedow53 and in 1854 by Stokes.54  In 
+1863,  Trousseau  inadvertently  used  tincture  of  iodine 
+successfully in a patient with exophthalmic goiter.55  “In 
+the course of October, 1863, I was consulted by a young 
+married  lady,  who  habitually  resides in  Paris.    She  was 
+suffering  from  subacute  exophthalmic  goiter…  I  still 
+found her heart beat at the rate of 140 to 150 times in the 
+minute…  I  wished  to  administer  at  the  same  time  tinc-
+ture of digitalis, but preoccupied with the idea that there 
+would be some danger in giving iodin, I wrote iodin in-
+stead of digitalis, so that the patient took from 15 to 20 
+drops of tincture of iodin a day for a fortnight.  (For the 
+reader’s  information,  “tincture  of  iodin”  is  a  10%  solu-
+tion  of  iodine  in  95%  ethanol.    The  daily  amount  in-
+gested  was  75-100  mg).    When  she  then  came  back  to 
+me, her pulse was only 90.  I found out my mistake, and 
+I  substituted  tincture  of  digitalis  for  that  of  iodin,  but, 
+after  another  fortnight,  the  pulse  had  again  gone  up  to 
+150, so that I at once returned to the iodin.”  Trousseau 
+had  the  distinction  of  performing  the  first  double-blind 
+study  of  iodine  in  a  cohort  of  one  patient  with  Graves’ 
+disease.  He also achieved remission of Graves’ disease 
+with prolonged administration of potassium iodide.56 
+
+Thompson, et al,57 in a 1930 publication, quoted several 
+(Continued on next page) 
+
+THE ORIGINAL INTERNIST     March   2004 
+
+23 
+
+ 
+ 
+ 
+ 
+ 
+authors  in  the  late  1800s  and  early  1900s  who  used 
+Lugol  solution  alone  successfully  in  Graves’  disease, 
+with  complete  remission  of  the  disease,  eliminating  the 
+need for surgery.  Destruction of the thyroid gland with 
+goitrogens  and  radioiodide  was  fortunately  not  then 
+available  for  the  management  of  Graves’  disease.    Pro-
+fessor Kocher came on the scene in the early 1900s and 
+had  an  adverse  iodophobic  effect  on  the  treatment  of 
+Graves’  disease.    Professor  Theodore  Kocher  carried  a 
+lot  of  weight,  being  the  recipient  of  the  Nobel  Prize  in 
+Medicine  and  Physiology  in  1909,  for  his  work  on 
+“thyroid  surgery,”  the  only  Nobel  Prize  assigned  to  re-
+search on the thyroid gland.  He was against the use of 
+iodine/iodide  in  exophthalmic  goiter  and  all  forms  of 
+hyperthyroidism.58,59 
+
+Cowell and Mellanby in their 1925 publication60 give a 
+glimpse  of  Kocher’s  influence  over  the  thyroidologists 
+of  that  time,  bordering  on  intimidation,  “Kocher  taught 
+that  the  administration  of  potassium  iodide  must  never 
+be carried out in exophthalmic goiter, and on the whole, 
+this advice has been taken.  As evidence of this fact may 
+be mentioned the discussion on the treatment of exoph-
+thalmic goiter at the Royal Society of Medicine in 1923.  
+No  speaker  mentioned  iodine  or  any  preparation  of  io-
+dine  as  being  of  any  value  in  the  treatment  of  the  dis-
+ease, and it can be inferred that therapy involving the use 
+of iodine has been deliberately avoided.” 
+
+The influence of Kocher divided thyroidologists into two 
+schools:  the iodine/iodide school which favored the use 
+of Lugol solution first and then adding surgery later for 
+the patients not responding to this approach alone, while 
+continuing  the  iodine/iodide  supplementation;  and  the 
+surgical  school  discouraged  the  use  of  iodine/iodide, 
+prior  to  and  post  surgery.    In  1927,  DeCourcy61  stated, 
+“That the administration of iodine prior to operation for 
+exophthalmic  goiter  controls  the  symptoms,  lowers  the 
+basal metabolic rate and lessens the hazards of operation, 
+is  no  longer  questioned.   This teaching,  however,  is  di-
+rectly contrary to that of only a few years ago.  Formerly 
+the  surgical  school  led  by  Kocher  opposed  the  use  of 
+iodine  in  any  form  of  Graves’  disease,  holding  that  it 
+increases the severity of the symptoms and may, in fact, 
+be  responsible  for  the  development  of  exophthalmic 
+from  simple  goiter.”      In  the  same  publication,  De-
+Courcy’s own experience revealed that out of 30 cases of 
+exophthalmic  goiter  in  children,  Lugol  solution  5-10 
+drops (30-60 mg) three times a day “made operation un-
+necessary” in 11 cases.  That is a 36% success rate. 
+
+Some brave souls defied Kocher’s moratorium and con-
+tinued  to  use  inorganic  iodine/iodide  successfully  in 
+Graves’ disease.  Retrospectively, Kocher’s stand against 
+
+inorganic  iodine/iodide  in  Graves’  disease  proved  to  be 
+the main cause of the high rate of pre- and post-operative 
+mortality,  following  thyroidectomy.    In  1924,  Plummer 
+and  Boothby  from  the  Mayo  Clinic62,63  reported  their 
+experience  with  600  cases  of  Graves’  disease,  who  re-
+ceived  Lugol  solution  for  several  days  pre-operatively 
+and post-operatively, resulting in zero medical mortality, 
+“In the Mayo clinic we now give 10 minims of Lugol’s 
+solution as a routine three times a day for at least seven 
+days previous to a thyroidectomy.  (For the reader’s in-
+formation,  one  minim  is  one  drop  of  Lugol,  containing 
+6.25 mg of total elemental iodine. The daily amount was 
+about 180 mg.)  The solution is administered for a longer 
+period  to  patients  who  have  been  in  a  particularly  bad 
+condition  and  are  at  the  end  of  this  period  rapidly  im-
+proving.  To patients in a crisis or near-crisis, 50 minims 
+are given during the first two or three hours, by mouth if 
+it can be retained, otherwise by rectum.  If the patient is 
+in a crisis, this is followed by 50 minims during the fol-
+lowing forenoon.  To the patients having so-called post-
+operative recurrences that can be controlled are given 10 
+minims  of  the  solution  daily  over  an  indefinite  period.  
+This  period is  generally  determined  by  stopping  the  io-
+din at intervals of a few weeks, and noting the patient’s 
+condition  at  the  end  of  10  days.    If  there  is  any  recur-
+rence of hyperthyroidism, the administration of iodine is 
+again resumed… From January 1 to September 1, 1924, 
+from 600 to 700 new cases of exophthalmic goiter were 
+observed in the Clinic.  During this period there were no 
+medical death.” 
+
+In 1925, Frank H. Lahey64 from the Lahey Clinic in Bos-
+ton  reported  his  experience  with  Lugol  solution  in 
+Graves’  disease.    “The  introduction  of  Lugol’s  solution 
+by Dr. Henry S. Plummer as a method of preparation for 
+operation in exophthalmic goiter marks a step of forward 
+progress  in the  surgical  management  of this  disease.    It 
+has  practically  eliminated  preliminary  pole  ligation  in 
+our Clinic and has made it possible to complete the op-
+eration  of  subtotal  thyroidectomy  in  one  stage  upon  a 
+great majority of our patients.  It has saved for us many 
+of those delirious and desperately toxic cases which pre-
+viously  died  before  any  operation  could  be  done  upon 
+them, and it has almost completely done away with post-
+operative  thyroid  reactions.    It  has  been  a  real  boon  to 
+the  patient  suffering  from  exophthalmic  goiter  or  pri-
+mary hyperthyroidism.”   
+
+Thompson,  et  al57  published  the  results  obtained  in  24 
+patients  with  exophthalmic  goiter  treated  with  Lugol 
+solution alone without surgery, using a daily dose of one 
+drop.  As mentioned previously, goitrogens and radioio-
+dide  were  not available  for  use  in  Graves’  disease  until 
+(Continued on next page) 
+
+24 
+
+THE ORIGINAL INTERNIST     March   2004 
+
+ 
+ 
+ 
+ 
+ 
+the  mid  1940s,  coincident with  the  appearance  of iodo-
+phobic publications  by  the  same  authors  who  promoted 
+the goitrogens as an alternative to Lugol solution in the 
+management of Graves’ disease.  Thompson, et al stated:   
+“Twenty-four patients with exophthalmic goiter (14 mild 
+and  10  severe  or  moderately  severe  cases)  have  been 
+treated  in  this  clinic  with  iodine  alone,  either  continu-
+ously or intermittently for periods ranging from one and 
+one-half months to three years.  The period of treatment 
+was  a  year or  more  in  13 instances.   With three  excep-
+tions (all unsatisfactory responses to iodine) the patients 
+pursued their daily work throughout the period of obser-
+vation,  thus  eliminating  the  effect  of  rest.”    That  is  an 
+88% success rate. 
+
+S.P. Beebe from New York reported favorably in 1921, 
+on  the  use  of  Lugol  solution  in  hyperthyroid  forms  of 
+goiter,49  based  on  his  experience  over  a  period  of  10 
+years,  which  did  not  confirm  Kocher’s  iodophobic  atti-
+tude, “In going over these statements in the literature, it 
+seems probable that the actual basis for the conclusions 
+has  been  theoretical  considerations  and  preconceived 
+notions rather than careful clinical observations... In this 
+writer’s  experience  iodine  is  one  of  the  most  valuable 
+therapeutic agents we have in the treatment of the hyper-
+thyroid  forms  of  goiter.    As  in  the  case  of  any  potent 
+drug,  injury  can  be  done  with  it.    So  can  we  do  injury 
+with digitalis and salvarsan.  During the last 10 years the 
+writer  has  treated  a  large  number  of  cases  of  hyperthy-
+roidism,  and  with  most  of  them  the  administration  of 
+iodine has been a part of the treatment.  There is no dan-
+ger  in  so  doing  if  the  dose  is  properly  regulated.    The 
+extreme sensitiveness described by some writers is a rare 
+event.  If the dose is properly regulated there need be no 
+fear of iodism or iodine Basedowism.”   
+
+Starr,  et  al65  from  the  Massachusetts  General  Hospital 
+used 15 drops (90 mg) of  Lugol daily for the treatment 
+of  exophthalmic  goiter,  with  a 92%  success  rate,  elimi-
+nating  the  need  for  surgery.    “Of  these  25  cases,  20 
+(80%)  responded  to  iodin  by  a  more  or  less  extensive 
+remission  of  the  disease.    Of  these  20,  12  (48%)  re-
+sponded with the acute iodine remission resembling the 
+effect  produced  by  subtotal  thyroidectomy.    In  the  re-
+maining  eight  (32%)  the  remission  occurred,  but  was 
+less extensive.  In five unsuccessful cases (20%) two of 
+the patients were pregnant, and one had cardiac decom-
+pensation.  If these are omitted from the calculation, io-
+dine administration  was  successful  in  20 of  23,  or  92%  
+of our hospital cases.”   
+
+A cursory review of the literature suggests that the use of 
+Lugol  solution  in  Graves’  disease,  the  preferred  ap-
+proach  by  thyroidologists  of  that  time,  resulted  in  a 
+
+higher  success  rate  with  fewer  complications  than  the 
+use of iodine and iodide alone.45,57,60-66  The daily amount 
+of Lugol solution used in Graves’ disease ranged from one 
+drop (6.25 mg) to 30 drops (180 mg).  A complete nutri-
+tional  program  in  our  experience  improved  further  the 
+response to orthoiodosupplementation in Graves’ disease 
+and other thyroid disorders. 
+
+No serious attempt was made by physicians of the early 
+1900s  to  incorporate  a  complete  nutritional  program 
+with  Lugol  supplementation  in  the  management  of  thy-
+roid disorders.  The reason is that not much was known 
+about vitamins, minerals, and essential trace elements at 
+that  time.    Today,  the  importance  of  good  nutrition  in 
+overall well-being is commonly accepted, and more and 
+more  publications  are  emphasizing  the  interaction  be-
+tween micronutrients in their overall effects on biologi-
+cal  systems.    We  have  incorporated  a  total  nutritional 
+program  with  orthoiodosupplementation,  emphasizing 
+magnesium instead of calcium (discussed further in Sec-
+tion  VII).    The  effect  of  this  nutritional  program  with 
+orthoiodosupplementation  on  thyroid  function  tests  in  a 
+40-year-old  female  patient  with  severe  hyperthyroidism 
+is displayed in Table 3.   
+
+She  was  a  classic  case  of  Graves’  disease  with  exoph-
+thalmia.    After  researching  the  medical  literature,  she 
+refused treatment with radioiodides, goitrogens and sur-
+gery.  She was placed on the nutritional program, includ-
+ing 1,200 mg of magnesium/day for one month prior to 
+iodine  supplementation,  followed  by  the  same  program 
+with  the  addition  of  12.5  mg  elemental  iodine  (1  tablet 
+Iodoral®)  daily  afterward.    TSH  was  undetectable  at 
+<0.01  µU/ml.    Total  T4  was  18  µg/dL;  Total  T3  442 
+ng/dL;  Free  T4  =  5  ng/dL.    Following  one  month  on  a 
+high  magnesium  program,  she  stated  she  felt  calmer, 
+with  less  palpitation,  could  sleep  better.    The  burning, 
+irritation,  and  lacrimation  of  the  eyes  improved.    TSH 
+remained undetectable at 0.03 µU/ml; Total T4 dropped 
+to 16 µg/dL and Total T3 from 442 to 299 ng/dL.  Free 
+T4  did  not  change  appreciably.    After  the  first  week  on 
+iodine/iodide at 12.5 mg/day, she noticed a clearer mind 
+with improved cognition.  Following one month on this 
+program, she slept better and was better organized with 
+improved  social  activities.    Her  palpitation  decreased 
+markedly with normal pulse rates.  Serum TSH became 
+normal at 2.3 µU/ml; Total T4, Total T3 and Free T4 were 
+all within the normal range at 8.0 µg/dL, 195 ng/dL, and 
+1.2  ng/dL.    She  continued  to  improve.    After  three 
+months  on  the  same  program,  TSH  was  not  measured, 
+but Total T4, Total T3  and  Free  T4  remained  within  the 
+normal range (Table 3).  She experienced some diarrhea 
+following  four  months  on  magnesium  at  1,200  µg/day, 
+(Continued on next page) 
+
+THE ORIGINAL INTERNIST     March   2004 
+
+25 
+
+ 
+ 
+ 
+ 
+ 
+and the daily amount was decreased to 600 mg/day.  As 
+of  this  writing,  the  thyroid  function  tests  remained 
+within  the  normal  range;  she  has  no  exophthalmia;  she 
+gained  16  pounds;  and  her  social  activities  have  im-
+proved  to  the  point  of  matrimony.    She  praises  God 
+every  day  for  saving  her  thyroid  gland  and  making  her 
+healthy again. 
+
+Published studies on the safe and effective use of Lugol 
+solution  in  Graves’  disease  mysteriously  disappeared 
+during the 1940s and afterward, concurrent with the ap-
+pearance  of  iodophobic  publications  and  the  promotion 
+of  goitrogens  as  an  alternative  to  Lugol  solution  in  the 
+management  of  Graves’  disease.    (See  Table  4.)    Intro-
+duced in 1943 by E.B. Astwood67 for the management of 
+Graves’  disease  in  the  forms  of  thiourea  and  thiouracil, 
+these goitrogens evolved into more powerful ones,68 and 
+eventually  the  thionamides:    methimazole,  carbimazole, 
+and propylthiouracil.  These goitrogens rapidly replaced 
+inorganic  iodine/iodide  in  the  management  of  Graves’ 
+disease.  The synchronization of iodophobic publications 
+with  the  introduction  of  goitrogens  to replace  inorganic 
+iodine/iodide  (Table  4)  was  a  brilliant  move,  and  it 
+worked  wonderfully.    Obviously,  no  one  was  awake  to 
+ask  questions.    In  1953,  when  Godley  and  Stanbury69 
+introduced  a  new  goitrogen,  potassium  perchlorate,  in 
+the  treatment  of  hyperthyroidism,  they  acknowledged 
+that  the  thiionamides  were  used  widely  in  Graves’  dis-
+ease, instead of inorganic iodine/iodide.  “At the present 
+time  propylthiouracil,  methylthiouracil  and  1-methyl-2-
+mercaptoimidazole  (methimazole)  are  widely  employed 
+in the preparation of thyrotoxic patients for surgery, and 
+to a lesser extent in the chronic control of the overactive 
+thyroid  gland  (5).”    This  new  goitrogen,  that  is  potas-
+sium perchlorate, was so toxic that it was removed from 
+circulation shortly after its introduction.  Reintroduction 
+of this goitrogen is currently being attempted by lower-
+
+Table 3 
+
+ing the recommended dosage.70 
+Astwood and his associates reported very high remission 
+rates  in  Graves’  disease  with  the  use  of  goitrogens, 
+which  mislead  thyroidologists  and  encouraged  them  to 
+use  these  drugs  instead  of  inorganic  iodine/iodide.    In 
+two  studies  published  in  1953  and  1966,  his  teams  re-
+ported  a  remission  rate  of  50-75%.71,72    However,  his 
+findings could not be reproduced by others.  Wartofsky73 
+in  1973,  and  Reynolds  and  Kotchen74 in  1979,  observed 
+much lower remission rates of 11-16%.  Increased inges-
+tion of iodine/iodide by the patients was blamed by War-
+tofsky for the low success rate.  Wartofsky’s study was 
+done at a time when one slice of bread contained the full 
+RDA for iodine.  In an attempt to improve success rate 
+with goitrogens, patients were told to limit their intake of 
+iodine, which discouraged further its use by the patients.  
+Wartofsky, et al73 failed to realize that iodization of bak-
+ery  products  started  several  years  before  the  second 
+study  by  Astwood,  et  al72  published  in  1966,  which re-
+ported a very high success rate.  In 1965, London, et al25 
+reported  an  estimated  iodine  intake  of  1  mg/day  with 
+726  µg  coming  from  bakery  products.    In  the  end,  one 
+concludes  that  Astwood’s  optimistic  reports  on  the  use 
+of goitrogens in Graves’ disease could not be reproduced 
+by  others.    Since  the  word  “goitrogens”  implies  goiter-
+causing  drugs,  Astwood  called  them  antithyroid  drugs.  
+So,  instead  of  normalizing  thyroid  function  physiologi-
+inorganic,  non-
+cally  with  sufficient  amounts  of 
+radioactive  iodine/iodide,  thyroidologists  became  de-
+structive  in  their  approach  with  goitrogens  and  radioio-
+dide,  resulting  in  hypothyroidism  in  the  majority  of 
+those  unfortunate  patients  who  eventually  join  the  ever 
+increasing T4 consuming population.   
+
+In  the  1980s,  thyroidologists  in  the  US  decreased  their 
+use  of  goitrogens  in  Graves’  disease  due  to  low  remis-
+(Continued on next page) 
+
+Effect of Supplementation with a Complete Nutritional Program 
+Combined with Iodine/Iodide at 12.5 mg/day on Thyroid Function Tests  
+in a 40-year-old Female Patient with Graves’ Disease 
+
+I.  Before Supplementation 
+TSH < 0.01 µU/ml 
+Total T4 = 18 µg/dL 
+Total T3 = 442 ng/dL 
+Free T4 = 5 ng/dL 
+
+II.  After One Month on Complete Nutritional 
+      Supplementation with 1,200 mg Magnesium/day 
+
+TSH < 0.03 µU/ml 
+Total T4 = 16 µg/dL 
+Total T3 = 299 ng/dL 
+Free T4 = 5.6 ng/dL 
+
+III.  After One Month on Iodoral® — 1 Tablet/Day 
+
+TSH = 2.3 µU/ml 
+Total T4 = 8.0 µg/dL 
+Total T3 = 195 ng/dL 
+Free T4 = 1.2 ng/dL 
+
+IV.  After Three Months on Iodoral® — 1 Tablet/Day 
+
+TSH not measured 
+Total T4 = 9.0 µg/dL 
+Total T3 = 156 ng/dL 
+Free T4 = 1.6 ng/dL 
+
+26 
+
+THE ORIGINAL INTERNIST     March   2004 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 4 
+
+Synchronization of Iodophobic Publications with the Promotion of Goitrogens 
+as an Alternative to Inorganic Non-radioactive Iodine/Iodide 
+
+Iodophobic Publications 
+
+Iorganic iodide blocks synthesis of thyroid hormones in vitro using sheep thyroid. 
+
+1944 
+Morton ME, Chaikoff IL, and Rosenfled S.  “Inhibiting effect of inorganic iodide on the formation in vitro of thyropine and 
+diiodotyrosine by surviving thyroid tissue.”  J Biol Chem, 1944; 154:381. 
+
+1948 
+Inorganic iodide blocks synthesis of thyroid hormones in vivo, (rats).  Known as the Wolff-Chaikoff Effect. 
+Wolff J and Chaikoff IL.  “Plasma inorganic iodide as a homeostatic regulator of thyroid function.”  J Biol Chem, 1948; 174:555-
+564. 
+
+The Wolff Chaikoff Effect “extended to humans.” 
+
+1949 
+Stanley MM.  “The direct estimation of the rate of thyroid hormone formation in man.  The effect of the iodide ion on thyroid iodine 
+utilization.”  J Clin Endocr, 1949; 9:941-954. 
+
+Publictions testing and promotin goitrogens in the treatment of Graves’ disease 
+
+1943 
+Astwood EB.  “Treatment of hyperthyroid with thiourea and thiouracil.”  JAMA, 1943; 122:78-81. 
+
+Introduction of goitrogens in the treatment of Graves’ disease by EB Astwood. 
+
+1944  Goitrogens block the conversion of radioactive inorganic iodide to thyroxine — in vitro. 
+Franklin AL, Chaikoff IL, and Lerner SR.  “The influence of goitrogenic substances on the conversion in vitro of inorganic iodide to 
+thyroxine and diiodotyrosine by thyroid tissue with radioactive iodine as indicator.”  J Biol Chem, 1944; 153:151-162. 
+
+1946  Goitrogens block the uptake of radioiodide by the thyroid gland in vivo (rats). 
+Wolff J, Chaikoff IL, et al.  “The disturbance of iodine metabolism produced by thiocyanate:  The mechanism of its goitrogenic 
+action with radioactive iodine as indicator.”  Endocrinology, 1946; 39:140-148. 
+
+Evaluation of several goitrogens in normal subjects using radioiodide as a marker. 
+
+1947 
+Stanley MM and Astwood EB.  “Determination of the relative activities of antithyroid compounds in man using radioactive iodine.”  
+Endocrinology, 1947; 41:66-84. 
+
+Evaluation of goitrogens in the treatment of Graves’ disease, tested in 2 groups of 34 and 30 patients, respectively. 
+1949 
+Stanley MM and Astwood EB.  “Notes and comments.  1-methyl-2-mercaptoinidazole:  An antithyroid compound highly active in 
+man.”  Endocrinology, 1949;  44:588-589. 
+
+sion  rate  and  side  effects  and  relied  more  and  more  on 
+inorganic iodide, but unfortunately the wrong kind (i.e., 
+the  radioactive  kind).    Thyroidologists  en  masse  joined 
+the nuclear age.  In 1990, a survey by the American Thy-
+roid  Association75  revealed  that  the  majority  of  their 
+members  relied  predominantly  on  radioiodide,  with  the 
+exception of the very young and the pregnant, whom the 
+compassionate thyroidologists protected by giving them 
+goitrogens!  Only 2% opted for surgery, 28% used goi-
+trogens, and 70% joined the nuclear age.  There was no 
+mention  of  inorganic,  non-radioactive  iodine/iodide  as 
+an  option.    In  the  last  edition  of  Werner  and  Ingbar’s 
+The  Thyroid  published  in  2000,  D.S.  Cooper  wrote  the 
+chapter  on  treatment  of  thyrotoxicosis:76    “This  chapter 
+considers the three forms  of treatment of thyrotoxicosis 
+—  antithyroid  drugs,  radioactive  iodine  (radioiodine), 
+and  thyroidectomy  —  that  are  in  wide  use  now.”    In  a 
+subsection entitled “Other drugs used in the treatment of 
+thyrotoxicosis  caused  by  Graves’  disease,”  Cooper 
+
+stated,  “The  effects  of  iodide  on  thyroid  function  are 
+complex and are discussed in detail in the section on the 
+effects  of  excess  iodide  in  Chapter  13.”    The  reader  is 
+preconditioned  to  be  in  an  iodophobic  mode  when  he 
+goes  to  Chapter  13,  an  ominous  number,  with  “excess 
+iodide” in the title and where inorganic iodine/iodide is 
+blamed  for  the  severe  side  effects  of  organic  iodine-
+containing  drugs,  such  as  amiodarone,  and  is  called  “a 
+pathogen.” 
+
+the  unsuspecting 
+
+Obviously, 
+thyroidologist  relying 
+solely  on  this  textbook  for  information  will  avoid  inor-
+ganic  iodine/iodide  like  leprosy.    However,  if  he  is  in-
+quisitive and searches the literature carefully, he may read 
+the publication by Phillipou, et al,4 who studied the effect 
+of  inorganic  iodide  on  thyroid  functions  and  compared 
+his  results  with  the  effects  of  amiodarone,  “We  can, 
+therefore,  conclude  that  the  effect  of  amiodarone,  ben-
+(Continued on next page) 
+
+THE ORIGINAL INTERNIST     March   2004 
+
+27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ziodarone, Na iopanate, and other iodine containing sub-
+stances with similar effects is due to the entire molecule, 
+and  not  to  the  iodine  liberated.    It  should  be  noted  that 
+the cytotoxic effect of amiodarone in all cultures is also 
+due to the entire molecule, and not to the iodine present 
+in it.”  It is most amazing that no one so far has proposed 
+the  use  of  inorganic,  non-radioactive  iodine/iodide  at  9 
+mg/day in patients with cardiac arrhythmia.  Indeed, we 
+have a zombified medical profession.  Case in point, pa-
+tients are told to protect their thyroid gland from radio-
+active  fallout  by  ingesting  inorganic,  non-radioactive 
+iodide.    However,  the  same  patients,  if  diagnosed  with 
+Graves’  disease,  are  told  to  stop  taking  inorganic,  non-
+radioactive  iodine/iodide  in  order  to  allow  the  largest 
+concentration of radioactive iodide to penetrate their thy-
+roid  gland,  a  destructive  dose  that  is!    Does  that  make 
+any sense? 
+
+V.  Hypo- and Hyperthyroidism Caused by Organic 
+and Inorganic Forms of Stable Iodine/Iodide 
+A  critical  evaluation  of  some  review  articles  on iodine-
+induced  hypothyroidism  and  iodine-induced  hyperthy-
+roidism reveals that in most cases, organic forms of io-
+dine  are  involved.    However,  the  titles  of  those  articles 
+suggest that the review is about inorganic iodine/iodide.  
+For  example, in  the  latest published  review  on  “iodine-
+induced hypothyroidism” by Markou, et al77 in 2001, the 
+list  of  iodine-containing  products  causing  hypothyroid-
+ism consisted predominantly of organic forms of iodine, 
+such as amiodarone and radiology contrast agents.  The 
+title of that review should have been “Drug-induced hy-
+pothyroidism.”  In 1984, Leger, et al78 reported 85 cases 
+of  “iodine-induced  thyrotoxicosis.”    Amiodarone  alone 
+accounted  for  50%  of  the  cases.    All  the  patients  re-
+ceived  organic  forms  of  iodine-containing  drugs.    The 
+title of that review should have been “Drug-induced hy-
+perthyroidism.” 
+
+In  1983,  Fradkin  and  Wolff79  published  a  review  on 
+“iodide-induced  thyrotoxicosis.”    Since  organic  forms 
+contain iodine, not iodide, using “iodide” in the title im-
+plies we are dealing with the inorganic forms.  However, 
+in  the  first  paragraph  of  that  review,  we  read,  “Three 
+recent events have revived interest in this side reaction to 
+iodide:    alarming  reports  from  Germany  regarding  the 
+dangers to the thyroid gland of radiographic contrast me-
+dia;  the  widespread  use  of  the  iodine-containing  drug, 
+amiodarone;  and  the  proposed  use  of  potassium  iodide 
+(KI)  (100-200  mg/day)  as  the  most  effective  protective 
+measure  against  released  radioactive  iodine  isotopes af-
+ter  loss  of  coolant  accidents  in  nuclear  reactors.”    This 
+review was written before the drug amiodarone was ap-
+proved for use in the US, after causing havoc in Europe.  
+Amiodarone  contains  organic  iodine.    The  use  of  inor-
+
+ganic iodine/iodide at 9 mg/day was never tested in simi-
+lar  patients  as  an  alternative  to  amiodarone,  a  drug  re-
+leasing about 9 mg iodine per day.  It would not be sur-
+prising  if  9  mg  inorganic  iodine/iodide/day  resulted  in 
+the  beneficial  effects  without  the  severe  side  effects.  
+Radiographic  contrast  media  contains  organic  iodine.  
+Last,  the  authors  mentioned  potassium  iodide  (KI)  at  a 
+daily  dose  of  100-200  mg,  which  is  the  only  inorganic 
+form  of  iodide  included  in  the  list  of  agents  causing 
+“iodide-induced  thyrotoxicosis.”    However,  in  the same 
+review, the authors stated, “Although there are scattered 
+case  reports  of  IIT  (iodide-induced  thyrotoxicosis)  after 
+the  use  of  KI,  these  must  be  considered  in  the  light  of 
+over  108 tablets  of  KI  prescribed annually  in this  coun-
+try.    Reports  of  experience  with  KI  (1.6-6.4  g/day)  in 
+large series of pulmonary patients revealed no hyperthy-
+roidism in 2,404 and 502 patients.”  Nevertheless, when 
+iodine  is  incorporated  into  drugs,  inorganic  iodide  is 
+blamed for the side effects.  “Hyperthyroidism occurring 
+after administration of iodine-containing drugs has been 
+ascribed  to  iodide.”79    The  thyrotoxicosis  induced  by 
+iodine-containing  drugs  is  blamed  on  inorganic  iodide 
+even  though  the  use  of  inorganic  iodide  alone  was  not 
+associated with thyrotoxicosis in the two studies referred 
+to.  Does that make any sense?  Iodophobia, induced by 
+whatever  motivation,  causes  an  altered  state  of  con-
+sciousness, which makes doublespeak and contradictory 
+statements acceptable. 
+
+There  is  a  great  need  to  educate  physicians  about  the 
+great  difference  between  organic  iodine  and  inorganic 
+iodine/iodide.    One  good  example  to  demonstrate  this 
+difference is the thyroid hormones T4 and T3.  They are 
+organic  iodine-containing  substances  that  occur  natu-
+rally.  Their effects are well described and distinctly dif-
+ferent  from  the  effects  of  inorganic  iodine/iodide.    No 
+physician  has  ever  attributed  the  effects  of  thyroid  hor-
+mones to inorganic iodine/iodide.  So, why is it so hard 
+for them to extrapolate this observation to organic iodine 
+containing drugs?  Here again, the answer may be in two 
+symptoms  of  medical  iodophobia:    an  altered  state  of 
+consciousness and split personality, allowing a complete 
+dissociation  in  their  thinking  process  between  the  or-
+ganic  iodine-containing  thyroid  hormones  and  the  or-
+ganic iodine containing drugs. 
+
+VI. Iodization of Salt and Chronic Autoimmune 
+Thyroiditis:  A Proposed Pathophysiology 
+In  several  communities  worldwide,  an  increased  inci-
+dence  of  chronic  autoimmune  thyroiditis  was  reported 
+following implementation of iodization of sodium chlo-
+ride.80    In  areas  of  the  US  where  this  relationship  has 
+been studied, mainly in the Great Lakes Region, a simi-
+(Continued on next page) 
+
+28 
+
+THE ORIGINAL INTERNIST     March   2004 
+
+ 
+ 
+ 
+ 
+lar  trend  was  reported.    In  1966  and  1968,  Weaver,  et 
+al81,82 from Ann Arbor, Michigan reported, “The salient 
+histopathological feature of the thyroid glands, removed 
+at operation in a five-year period before iodine prophy-
+laxis  (1915-1920),  was  the  paucity  of  lymphocytes  in 
+their parenchyma, and, more importantly, the absence of 
+thyroiditis  of  any  form…  It  should  be  emphasized  that 
+the  thyroid  glands  prior  to  the  use  of  iodized  salt  were 
+devoid of lymphocytes, and nodular colloid goiters with 
+dense lymphocytic infiltrates were found after the intro-
+duction of iodized salt in 1924.”  It is of interest to note 
+that  prior  to  iodization  of  salt,  autoimmune  thyroiditis 
+was almost non-existent in the US, although Lugol solu-
+tion  and  potassium  iodide  were  used  extensively  in 
+medical  practice  in  amounts  two  orders  of  magnitude 
+greater than the average daily amount ingested from io-
+dized  salt.    This  suggests  that  inadequate  iodide  intake 
+aggravated  by  goitrogens,  not  excess  iodide,  was  the 
+cause  of  this  condition.    To  be  discussed  later,  autoim-
+mune  thyroiditis cannot  be  induced  by  inorganic  iodide 
+in  laboratory  animals  unless  combined  with  goitrogens, 
+therefore inducing iodine deficiency. 
+
+Furszyfer, et al83 from the Mayo Clinic studied the aver-
+age  annual  incidence  of  Hashimoto’s  thyroiditis  among 
+women of Olmsted County, Minnesota during three con-
+secutive periods covering 33 years of observation, from 
+1935 to 1967.  They found the incidence to be higher in 
+women  40  years  and  older  versus  women  39  years  and 
+less.    However,  in  both  groups  there  was  a  progressive 
+increase in the incidence of Hashimoto’s thyroiditis over 
+time.    During  the  three  periods  evaluated,  that  is  1935-
+1944,  1945-1954,  and  1955-1967,  the  average  annual 
+incidence  of  Hashimoto’s  per  100,000  population  was 
+2.1,  17.9,  and  54.1  for  women  39  years  and  less.    For 
+women 40 years and older, the average annual incidence 
+over  the  same  three  periods  was  16.4,  27.4,  and  94.1.  
+The authors commented, “From this study it appears that 
+there has been an increase in the incidence rate of Hashi-
+moto’s thyroiditis in Olmsted County between 1935 and 
+1967…  One  of  the  more  attractive  hypotheses  with  re-
+spect to the change in the incidence of Hashimoto’s thy-
+roiditis  (and  perhaps  other  thyroid  disorders)  is  that  in-
+creased ingestion of iodide (For the reader’s information, 
+they are talking about iodization of salt) triggers the dis-
+ease, but obviously, this is not the only factor to be con-
+sidered in its pathogenesis.” 
+
+Doctor  Hashimoto’s  name  became  a  household  word 
+thanks  to  four  thyroid  glands.    In  1912,  pathologist  H. 
+Hashimoto  published  in  a  German  medical  journal  and 
+in  German,84  his  histological  findings  in  four  thyroid 
+glands  removed  at  surgery:    numerous  lymphoid  folli-
+cles,  extensive  connective  tissue  formation,  diffuse 
+
+round cell infiltration, and significant changes of the aci-
+nar epithelium.  He called this pathology of the thyroid 
+“struma lymphomatosa.”  At the time of this publication, 
+autoimmune  thyroiditis  was  not  observed  in  the  US 
+population until the iodization of salt.  Hashimoto’s thy-
+roiditis  is  now  classified  as  goitrous  autoimmune  thy-
+roiditis  because  the  gland  is  enlarged,  in  distinction  to 
+atrophic  autoimmune  thyroiditis  where  atrophy  and  fi-
+brosis  are  predominant.    Both  conditions  are  chronic, 
+progressing over time to hypothyroidism in a significant 
+percentage  of  patients.71,81    It  is  important  to  point  out 
+that the Mayo Clinic study started 10-15 years after im-
+plementation of iodization of salt in the area.  Therefore, 
+even  during  the  first  decade  of  observation,  the  preva-
+lence of autoimmune thyroiditis was already significant.  
+Again, it must be emphasized that prior to the implemen-
+tation  of  iodized  salt  as  observed  by  Weaver,  et  al,81,82 
+this  pathology  of  the  thyroid  gland  was  not  reported  in 
+the  US,  even  though  the  Lugol  solution  and  potassium 
+iodide were used extensively in medical practice at that 
+time  in  daily  amount  two  orders  of  magnitude  greater 
+than the average intake of iodide from table salt. 
+
+The  mechanism  by  which  iodide  induces  autoimmune 
+thyroiditis  is  poorly  understood.    Experimentally  in-
+duced  autoimmune  thyroiditis  in  laboratory  animals  by 
+acutely  administered  iodide  required  the  use  of  antithy-
+roid  drugs,  essentially  goitrogens,  to  produce  these  ef-
+fects.85-88  These goitrogens induced thyroid hyperplasia 
+and  iodide  deficiency.    Antioxidants  either  reduced  or 
+prevented the acute iodide-induced thyroiditis in chicks89 
+and  mice.90   Bagchi,  et  al89  and  Many,  et  al90 proposed 
+that  the  thyroid  injury  induced  by  the  combined  use  of 
+iodide  and  goitrogens  occurs  through  the  generation  of 
+reactive oxygen species.   
+
+We would like to propose a mechanism for the oxidative 
+damage  caused  by  low  levels  of  iodide  combined  with 
+antithyroid  drugs:    inadequate  iodide  supply  to  the  thy-
+roid  gland,  aggravated  by  goitrogens,  activates  the  thy-
+roid  peroxydase  (TPO)  system  through  elevated  TSH, 
+low  levels  of  iodinated  lipids,  and  high  cytosolic  free 
+calcium,  resulting  in  excess  production  of  H2O2.    The 
+excess H2O2 production is evidenced by the fact that anti-
+oxidants  used  in  Bagchi’s  experiments  did  not  interfere 
+with the oxidation and organification of iodide and there-
+fore  neutralized  only  the  excess  oxidant.89    This  H2O2 
+production  is  above  normal  due  to  a  deficient  feedback 
+system caused by high cytosolic calcium resulting from 
+magnesium deficiency and low levels of iodinated lipids 
+which  requires  for  their  synthesis  iodide  levels  two  or-
+ders  of  magnitude  greater  than  the  RDA  for  iodine.  
+Once the low iodide supply is depleted, TPO in the pres-
+(Continued on next page) 
+
+THE ORIGINAL INTERNIST     March   2004 
+
+29 
+
+ 
+ 
+ 
+ 
+Iodination of Tg by TPO Using H2O2 and Iodide 
+
+1.
+
+Iodination of
+thyrosine residues
+
+2. Oxydative coupling 
+of 2 iodothyrosine 
+residues
+
+TPO
+
+Ca++
+
+NADPH-oxydase
+system
+
+The  NADPH-oxydase  system  which  generates  H2O2  is  modulated  by  free  cytolic 
+calcium and iodinated lipids. 
+
+ence of H2O2 and organic substrate reverts to its peroxy-
+dase function which is the primary function of haloper-
+oxydases, causing oxidative damage to molecules near-
+est  to  the  site  of  action:    TPO  and  the  substrate  thy-
+roglobulin (Tg).  Oxydized TPO and Tg elicit an auto-
+immune  reaction  with  production  of  antibodies  against 
+these  altered  proteins  with  subsequent  damage  to  the 
+apical  membrane  of  the  thyroid  cells,  resulting  in  the 
+lymphocytic  infiltration  and  in  the  clinical  manifesta-
+tions of Hashimoto’s thyroiditis.  In laboratory animals 
+prone to autoimmune thyroiditis, the genetic defect may 
+be  in  the  production  of  H2O2  in  excess  of  what  is 
+needed.  
+
++
+
+-
+
+Figure 1 
+
+Iodinated
+lipids
+
+Tg + iodide + H2O2
+
+The  iodination  of  thyrosine  residues  by  TPO  requires 
+the  presence  of  Tg, 
+H2O2, and iodide.  The 
+supply  of  H2O2 comes 
+from 
+the  NADPH 
+system.91  
+oxydase 
+This  system  is  inhib-
+ited  by  certain  iodi-
+nated  lipids92-95  and  is 
+enhanced  by  cytosolic 
+free  calcium  Ca++.89 
+and vide infra    The  equa-
+tion  for  organification 
+of  iodide  by  TPO  is 
+displayed  in  Figure  1, 
+together with the feed-
+back  system  control-
+ling  the  production  of 
+H2O2.  The logical deduction from this equation is that 
+increased cytosolic free calcium will cause an excess of 
+H2O2.  Increased levels of iodinated lipids, on the other 
+hand,  would  limit the  production of  H2O2.   How  much 
+iodide is required for the production of iodinated lipids?  
+In  1976,  Rabinovitch,  et  al96  reported  their  results  re-
+garding the effect of three levels of iodide supplementa-
+tion on the production of iodinated lipids in the thyroid 
+glands of dogs:  low iodide diet, normal iodide diet, and 
+high iodine diet.  The dogs were kept on those diets for 
+six weeks.  Iodinated lipids in the plasma membrane and 
+in  the  cell  total  lipids  were  observed  only  in  the  dogs 
+receiving the high iodide diet.  What about human sub-
+jects?    In  1994,  Dugrillon,  et  al97  reported  for  the  first 
+the  presence  of  5-hydroxy-6-iodo-  8,11,14-
+time 
+eicosatrienoic delta lactone (delta iodolactone) in a hu-
+man  thyroid,  following  the  ingestion  of  15  mg  io-
+dide/day  for  10  days  in  the  host.    It  was  the  first  time 
+this  biologically  active  iodolipid  was isolated from  hu-
+man thyroid glands.  The amount of iodide the host re-
+ceived was 100 times the RDA, but it is the amount of 
+iodine/iodide  we  recommended  for  orthoiodosupple-
+
+mentation.30    Dugrillon,  et  al97  stated,  “These  results 
+demonstrate  for  the  first  time  that  delta-iodo-lactone  is 
+present in iodide-treated human thyroid.”   
+
+Magnesium  deficiency,  which  is  prevalent  in  the  US 
+population,  results  in  increased  levels  of  cytosolic  free 
+calcium.98    Intracellular  free  calcium  levels  above  the 
+normal range are cytotoxic causing calcification of mi-
+tochondria and cell death.  The cell membrane possesses 
+an ATP-dependant calcium pump that keeps intracellu-
+lar levels  of  free ionized  calcium  within  narrow limits.  
+This calcium pump is magnesium-dependent for normal 
+function.    Magnesium  deficiency  results  in  a  defective 
+calcium pump and intracellular accumulation of ionized 
+calcium.    Inadequate  iodine/iodide  intake  below  or-
+
+thoiodosupplementation  results  in  decreased  levels  of 
+delta-iodo-lactone. 
+  Combined  magnesium  and  io-
+dine/iodide deficiency based on the concept of orthoio-
+dosupplementation are the basic factors involved in the 
+oxidative  damage  caused  by  excess  H2O2  and  reactive 
+oxygen  species.    If  this  proposed  mechanism  is  valid, 
+orthoiodosupplementation,30 combined with magnesium 
+intake  between  800-1,200  mg/day,  a  daily  amount  this 
+author recommended 21 years ago98 for magnesium suf-
+ficiency,  should  reverse  autoimmune  thyroiditis.    This 
+nutritional approach is also effective in Graves’ autoim-
+mune thyroiditis as previously discussed.   
+
+VII.  Implementation of Orthoiodosupplementation 
+as Part of a Total Nutritional Program 
+The thyroid gland, like the rest of the body needs ade-
+quate  amounts  of  all  the  macro-  and  micronutrients  to 
+function  optimally.    Ideally,  besides  orthoiodosupple-
+mentation and magnesium in adequate amounts, a com-
+plete  nutritional  program  would  be  most  appropriate 
+since other essential nutrients are important for thyroid 
+(Continued on next page) 
+
+30 
+
+THE ORIGINAL INTERNIST     March   2004 
+
+ 
+ 
+ 
+ 
+function  and  are  involved  in  overall  well-being.    Since 
+thyroid disorders occur predominantly in women,30 it is 
+appropriate to mention the beneficial effects of a magne-
+sium-emphasized  nutritional  program  on  the  well-being 
+of  women  suffering  from  premenstrual  tension  syn-
+drome,  post-menopausal  osteoporosis,  and  fibromyal-
+gia.99-103    This  nutritional  program,  combined  with  or-
+thoiodosupplementation,  is  the  safest  of  the  options 
+available to prevent and treat thyroid diseases in women.   
+
+Radioiodide in the treatment of Graves’ disease induces 
+hypothyroidism in 90% of patients within the first year, 
+with a continuing rate of 2-3% per year thereafter.76  The 
+use  of  radioiodide  in  the  treatment  of  Graves’  disease 
+has  been  associated  with  leukemia  and  other  forms  of 
+cancer.104   Fever and arthralgia are  reported  in  1-5%  of 
+patients on goitrogens (antithyroid drugs).76  Patients on 
+goitrogens  may  be  more  prone  to  infections  due  to  in-
+adequate supply of iodide to leukocytes during phagocy-
+tosis, discussed in the following paragraph.  Goitrogens 
+can  induce  severe  hepatotoxicity,  requiring  liver  trans-
+plantation and sometimes resulting in death.105 
+
+A  totally  neglected  area  is  the  effect  of  goitrogens  on 
+other  haloperoxydases,  such  as  myeloperoxydases,  in-
+volved  in  the  defense  mechanism  against  infections.  
+Myeloperoxydase is present in high concentrations in the 
+granules  of  polymorphonuclear  leukocytes  and  mono-
+cytes.106    It  catalyses  the  oxidation  of  iodide,  bromide, 
+and  chloride  in  the  presence  of  H2O2  to  yield  products 
+that oxidize and halogenate microbial components.107,108  
+Chloride, due to its high concentration in leukocytes109 is 
+believed  to  be  the  main  halogen  used  by  myeloperoxy-
+dase.    However,  leukocytes  have  the  ability  to  concen-
+trate  iodide  300-fold  during  phagocytosis110  and  even 
+deiodinate  thyroid  hormones  to  generate  inorganic  io-
+dide  when  iodide  supply  is  inadequate.111    Incubated  in 
+the  presence  of  10  µg  iodide/100  ml  of  incubation  me-
+dia,  phagocytosing  leukocytes  concentrated  inorganic 
+iodide 300-fold to achieve intracellular concentration of 
+0.003% inorganic iodide.  Leukocyte proteins contained 
+even  higher  concentrations  of  organic  iodine,  0.04%, 
+that  is  a  4,000-fold  higher  concentration  of  iodine  than 
+present  in  the  incubation  media.    Thyroxine  synthesis 
+was  observed  during  phagocytosis  of  leukocytes,  when 
+the iodide supply was adequate (10 µg/100 ml).110  How-
+ever, in the absence of non-radioactive iodide, phagocy-
+tosing human leukocytes metabolized thyroid hormones 
+added to  the  incubation  media in  order to  generate free 
+inorganic iodide.111  Klebanoff and Green111 commented 
+that  iodide,  on  a  molar  basis,  was  much  more  effective 
+than  chloride  in  the  antimicrobial  activity  of  myeloper-
+oxydase of leukocytes and stated, “When the iodide sup-
+ply  is  diminished,  the  concentration  of  chloride…  may 
+
+be  adequate.”    These  authors  observed  a  significant  in-
+terference  with  the  antimicrobial  activity  of  myeloper-
+oxydase of leukocytes by antithyroid drugs (goitrogens). 
+
+Based  on  our  previous  calculations,30  the  concentration 
+of iodide used by Stole110 (i.e., 10 ug/100ml, roughly 10-
+6  Molar)  is  equivalent  to  the  expected  serum  levels  of 
+inorganic  iodide  in  patients  on  orthoiodosupplementa-
+tion and also in mainland Japanese who consume an av-
+erage daily amount of 13.8 mg of elemental iodine,30 the 
+only  population  in  the  world  on  orthoiodosupplementa-
+tion and one of the healthiest based on cancer statistics.30  
+From  data  available  in  published  studies  regarding  the 
+effect  of  increasing  amounts  of  iodide  on  serum  inor-
+ganic  iodide  levels  at  steady  state  conditions,112,113  we 
+have  calculated  the  expected  serum  levels  of  inorganic 
+iodide  at  steady  state  conditions,  when  a  patient  is  on 
+orthoiodosupplementation (Figure 2). 
+
+It is of interest to note that a daily ingestion of 12.5 mg 
+iodine/iodide resulted in serum inorganic iodide level of 
+2 x 10-6 M, which is the serum level reported by Wolff-
+Chaikoff,27 to cause inhibition of organic binding of io-
+dine and therefore inhibition of synthesis of thyroid hor-
+mones.    Since  this  amount  of  Lugol  solution  was  used 
+safely by three generations of physicians for iodine sup-
+plementation,  and  since  we  have  observed  that  patients 
+reported optimal mental and physical performances on 3-
+4 times that amount, we would like to propose a redefi-
+nition of the Wolff-Chaikoff Effect as a beneficial effect 
+on mental and physical performances. 
+
+The  breakdown  of  thyroid  hormones  by  phagocytosing 
+leukocytes  in  an  iodine-deficient  patient  could  explain 
+the high incidence of hypothyroxinemia in patients with 
+chronic  infections,  such  as  chronic  active  hepatitis.114  
+Accelerated  thyroid  hormone  degradation  during  bacte-
+rial  infection  has  been  reported  in  man115  and  rhesus 
+monkeys.116,117  Such findings would not be expected in 
+mainland  Japanese  and  in  patients  on  orthoiodosupple-
+mentation because the calculated serum levels of iodide 
+in those subjects would approximate the concentration of 
+iodide in  Stole’s incubation  media.26,110   Wartofsky  and 
+Burman114 in their review article on the “euthyroid sick 
+syndrome”  wrote,  “This  review  will  address  the  effects 
+of  nonthyroidal  illness  on  thyroid  function  and  attempt 
+to  establish  guidelines  for  the  determination  as  to 
+whether such patients are truly euthyroid or not.  Indeed, 
+the ultimate question for the clinician often is whether to 
+treat  the  individual  with  severe  nonthyroidal  illness  for 
+low serum thyroxine (T4).” 
+
+Although  the  recommended  treatment  in  such  cases 
+(Continued on next page) 
+
+THE ORIGINAL INTERNIST     March   2004 
+
+31 
+
+ 
+ 
+ 
+ 
+ 
+ 
+would  obviously  be  the  administration  of  thyroid  hor-
+mones,  it  would  be  more  physiological  to  implement 
+orthoiodosupplementation in these patients since the thy-
+roid  hormones  administered  to  the  iodine-deficient  pa-
+tient will be deiodinated to generate free iodide.  So why 
+not give them inorganic, non-radioactive iodine/iodide in 
+the  form  of  orthoiodosupplementation?    Thyroid  hor-
+mones  are  very  expensive  forms  of  the  element  iodine, 
+which is what these patients really need to start with.   
+
+The  concept  of  orthoiodosupplementation30  is  based  on 
+the  self-evident  fact  that  the  whole  body,  not  just  the 
+thyroid gland, needs iodine.  The whole body needs this 
+essential  trace  element,  which  plays  different  roles  in 
+different  organs  and  tissues.    In  order  to  assess  whole 
+body sufficiency for iodine/iodide, a simple loading test 
+was  developed,118  based  on  the  concept  that  the  more 
+deficient a patient is in this nutrient, the greater the per-
+centage  of  ingested  iodine/iodide  that  will  be  retained, 
+the smaller the percentage excreted in the urine. 
+
+During the late 1800s and early 1900s, orthoiodosupple-
+mentation was administered with Lugol solution 0.1-0.3 
+ml containing 12.5-37.5 mg of iodine/iodide.46  Because 
+administration  of  Lugol  solution  is  not  very  accurate, 
+may  stain  clothing,  has  an  unpleasant  taste,  and  causes 
+gastric irritation, we decided to use a precisely quantified 
+tablet  form  (Iodoral®)  containing  5  mg  iodine  and  7.5 
+mg  iodide  as  the  potassium  salt.119    To  prevent  gastric 
+irritation,  the  iodine/iodide  preparation  was  absorbed 
+
+Figure 2 
+
+into  a  colloidal  silica  excipient.    To  eliminate  the  un-
+pleasant  taste  of  iodine,  the  tablets  were  coated  with  a 
+thin film of pharmaceutical glaze.  Ten clinically euthy-
+roid Caucasian women were evaluated before and three 
+months  after  ingesting  a  tablet  daily.    The  evaluation 
+included  thyroid  function  tests  and  assessments  of  thy-
+roid volume by ultrasonometry.  The results suggest that 
+this  form  and  amount  administered  daily  for  three 
+months to euthyroid women had no detrimental effect on 
+thyroid volume and functions. 
+
+When tested in the loading test, one tablet was not suffi-
+cient  to  distinguish  between  different  degrees  of  iodine 
+deficiency because the interindividual variation was very 
+small.    We  were  interested  in  a  loading  test  that  would 
+result in 40-50% of the ingested dose excreted in the 24-
+hour urine and also with a wide range of values in differ-
+ent subjects.  For six subjects tested, the following per-
+cent  dose  excreted  were  obtained,  expressed  as  mean 
+±SD (range): one tablet = 22±1.2 (20-26); two tablets = 
+23±2.8  (22-25);  three  tablets  =  25±12.3  (14-37).    An-
+other group of six normal subjects on a similar Western 
+diet  was  tested  with  four  tablets  and  the  values  were  = 
+39±17.2 (14.2–66.0).  (See Figure 3) 
+
+We  chose  four  tablets  for  the  loading  test.    Sufficiency 
+of the whole human body for iodine/iodide was arbitrar-
+ily  defined  as  90%  or  more  of  the  ingested  amount  ex-
+creted in the 24-hour urine collection, using 50 mg of the 
+(Continued on next page) 
+
+Effect of Iodine/Iodide on Serum Inorganic Iodide Level at Equilibrium 
+
+Population 
+consuming this 
+range of intake
+
+USA Range
+
+“Endocrinologist’s
+
+excess”
+
+Orthoiodo-
+supplementation
+
+Loading test
+
+Range of daily 
+intake as 
+expectorant
+
+Average daily intake
+(mg iodine/iodide per day)
+
+0.01
+
+0.5
+
+Expected serum level of 
+inorganic iodide at 
+equilibrium
+
+10-8 M   (0.0013 PPM)
+
+10-7 M   (0.013 PPM)
+
+12.5
+
+W-C Effect
+
+2 x 10-6 M   (0.25 PPM)
+
+37.5
+
+50
+
+1000.0
+6000.0
+
+6 x 10-6 M   (0.75 PPM)
+
+8 x 10-6 M   (1 PPM)
+
+2 x 10-4 M   (20 PPM)
+1.2 x 10-3 M   (120 PPM)
+
+ 
+ 
+ 
+ 
+iodine/iodide  preparation  (four  tablets).    Orthoiodosup-
+plementation  with  one  tablet  a  day  required  up  to  18 
+months  to  achieve  sufficiency  in  some  patients,  and  in 
+others, sufficiency was not achieved even after two years 
+of  supplementation  with  one  tablet/day.    With  3-4  tab-
+lets/day, however, sufficiency was achieved within three 
+months in most cases.  These data support the keen ob-
+servations  of clinicians over the  past  century,  regarding 
+the  amount  of  iodine/iodide  needed  for  iodine/iodide 
+supplementation,  12.5-37.5  mg  elemental  iodine  from 
+Lugol solution.   
+
+Orthoiodosupplementation  increased  urinary  excretion 
+of lead, cadmium, arsenic, aluminum, and mercury.  Uri-
+nary bromide and fluoride levels increased markedly and 
+proportionally  to  the  amount  of  iodine/iodide  ingested.  
+At  three tablets a  day,  urinary  fluoride  and  bromide  in-
+creased up to 20-fold, although the preloading test levels 
+were not  elevated.120    Obesity  seems  to  increase  the re-
+quirement  for  iodine/iodide,  and this  may  be  due to se-
+questration of iodine by unsaturated fats.  So many fac-
+tors affect the requirement of iodine/iodide that the best 
+way to assess whole body sufficiency for this element is 
+with the loading test.   
+
+Orthoiodosupplementation  decreased  the  need  for  thy-
+roid  hormones  in  patients on  these  hormones.    In  some 
+cases, this occurred during the first months of orthoiodo-
+supplementation.30    However, in a  patient  with  atrophic 
+autoimmune  thyroiditis,  11  months  of  orthoiodosupple-
+
+Figure 3 
+
+mentation was required before decreasing the amount of 
+thyroid  hormones.    A  54-year-old  female  patient  with 
+atrophic autoimmune thyroiditis (thyroid volume by ultra-
+sound = 2.8 ml) and elevated TPO Ab titers, on 150 µg 
+of T4 was placed on orthoiodosupplementation with 3-4 
+tablets/day.    The  presupplementation  loading  test  re-
+vealed 23% iodide excreted.  After three months on or-
+thoiodosupplementation,  her  loading  test  was  92%  of 
+iodide  excreted.    Her  serum  T4  levels  progressively  in-
+creased to reach above normal level (14.6 µg %; normal 
+range 4.5–12) after 11 months on orthoiodosupplementa-
+tion.  T4 supplementation was decreased from 150 µg to 
+100  µg/day.    She  stated  that  since  on  orthoiodosupple-
+mentation, she feels more energetic with a clearer mind 
+and with an improved sense of well-being. 
+
+If  indeed,  iodine  deficiency,  that  is iodine/iodide  intake 
+below  orthoiodosupplementation  levels,  is  involved  in 
+autoimmune thyroiditis, then diseases that are associated 
+with  autoimmune  thyroiditis  may  also  be  caused  by  io-
+dine deficiency.  In 1996, Giani, et al121 reported a sig-
+nificant  association  of  breast  cancer  with  Hashimoto’s 
+thyroiditis.    When  100  consecutive  patients  with  breast 
+cancer  were  compared  with  100  match  controls,  Hashi-
+moto’s  thyroiditis  was  present  in  2%  of  the  control 
+group  compared  with  13.7%  in  the  group  with  breast 
+cancer.    Simple  goiter,  a  sign  of  iodine  deficiency,  was 
+present in 11% of controls compared to 27.4% of the pa-
+tients with breast cancer.  Diabetes may also be an iodine-
+(Continued on next page) 
+
+Mean Percent Excretion of Iodide in 24-hour Urine Collections with Increasing 
+Amount of Iodine/Iodide Ingested in Six Normal Subjects on a Western Diet 
+
+d
+e
+t
+e
+r
+c
+x
+e
+
+e
+s
+o
+d
+
+l
+a
+r
+o
+%
+n
+a
+e
+M
+
+n
+o
+i
+t
+c
+e
+l
+l
+
+o
+c
+
+e
+n
+i
+r
+u
+h
+4
+2
+n
+i
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+(14.2-66)
+
+MEAN 
+
+SD 
+
+(    ) = Range 
+
+(22-25)
+
+(20-26)
+
+(14-37)
+
+1
+
+2
+
+3
+
+4
+
+Quantity of Iodoral® tablets used in loading test
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+deficiency disease.  Lindberg,  et  al122 compared 52 dia-
+betic children (insulin-dependant) with 386 non-diabetic 
+school children.  TPO antibodies were present in 6% of 
+the  control  group, compared  with  38%  of diabetic  chil-
+dren.    It  seems  like  thyroidologists  and  nutritionists 
+missed  the  boat.    Such  a  simple,  safe, inexpensive  way 
+to heal so many medical conditions!  An overview of the 
+effects of orthoiodosupplementation on mental perform-
+ance,  resistance  to  infections,  protection  of  the  thyroid 
+gland against radioactive fallout, detoxification of heavy 
+metals  and  of  the  toxic  halides  bromide  and  fluoride, 
+suggests that orthoiodosupplementation may be the best 
+and safest preventive measure against bioterrorism.  The 
+corollary  then  would  be:    The  worst  form  of  domestic 
+bioterrorism  is  the  dissemination  of  iodophobic  misin-
+formation  in  order  to  discourage  the  use  of  orthoiodo-
+supplementation. 
+
+About the Author 
+
+Guy  E.  Abraham,  MD,  is  a  former  Professor  of  obstet-
+rics,  Gynecology  and  Endocrinology  at  the  UCLA 
+School  of  Medicine.    Some  35  years  ago,  he  pioneered 
+the development of assays to measure minute quantities 
+of  steroid  hormones  in  biological  fluids.    He  has  been 
+honored as follows:  General Diagnostic Award from the 
+Canadian  Association  of  Clinical  Chemists,  1974;  the 
+“Medaille  d’Honneur”  from  the  University  of  Liege, 
+Belgium,  1976;  the  Senior  Investigator  Award  of  Phar-
+macia, Sweden, 1980. 
+
+The applications of Dr. Abraham’s techniques to a vari-
+ety of female disorders have brought a notable improve-
+ment to the understanding and management of these dis-
+orders.  Twenty years ago, Dr. Abraham developed nu-
+tritional programs for women with premenstrual tension 
+syndrome and post menopausal osteoporosis.  They are 
+now  the  most  commonly  used  dietary  programs  by 
+American  obstetricians  and  gynecologists.    Dr.  Abra-
+ham’s  current  research  interests  include  the  develop-
+ment of assays for the measurement of iodide in biologi-
+cal fluids and the application of this assay to the imple-
+mentation of orthoiodosupplementation in medical prac-
+tice. 
+
+REFERENCES 
+
+1)  Bernecker  C.    “Intermittent  therapy  with  potassium  iodide  in 
+chronic obstructive disease of the airways.”  Acta Allerg, 1969; 
+24:216. 
+
+2)  National  Council  on  Radiation  Protection  and  Measurements: 
+Protection of the thyroid gland in the event of release of radioio-
+dine.  NCRP Report No. 55, NCRP, Washington, DC, 1977. 
+3)  Hercheimer H.  “Effect of iodide treatment on thyroid function.”  
+
+NEJM, 1977; 297:171. 
+
+4)  Phillippou  G,  Koutras  DA, Piperingos  G,  et  al.    “The  effect  of 
+
+iodide  on  serum  thyroid  hormone  levels  in  normal  persons,  in 
+hyperthyroid patients, and in hypothyroid patients on thyroxine 
+replacement.”  Clin Endocr, 1992; 36:573-578. 
+
+5)  Anonymous.    “Sur  un  nouvel  acide  forme  avec  la  substance 
+decouverte par M. Courtois.”  Annales de Chimie, 1813; 88:311-
+318. 
+
+6)  Bertrand  G.    “Sur  l’emploi  favorable  du  manganese  comme 
+
+engrais.”  Compt Rend Acad Sci, 1905; 141:1255-1257. 
+
+7)  Marine D and Kimball OP.  “Prevention of simple goiter in man.” 
+
+Arch Intern Med, 1920; 25:661. 
+
+8)  Marine D.  “Prevention and treatment of simple goiter.  Atl Med 
+
+J, 1923; 26:437-442. 
+
+9)  Delange FM.  “Iodine Deficiency.”  In:  Werner & Ingbar’s The 
+Thyroid.    Braverman  LE  and  Utiger  RD,  editors.    Lippincott 
+Williams & Wilkins, 2000; 295-329. 
+
+10)  Kendall EC.  “The isolation in crystalline form of the compound 
+which occurs in the thyroid: its chemical nature and physiologic 
+activity.”  JAMA, 1915; 64:2042-2043. 
+
+11)  Harington  CR.    “Isolation  of  thyroxine  from  the  thyroid  gland.”  
+
+Biochem Jour, 1926; 20:293-299. 
+
+12)  Gross  J  and  Pitt-Rivers  R.    “Physiological  activity  of  3:5:3’  –L-
+
+triiodothyronine.”  Lancet, 1952; 1:593. 
+
+13)  Roche J, Lissitsky S, and Michel R.  “Sur la presence de triiodo-
+thyronine dans la thyroglobuline.” Compt Rend Acad Sci, 1952; 
+234:1228, 1952. 
+
+14)  Kelly FC.  “Iodine in medicine and pharmacy since its discovery 
+
+– 1811-1961.”  Proc R Soc Med, 1961; 54:831-836. 
+
+15)  Braverman  LE.    “Iodine  and  the  thyroid:    33  years  of  study.”  
+
+Thyroid, 1994; 4:351-352. 
+
+16)  Hitchens AP.  “The emergency treatment of  water  for drinking 
+
+purposes.”  Milit Sug, 1922; 51:657-662. 
+
+17)  Freund  AP,  Thomas  WC,  Bird  ED,  et  al.    “Effect  of  iodinated 
+water  supplies  on  thyroid  function.”    J  Clin  Endocr,  1966; 
+26:619-624. 
+
+18)  Byrd  OE,  Malkin  HM,  Reed  GB,  et  al.    “Safety  of  iodine  as  a 
+disinfectant in swimming pools.”  Public Health Reports, 1963; 
+78:393-397. 
+
+19)  Thomas WC, Black AP, Freund G, et al.  “Iodine disinfection of 
+
+water.”  Arch Environ Health, 1969; 19:124-128. 
+
+20)  LeMar HJ, Georgitis WJ, and McDermott MT.  “Thyroid adap-
+tation  to  chronic  tetraglycine  hydroperiodide  water  purification 
+tablet use.”  J Clin Endocr & Metab, 1995; 80:220-223. 
+
+21)  McMonigal KA, Braverman LE, Dunn JT, et al.  “Thyroid func-
+tion  changes  related  to  use  of  iodinated  water  in  the  US  space 
+program.”    Aviation,  Space,  and  Environ  Med,  2000;  71:1120-
+1125. 
+
+22)  Pearce EN, Gerber AR, Gootnick DB, et al.  “Effects of chronic 
+iodine  excess  in  a  cohort  of  long-term  American  workers  in 
+West Africa.”  J Clin Endocr & Metab, 2002; 87:5499-5502. 
+23)  Pittman,  et  al.    “Thyroidal  radioiodine  uptake.    NEJM,  1969; 
+
+280:1431-1434. 
+
+24)  Wartofsky L and Ingbar SH.  “Estimation of the rate of release 
+of non-thyroxine iodine from the thyroid glands of normal sub-
+jects  and  patients  with  thyrotoxicosis.”    J  Clin  Endocr,  1971; 
+33:488-500. 
+
+25)  London  WT,  Vought  RL,  and  Brown  FA.    “Bread  –  a  dietary 
+source of large quantities of iodine.”  NEJM, 1965; 273:381. 
+26)  Stanley MM.  “The direct estimation of the rate of thyroid hor-
+mone formation in man. The effect of the iodide ion on thyroid 
+iodine utilization.”  J Clin Endocr, 1949; 9:941-954. 
+
+27)  Wolff  BJ  and  Chaikoff  IL.    “Plasma  inorganic  iodide  as  a  ho-
+meostatic  regulator  of  thyroid  function.”    J  Biol  Chem,  1948; 
+174:555-564. 
+
+28)  Wolff J.  “Iodide goiter and the pharmacologic effects of excess 
+
+(Continued on next page) 
+
+34 
+
+THE ORIGINAL INTERNIST     March   2004 
+
+ 
+ 
+ 
+ 
+ 
+iodide.”  Am J Med, 1969; 47:101-124. 
+
+JAMA, 1976; 238:1124. 
+
+29)  Wartofsky L, Ransil BJ, and Ingbar SH.  “Inhibition by iodine of 
+the release of thyroxine from the thyroid glands of patients with 
+thyrotoxicosis.”  J Clin Invest, 1970; 49:78-86. 
+
+30)  Abraha m  GE,  Flech as 
+
+JC.  
+“Orthoiodosupplementation:    Iodine  sufficiency  of  the  whole 
+human body.”  The Original Internist, 2002; 9:30-41. 
+
+and   Hakala 
+
+JD, 
+
+31)  Pennington  JA  and  Schoen  SA.    “Total  diet  study:    Estimated 
+dietary  intakes  of  nutritional  elements,  1982-1991.”    Internat  J 
+Vit Nutr, 1996; 66:350-362. 
+
+32)  Vobecky  M  and  Babicky  A.    “Effect  of  enhanced  bromide  in-
+take  on  the  concentration  ratio  I/Br  in  the  rat  thyroid  gland.”  
+Bio Trace Element Research, 1994; 43:509-513. 
+
+33)  Velicky  J,  Titlbach  M,  Duskova  J,  et  al.    “Potassium  bromide 
+and  the  thyroid  gland  of  the  rat:  morphology and immunohisto-
+chemistry,  RIA  and INNA analysis.”  Ann  Anat, 1997; 179:421-
+431. 
+
+34)  Van Leeuwen FXR, Hanemaauer R, and Loeber JG.  “The effect 
+of  sodium  bromide  on  thyroid  function.”    Arch  Toxicol  Suppl, 
+1988; 12:93-97. 
+
+35)  Abraham  GE.    “Iodine  supplementation  markedly  increases 
+urinary  excretion  of  fluoride  and  bromide.”    Townsend  Letter, 
+2003; 238:108-109. 
+
+36)  Shimomura  K,  Mullinix  MG,  Kakunaga  T,  et  al.    “Bromine 
+residue  at  hydrophilic  region  influences  biological  activity  of 
+aplysiatoxin,  a  tumor  promoter.”    Science,  1983;  222:1242-
+1244. 
+
+37)  Sangster  B,  Blom  JL,  Sekhuis  VM,  et  al.    “The  influence  of 
+sodium  bromide  in  man:    A  study  in  human  volunteers  with 
+special  emphasis  on  the  endocrine  and the  central  nervous  sys-
+tem.”   Fd Chem Toxic, 1983; 21:409-419. 
+
+38)  Torii  S,  Mitsumori  K,  Inubushi  S,  et  al.    “The  REM  sleep-
+inducing  action  of  a  naturally  occurring  organic  bromine  com-
+pound in the encephalc isole cat.”  Psychopharmacologia (Berl), 
+1973; 29:65-75. 
+
+39)  Dictionary of Scientific Biography.  Gillispie CC, editor.  Simon 
+
+& Schuster, NY, 1970. 
+
+40)  Coindet  JF.    “Decouverte  d’un  nouveau  remede  contre  le  goi-
+
+tre.”  Ann Clin Phys, 1820; 15:49.  
+
+41)  Coindet JF.  “Nouvelles recherches sur les effets de l’iode, et sur 
+les precautions a suivre dans le traitement de goitre par le nou-
+veau  remede.”    Bibl  Univ  Sci  Belle-Lettres  Arts,  1821;  16:140, 
+1821. 
+
+42)  Lugol JGA.  Memoire sur l’emploi de l’iode dans les maladies 
+
+scrophuleuses.  Paris, 1829.  (Published by himself). 
+
+43)  Boussingault JB.  “Recherches sur la cause qui produit le goitre 
+dans les Cordilieres de la Nouvelle-Grenade.”  Ann Chim Phys, 
+1831; 48:41. 
+
+44)  Hartsock CL.  “Iodized salt in the prevention of goiter.”  JAMA, 
+
+1926; 86:1334-1338. 
+
+45)  Thompson WO, Brailey  AG, Thompson PK, et al.  “The range 
+of effective iodine dosage in exophthalmic goiter III.”  Arch Int 
+Med, 1930; 45:430. 
+
+46)  Gennaro  AR.    Remington:    The  Science  and  Practice  of  Phar-
+
+macy.  19th edition.  Mack Publishing Co., 1995; 1267. 
+
+47)  Cohn BNE.  “Absorption of compound solution of iodine from 
+the gastro-intestinal tract.”  Arch Intern Med, 1932; 49:950-956. 
+
+48)  Diagnosis  and  Treatment  of  Diseases  of  the  Thyroid  Gland.  
+
+Rowland AF, editor.  WB Saunders Company, 1932; 98. 
+
+49)  Beebe  SP.    “Iodine  in  the  treatment  of  goiter.”    M  Rec,  1921; 
+
+99:996-999. 
+
+50)  Brent GA and Larsen PR.  “Treatment of hypothyroidism.”  In:  
+Werner & Ingbar’s The Thyroid.  Braverman LE and Utiger RD,  
+editors.  Lippincott Williams & Wilkins, 2000; 853-858. 
+
+51)  Ghandrakant  C,  Kapdim  MD,  and  Wolfe  JN.    “Breast  cancer  
+thyroid  supplements  for  hypothyroidism.”  
+
+relationship 
+
+to 
+
+52)  Braverman LE and Utiger RD.  “Introduction to thyrotoxicosis.”   
+
+In:   Werner  &  Ingbar’s  The  Thyroid.  Braverman LE and Utiger 
+RD, editors.  Lippincott Williams & Wilkins, 2000; 515-517. 
+53)  Von Basedow GA.  “Exophthalmos durch Hyperrophie des Zell-
+gewebca in der Augenhoehle.”  Wsrchr Ges Heilk, 1840; 6:197. 
+54)  Stokes W.  Diseases of the Heart and Aorta.   odges and Smith, 
+
+Dublin, 1854; 278. 
+
+55)  Trousseau  A.    Lectures  on  Clinical  Medicine.    Vol.  1,  Lecture 
+XIX,  “Exophthalmic  goitre  of  Graves’  disease.”    New  Syden-
+ham Society, London, 1868; 586. 
+
+56)  Trousseau  A.    Lectures  on  Clinical  Medicine.    Vol.  1,  Lecture 
+XIX,  “Exophthalmic  goitre  of  Graves’  disease.”    New  Syden-
+ham Society, London, 1868; 587. 
+
+57)  Thompson WO, Thompson PK, Brailey AG, et al.  “Prolonged 
+treatment  of  exophthalmic  goiter  by  iodine  alone.”    Arch  Int 
+Med, 1930; 45:481-502. 
+
+58)  Kocher  T.    “Discussion  on  the  surgical  treatment  of  Graves’ 
+
+disease.”  BMJ, 1910; ii:931-939. 
+
+59)  Kocher  T.    “Ueber  Jodbasedow.”    Arch  L  Klin  Chir,  1910; 
+
+92:1166. 
+
+60)  Cowell SJ and Mellanby E.  “The effect of iodine on hyperthy-
+
+roidism in man.”  Quart J Med, 1924-1925; 18:1-18. 
+
+61)  DeCourcy  JL.   “The use of  Lugol’s  solution in exophthalmic  goi-
+
+tre.”  Ann Surg, 1927; 86:871-876. 
+
+62)  Plummer HS and Boothby WM.  “The value of iodine in exoph-
+
+thalmic goiter.”  J Iowa Med Soc, 1924; 14:65. 
+
+63)  Plummer WA.  “Iodin in the treatment of goiter.”  Med Cl North 
+
+America, 1925; 8:1145-1151. 
+
+64)  Lahey FH.  “The use of iodine in goitre.”  Boston Med & Surg J, 
+
+1925; 193:487-490. 
+
+65)  Starr P,  Walcott  HP,  Segall  HN,  et  al.    “The  effect  of  iodin  in 
+
+exophthalmic goiter.”  Arch Int Med, 1924; 34:355-364. 
+66)  Fraser FR.  “Iodine in exophthalmic goitre.”  BMJ, 1925; 1:1. 
+67)  Astwood  EB.    “Treatment  of  hyperthyroidism  with  thiourea  and 
+
+thiouracil.”  JAMA, 1943; 122:78-81. 
+
+68)  Astwood  EB  and  VanderLaan  WP.    “Thiouracil  derivatives  of 
+greater  activity  for  the  treatment  of  hyperthyroidism.”    J  Clin 
+Endocr, 1945; 5:424-430. 
+
+69)  Godley  AF  and  Stanbury  JB.    “Preliminary  experience  in  the 
+treatment of hyperthyroidism with potassium perchlorate.  J Clin 
+Endocr & Metab, 1954; 14:70-78. 
+
+70)  Wolff J.  “Perchlorate and the thyroid gland.”  Pharmacological 
+
+Reviews, 1998; 50:89-105.    
+
+71)  Solomon  DH,  Beck  JC,  VanderLaan  WP,  and  Astwood  EB.  
+“Prognosis  of  hyperthyroidism  treated  by  antithyroid  drugs.”  
+JAMA, 1953; 152:201-205. 
+
+72)  Hershman  JM,  Givens  JR,  Cassidy  CE,  and  Astwood  EB.  
+“Long-term outcome of hyperthyroidism treated with antithyroid 
+drugs.”  J Clin Endocr & Metab, 1966; 26:803-807. 
+
+73)  Wartofsky  L.    “Low  remission  after  therapy  for  Graves’  dis-
+
+ease.”  JAMA, 1973; 226:1083-1088. 
+
+74)  Reynolds LR and Kotchen TA.  “Antithyroid drugs and radioac-
+
+tive iodine.”  Arch Int Med, 1979; 139:651-653. 
+
+75)  Solomon B, Glinoer D, Lagasse R, et al.  “Current trends in the 
+management  of  Graves’  disease.”    J  Clin  Endocr  &  Metab, 
+1990; 70:1518-1524. 
+
+76)  Cooper  DS.    “Treatment  of  Thyrotoxicosis.”    In:    Werner  & 
+Ingbar’s  The  Thyroid.    Braverman  LE  and  Utiger  RD,  editors.  
+Lippincott Williams & Wilkins, 2000; 691-715. 
+
+77)  Markou  K,  Georgopoulos  N,  Kyriazopoulou V,  et al.    “Iodine-
+
+induced hypothyroidism.”  Thyroid, 2001; 11:501-510. 
+
+78)  Leger AF, Massin JP, Laurent MF, et al,  “Iodine-induced thyro-
+toxicosis: analysis of eighty-five consecutive cases.”  Euro J of 
+
+(Continued on next page) 
+
+THE ORIGINAL INTERNIST     March   2004 
+
+35 
+
+Clin Invest, 1984; 14:449-455. 
+
+79)  Fradkin  JE  and  Wolff  J.    “Iodide-induced  thyrotoxicosis.”  
+
+Medicine, 1983; 62:1-20. 
+
+80)  Gaitan E, Nelson NC, and Poole GV.  “Endemic goiter and en-
+demic thyroid disorders.”  World J Surg, 1991; 15:205-215. 
+81)  Weaver DK, Batsakis JG, and Nishiyama RH.  “Relationship of 
+iodine to ‘lymphocytic goiters.’”  Arch Surg, 1968; 98:183-186. 
+82)  Weaver DK, Nishiyama RH, Burton WD, et al.  “Surgical thy-
+
+roid disease.”  Arch Surg, 1966; 92:796-801. 
+
+83)  Furszyfer  J,  Kurland  LT,  Woolner  LB,  et  al.    “Hashimoto’s 
+thyroiditis in Olmsted County, Minnesota, 1935 through 1967.”   
+Mayo Clin Proc, 1970; 45:586-596. 
+
+84)  Hashimoto H.  “Zur Kenntniss der lymphomatosen Veranderung 
+der  Schilddruse  (Struma  lymphomatosa).”    Arch  Klin  Chir, 
+1912; 97:219-248. 
+
+85)  Weetman AP.  “Chronic autoimmune thyroiditis.”  In:  Werner 
+& Ingbar’s The Thyroid.  Braverman LE and Utiger RD, editors.  
+Lippincott Williams & Wilkins, 2000; 721-732. 
+
+86)  Follis RH.  “Further observations on thyroiditis and colloid ac-
+cumulation in hyperplastic thyroid glands of hamsters receiving 
+excess iodine.”  Lab Invest, 1964; 13:1590-1599. 
+
+87)  Belshaw  BE  and  Becker  DV.    “Necrosis  of  follicular  cells  and 
+discharge  of  thyroidal  iodine  induced by  administering iodine to 
+iodine-deficient dogs.”  J Clin Endocr & Metab, 1973; 13:466-474. 
+88)  Mahmoud  I,  Colin  I,  Many  MC,  et  al.    “Direct  toxic  effect  of 
+iodine  in  excess  on  iodine-deficient  thyroid  gland:  epithelial 
+necrosis and inflammation associated with lipofuscin accumula-
+tion.”  Exp Mol Pathol, 1986; 44:259-271. 
+
+89)  Bagchi N, Brown TR, and Sundick RS.  “Thyroid cell injury is 
+an initial event in the induction of autoimmune thyroiditis by iodine 
+in obese strain chickens.”  Endocrinology, 1995; 136:5054-5060. 
+90)  Many MC, Papadopoulaous J, Martic C, et al.  “Iodine-induced 
+cell damage in mouse hyperplastic thyroid is associated to lipid 
+peroxidation.” In: Progress in Thyroid Research. Proceedings of 
+the 10th International Thyroid Conference.  Gordon A, Gross J, 
+and Hennenian G, editors.  Balkema, Rotterdam, 1991; 635-638. 
+91)  Ohayon R, Boeynaems JM, Braekman JC, et al.  “Inhibition of 
+thyroid  NADPH-oxidase  by  2-iodohexadecanal  in  a  cell-free 
+system.”  Molecular and Cellular Endocr, 1994; 99:133-141. 
+92)  Krawiec  L,  Chazenbalk  GD,  Puntarulo  SA,  et al.   “The  inhibi-
+tion  of  PB125I  formation  of  calf  thyroid  caused  by  14-iodo1-5-
+hydroxy-eicosatrienoic acid is due to decreased H2O2 availabil-
+ity.”  Horm Metabol Res, 1988; 20:86-90. 
+
+93)  Pisarev  MA,  Chazenbalk  GD,  Valsecchi  RM,  et  al.    “Thyroid 
+autoregulation.  Inhibition  of  goiter  growth  and  of  cyclic  AMP 
+formation in rat thyroid by iodinated derivatives of arachidonic 
+acid.”  J Endocr Invest, 1988; 11:669-674. 
+
+94)  Krawiec  L,  Chester  HA,  Bocanera  LV,  et  al.    “Thyroid  auto-
+regulation:    Evidence  for  an  action  of  iodoarachidonates  and 
+iodide  at  the  cell  membrane  level.”    Horm  Metab  Res,  1991; 
+23:321-325. 
+
+95)  Pisarev MA, Bocanera LV, Chestor HA, et al.  “Effect of iodo-
+arachidonates on thyroid FRTL-5 cells growth.”  Horm Metabol 
+Res, 1992; 24:558-561. 
+
+96)  Rabinovitz  JL,  Zanger  M,  and  Podoliski  V.    “Identification  by 
+nuclear  magnetic  resonance  of  iodinated  lipids  in  the  dog  thy-
+roid.”  Biochem and Biophys Res Com, 1976; 68:1161-1168. 
+97)  Dugrillon  A,  Uedelhoven  WM,  Pisarev  MA,  et  al.  
+“Identification  of  6-iodolactone  in  iodide-treated  human  goiter 
+and its inhibitory effect on proliferation of human thyroid folli-
+cles.”  Horm Metab Res, 1994; 26:465-469. 
+
+98)  Abraham  GE.    “The  calcium  controversy.”    J  of  Appl  Nutr, 
+
+1982; 34:69-73. 
+
+99)  Abraham  GE.    “Nutritional  factors  in  the  etiology  of  the  pre-
+menstrual tension wyndromes.”  J Rep Med, 1983; 28:446-464. 
+100) Abraham GE and Rumley RE.  “The role of nutrition in manag-
+
+ing  the  premenstrual  tension  syndromes.”    J  Rep  Med,  1987; 
+32:405-422. 
+
+101) Abraham  GE  and Grewal H.  “A total dietary program  empha-
+sizing  magnesium  instead  of  calcium:    Effect  on  the  mineral 
+density  of  calcaneous  bone  in  postmenopausal  women  on  hor-
+monal therapy.”  J Rep Med, 1990; 35:503-507. 
+
+102) Abraham  GE.    “The  importance  of  magnesium  in  the  manage-
+ment  of  primary  postmenopausal  osteoporosis.”    J  Nut  Med, 
+1991; 2:165-178. 
+
+103) Abraham  GE  and  Flechas  JD.    “Management  of  fibromyalgia:  
+Rationale  for  the  use  of  magnesium  and  malic  acid.”    J  Nutr 
+Med, 1992; 3:49-59. 
+
+104) Wartofsky  L.    “Has  the  use  of  antithyroid  drugs  for  Graves’ 
+
+disease become obsolete?”  Thyroid, 1993; 3:335-344. 
+
+105) Williams KV, Nayak S, Becker D, et al.  “Fifty years of experi-
+ence  with  propylthiouracil-associated hepatotoxicity:    What have 
+we learned?”  J Clin Endocr & Metab, 1997; 82:1727-1733. 
+
+106) Schultz J and Kaminker K.  “Myeloperoxidase of the leucocyte 
+of  normal  human  blood.”    Arch  Biochem  &  Biophys,  1962; 
+96:465-467. 
+
+107) Morrison  M  and  Schonbaum  GR.    “Peroxidase-catalyzed  halo-
+
+genation.”  Ann Rev Biochem, 1976; 45:861-888. 
+
+108) Thomas  JA  and  Hager  LP.    “Molecular  iodine  as  an  obligate 
+intermediate in the iodination of tyrosine by chloroperoxidase.”  
+Biochem & Biophyscial Research Comm, 1969; 35:444-450. 
+109) Baron  DN  and  Ahmed  SA.    “Intracellular  concentrations  of 
+water and of the principal electrolytes determined by analysis of 
+isolated human leukocytes.”  Clin Sci, 1969; 37:205-219. 
+
+110) Stole V.   “Stimulation of  iodoproteins  and  thyroxine  formation 
+in  human  leukocytes  by  phagocytosis.”    Biochem  Biophys  Res 
+Commun, 1971; 45:159-168. 
+
+111) Klebanoff SJ and Green WL.  “Degradation of thyroid hormones 
+by  phagocytosing  human  leukocytes.”    J  Clin  Invest,  1973; 
+52:60-72. 
+
+112) Fisher  DA,  Oddie  TH,  and  Epperson  D.    “Effect  of  increased 
+dietary iodide on thyroid accumulation and secretion in euthyroid 
+arkansas subjects.”  J Clin Endocr, 1965; 25:1580-1590.   
+
+113)  Koutras  DA,  Alexander  WD,  Harden  RM,  et  al.    “Effect  of 
+small  iodine  supplements  on  thyroid  function  in  normal  indi-
+viduals.”  J Clin Endocr, 1964; 24:857-862.   
+
+114) Wartofsky L and Burman KD.  “Alterations in thyroid function 
+in  patients  with  systemic  illness:    The  ‘euthyroid  sick  syn-
+drome.’”  Endocrine Reviews, 1982; 3:164-217. 
+
+115) Gregerman RI and Solomon N.  “Acceleration of thyroxine and 
+triiodothyronine  turnover  during  bacterial  pulmonary  infections 
+and  fever:  implications  for  the  functional  state  of  the  thyroid 
+during  stress  and  senescence.”    J  Clin  Endocr  &  Metab,  1967; 
+27:93. 
+
+116) Woeber KA.  “Alterations in thyroid hormone economy during 
+acute infection with Diplococcus pneumoniae in the rhesus mon-
+key.”  J Clin Invest, 1971; 50:378. 
+
+117) DeRubertis FR and Woeber KA.  “Evidence for enhanced cellu-
+lar  uptake  and  binding  of  thyroxine  in  vivo  during  acute  infec-
+tion  with  Diplococcus  pneumoniae.”    J  Clin  Invest,  1972;  
+51:788. 
+
+118) Abraham  GE,  et  al.    “Measurement of  urinary  iodide  levels  by 
+ion-selective electrode:  Improved sensitivity and specificity by 
+chromatography  on  anion-exchange  resin.”    Optimox  Research 
+Info #IOD-03. (Reprint available upon request). 
+
+119) Abraham GE, Flechas JD, and Hakala JC.  “Optimum levels of 
+iodine  for  greatest  mental  and  physical  health.”    The  Original 
+Internist, 2002; 9:5-20. 
+
+120) Abraham  GE.    “Iodine  supplementation  markedly  increases 
+urinary  excretion  of  fluoride  and  bromide.”    Townsend  Letter, 
+2003; 238:108-109. 
+
+121) Giani C, Fierabracci P, Bonacci R, et al.  “Relationship between 
+
+36 
+
+THE ORIGINAL INTERNIST     March   2004

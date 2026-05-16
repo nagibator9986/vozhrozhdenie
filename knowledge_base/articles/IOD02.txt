@@ -1,0 +1,803 @@
+      Orthoiodosupplementation: Iodine sufficiency of the whole human body
+
+                Guy. E. Abraham M.D.1, Jorge D. Flechas M.D.2 and John C. Hakala R.Ph.3
+
+
+I.    Introduction
+
+The essential trace element iodine (I) is the only one required for and in the synthesis of hormones. These I-
+containing hormones are involved in embryogenesis, differentiation, cognitive development, growth,
+metabolism, and maintenance of body temperature. I is highly concentrated in one organ, the thyroid gland,
+which becomes visibly enlarged when there is a deficiency of that element. It is the most deficient trace
+element in the world with an acknowledged third of mankind functioning below optimal level due to its
+deficiency (1). Low intake of I is the world’s leading cause of intellectual deficiency (2). Yet, as unbelievable as
+it may sound, this essential element has suffered from total neglect regarding the amount of it required by the
+human body for optimal health. In 1930, Thompson et al wrote (3): “The normal daily requirement of the body
+for iodine has never been determined.” This statement is still true today, more than 70 years later.
+
+At the Children’s Summit held in 1990, the United Nations and heads of state assembled for that occasion,
+pledged to eliminate I deficiency by the year 2000. Commenting on this meeting, John T. Dunn stated in 1993
+(4)
+    “The goal is technically feasible, but many obstacles must be overcome before it is realized.” In the list of
+obstacles, no mention was made of the greatest obstacle of them all: Our total ignorance regarding sufficiency
+of the whole human body for I. It is obvious that I deficiency has been equated with the simple goiter,
+cretinism, and I-deficiency disorders related to its role in thyroidal physiology. Supplementation was
+considered adequate if such amount prevented cretinism, simple goiter and symptoms of hypothyroidism (1,2,4).
+The assumption that the only role of I as an essential element is in its essentiality for the synthesis of T3 and T4,
+became a dogma. With the advent of sensitive assays, Thyroid Stimulating Hormones (TSH) was promoted to
+queen of tests for thyroid functions (5) and I was forgotten altogether as irrelevant to the point where most
+endocrinologists and other medical practitioners do not request a single test for urine I concentration, during
+their whole medical career.
+
+II.   Iodophobia and misinformation about I
+
+It is ubiquitous: the fear of using or recommending I (Iodophobia) and misinformation about I are found in
+books written by laypersons; in books written by physicians for laypersons; and in articles and books written by
+physicians for physicians. We will use as examples one book written by a famous endocrinologist for
+laypersons and a textbook of endocrinology written by physicians for physicians, both books recently published.
+
+First, we will quote excerpts from a book published in 1999 and written by Doctor R. Arem M.D. for
+consumers, with the title: “The thyroid solution: A revolutionary Mind-Body Program that will help you”. As
+editor of an educational periodical on thyroid disorders, which is read by 25,000 physicians nationwide, Dr.
+Arem’s views influence a large segment of practicing endocrinologists. Anyone awake will realize that eastern
+mysticism and New Age occultism have penetrated deeply, although insidiously, into the practice of medicine.
+On pages 309, 310 of his book, Dr. Arem recommends guided imagery, meditation, yoga and tai chi, without a
+single reference to validate the effectiveness and lack of adverse effects of those practices. “I encourage men
+and women to perform tai chi, yoga…”. In a section with the title “Iodine: A Double Edge Sword”, the author
+stated on page 305: “Research has clearly established that the high dietary iodine content in some areas of the
+world has resulted in a rise in the prevalence of thyroiditis and thyroid cancer.” One reference is given (7), and
+when that reference is reviewed, there is no high dietary I intake involved. Essentially, that study evaluated the
+incidence of thyroiditis and thyroid cancer in areas of Argentina with severe I deficiency, before and after
+iodization of salt was made available. Urine I was 9.3 ± 1.7 ug/gm creatinine before iodization and 110 ± 82
+ug/gm creatinine after iodization. Keep in mind that the RDA for I is 150 ug/day. The incidence of the more
+invasive form of thyroid cancer did not change, but the incidence of papillary carcinoma was: 0.78/100,000/year
+before and 0.84/100,000/year after iodization of salt. Obviously, the data available in this publication do not
+agree with Doctor Arem’s conclusion about the association between high dietary I intake and thyroid cancer. In
+fact, the available information on this subject, to be discussed later, points to chronic I deficiency as a
+predisposing factor for thyroid cancer.
+
+The iodophobic misinformation continues with anecdotal stories from Doctor Arem’s archives: A female
+patient ingested 2-3 gm of kelp daily and developed Grave’s disease which necessitated “destruction of the
+thyroid gland”. How strange! The mainland Japanese consumed a daily average of 4.6 gm of seaweed and they
+are one of the healthiest people on earth (10,11,12,22,23). Another iodophobic story follows: NASA consulted
+Doctor Arem because their ground personnel became “low grade” hypothyroid, whatever that means. Sherlock
+Arem discovered the cause. The ground personnel were drinking water with 4 gm iodine per liter. That is
+interesting because the maximum amount of iodine that can be dissolved in water at room temperature is 3 gm
+per liter. Doctor Arem saved the day at NASA: “Alarmed by my warnings about the potential
+consequences…”. What is the expert’s advice?
+“I advise not consuming more than 500 to 600 micrograms a day”. With such iodophobia and misinformation
+coming from the top, no wonder there is a trend of decreasing I consumption nationwide in the USA.
+
+As we will now demonstrate, this kind of misinformation may have serious consequences. On page 232, Doctor
+Arem wrote regarding the evaluation of simple goiter: “To determine the cause of your goiter, your physician
+may order one or several of the following tests”. In that list, no mention was made of urine I levels, when in
+fact, the most common cause of simple goiter worldwide is I deficiency. However, he may have given the
+reason for not considering urine I levels in the evaluation of simple goiter, toward the end of the book on page
+305: “To function normally, the thyroid requires 150 micrograms a day… In the United States, iodine
+consumption ranges between 300 and 700 micrograms a day.” This statement has no reference and is
+inaccurate. The last comprehensive nutritional survey (2) (NHANES III 1988-1994) revealed that the median
+urine I concentration was 145 ug/L and 15% of the U.S. adult female population suffered from I deficiency
+(urine I less than 50 ug/L). That is 1 out of every 7 female patients walking in a doctor’s office, interestingly,
+the same risk ratio for breast cancer in our population, that is 1 in 8 (63). With this high prevalence of I
+deficiency, including urine I levels in the initial screening of simple goiter is justified. Without the information
+on urine I levels, the physician will most likely prescribe thyroid hormones to the I-deficient patient.
+
+Hintze et al (8) compared the response of patients with simple goiter to administration of I at
+400 ug/day and to the administration of T4 at 150 ug/day for a period of 8 months and 4 months after cessation
+of therapy. The results definitely favor I over T4. There was a similar suppression of the size of the thyroid
+gland with I, and with T4. This suppression persisted 4 months after discontinuation of I; whereas the mean
+thyroid volume in the group receiving T4, returned to pre-T4 level 4 months after stopping T4 administration.
+The authors concluded: “Our data clearly shows that iodine alone…is at least equally as effective for goiter
+reduction as levothyroxine alone and offers the further benefit of a sustained effect after cessation of therapy”.
+
+Of greater concern, however, is the possibility that I-deficient women are more prone to breast cancer and
+depriving them of I is not in their best interest. Based on an extensive review of breast cancer epidemiological
+studies, R.A. Wiseman (9) came to the following conclusions: 92-96% of breast cancer cases are sporadic; There
+is a single cause for the majority of cases; The causative agent is deficiency of a micronutrient that is depleted
+by a high fat diet; If such an agent is detected, intervention studies with supplementation should lead to a
+decline in the incidence of breast cancer. It is the opinion of several investigators that this protective
+micronutrient is the essential element I (14,16,19,20,54). Demographic surveys of Japan and Iceland revealed that
+both countries have a relatively high intake of I, and low incidences of simple endemic goiter and breast cancer,
+whereas in Mexico and Thailand, just the reverse is observed: a high incidence of both endemic goiter and
+breast cancer (10). Thomas et al (11,12) has demonstrated a significant and inverse correlation between I intake and
+the incidence of breast, endometrial and ovarian cancer in various geographical areas. Thyroid volume
+measured by ultrasonometry and expressed as ml is significantly larger in Irish women with breast cancer than
+controls with mean values of 12.9 ± 1.2 in controls and 20.4 ± 1.0 in women with breast cancer (13).
+Intervention studies in female rats by Eskin (14-16) are very suggestive of a facilitating role of I deficiency on the
+carcinogenic effect of estrogens, and a protective role of I by maintaining normality of breast tissues.
+
+The administration of thyroid hormones to I-deficient women may increase further their risk for breast cancer.
+In a group of women undergoing mammography for screening purposes (17) the incidence of breast cancer was
+twice as high in women receiving thyroid medications for hypothyroidism (most likely induced by I deficiency)
+than women not on thyroid supplement. The mean incidences were 6.2% in controls and 12.1% in women on
+thyroid hormones. The incidence of breast cancer was twice as high in women on thyroid hormones for more
+than 15 years (19.5%) compared to those on thyroid hormones for 5 years (10%).
+
+Backwinkel and Jackson (18) have presented as evidence against the association between I deficiency and breast
+cancer, the fact that in the state of Michigan, between 1924 and 1951, the prevalence of goiter decreased
+markedly from 38.6% to 1.4%, but no detectable change was observed in the prevalence of breast cancer,
+during that same interval of time. These authors are making the assumption that the amount of I required to
+control goiter is the same as that required for protection against breast cancer. Ghent et al (19) and Eskin (20) have
+estimated, based on their studies, that in both women and female rats, the amount of I required for protection
+against breast cancer and fibrocystic disease of the breast (FDB), is at least 20 to 40 times the amount required
+for control of goiter.
+
+Medical textbooks written for physicians contain the same iodophobia and misinformation about I.
+When I is incorporated into a drug, that drug gets all the credit for the good effects and I is blamed for the side
+effects. Although there are several I-containing drugs used by physicians for various medical condition (21), we
+will just cover one of these drugs, from information supplied by Roti and Vagenakis in the latest review on I
+excess (21). Amiodarone is a benzofuranic derivative containing 75 mg I per 200 mg tablet. It is widely used for
+the long term treatment of cardiac arrhythmia. It is long acting with 100 days half-life and releases 9 mg I daily
+in patients ingesting the recommended amount. In the United States, Amiodarone induces hypothyroidism in
+20% of patients ingesting it. The authors of that review blamed I for the hypothyroidism although no study has
+been performed with daily administration of 9 mg of inorganic I in a similar group of patients. It would not be
+surprising if inorganic I alone in equivalent amount resulted in the same beneficial effects without the side
+effects, amount them, destructive thyroiditis which require large doses of glucocorticoids and in some cases,
+thyroidectomy. Actually, there is a large population consuming close to 100 times the RDA almost daily, the
+Japanese living in Japan. According to the Japanese Ministry of Health, the average daily consumption of
+seaweed by mainland Japanese is 4.6 gm(22). At an average of 0.3% I in seaweed (range 0.08-0.45%) (22), that
+would compute to an average daily intake of 13.8 mg I. Overall, the Japanese living in Japan are among the
+healthiest people in the world, based on cancer statistics (23). They have one of the lowest incidence of I-
+deficiency goiter and hypothyroidism (10).
+
+In the same review on I excess (21), published in a textbook read by most endocrinologists, and therefore
+influencing the national trend in the management of thyroid disorders, there is a subsection with the title “Iodine
+as a Pathogen”. This is an essential trace element that is given the attribute of a Pathogen. Commenting on the
+latest nutritional survey (NHANES III), the authors stated that this trend of decreasing I intake has resulted in a
+lower percentage of the U.S. population consuming excess I, defining excess I intake as urine I levels above 500
+ug/L (0.5 mg/L): “This trend in iodine consumption has also resulted in a decline in the percentage of the
+population with excessive iodine intake (>500 ug/L) from 27.8% in the 1971 to 1974 survey to 5.3% in the
+1988 to 1994 survey”. With this iodophobic mentality, a cut off point of 0.5 mg I/L of urine has been arbitrarily
+chosen for excess I intake. What is considered excess I by these authors represents 3% of the average daily I
+intake by mainland Japanese, a population with a very low incidence of cancer of the female reproduction
+organs (11,12). This attitude toward I may play an important role in the high incidence of cancer of the female
+reproductive organs in our population. It would be of interest to compare the prevalence of breast cancer with
+urine I levels from data available in the last two National Nutritional Surveys.
+
+Currently, the average daily intake of I by the U.S. population is 100 times less than the amount consumed by
+the mainland Japanese. In the 1960’s, I-containing dough conditioners increase the average daily I intake more
+than 4 times the RDA (24). One slice of bread contained the full RDA of
+150 ug. The risk for breast cancer in our population was then 1 in 20 (63). Over the last 2 decades, food
+processors started using bromine, a goitrogen (25) instead of I in the bread making process. The risk for breast
+cancer now is 1 in 8, and it is increasing at 1% per year (63). The rationale for replacing I with a goitrogen in a
+population already I deficient, is not clear, but definitely not logical and against common sense. In rats on a diet
+with the rat RDA for I (3 ug), adding thiocyanate, a goitrogen, at 25 mg/day caused hypothyroidism (26).
+Increasing I intake to 80 times rat RDA prevented this effect. In humans, that would be the equivalent of 12 mg
+I/day. It is likely that a large percentage of patients receiving T4 for hypothyroidism are I deficient. This I
+deficiency is worsened by the goitrogens they are exposed to. Prescribing T4 to them increases further their risk
+for breast cancer (17). What these patients really need is a supply of I large enough for I sufficiency and to
+neutralize the effect of most of these goitrogens. Based on the studies of Lakshmy et al (26) in rats, that amount
+of I would correspond to the level of I consumed by mainland Japanese.
+
+For those who trust the food processors to meet their nutritional needs, the last significant source of I is table
+salt, which contains 74 ug I per gm of NaCl. An editorial in the February 2002 issue of the Journal of Clinical
+Endocrinology and metabolism (27) exhorted the USA and Canada to decrease the amount of I in table salt by
+one half. “Most other countries use 20-40 PPM as iodine, and the United States and Canada should consider
+lowering the level of fortification to this range.” This recommended low level of I fortification between 20-40
+PPM had no significant effect on urine I levels and size of goiters in published studies from Germany and
+Hungary (28,29). Essentially, this amount of I was designed to give a false sense of I sufficiency but to really be
+ineffective. It is ironic that the title of this editorial is: “Guarding our Nation’s Thyroid Health”. With
+guardians like that, who needs enemies?
+
+Considering that low I intake is associated with intellectual deficiency, if we continue to lower the supply of I
+from our food sources, if we continue to disseminate misinformation about I and if we promote iodophobia in
+Christian America, we will end up with a nation of zombies worshiping Satan as Queen of Heaven.
+
+III. Requirement of the thyroid gland for I
+
+After reviewing the available information in published studies designed to assess the effect of various amounts
+of I on thyroid physiology, it was possible to arrive at a tentative range of intake that would result in sufficiency
+of the thyroid gland for that element.
+
+With the availability of radioactive isotopes of I and improved understanding of I metabolism, it became
+obvious that the thyroid gland concentrates this trace element more than 2 orders of magnitude, compared to
+most other organs and tissues. The percent of radioiodide uptake by the thyroid gland correlated inversely with
+the amount of I ingested (30). In areas of severe endemic goiter, it was above 80% (31). The % uptake decreases
+progressively with increased intake of I, and at RDA levels (150 ug), the % uptake was maintained between 20
+and 30% (24). In the 1960’s I added to bread increased the average daily intake 4-5 times RDA levels, with a
+concomitant decrease in % uptake below 20% (24,32). During the “Cold War” years, the threat of nuclear attack
+and radioactive fallout became a topic of national interest (33). Attempts were made to estimate the amount of I
+required to suppress maximally radioiodide uptake by the thyroid (34,37). It is of interest to note that these studies
+were not performed to assess requirement of the human body for I, but as a crisis management in case of fallout
+of radioisotopes of I during a nuclear attack or accident. However, we will use these data to assist us in
+pinpointing the optimal requirement of the human body for I.
+                                                        Table I
+
+                            Percent uptake of radioiodide by the thyroid gland and amount of
+                              iodide retained by the thyroid gland in response to increasing
+                                   intake of stable iodide (all values below are means)
+
+                                          Thyroidal      Amount of
+                              Intake     Radioiodide   iodide retained              References
+                             mg I/day      Uptake       by the thyroid
+                                          (percent)    gland (ug/day)
+
+                               0.02          84.7                                 Karmarkar et al
+                                                                          Am. J. Clin. Nut 27:96-103, 1974
+                               0.03          68.7                                         "
+                               0.76          42.4                                         "
+
+
+                               0.11          28.6           31.8                      Pittman et al
+                                                                         N. Engl. J. Med 280:1431-1434, 1969
+                               0.68          15.4           105                            "
+
+
+                                3.0          5.0             150                    Saxena et al
+                                                                             Science 138:430-431, 1962
+
+
+                               10.0          4.0            400                      Sternthal et al
+                                                                         N. Engl. J. Med 303:1083-1088, 1980
+                                15           1.9            285                            "
+                                30           1.6            480                           "
+                                50           1.2            600                           "
+                               100           0.6            600                           "
+
+
+                                14           3.5            490            Hamilton, J.G. and Soley, M.H.
+                                                                          Am. J. Physical 131:135-143, 1940
+
+
+
+
+The ranges of % radioiodide uptake by the thyroid gland from some selected publications are displayed in Table
+I. The goal of this selection was to cover a wide range of I intake, from severe goiter to intake of excess I.
+From the publications by Karmarker et al (31) 3 areas were selected, representing severe, (<25 ug I/day)
+moderate (25-50 ug/day) and mild (51-100 ug/day) I deficiency. Moving up into the RDA range, the 2 studies
+of Pittman et al, in 2 groups of normal subjects before and after I was added to bread at a level of 150 ug I/slice
+of bread (24). The mean I intake in the 2 groups were 2/3 and 4-5 times RDA levels. Going up in the scale of I
+intake, Saxena et al (34) were the first to attempt a systematic study of the effect of increasing I intake on the %
+uptake of radioiodide by the thyroid gland in order to find the minimum oral dose of I for maximum
+suppression of radioactive I uptake by the thyroid gland. These researchers used 63 euthyroid children as
+subjects and they express the amount of I ingested as mg I/m2/day. The range of I intake covered was from 0.1
+to 2.5 mg/m2/day, which would correspond to a range of 0.2 to 5 mg I in the adult. At 0.1 mg, the percent
+uptake varied from 20 to 30%. On a semilogarythmic graph, there was a linear relationship between the log of I
+intake and % thyroid uptake of radioiodide. This linearity persisted up to 1.5 mg/m2/day where the % uptake
+seems to reach a plateau at 5% uptake with oral doses of I up to 2.5 mg/m2/day. Because of the apparent
+leveled off at 5% thyroidal uptake at 1.5 mg/m2/day (equivalent to 3 mg I in adults), Saxena et al concluded that
+this percentage represented maximum suppression of radioiodide uptake by the thyroid gland. Six years later,
+Cuddihy (35) observed a 4% radioiodide uptake when 10 mg I was ingested. Hamilton and
+Soley (36) in 1940, were able to achieve a mean % uptake of 3.5% when 14 mg I was mixed with the radioactive
+tracer. In 1980, Sternthal et al (37) used amounts of I from 10 mg to 100 mg/day. At 10 mg, they confirm the
+4% uptake observed by Cuddihy, and they were able to achieve near maximum suppression (0.6% radioiodide
+uptake by the thyroid gland) with a daily I intake of 100 mg.
+
+If these data are plotted on a semilogarithm graph, with % radioiodine uptake on the y-axis and the logarithm of
+the amount of I ingested on the x-axis, 4 slopes and ranges are observed (Fig. 1). By extending the first 2 slopes
+A and B to the point where their extensions cross the x-axis at zero % uptake, we can estimate the amount of I
+required for sufficiency of these 2 “pools” of I. Slope A cross the x-axis at 0.27 mg and slope B, at 6 mg I. The
+range of intake covering slope A could be called the RDA range, or the goiter control range, since no more
+uptake of radioactive I was required at .27 mg which is the upper limit (0.3 mg) of the RDA for control of goiter
+under all physiological conditions (1).
+
+Slope A is very steep, and therefore represents a range of I intake where the I-trapping mechanism of the
+thyroid gland is very inefficient. Within the linear portion of that range, that is, with intake of I less than 100
+ug/day, extrathyroidal tissues would be able to compete effectively with the thyroid for available I. To be
+discussed latter, the mammary glands possess an I-trapping system similar to that of the thyroid and have
+certain requirements for I to maintain normality. The larger breast of women would retain more I than men, and
+there would be less I available for the I-trapping of the thyroid gland. This would result in a greater incidence
+and prevalence of thyroid dysfunction’s in women than in men, mainly in areas of marginal I intake. Indeed,
+the prevalence of goiter in endemic areas is 6 times higher in pubertal girls than pubertal boys (38). Subclinical
+and overt hypo- and hyperthyroidism are more common in women than in men (39,40). The physiological
+approach in these cases would be to treat them with I supplementation in optimal amounts, not thyroid
+hormones and anti thyroid drugs.
+
+In the July 2002 issue of Bottom Line Health magazine, there is an article by Dr. R.L. Shames, M.D. entitled
+“Thyroid Disease Could Be the Cause Of Your Symptoms”. This article is saturated with misinformation:
+“The thyroid needs iodine to function, but deficiencies of this mineral are largely a thing of the past because of
+our high consumption of iodized salt. Especially if you live near a coast, you may be getting too much iodine,
+which is harmful to the thyroid”. Misinformation #1: I deficiency is a thing of the past. Fact #1: The last
+National Nutritional Survey (NHANES III 1988-1994) revealed that 15% of the U.S. adult female population
+suffered from I deficiency, defined as urine I level below 50 ug/L (2), which is a very low level by any standard.
+Misinformation #2: “High consumption of iodized salt prevents I deficiency”. Fact #2: Iodized salt contains 74
+ug I/gm salt. The purpose of iodization of salt was to prevent goiter and cretinism, not for optimal level of I
+required by the human body. For example, to ingest the amount of I needed to control FDB, that is 5 mg I/day
+(19)
+     , you need to consume 68 gm of salt. To reach levels of I ingested by mainland Japanese, a population with a
+very low prevalence of cancer of the female reproductive organs, you need 168 gm of salt. Misinformation #3:
+You may be getting too much I if you live near a coast. Fact #3: Kung et al (Clin. Endo 53:725-731, 2000),
+after investigating I deficiency in Hong Kong, concluded: “Our experience in Hong Kong has shown that it is
+not safe to assume that iodine insufficiency does not exist in coastal regions”. Misinformation #4: Too much I
+from coastal areas is harmful to the thyroid. Fact #4: From the study just mentioned, coastal areas do not even
+supply enough I to prevent I deficiency. The article by Dr. Shames even has a subsection teaching his readers
+how to reduce I intake! Considering that 15% of his female readers are already I deficient, even by the low
+RDA standard, what a shame!
+
+Returning now to Fig. 1, slope B corresponds to I sufficiency of the thyroid gland, and represents a range where
+the efficiency of the I-trapping mechanism by the thyroid is markedly improved over slope A which is steeper,
+and therefore less efficient. Slope B starts at 0.1 mg, the upper limit for mild deficiency and extends to 6 mg,
+theoretically, the optimal I intake for sufficiency of the thyroid gland. Slope C is almost horizontal,
+representing a range of I between 3 mg and 14 mg. The thyroid gland possesses maximal efficiency of the I-
+trapping mechanism over the range of I intake in slope C. Slope D from 15 mg to 100 mg of iodide could be
+called the saturation range. In order to refine further the optimal range of I intake, Fig. 2 displays the range of I
+intake from 0.1 to 100 mg.
+                                                                                                                 Percent                                                                              ug I/24 hr
+                                                                                                                                                       30                                             600
+                                     Percent                                                       Percent
+                                    100                                                                    100
+
+
+
+
+                                                                                                                 24hr Uptake of 131 I by the Thyroid
+
+
+
+
+                                                                                                                                                                                                            Amount Retained by the Thyroid
+  24hr 131I Uptake by the Thyroid
+
+
+
+
+                                     80                                                                    80                                          20                                             400
+                                                                                                                                                                 B
+
+                                                 A
+                                     60                                                                    60                                                                                     50%
+                                                                                                                                                                                                  SAT
+
+
+
+
+                                     40                                                                    40                                          10                                             200
+
+
+                                     20                             B                                      20                                                                       C
+
+                                                                                      C                                                                                                     D
+                                                                                               D
+
+
+                                          0.01       0.1
+                                                           .27
+                                                                    1.0
+                                                                                      6
+                                                                                          10         100                                                                           6            100
+                                                                                                                                                            .1       1                 10
+                                                             Daily intake of I (mg)                                                                                   Daily I intake (mg)
+  Fig. 1 - Percent 24hr uptake of radioiodide by the thyroid gland with increasing intake of I.                       Fig. 2 - Percent 24hr uptake of radioiodide and computed uptake of I/24hr by
+                                                                                                                               the thyroid gland, following intake of increasing amount of I.
+
+
+
+
+The amount of I retained by the thyroid gland was also plotted for each intake levels. The amount retained was
+computed by multiplying the amount of I ingested by the % uptake of radioiodine by the thyroid gland. The 6
+mg point is of interest because not only it is the crossing point of slope B at zero radioiodide uptake on the x-
+axis, but it represents also the 50% saturation point of the I trapping system of the thyroid gland. A system in a
+state of dynamic equilibrium would be the most stable at midpoint between the 2 extremes, that is at 50%
+saturation. The RDA for I corresponds to 5% saturation of the I-trapping mechanism of the thyroid gland, a
+very unstable position, predisposing to both hypo- and hyperthyroidism. The intake of 14 mg was the
+maximum amount that did not trigger the autoregulatory mechanism of the thyroid gland. This amount may
+represent the upper limit of I required for sufficiency of the whole human body. At 15 mg intake, the thyroid
+gland downregulates the efficiency of the I trapping in an attempt to bring down the amount of I retained to
+50% saturation (Fig. 2). Above 15 mg intake, the efficiency of the trapping mechanism increases markedly
+with greater intake of I to reach saturation at 50 mg intake and 0.6 mg/24 hr of trapped I by the thyroid gland
+(Fig. 2).
+
+Searching the literature, we found evidence supporting the amount observed in our calculation regarding the
+saturation of the I trapping by the normal thyroid, that is 0.6 mg/day. For example, Wagner et al (41) observed in
+an euthyroid subject who received increasing amount of iodide that the maximum trapping of I by the thyroid
+was 50 ug/2 hrs. This value multiplied by 12 = 600 ug/24 hr. Fisher et al (42) observed in 20 normal subjects
+receiving different amounts of I, that the computed I accumulation/day by the thyroid gland was highest in 2
+subjects with values of 608 and 613 ug/24 hr.
+
+Regarding the optimal I intake of 6 mg/day for sufficiency of the thyroid gland, there are some very interesting
+observations reported by various investigators, with 6 mg mentioned in connection with various physiological
+parameters of thyroid function. With optimal intake of I, thyroid functions would be the most stable under
+adverse conditions, maintaining hormeostatis when pathological conditions tend to destabilize homeostatis in
+both directions, toward hypo- and hyperactivity of the thyroid gland. Therefore, the optimal intake of I for
+thyroid sufficiency should have the greatest effect in restoring normal functions under both conditions. The
+amount 6 mg/day happens to be the daily intake of I that gave the maximum reduction in basal metabolism
+toward the normal range in most cases of Grave’s disease (hyperthyroidism) (3).
+
+First, let us describe the form of I used in these studies. The Lugol solution contains 5% iodine and 10%
+potassium iodide (43). It has been available since 1829 when it was introduced by french physician Jean Lugol,
+and was used extensively in medical practice during the early part of the 20th century. The recommended intake
+for I supplementation at that time was 2 drops/day corresponding to 12.5 mg I. This recommendation was still
+mentioned in the 19th Edition of Remington’s Science and Practice of Pharmacy, published in 1995 (43). As
+quoted by Ghent et al (19), in 1928 an autopsy series reported a 3% incidence of FDB, whereas in a 1973 autopsy
+report, the incidence of FDB increased markedly to 89%. Is it possible that the very low 3% incidence of FDB
+reported in the pre-RDA early 1900’s was due to the widespread use of the Lugol solution available then from
+local apothecaries; and the recently reported 89% incidence of FDB is due to a trend of decreasing I
+consumption (2) with such decreased levels still within RDA limits for I, therefore giving a false sense of I
+sufficiency?
+
+The American physician H.S. Plummer was the first in 1923 to use Lugol solution pre- and post- operatively in
+his management of Grave’s disease (44). He postulated that the hyperthyroidism of Grave’s disease was due to I
+deficiency and that the high mortality rate associated with the post-operative recovery period could be
+controlled with I administration pre- and post-operatively. By administering 20-30 drops of Lugol pre-
+operatively and 10 drops post-operatively, he reported zero mortality rate. His procedure became widely used
+both in the USA and abroad. In 1930, a systematic study was performed by Thompson et al (3) in patients with
+Grave’s disease, using a wide range of I intake from Lugol solution, that is from 1/5 drop to 30 drops/day. In
+17 hospitalized patients and in 23 outpatients, one drop of Lugol gave the maximum reduction in basal
+metabolism toward the normal range in the majority of the patients, following a period of bed rest. One drop of
+Lugol contains a total of 6.25 mg, with 40% iodine and 60% iodide as the potassium salt.
+
+Koutras et al (45) administered increasing amounts of iodide from 0.1 to 0.8 mg to normal subjects over a period
+of 12 weeks and measured the quantity of I retained by the thyroid gland before an equilibrium with the new
+plasma inorganic I was reached. With all the doses administered, a total of 6-7 mg I was accumulated by the
+thyroid gland over a period of weeks before equilibrium was reached. Again, around 6 mg was the amount
+observed under those physiological manipulations. These authors stated: “From our evidence it appears that,
+with all the doses we used, the thyroid took up about 6 to 7 mg of iodine before an equilibrium with the new PII
+(Plasma Inorganic I) was reached. It is of some interest that this is approximately the amount of the
+intrathyroidal exchangeable iodine”. Based on the above observations and the data displayed in Fig. 2, we
+would like to propose that the optimal daily intake for I sufficiency of the thyroid gland is 6 mg, with a
+minimum of 3 mg, Saxena’s minimal daily amount (34).
+
+IV. Requirement of the extrathyroidal tissues for I
+
+In 1954, Berson and Yalow (46) postulated that following initial clearance of an administered dose of
+radioiodine, the major portion of the radioiodine in the body is distributed between 2 compartments, the
+thyroidal and extra thyroidal organic I pools which are in dynamic equilibrium. The results obtained from an
+elegant experimental design, revealed that the total exchangeable organic I pool ranged from 7 to 13 mg. The
+total organic pool of I observed in Berson and Yalow’s study may correspond to the range of I intake required
+daily for I sufficiency of the whole human body. The upper limit of 13 mg I is amazingly close to the upper
+limit of 14 mg observed in slope C (Fig. 2), the maximum intake of I that will not trigger down regulation of the
+I-trapping mechanism of the thyroid gland.
+
+The amount of I required by the human body for optimal health would not be expected to trigger
+downregulation of the I trapping system of the thyroid gland. We are proposing that the upper limit of the
+requirement of the whole human body for I would be 14 mg. If 6 mg I is the optimal amount needed for the
+thyroid gland, the extra-thyroidal tissues need the difference, that is 14 mg – 6 mg = 8 mg. Although several
+extrathyroidal organs and tissues have the capability to concentrate and organify
+I (47-49), the most compelling evidence for an extra thyroidal function of I is its effects on the mammary gland.
+Eskin et al have published the results of their extensive and excellent studies on the rat model of FDB and breast
+cancer and the importance of iodine as an essential element for breast normality and for protection against FDB
+and breast cancer (14-16,19,20). The amount of I required for breast normality in the female rats was equivalent
+based on body weight, to the amounts required clinically to improve signs and symptoms of FDB. That amount
+of I was 0.1 mg I/kg body weight/day. For a 50 kg woman, that daily amount would compute to 5 mg I.
+
+Of interest is the findings of Eskin et al (20) that the thyroid gland preferentially concentrate iodide whereas the
+mammary gland favors iodine. In the I-deficient female rats, histological abnormalities of the mammary gland
+were corrected more completely and in a larger number of rats treated with iodine than iodide given orally at
+equivalent doses. This would suggest that iodine is not reduced to iodide during intestinal absorption. Recent
+textbooks of endocrinology continue the tradition of the past, reaffirming that iodine is reduced to iodide prior
+to absorption in the intestinal tract, referring to a study by Cohn (50), published in 1932, using segments of the
+gastrointestinal tract of dogs, washed clean of all food particles prior to the application of I in the lumen.
+However, Thrall and Bull (51) observed that in both fasted and fed rats, the thyroid gland and the skin contained
+significantly more I when rats were fed with iodide than with iodine; whereas the stomach walls and stomach
+contents had a significantly greater level of I in iodine-fed rats than iodide-fed animals. Peripheral levels of
+inorganic I were different with different patterns, when rats were fed with these 2 forms of I. The authors
+concluded: “These data lead us to question the view that iodide and iodine are essentially interchangeable”.
+Based on the above findings, I supplementation should contain both iodine for the mammary tissue and iodide
+for the thyroid gland.
+
+The mammary glands can effectively compete with the thyroid gland for peripheral I. Eskin et al (52) measured
+the 24 hr. radioiodide uptake in 57 clinically normal breasts, and in 8 clinically abnormal breasts. The mean ±
+SD % uptake was 6.9 ± 0.46% in the normal breasts and 12.5 ± 1% in abnormal breasts. These means were
+statistically significant at p <0.005. Considering that these measurements are representative of a single breast
+and a woman has 2 breasts, the % uptake per patient is twice these amounts. This brings the 24 hr. radioiodide
+uptake by the mammary glands of a woman in the same range as the 24 hr. radioiodide uptake by the thyroid
+gland. The higher % uptake in the abnormal breasts suggests that the abnormal breasts were more I deficient
+than normal breasts. As previously discussed, endemic goiter is 6 times more common in pubertal girls than
+pubertal boys (38). This suggests that in areas of marginal I supply, the larger breast of pubertal girls with
+greater I requirement, would leave less I available for thyroid uptake than in pubertal boys, and the expected
+outcome would be a greater prevalence of goiter in pubertal girls than boys. The presence of simple goiter in a
+female patient is an indication of I deficiency of both the thyroid and mammary glands. Treating such patients
+with T4 instead of I supplementation is non physiological and increases their risk of breast cancer (17).
+
+Beside the greater risk for breast cancer in I-deficient women, there is convincing evidence that I deficiency
+increases also the risk of thyroid cancer. It is common knowledge that simple goiter due to
+I-deficiency, if left without I supplementation, will progress to nodular goiter with some of these nodules
+becoming cancerous (30). Since simple goiter is more common in women than in men, because of their greater
+need for I, it does not take a supranormal intellect but plain common sense to come to the conclusion that I-
+deficiency will eventually result in a greater prevalence of thyroid nodules in women and subsequently a greater
+incidence and prevalence of thyroid cancer. Therefore, it is not surprising that with the decreasing trend of I
+consumption by the U.S. population (1,2), there is a marked increase in thyroid nodules resulting in 19,500 new
+cases of thyroid cancer in 2001, with 14,900 cases in women. This editorial in the May 2002 issue of the
+Journal of Clinical Endocrinology and Metabolism (53) called this increased incidence of thyroid nodules “an
+epidemic”. It is amazing that the author of the editorial made no mention of I deficiency as a possible cause for
+this “epidemic”, although the connection is very obvious. It is a national tragedy that such preventable diseases
+continue to rise in our population as I deficiency becomes more prevalent and self-appointed experts continue to
+spread iodophobic misinformation. The guardians of our Nation’s thyroid should be more concerned about
+supplying the optimal requirement of the human body for I to the U.S. population; and less zealous in their
+crusade to eliminate I from our food supply.
+
+V.   Requirement of the human body for I
+So far, the optimal daily requirement for I has been estimated at 6 mg of iodide for the thyroid gland and 5 mg
+of iodine for the mammary glands. The adrenal glands may also require adequate levels of I for normal
+function. A recent study of female rats exposed to noise stress revealed a decreased adaptability to stress when
+these rats were placed on an I-deficient diet. There was an attenuation of the pituitary adrenal axis to stress that
+persisted after functional recovery of the pituitary thyroid axis. Therefore, this effect of I on the adrenal
+response to stress is totally independent of thyroid hormones.
+
+Certain roles of I in wellbeing and protection against infections, degenerative diseases and cancer may not
+involve its action on specific organs and tissues. Instead, such properties of I, affecting every cell in the human
+body, may depend on its concentration in biological fluids. Derry (54) has reviewed some beneficial properties
+of I: the antimicrobial effect of I in organs capable of concentrating it to reach effective I levels; the apoptotic
+property of I in the body’s surveillance mechanism against abnormal cells; the ability of I to trigger
+differentiation, moving the cell cycle away from the undifferentiated characteristic of breast cancer, for that
+matter of all cancer. Besides, as a halogen, and because of its large size, I has the ability to markedly enhance
+the excited singlet to triplet radiationless transition (55). Reactive oxygen species causing damage to DNA and
+other macromolecules, are usually excited singlet with a high energy content released rapidly, and characterized
+by fluorescence, whereas the corresponding triplet state contains lower energy levels which are released slowly,
+expressed as phosphorescence. Such an effect of I would depend on its concentration in biological fluids.
+Using a rudimentary phosphoroscope, Szent-Gyorgy was able, 50 years ago, to demonstrate this effect of I on
+the singlet → triplet radiationless transition, at a concentration of 10-5 M (56). It is likely that this effect would
+persist at 10-6 M, which would correspond to a serum I level of 12.7 ug/100 ml. Such a level is easily achieved
+with I intake in the range consumed by mainland Japanese. This effect of I would markedly decrease the
+oxydative burden of the body, having a beneficial impact upon degenerative diseases and cancer. Protection of
+the thyroid from radioiodine fall out in cases of nuclear attack and accident would benefit from the
+recommended daily intake of I, discussed above. The equivalent of 2 drops of Lugol solution (12.5 mg I) daily
+would maintain a low radioiodine uptake by the thyroid gland (3-4%). Since the greatest damage to the thyroid
+occurs during the first few hours of radiation
+exposure (57), this recommended level of I would serve as a prevention in cases of unexpected exposure.
+
+Collective experience may have played a role in the choice of 2 drops of Lugol daily for I supplementation (43).
+Amazingly, 0.1 ml (2 drops) of Lugol contains 5 mg iodine and 7.5 mg iodide as the potassium salt, the near
+perfect total amount of I and ratio of iodine over iodide, for sufficiency of the thyroid and mammary glands.
+This amount of Lugol solution would then represents an ideal form of orthoiodosupplementation. Based on the
+above criteria for I sufficiency of the whole human body, the mainland Japanese represent the only population
+in the world consuming adequate amounts of I. Thyroid function is higher in normal Japanese woman, a low
+risk population for breast cancer than in normal British women who are at high risk for breast cancer (11). When
+5 different ethnic groups living in Hawaii were compared with British women and mainland Japanese women,
+the latter showed the highest serum levels of Free T4. There was a significant and inverse correlation (p<0.001)
+between serum Free T4 and the incidence of breast cancer in these 7 groups with mainland Japanese women
+showing the lowest incidence (11,12). Since T4 therapy in I-deficient women increased their risk for breast cancer
+(17)
+     , the significant correlation between serum Free T4 and breast cancer is not necessarily indicative of a
+protective role of T4. Instead, this correlation may point to the higher I levels in Japanese women, expressed as
+increased thyroid function. Prasad et al (58) reported significantly lower serum T4 and higher serum T3 levels in
+40 women with histologically confirmed breast cancer, compared to 10 normal controls. Although these
+authors did not measure urine I levels in those cases, the pattern they reported in women with breast cancer is
+typical of I deficiency: increased T3 levels and lower T4 levels to compensate for the limited availability of I (30).
+
+VI.    Physician-supervised orthoiodosupplementation
+
+Based on the information previously discussed, the optimal daily I intake for I sufficiency of the whole human
+body would be equivalent to 2 drops of Lugol solution. In the USA, the initial implementation of I
+supplementation at this level would require medical supervision. Administration of I in liquid solution is not
+very accurate, may stain clothing, has an unpleasant taste and causes gastric irritation. We decided to use a
+precisely quantified tablet form containing 5 mg iodine and 7.5 mg iodide as the potassium salt. To prevent
+gastric irritation, the iodine/iodide preparation was absorbed unto a colloidal silica excipient; and to eliminate
+the unpleasant taste of iodine, the tablets were coated with a thin film of pharmaceutical glaze.
+
+Our preliminary experience with I supplementation at 12.5 mg/day, confirmed the findings of Ghent et al (19),
+regarding subjective and objective improvements of FDB, following I supplementation. Our findings in 3
+patients with Polycystic Ovarian Syndrome (PCOS) confirmed the positive response observed following
+supplementation with 10 to 20 mg of potassium iodide by Russian investigators 40 years ago (62). Prior to I
+supplementation, those PCOS patients were olygomenorrheic, menstruating one or twice a year. Following I
+supplementation for 3 months, they resumed normal monthly cycles. In 2 patients with subclinical
+hypothyroidism and elevated TSH levels, I supplementation suppressed TSH levels markedly in both cases. In
+one patient, serum TSH level was 7.8 mIU/L pre-supplementation and 1.7 mIU/L 3 months post I
+supplementation. In the other patient, TSH level was 21.5 mIU/L before and 11.9 mIU/L after 3 months of I
+supplementation.
+
+Surprisingly, this program improved the symptoms of tremor and restless legs, two symptoms usually present in
+neurologic cretinism (59). There was some evidence of improved T3 receptor responsiveness, reflected by a
+decreased need for T3 in some patients previously receiving this hormone. One female patient with normal size
+and echopattern of the thyroid gland required 45 ug T3 to maintain clinical euthyroidism. Following I
+supplementation at 12.5 mg/day, she was able to titrate her daily dose of T3 down to 7.5 ug during the first
+month of I supplementation. Previously, missing one or 2 days of T3 elicited symptoms. Currently, she noticed
+that she can remain asymptomatic without T3 for one week. TSH levels in this patient were below detection
+limits prior to I supplementation. Over the last 12 months on I supplementation, TSH levels are maintained
+between 1 and 2.5 mIU/L. The calculated T3 secretion rate by the normal thyroid gland varies between 4.6 and
+8.3 ug/day. (Chopra, I.J., and Sabatino, L., In Werner and Ingbar’s The Thyroid – Braverman LE and Utiger R-
+D. Editors Lippincott, p123, 2000). Therefore, with adequate supply of endogenous or exogenous T4, the daily
+need for exogenous T3 should not exceed 8.3 ug to maintain clinical euthyroidism. Is it possible that the large
+number of patients currently on supraphysiologic levels of T3 to maintain clinical euthyroidism are in reality I
+deficient by our definition of I sufficiency of the whole human body? Could it be that all they need is
+orthoiodosupplementation?
+
+Eskin and Ghent have observed a modulating role of I at levels of 0.1 mg/kg body weight/day in the response of
+mammary tissue to estrogens (14-16,19). We have some evidence of improved T3 receptor function in female
+patients receiving 12.5 mg I/day. T3 and steroid hormones share the same superfamily of receptors for
+hydrophobic small molecules (60). Clur (61) has postulated that iodination of thyrosine residues in the
+hydrophobic portion of these receptors normalized their response to the corresponding hormones. Optimal
+intake of I in amounts 2 orders of magnitude greater than I levels needed for goiter control, may be required for
+iodination of these receptors. Our observation has important clinical implications. If optimal intake of I
+reduces the need for exogenous T3, one would expect the same effect of I supplementation on endogenous T3. I
+intake below optimal levels would result in clinical hypothyroidism in the presence of normal levels of thyroid
+hormones because of decreased T3 receptor function. If this common condition is due to Iodine deficiency, the
+proper treatment would then be orthoiodosupplementation.
+
+VII. Epilogue
+
+Such high requirements for I in an environment depleted of this element, do not have a logical explanation.
+Unless sometimes in the distant past, the top soil of planet earth contains significant levels of I and meeting
+these high requirements for I sufficiency could then be achieved with any diet. The theory of evolution does not
+offer an intellectually satisfying answer to this paradox. However, the Biblical account of the origin of the
+world through creation 6000 years ago followed by the fall of man and the flood fits very well the current
+situation. According to the biblical narrative, the Creator declared planet earth and everything in it perfect.
+Therefore, the original planet earth contained a top soil rich in I, and all elements required for perfect health of
+Adam, Eve and their descendants. A rebelled archangel was expelled from God’s Habitation for attempting a
+hostile takeover (Isaiah 14:12-15). His name was Lucifer before the attempt (Isaiah 14:12) and Satan after his
+expulsion (Luke 10:18). Satan deceived Eve into believing that she could become a goddess by disobeying her
+Creator (Genesis 3:4,5). A sequence of events followed, culminating in the worldwide flood 4500 years ago.
+Following this episode, the receding waters washed away the top soil with all its elements into oceans and seas.
+The new top soil became deficient in I and most likely other essential elements, whose essentialities are still
+unknown. Mountainous areas became the most I-deficient because the receding waters were the most rapid
+over the steep slopes, eroding deeper into the soil. The post-deluvian worldwide I deficiency may be a reminder
+to mankind of the flood, their fallen state and their need for a Redeemer.
+
+
+                                                  References
+1)     Editorial: What’s Happening to Our Iodine? J. Clinical Endocrinology and Metabolism, 33:3398-3400,
+       1998.
+
+2)     Hollowell J., Staehling N., Hannon W., Flanders D., Gunter E., Maberly G., Iodine Nutrition in the
+       United States. Trends and Public Health Implications: Iodine Excretion Data from National Health and
+       Nutrition Examination Surveys I and III (1971-1974 and 1988-1994) J. Clinical Endocrinology and
+       Metabolism, 83:3401-3408, 1998.
+
+3)     Thompson, W.O., Brailey, A.G., Thompson, P.K., et al, the Range of Effective Iodine Dosage in
+       Exophthalmic Goiter. Arch. Int. Med., 45:261-281, 1930.
+
+4)     Dunn, J., Iodine Supplementation and the Prevention of Cretinism. Annals of the New York Academy of
+       Sciences, 678: 158-168, 1993.
+
+5)     Utiger, R.D., Thyrotoxicosis, Hypothyroidism, and the Painful Thyroid. In Endocrinology &
+       Metabolism, Felig, P., Frohman, L.A., Ed, McGRAW-HILL, Inc Medical Publishing Division, 2001,
+       p275.
+
+6)     Arem, R., The Thyroid Solution. Ballantine Publishing Group, N.Y., 1999.
+
+7)     Harach, R., Williams, E.D., Thyroid cancer and thyroiditis in the goitrous region of Salta, Argentina,
+       before and after iodine prophylaxis. Clin Endocrinol, 43:701-706, 1995.
+
+8)     Hintze, G., Emrich, D., Kobberling, J., Treatment of endemic goitre due to iodine deficiency with iodine,
+       levothyroxine or both: results of a multicentre trial. European Journal of Clinical Investigation, 19:527-
+       534, 1989.
+
+9)     Wiseman, R., Breast cancer hypothesis: a single cause for the majority of cases. J Epid Comm Health,
+       54:851-858, 2000.
+
+10)    Finley, J.W., Bogardus, G.M., Breast cancer and thyroid disease. Quart. Rev. Surg. Obstet. Gynec.
+       17:139-147, 1960.
+
+11)    Thomas, B.S., Bulbrook, R.D., Russell, M.J., et al, Thyroid function in early breast cancer. Enrop. J.
+       Cancer clin, Oncol, 19:1213-1219, 1983.
+12)   Thomas, B.S., Bulbrook, R.D., Goodman, M.J., Thyroid Function and the Incidence of Breast Cancer in
+      Hawaiian, British and Japanese Women. Int. J. Cancer, 38:325-329, 1986.
+
+13)   Smyth, P., Thyroid Disease and Breast Cancer, J. Endo. Int., 16:396-401, 1993.
+
+14)   Eskin B., Bartuska D., Dunn M., Jacob G., Dratman M., Mammary Gland Dysplasia in Iodine
+      Deficiency, JAMA, 200:115-119, 1967.
+
+15)   Eskin, B., Iodine Metabolism and Breast Cancer. Trans. New York, Acad. of Sciences, 32:911-947,
+      1970.
+
+16)   Eskin B., Iodine and Mammary Cancer, Adv. Exp. Med. Biol., 91:293-304, 1977.
+
+17)   Ghandrakant, C., Kapdim MD, Wolfe, J.N., Breast Cancer. Relationship to Thyroid Supplements for
+      Hypothyroidism. JAMA, 238:1124, 1976.
+
+18)   Backwinkel, K., Jackson, A.S., Some Features of Breast Cancer and Thyroid Deficiency. Cancer
+      17:1174-1176, 1964.
+
+19)   Ghent, W., Eskin, B., Low, D., Hill, L., Iodine Replacement in Fibrocystic Disease of the Breast, Can. J.
+      Surg., 36:453-460, 1993.
+
+20)   Eskin, B., Grotkowski, C.E., Connolly, C.P., et al, Different Tissue Responses for Iodine and Iodide in
+      Rat Thyroid and Mammary Glands. Biological Trace Element Research, 49:9-19, 1995.
+
+21)   Roti, E., Vagenakis, A.G., Effect of Excess Iodide: Clinical Aspects. In Werner and Ingbar’s The
+      Thyroid – Braverman LE and Utiger R-D. Ed, Lippincott, 316-329, 2000.
+
+22)   Nagataki, S., Shizume, K., Nakao, K., Thyroid Function in Chronic Excess Iodide Ingestion:
+      Comparison of Thyroidal Absolute Iodine Uptake and Degradation of Thyroxine in Euthyroid Japanese
+      Subjects, J. Clin Endo: 27:638-647, 1967.
+
+23)   Waterhouse, J., Shanmvgakatnam, K., et al, Cancer incidence in five continents. LARC Scientific
+      Publications, International Agency for Research on Cancer, Lyon, France, 1982.
+
+24)   Pittman et al, Thyroidal Radioiodine Uptake. N. Engl. J. Med., 280:1431-1434, 1969.
+
+25)   Mizukami, Y., Funaki, N., Hashimoto, T., et al, Histologic Features of Thyroid Gland in a Patient with
+      Bromide-Induced Hypothyroidism. Am. J. Clin. Pathol 89:802-805, 1988.
+
+26)   Lakshmy, P., Rao, S., Sesikeran, B., et al, Iodine Metabolism in Response to Goitrogen Induced Altered
+      Thyroid Status Under Conditions of Moderate and High Intake of Iodine. Hormone & Metabolic Res.
+      27:450-454, 1995.
+
+27)   Editorial: Guarding our Nation’s Thyroid Health. The Journal of Clinical Endocrinology & Metabolism,
+      87:486-488, 2002.
+
+28)   Gutekunst, R., Smolarch, H., Hasenpusch, U., Goitre epidemiology: thyroid volume, iodine excretion,
+      thyroglobulin and thyrotropin in Germany and Sweden. Acta Endocrinologica, 112:494-501, 1986.
+29)   Merovi, E., Molner, I., Jukab, A., et al, Prevalence of iodine deficiency and goitre during pregnancy in
+      east Hungary. European Journal of Endocrinology, 143:479-483, 2000.
+
+30)   Delange, F.M., Iodine Deficiency. In Werner and Ingbar’s The Thyroid – Braverman LE and Utiger R-
+      D. Editors Lippincott, 295-329, 2000.
+
+31)   Karmarkar, M.C., Deo, M.G., Kochupillar, N., Pathophysiology of Himalayan endemic goiter. Am. J. of
+      Clinical Nutr, 27:96-103, 1974.
+
+32)   Wartofsky, L., Ingbar, S.H., Estimation of the Rate of Release of Non-thyroixine Iodine from the Thyroid
+      Glands of Normal Subjects and Patients with Thyroitoxicosis. J. Clin. Endo, 33:488-500, 1971.
+
+33)   Becker, D.V., Zanzonico, P. Potassium Iodide for Thyroid Blockade in a Reactor Accident:
+      Administrative Policies That Govern Its Use. Thyroid, 7:193-197, 1997.
+
+34)   Saxena, K.M., Chapman, E.M., Pryles, C.V., Minimal Dosage of Iodide Required to Suppress Uptake of
+      Iodine-131 by Normal Thyroid. Science, 138:430-431, 1962.
+
+35)   Cuddihy, R.G., Thyroidal Iodine-131 Uptake, Turnover and Blocking in Adults and Adolescents. Health
+      Physics, 12:1021-1025, 1966.
+
+36)   Hamilton, J.G., Soley, M.H., Studies in iodine metabolism of the thyroid gland in Situ by the use of
+      radio-iodine in normal subjects and in patients with various types of goiter. Am. J. Physiol., 131:135-
+      143, 1940.
+
+37)   Sternthal, E., Lipworth, L., Stanley, B., et al, Suppression of Thyroid Radioiodine Uptake by Various
+      Doses of Stable Iodide. N. Engl. J. Med., 303:1083-1088, 1980.
+
+38)   Marine D., Kimball, B.S., The Prevention of Simple Goiter in Man, J. Lab Clin Med., 3:40-48, 1917.
+
+39)   Wiersinga, W.M., Subclinical hypothyroidism and hyperthyroidism. I. Prevalence and clinical
+      relevance. Netherlands J. Med., 46:197-204, 1995.
+
+40)   Vanderpump, P.J., Tunbridge, W.M., French, N. The incidence of thyroid disorders in the community: a
+      twenty-year follow-up of the Whickham Survey. Med. Endo, 43:55-66, 1990.
+
+41)   Wagner Jr., H.N., Nelp, W.B., Dowling, J.H., Use of Neutron Activation Analysis for Studying Stable
+      Iodide Uptake. Thyroid. J. Clin. Invest., 40:1984-1992, 1961.
+
+42)   Fisher, D.A., Oddie, T.H., Eppersonn, D., Effect of Increased Dietary Iodide on Thyroid Accumulation
+      and Secretion in Euthyroid Arkansas Subjects. J. Clin. Endocr., 25:1580-1590, 1965.
+
+43)   Gennaro A.R., Remington: The Science and Practice of Pharmacy, 19th Edition, 1995, Mack Publishing
+      Co, 1267.
+
+44)   Plummer, H.S., Results of Administering Iodin to Patients having Exophthalmic Goiter. J.AMA,
+      80:1955, 1923.
+
+45)   Koutras, D.A., Alexander, W.D., Harden, R. McG., et al, Effect of Small Iodine Supplements on Thyroid
+      Function in Normal Individuals. J. Clin. Endocr., 24:857-862, 1964.
+46)   Berson, S.A., Yalow, R.S., Quantitative Aspects of Iodine Metabolism. The Exchangeable Organic
+      Iodine Pool, and the Rates of Thyroidal Secretion, Peripheral Degradation and Fecal Excretion of
+      Endogenously Synthesized Organically Bound Iodine. J. Clin. Invest, 33:1533-1552, 1954.
+
+47)   Freinkel N., Ingbar S., The Metabolism of I by Surviving Slices of Rat Mammary Tissue, Endo, 58:51-56,
+      1956.
+
+48)   Schiff L., Stevens C.D., Molle W.E., Steinberg H., Kumpe C., Stewart P., Gastric (and Salivary)
+      Excretion of Radioiodine in Man (Preliminary Report), J. Nat. Can. Inst., 7:349-356, 1947.
+
+49)   Banerjee R., Bose A., Chakraborty T., De S., Datta A., Peroxidase-catalysed iodotyrosine formation in
+      dispersed cell of mouse extrathyroidal tissues,
+      J. Endocr., 106:159-165, 1985.
+
+50)   Cohn, B., Absorption of Compound Solution of Iodine from the Gastro-Intestinal Tract, Arch Intern
+      Med, 49:950-956, 1932.
+
+51)   Thrall, K., Bull, R.J., Differences in the Distribution of Iodine and Iodide in the Sprague-Dawley Rat.
+      Fundamental and Applied Toxicology, 15:75-81, 1990.
+
+52)   Eskin, B.A., J.A. Parker, J.G. Bassett, et al, Human Breast Uptake of Radioactive Iodine. OB-GYN,
+      44:398-402, 1974.
+
+53)   Editorial: Nonpalpable Thyroid Nodules – Managing an Epidemic. J. Clin. Endo & Metabolism,
+      87:1938-1940, 2002.
+
+54)   Derry, D., Breast Cancer and Iodine, Trafford Publishing, Victoria B.C., 92, 2001.
+
+55)   Kasha, M., Collisional Perturbation of Spin-Orbital Coupling and the Mechanism of Fluorescence
+      Quenching. A Visual Demonstration of the Perturbation. The Journal of Chemical Physics, 20:71-74,
+      1952.
+
+56)   Szent-Gyorgyi, A., Bioenergetics. Academic Press, NY, 1957, p113.
+
+57)   Zanzonico, P.B., Becker, D.V., Effects of time of administration and dietary iodine levels on potassium
+      iodide (KI) blockade of thyroid irradiation by 131I from radioactive fallout. Health Physics Journal,
+      78:660-668, 2000.
+
+58)   Prasad, G.C., Singh, A.K., Raj, R., Pineal-thyroid Relationship in Breast Cancer. Indian Journal of
+      Cancer, 22:108-113, 1988.
+
+59)   Delange, F.M., Endemic Cretinism. In Werner and Ingbar’s The Thyroid – Braverman LE and Utiger R-
+      D. Editors Lippincott, 743-751, 2000.
+
+60)   Evans, R.M., The steroid and thyroid hormone receptor superfamily. Science 240:889, 1988.
+
+61)   Clur, A., DI-Iodothyronine as Part of the Oestradiol and Catechol Oestrogen Receptor – The Role of
+      Iodine, Thyroid Hormones and Metatonin in the Aetiology of Breast Cancer. Med Hypothesis 27:303-
+      311, 1988.
+
+62)   Vishnyakova, V.V., Murav’yeva, N.L., On the Treatment of Dyshormonal Hyperplasia of Mammary
+
