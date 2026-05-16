@@ -41,8 +41,10 @@ env/
 ENV/
 
 # ── Runtime data (mounted as a volume in compose, regenerated at runtime) ───
-data/
-!data/.gitkeep
+# Ship data/videos/ into the image (VideoService streams them at
+# /media/videos/), but skip per-file runtime state like data/bot.db.
+data/*
+!data/videos/
 *.db
 *.sqlite
 *.sqlite3

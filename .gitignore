@@ -26,7 +26,13 @@ env/
 ENV/
 
 # ── Runtime data ─────────────────────────────────────────────────────────────
-data/
+# Ignore every direct child of data/ but allow data/videos/ as an exception.
+# Git's negate-rule won't re-include files inside an excluded directory, so
+# we must exclude data/ entry-by-entry (data/*) and then negate the one we
+# want to commit. Videos are static content the VideoService streams to
+# users — not runtime state.
+data/*
+!data/videos/
 *.db
 *.sqlite
 *.sqlite3
