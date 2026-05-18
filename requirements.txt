@@ -3,8 +3,10 @@ openai>=1.50.0
 chromadb==0.5.23
 sentence-transformers==3.3.1
 python-dotenv==1.0.1
-pydantic==2.10.4
-pydantic-settings==2.7.0
+# aiogram 3.13.1 pins pydantic<2.10; staying at 2.9.x avoids a forced
+# bump of aiogram (which sometimes changes Dispatcher / FSM behaviour).
+pydantic==2.9.2
+pydantic-settings==2.6.1
 SQLAlchemy==2.0.36
 aiosqlite==0.20.0
 # Postgres driver — uncomment for prod with >50 concurrent WhatsApp chats.

@@ -12,6 +12,10 @@ class Settings(BaseSettings):
         env_file_encoding="utf-8",
         case_sensitive=False,
         extra="ignore",
+        # MODEL_NAME is our OpenAI model selector — pydantic 2.x reserves the
+        # "model_" prefix for internals and emits a warning otherwise. Tell
+        # it our protected namespace lives elsewhere.
+        protected_namespaces=("settings_",),
     )
 
     # ── Telegram ──────────────────────────────────────────────────────────
