@@ -51,7 +51,7 @@ class Settings(BaseSettings):
 
     # ── External links — contacts ─────────────────────────────────────────
     whatsapp_url: str = Field(
-        default="https://wa.me/77072886419",
+        default="https://wa.me/77773997793",
         alias="WHATSAPP_URL",
     )
     office_address: str = Field(
